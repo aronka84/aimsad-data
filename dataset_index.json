@@ -1,0 +1,32 @@
+{
+  "aim_dataset": [
+    "technology.json",
+    "aimurun.json",
+    "aimurunulke.json",
+    "worldexport.json",
+    "worldimport.json",
+    "worldproductexport.json",
+    "worldproductimport.json"
+  ],
+  "furniture_dataset": [
+    "furnitureexport.json",
+    "furnitureimport.json"
+  ],
+  "terminology_dataset": [
+    "terminology_tr.json",
+    "terminology_en.json",
+    "terminology_de.json",
+    "terminology_es.json",
+    "terminology_fr.json",
+    "terminology_it.json",
+    "terminology_pt.json",
+    "terminology_ru.json",
+    "terminology_pl.json",
+    "terminology_cs.json",
+    "terminology_zh.json"
+  ],
+  "system_dataset": [
+    "country_master_iso.json",
+    "country_regions.json"
+  ]
+}
