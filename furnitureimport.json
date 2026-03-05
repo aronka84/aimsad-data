@@ -1,0 +1,902 @@
+[
+  {
+    "Country": "Albania",
+    "Furniture imports\nUS$ Million": "74",
+    "Furniture apparent consumption\nUS$ Million": "133",
+    "Imports/ apparent consumption\n%": "56%",
+    "Population\nMillion": "3",
+    "Per capita GNP\nUS$": "8,690",
+    "Total GNP\nUS$ Billion": "24"
+  },
+  {
+    "Country": "Algeria",
+    "Furniture imports\nUS$ Million": "259",
+    "Furniture apparent consumption\nUS$ Million": "572",
+    "Imports/ apparent consumption\n%": "45%",
+    "Population\nMillion": "47",
+    "Per capita GNP\nUS$": "5,320",
+    "Total GNP\nUS$ Billion": "249"
+  },
+  {
+    "Country": "Argentina",
+    "Furniture imports\nUS$ Million": "133",
+    "Furniture apparent consumption\nUS$ Million": "673",
+    "Imports/ apparent consumption\n%": "20%",
+    "Population\nMillion": "46",
+    "Per capita GNP\nUS$": "13,440",
+    "Total GNP\nUS$ Billion": "614"
+  },
+  {
+    "Country": "Australia",
+    "Furniture imports\nUS$ Million": "3,710",
+    "Furniture apparent consumption\nUS$ Million": "8,399",
+    "Imports/ apparent consumption\n%": "44%",
+    "Population\nMillion": "27",
+    "Per capita GNP\nUS$": "62,550",
+    "Total GNP\nUS$ Billion": "1,702"
+  },
+  {
+    "Country": "Austria",
+    "Furniture imports\nUS$ Million": "2,587",
+    "Furniture apparent consumption\nUS$ Million": "3,619",
+    "Imports/ apparent consumption\n%": "71%",
+    "Population\nMillion": "9",
+    "Per capita GNP\nUS$": "54,160",
+    "Total GNP\nUS$ Billion": "497"
+  },
+  {
+    "Country": "Azerbaijan",
+    "Furniture imports\nUS$ Million": "155",
+    "Furniture apparent consumption\nUS$ Million": "305",
+    "Imports/ apparent consumption\n%": "51%",
+    "Population\nMillion": "10",
+    "Per capita GNP\nUS$": "7,310",
+    "Total GNP\nUS$ Billion": "75"
+  },
+  {
+    "Country": "Bahrain",
+    "Furniture imports\nUS$ Million": "125",
+    "Furniture apparent consumption\nUS$ Million": "209",
+    "Imports/ apparent consumption\n%": "60%",
+    "Population\nMillion": "2",
+    "Per capita GNP\nUS$": "28,810",
+    "Total GNP\nUS$ Billion": "46"
+  },
+  {
+    "Country": "Bangladesh",
+    "Furniture imports\nUS$ Million": "64",
+    "Furniture apparent consumption\nUS$ Million": "1,171",
+    "Imports/ apparent consumption\n%": "5%",
+    "Population\nMillion": "174",
+    "Per capita GNP\nUS$": "2,820",
+    "Total GNP\nUS$ Billion": "490"
+  },
+  {
+    "Country": "Belarus",
+    "Furniture imports\nUS$ Million": "n.a.",
+    "Furniture apparent consumption\nUS$ Million": "n.a.",
+    "Imports/ apparent consumption\n%": "n.a.",
+    "Population\nMillion": "9",
+    "Per capita GNP\nUS$": "8,240",
+    "Total GNP\nUS$ Billion": "75"
+  },
+  {
+    "Country": "Belgium",
+    "Furniture imports\nUS$ Million": "3,327",
+    "Furniture apparent consumption\nUS$ Million": "3,716",
+    "Imports/ apparent consumption\n%": "90%",
+    "Population\nMillion": "12",
+    "Per capita GNP\nUS$": "54,840",
+    "Total GNP\nUS$ Billion": "651"
+  },
+  {
+    "Country": "Bolivia",
+    "Furniture imports\nUS$ Million": "26",
+    "Furniture apparent consumption\nUS$ Million": "395",
+    "Imports/ apparent consumption\n%": "6%",
+    "Population\nMillion": "12",
+    "Per capita GNP\nUS$": "3,690",
+    "Total GNP\nUS$ Billion": "46"
+  },
+  {
+    "Country": "Bosnia Herzegovina",
+    "Furniture imports\nUS$ Million": "167",
+    "Furniture apparent consumption\nUS$ Million": "245",
+    "Imports/ apparent consumption\n%": "68%",
+    "Population\nMillion": "3",
+    "Per capita GNP\nUS$": "8,630",
+    "Total GNP\nUS$ Billion": "27"
+  },
+  {
+    "Country": "Brazil",
+    "Furniture imports\nUS$ Million": "738",
+    "Furniture apparent consumption\nUS$ Million": "7,732",
+    "Imports/ apparent consumption\n%": "10%",
+    "Population\nMillion": "212",
+    "Per capita GNP\nUS$": "9,950",
+    "Total GNP\nUS$ Billion": "2,109"
+  },
+  {
+    "Country": "Bulgaria",
+    "Furniture imports\nUS$ Million": "520",
+    "Furniture apparent consumption\nUS$ Million": "557",
+    "Imports/ apparent consumption\n%": "93%",
+    "Population\nMillion": "6",
+    "Per capita GNP\nUS$": "15,320",
+    "Total GNP\nUS$ Billion": "99"
+  },
+  {
+    "Country": "Cambodia",
+    "Furniture imports\nUS$ Million": "122",
+    "Furniture apparent consumption\nUS$ Million": "130",
+    "Imports/ apparent consumption\n%": "94%",
+    "Population\nMillion": "18",
+    "Per capita GNP\nUS$": "2,520",
+    "Total GNP\nUS$ Billion": "44"
+  },
+  {
+    "Country": "Cameroon",
+    "Furniture imports\nUS$ Million": "118",
+    "Furniture apparent consumption\nUS$ Million": "200",
+    "Imports/ apparent consumption\n%": "59%",
+    "Population\nMillion": "29",
+    "Per capita GNP\nUS$": "1,680",
+    "Total GNP\nUS$ Billion": "49"
+  },
+  {
+    "Country": "Canada",
+    "Furniture imports\nUS$ Million": "6,001",
+    "Furniture apparent consumption\nUS$ Million": "12,120",
+    "Imports/ apparent consumption\n%": "50%",
+    "Population\nMillion": "41",
+    "Per capita GNP\nUS$": "53,340",
+    "Total GNP\nUS$ Billion": "2,202"
+  },
+  {
+    "Country": "Chile",
+    "Furniture imports\nUS$ Million": "492",
+    "Furniture apparent consumption\nUS$ Million": "856",
+    "Imports/ apparent consumption\n%": "57%",
+    "Population\nMillion": "20",
+    "Per capita GNP\nUS$": "15,750",
+    "Total GNP\nUS$ Billion": "311"
+  },
+  {
+    "Country": "China",
+    "Furniture imports\nUS$ Million": "1,247",
+    "Furniture apparent consumption\nUS$ Million": "102,812",
+    "Imports/ apparent consumption\n%": "1%",
+    "Population\nMillion": "1,409",
+    "Per capita GNP\nUS$": "13,660",
+    "Total GNP\nUS$ Billion": "19,251"
+  },
+  {
+    "Country": "Colombia",
+    "Furniture imports\nUS$ Million": "228",
+    "Furniture apparent consumption\nUS$ Million": "603",
+    "Imports/ apparent consumption\n%": "38%",
+    "Population\nMillion": "53",
+    "Per capita GNP\nUS$": "7,040",
+    "Total GNP\nUS$ Billion": "373"
+  },
+  {
+    "Country": "Costa Rica",
+    "Furniture imports\nUS$ Million": "243",
+    "Furniture apparent consumption\nUS$ Million": "350",
+    "Imports/ apparent consumption\n%": "69%",
+    "Population\nMillion": "5",
+    "Per capita GNP\nUS$": "15,620",
+    "Total GNP\nUS$ Billion": "80"
+  },
+  {
+    "Country": "Croatia",
+    "Furniture imports\nUS$ Million": "642",
+    "Furniture apparent consumption\nUS$ Million": "698",
+    "Imports/ apparent consumption\n%": "92%",
+    "Population\nMillion": "4",
+    "Per capita GNP\nUS$": "22,080",
+    "Total GNP\nUS$ Billion": "85"
+  },
+  {
+    "Country": "Cyprus",
+    "Furniture imports\nUS$ Million": "170",
+    "Furniture apparent consumption\nUS$ Million": "213",
+    "Imports/ apparent consumption\n%": "80%",
+    "Population\nMillion": "1",
+    "Per capita GNP\nUS$": "32,980",
+    "Total GNP\nUS$ Billion": "31"
+  },
+  {
+    "Country": "Czech Republic",
+    "Furniture imports\nUS$ Million": "1,421",
+    "Furniture apparent consumption\nUS$ Million": "2,390",
+    "Imports/ apparent consumption\n%": "59%",
+    "Population\nMillion": "11",
+    "Per capita GNP\nUS$": "29,140",
+    "Total GNP\nUS$ Billion": "317"
+  },
+  {
+    "Country": "Denmark",
+    "Furniture imports\nUS$ Million": "2,146",
+    "Furniture apparent consumption\nUS$ Million": "2,532",
+    "Imports/ apparent consumption\n%": "85%",
+    "Population\nMillion": "6",
+    "Per capita GNP\nUS$": "73,790",
+    "Total GNP\nUS$ Billion": "441"
+  },
+  {
+    "Country": "Dominican Republic",
+    "Furniture imports\nUS$ Million": "291",
+    "Furniture apparent consumption\nUS$ Million": "388",
+    "Imports/ apparent consumption\n%": "75%",
+    "Population\nMillion": "11",
+    "Per capita GNP\nUS$": "10,280",
+    "Total GNP\nUS$ Billion": "117"
+  },
+  {
+    "Country": "Ecuador",
+    "Furniture imports\nUS$ Million": "93",
+    "Furniture apparent consumption\nUS$ Million": "436",
+    "Imports/ apparent consumption\n%": "21%",
+    "Population\nMillion": "18",
+    "Per capita GNP\nUS$": "6,430",
+    "Total GNP\nUS$ Billion": "117"
+  },
+  {
+    "Country": "Egypt",
+    "Furniture imports\nUS$ Million": "107",
+    "Furniture apparent consumption\nUS$ Million": "1,177",
+    "Imports/ apparent consumption\n%": "9%",
+    "Population\nMillion": "117",
+    "Per capita GNP\nUS$": "3,510",
+    "Total GNP\nUS$ Billion": "409"
+  },
+  {
+    "Country": "El Salvador",
+    "Furniture imports\nUS$ Million": "106",
+    "Furniture apparent consumption\nUS$ Million": "223",
+    "Imports/ apparent consumption\n%": "47%",
+    "Population\nMillion": "6",
+    "Per capita GNP\nUS$": "5,120",
+    "Total GNP\nUS$ Billion": "32"
+  },
+  {
+    "Country": "Estonia",
+    "Furniture imports\nUS$ Million": "188",
+    "Furniture apparent consumption\nUS$ Million": "258",
+    "Imports/ apparent consumption\n%": "73%",
+    "Population\nMillion": "1",
+    "Per capita GNP\nUS$": "28,700",
+    "Total GNP\nUS$ Billion": "39"
+  },
+  {
+    "Country": "Ethiopia",
+    "Furniture imports\nUS$ Million": "70",
+    "Furniture apparent consumption\nUS$ Million": "157",
+    "Imports/ apparent consumption\n%": "45%",
+    "Population\nMillion": "132",
+    "Per capita GNP\nUS$": "1,010",
+    "Total GNP\nUS$ Billion": "126"
+  },
+  {
+    "Country": "Finland",
+    "Furniture imports\nUS$ Million": "658",
+    "Furniture apparent consumption\nUS$ Million": "1,330",
+    "Imports/ apparent consumption\n%": "49%",
+    "Population\nMillion": "6",
+    "Per capita GNP\nUS$": "51,710",
+    "Total GNP\nUS$ Billion": "292"
+  },
+  {
+    "Country": "France",
+    "Furniture imports\nUS$ Million": "8,516",
+    "Furniture apparent consumption\nUS$ Million": "13,390",
+    "Imports/ apparent consumption\n%": "64%",
+    "Population\nMillion": "69",
+    "Per capita GNP\nUS$": "45,180",
+    "Total GNP\nUS$ Billion": "3,096"
+  },
+  {
+    "Country": "Georgia",
+    "Furniture imports\nUS$ Million": "180",
+    "Furniture apparent consumption\nUS$ Million": "285",
+    "Imports/ apparent consumption\n%": "63%",
+    "Population\nMillion": "4",
+    "Per capita GNP\nUS$": "8,200",
+    "Total GNP\nUS$ Billion": "30"
+  },
+  {
+    "Country": "Germany",
+    "Furniture imports\nUS$ Million": "16,646",
+    "Furniture apparent consumption\nUS$ Million": "23,976",
+    "Imports/ apparent consumption\n%": "69%",
+    "Population\nMillion": "84",
+    "Per capita GNP\nUS$": "54,960",
+    "Total GNP\nUS$ Billion": "4,590"
+  },
+  {
+    "Country": "Ghana",
+    "Furniture imports\nUS$ Million": "366",
+    "Furniture apparent consumption\nUS$ Million": "445",
+    "Imports/ apparent consumption\n%": "82%",
+    "Population\nMillion": "34",
+    "Per capita GNP\nUS$": "2,320",
+    "Total GNP\nUS$ Billion": "80"
+  },
+  {
+    "Country": "Greece",
+    "Furniture imports\nUS$ Million": "609",
+    "Furniture apparent consumption\nUS$ Million": "1,076",
+    "Imports/ apparent consumption\n%": "57%",
+    "Population\nMillion": "10",
+    "Per capita GNP\nUS$": "23,030",
+    "Total GNP\nUS$ Billion": "239"
+  },
+  {
+    "Country": "Guatemala",
+    "Furniture imports\nUS$ Million": "147",
+    "Furniture apparent consumption\nUS$ Million": "505",
+    "Imports/ apparent consumption\n%": "29%",
+    "Population\nMillion": "18",
+    "Per capita GNP\nUS$": "5,780",
+    "Total GNP\nUS$ Billion": "106"
+  },
+  {
+    "Country": "Hong Kong, China",
+    "Furniture imports\nUS$ Million": "627",
+    "Furniture apparent consumption\nUS$ Million": "n.a.",
+    "Imports/ apparent consumption\n%": "n.a.",
+    "Population\nMillion": "8",
+    "Per capita GNP\nUS$": "57,100",
+    "Total GNP\nUS$ Billion": "430"
+  },
+  {
+    "Country": "Hungary",
+    "Furniture imports\nUS$ Million": "1,155",
+    "Furniture apparent consumption\nUS$ Million": "1,232",
+    "Imports/ apparent consumption\n%": "94%",
+    "Population\nMillion": "10",
+    "Per capita GNP\nUS$": "20,690",
+    "Total GNP\nUS$ Billion": "198"
+  },
+  {
+    "Country": "Iceland",
+    "Furniture imports\nUS$ Million": "160",
+    "Furniture apparent consumption\nUS$ Million": "207",
+    "Imports/ apparent consumption\n%": "78%",
+    "Population\nMillion": "0",
+    "Per capita GNP\nUS$": "78,480",
+    "Total GNP\nUS$ Billion": "32"
+  },
+  {
+    "Country": "India",
+    "Furniture imports\nUS$ Million": "1,973",
+    "Furniture apparent consumption\nUS$ Million": "23,245",
+    "Imports/ apparent consumption\n%": "8%",
+    "Population\nMillion": "1,451",
+    "Per capita GNP\nUS$": "2,650",
+    "Total GNP\nUS$ Billion": "3,839"
+  },
+  {
+    "Country": "Indonesia",
+    "Furniture imports\nUS$ Million": "810",
+    "Furniture apparent consumption\nUS$ Million": "1,673",
+    "Imports/ apparent consumption\n%": "48%",
+    "Population\nMillion": "283",
+    "Per capita GNP\nUS$": "4,910",
+    "Total GNP\nUS$ Billion": "1,393"
+  },
+  {
+    "Country": "Iran",
+    "Furniture imports\nUS$ Million": "n.a.",
+    "Furniture apparent consumption\nUS$ Million": "n.a.",
+    "Imports/ apparent consumption\n%": "n.a.",
+    "Population\nMillion": "92",
+    "Per capita GNP\nUS$": "4,660",
+    "Total GNP\nUS$ Billion": "426"
+  },
+  {
+    "Country": "Iraq",
+    "Furniture imports\nUS$ Million": "1,038",
+    "Furniture apparent consumption\nUS$ Million": "1,661",
+    "Imports/ apparent consumption\n%": "62%",
+    "Population\nMillion": "46",
+    "Per capita GNP\nUS$": "6,030",
+    "Total GNP\nUS$ Billion": "278"
+  },
+  {
+    "Country": "Ireland",
+    "Furniture imports\nUS$ Million": "890",
+    "Furniture apparent consumption\nUS$ Million": "1,176",
+    "Imports/ apparent consumption\n%": "76%",
+    "Population\nMillion": "5",
+    "Per capita GNP\nUS$": "77,920",
+    "Total GNP\nUS$ Billion": "419"
+  },
+  {
+    "Country": "Israel",
+    "Furniture imports\nUS$ Million": "981",
+    "Furniture apparent consumption\nUS$ Million": "3,367",
+    "Imports/ apparent consumption\n%": "29%",
+    "Population\nMillion": "10",
+    "Per capita GNP\nUS$": "52,940",
+    "Total GNP\nUS$ Billion": "528"
+  },
+  {
+    "Country": "Italy",
+    "Furniture imports\nUS$ Million": "3,078",
+    "Furniture apparent consumption\nUS$ Million": "13,134",
+    "Imports/ apparent consumption\n%": "23%",
+    "Population\nMillion": "59",
+    "Per capita GNP\nUS$": "38,290",
+    "Total GNP\nUS$ Billion": "2,259"
+  },
+  {
+    "Country": "Japan",
+    "Furniture imports\nUS$ Million": "5,420",
+    "Furniture apparent consumption\nUS$ Million": "12,887",
+    "Imports/ apparent consumption\n%": "42%",
+    "Population\nMillion": "124",
+    "Per capita GNP\nUS$": "36,030",
+    "Total GNP\nUS$ Billion": "4,467"
+  },
+  {
+    "Country": "Jordan",
+    "Furniture imports\nUS$ Million": "109",
+    "Furniture apparent consumption\nUS$ Million": "339",
+    "Imports/ apparent consumption\n%": "32%",
+    "Population\nMillion": "12",
+    "Per capita GNP\nUS$": "4,430",
+    "Total GNP\nUS$ Billion": "51"
+  },
+  {
+    "Country": "Kazakhstan",
+    "Furniture imports\nUS$ Million": "448",
+    "Furniture apparent consumption\nUS$ Million": "695",
+    "Imports/ apparent consumption\n%": "64%",
+    "Population\nMillion": "21",
+    "Per capita GNP\nUS$": "12,150",
+    "Total GNP\nUS$ Billion": "250"
+  },
+  {
+    "Country": "Kenya",
+    "Furniture imports\nUS$ Million": "264",
+    "Furniture apparent consumption\nUS$ Million": "791",
+    "Imports/ apparent consumption\n%": "33%",
+    "Population\nMillion": "56",
+    "Per capita GNP\nUS$": "2,110",
+    "Total GNP\nUS$ Billion": "119"
+  },
+  {
+    "Country": "Kuwait",
+    "Furniture imports\nUS$ Million": "382",
+    "Furniture apparent consumption\nUS$ Million": "503",
+    "Imports/ apparent consumption\n%": "76%",
+    "Population\nMillion": "5",
+    "Per capita GNP\nUS$": "40,250",
+    "Total GNP\nUS$ Billion": "200"
+  },
+  {
+    "Country": "Latvia",
+    "Furniture imports\nUS$ Million": "171",
+    "Furniture apparent consumption\nUS$ Million": "196",
+    "Imports/ apparent consumption\n%": "88%",
+    "Population\nMillion": "2",
+    "Per capita GNP\nUS$": "21,930",
+    "Total GNP\nUS$ Billion": "41"
+  },
+  {
+    "Country": "Lebanon",
+    "Furniture imports\nUS$ Million": "73",
+    "Furniture apparent consumption\nUS$ Million": "n.a.",
+    "Imports/ apparent consumption\n%": "n.a.",
+    "Population\nMillion": "6",
+    "Per capita GNP\nUS$": "3,730",
+    "Total GNP\nUS$ Billion": "22"
+  },
+  {
+    "Country": "Lithuania",
+    "Furniture imports\nUS$ Million": "345",
+    "Furniture apparent consumption\nUS$ Million": "494",
+    "Imports/ apparent consumption\n%": "70%",
+    "Population\nMillion": "3",
+    "Per capita GNP\nUS$": "26,950",
+    "Total GNP\nUS$ Billion": "78"
+  },
+  {
+    "Country": "Malaysia",
+    "Furniture imports\nUS$ Million": "1,233",
+    "Furniture apparent consumption\nUS$ Million": "3,235",
+    "Imports/ apparent consumption\n%": "38%",
+    "Population\nMillion": "36",
+    "Per capita GNP\nUS$": "11,670",
+    "Total GNP\nUS$ Billion": "415"
+  },
+  {
+    "Country": "Malta",
+    "Furniture imports\nUS$ Million": "92",
+    "Furniture apparent consumption\nUS$ Million": "114",
+    "Imports/ apparent consumption\n%": "81%",
+    "Population\nMillion": "1",
+    "Per capita GNP\nUS$": "34,660",
+    "Total GNP\nUS$ Billion": "20"
+  },
+  {
+    "Country": "Mexico",
+    "Furniture imports\nUS$ Million": "1,992",
+    "Furniture apparent consumption\nUS$ Million": "2,451",
+    "Imports/ apparent consumption\n%": "81%",
+    "Population\nMillion": "131",
+    "Per capita GNP\nUS$": "12,800",
+    "Total GNP\nUS$ Billion": "1,674"
+  },
+  {
+    "Country": "Moldova",
+    "Furniture imports\nUS$ Million": "85",
+    "Furniture apparent consumption\nUS$ Million": "134",
+    "Imports/ apparent consumption\n%": "63%",
+    "Population\nMillion": "2",
+    "Per capita GNP\nUS$": "6,940",
+    "Total GNP\nUS$ Billion": "17"
+  },
+  {
+    "Country": "Montenegro",
+    "Furniture imports\nUS$ Million": "94",
+    "Furniture apparent consumption\nUS$ Million": "101",
+    "Imports/ apparent consumption\n%": "94%",
+    "Population\nMillion": "1",
+    "Per capita GNP\nUS$": "12,020",
+    "Total GNP\nUS$ Billion": "7"
+  },
+  {
+    "Country": "Morocco",
+    "Furniture imports\nUS$ Million": "514",
+    "Furniture apparent consumption\nUS$ Million": "785",
+    "Imports/ apparent consumption\n%": "65%",
+    "Population\nMillion": "38",
+    "Per capita GNP\nUS$": "3,760",
+    "Total GNP\nUS$ Billion": "145"
+  },
+  {
+    "Country": "Netherlands",
+    "Furniture imports\nUS$ Million": "6,898",
+    "Furniture apparent consumption\nUS$ Million": "7,550",
+    "Imports/ apparent consumption\n%": "91%",
+    "Population\nMillion": "18",
+    "Per capita GNP\nUS$": "62,840",
+    "Total GNP\nUS$ Billion": "1,131"
+  },
+  {
+    "Country": "New Zealand",
+    "Furniture imports\nUS$ Million": "493",
+    "Furniture apparent consumption\nUS$ Million": "1,331",
+    "Imports/ apparent consumption\n%": "37%",
+    "Population\nMillion": "5",
+    "Per capita GNP\nUS$": "46,280",
+    "Total GNP\nUS$ Billion": "247"
+  },
+  {
+    "Country": "Nigeria",
+    "Furniture imports\nUS$ Million": "520",
+    "Furniture apparent consumption\nUS$ Million": "1,185",
+    "Imports/ apparent consumption\n%": "44%",
+    "Population\nMillion": "233",
+    "Per capita GNP\nUS$": "1,250",
+    "Total GNP\nUS$ Billion": "291"
+  },
+  {
+    "Country": "North Macedonia",
+    "Furniture imports\nUS$ Million": "102",
+    "Furniture apparent consumption\nUS$ Million": "151",
+    "Imports/ apparent consumption\n%": "67%",
+    "Population\nMillion": "2",
+    "Per capita GNP\nUS$": "8,360",
+    "Total GNP\nUS$ Billion": "15"
+  },
+  {
+    "Country": "Norway",
+    "Furniture imports\nUS$ Million": "1,743",
+    "Furniture apparent consumption\nUS$ Million": "2,278",
+    "Imports/ apparent consumption\n%": "77%",
+    "Population\nMillion": "6",
+    "Per capita GNP\nUS$": "98,280",
+    "Total GNP\nUS$ Billion": "548"
+  },
+  {
+    "Country": "Oman",
+    "Furniture imports\nUS$ Million": "177",
+    "Furniture apparent consumption\nUS$ Million": "264",
+    "Imports/ apparent consumption\n%": "67%",
+    "Population\nMillion": "5",
+    "Per capita GNP\nUS$": "19,280",
+    "Total GNP\nUS$ Billion": "102"
+  },
+  {
+    "Country": "Pakistan",
+    "Furniture imports\nUS$ Million": "130",
+    "Furniture apparent consumption\nUS$ Million": "538",
+    "Imports/ apparent consumption\n%": "24%",
+    "Population\nMillion": "251",
+    "Per capita GNP\nUS$": "1,430",
+    "Total GNP\nUS$ Billion": "360"
+  },
+  {
+    "Country": "Panama",
+    "Furniture imports\nUS$ Million": "168",
+    "Furniture apparent consumption\nUS$ Million": "241",
+    "Imports/ apparent consumption\n%": "70%",
+    "Population\nMillion": "5",
+    "Per capita GNP\nUS$": "17,960",
+    "Total GNP\nUS$ Billion": "81"
+  },
+  {
+    "Country": "Peru",
+    "Furniture imports\nUS$ Million": "253",
+    "Furniture apparent consumption\nUS$ Million": "870",
+    "Imports/ apparent consumption\n%": "29%",
+    "Population\nMillion": "34",
+    "Per capita GNP\nUS$": "7,490",
+    "Total GNP\nUS$ Billion": "256"
+  },
+  {
+    "Country": "Philippines",
+    "Furniture imports\nUS$ Million": "670",
+    "Furniture apparent consumption\nUS$ Million": "1,136",
+    "Imports/ apparent consumption\n%": "59%",
+    "Population\nMillion": "116",
+    "Per capita GNP\nUS$": "4,470",
+    "Total GNP\nUS$ Billion": "518"
+  },
+  {
+    "Country": "Poland",
+    "Furniture imports\nUS$ Million": "3,983",
+    "Furniture apparent consumption\nUS$ Million": "5,375",
+    "Imports/ apparent consumption\n%": "74%",
+    "Population\nMillion": "37",
+    "Per capita GNP\nUS$": "21,560",
+    "Total GNP\nUS$ Billion": "788"
+  },
+  {
+    "Country": "Portugal",
+    "Furniture imports\nUS$ Million": "1,311",
+    "Furniture apparent consumption\nUS$ Million": "1,625",
+    "Imports/ apparent consumption\n%": "81%",
+    "Population\nMillion": "11",
+    "Per capita GNP\nUS$": "26,620",
+    "Total GNP\nUS$ Billion": "285"
+  },
+  {
+    "Country": "Qatar",
+    "Furniture imports\nUS$ Million": "330",
+    "Furniture apparent consumption\nUS$ Million": "557",
+    "Imports/ apparent consumption\n%": "59%",
+    "Population\nMillion": "3",
+    "Per capita GNP\nUS$": "76,720",
+    "Total GNP\nUS$ Billion": "219"
+  },
+  {
+    "Country": "Romania",
+    "Furniture imports\nUS$ Million": "1,584",
+    "Furniture apparent consumption\nUS$ Million": "1,769",
+    "Imports/ apparent consumption\n%": "90%",
+    "Population\nMillion": "19",
+    "Per capita GNP\nUS$": "17,600",
+    "Total GNP\nUS$ Billion": "336"
+  },
+  {
+    "Country": "Russia",
+    "Furniture imports\nUS$ Million": "n.a.",
+    "Furniture apparent consumption\nUS$ Million": "n.a.",
+    "Imports/ apparent consumption\n%": "n.a.",
+    "Population\nMillion": "144",
+    "Per capita GNP\nUS$": "15,320",
+    "Total GNP\nUS$ Billion": "2,236"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Furniture imports\nUS$ Million": "1,788",
+    "Furniture apparent consumption\nUS$ Million": "2,400",
+    "Imports/ apparent consumption\n%": "74%",
+    "Population\nMillion": "35",
+    "Per capita GNP\nUS$": "35,570",
+    "Total GNP\nUS$ Billion": "1,256"
+  },
+  {
+    "Country": "Serbia",
+    "Furniture imports\nUS$ Million": "304",
+    "Furniture apparent consumption\nUS$ Million": "319",
+    "Imports/ apparent consumption\n%": "95%",
+    "Population\nMillion": "7",
+    "Per capita GNP\nUS$": "11,570",
+    "Total GNP\nUS$ Billion": "76"
+  },
+  {
+    "Country": "Singapore",
+    "Furniture imports\nUS$ Million": "900",
+    "Furniture apparent consumption\nUS$ Million": "1,208",
+    "Imports/ apparent consumption\n%": "75%",
+    "Population\nMillion": "6",
+    "Per capita GNP\nUS$": "74,750",
+    "Total GNP\nUS$ Billion": "451"
+  },
+  {
+    "Country": "Slovakia",
+    "Furniture imports\nUS$ Million": "634",
+    "Furniture apparent consumption\nUS$ Million": "1,330",
+    "Imports/ apparent consumption\n%": "48%",
+    "Population\nMillion": "5",
+    "Per capita GNP\nUS$": "23,900",
+    "Total GNP\nUS$ Billion": "130"
+  },
+  {
+    "Country": "Slovenia",
+    "Furniture imports\nUS$ Million": "551",
+    "Furniture apparent consumption\nUS$ Million": "453",
+    "Imports/ apparent consumption\n%": "122%",
+    "Population\nMillion": "2",
+    "Per capita GNP\nUS$": "31,640",
+    "Total GNP\nUS$ Billion": "67"
+  },
+  {
+    "Country": "South Africa",
+    "Furniture imports\nUS$ Million": "489",
+    "Furniture apparent consumption\nUS$ Million": "1,413",
+    "Imports/ apparent consumption\n%": "35%",
+    "Population\nMillion": "64",
+    "Per capita GNP\nUS$": "6,100",
+    "Total GNP\nUS$ Billion": "390"
+  },
+  {
+    "Country": "South Korea",
+    "Furniture imports\nUS$ Million": "2,615",
+    "Furniture apparent consumption\nUS$ Million": "9,728",
+    "Imports/ apparent consumption\n%": "27%",
+    "Population\nMillion": "52",
+    "Per capita GNP\nUS$": "35,490",
+    "Total GNP\nUS$ Billion": "1,835"
+  },
+  {
+    "Country": "Spain",
+    "Furniture imports\nUS$ Million": "4,043",
+    "Furniture apparent consumption\nUS$ Million": "7,781",
+    "Imports/ apparent consumption\n%": "52%",
+    "Population\nMillion": "49",
+    "Per capita GNP\nUS$": "33,410",
+    "Total GNP\nUS$ Billion": "1,631"
+  },
+  {
+    "Country": "Sweden",
+    "Furniture imports\nUS$ Million": "2,332",
+    "Furniture apparent consumption\nUS$ Million": "3,133",
+    "Imports/ apparent consumption\n%": "74%",
+    "Population\nMillion": "11",
+    "Per capita GNP\nUS$": "58,820",
+    "Total GNP\nUS$ Billion": "622"
+  },
+  {
+    "Country": "Switzerland",
+    "Furniture imports\nUS$ Million": "3,667",
+    "Furniture apparent consumption\nUS$ Million": "4,255",
+    "Imports/ apparent consumption\n%": "86%",
+    "Population\nMillion": "9",
+    "Per capita GNP\nUS$": "95,900",
+    "Total GNP\nUS$ Billion": "866"
+  },
+  {
+    "Country": "Taiwan, China",
+    "Furniture imports\nUS$ Million": "919",
+    "Furniture apparent consumption\nUS$ Million": "2,195",
+    "Imports/ apparent consumption\n%": "42%",
+    "Population\nMillion": "23",
+    "Per capita GNP\nUS$": "35,188",
+    "Total GNP\nUS$ Billion": "824"
+  },
+  {
+    "Country": "Tanzania",
+    "Furniture imports\nUS$ Million": "268",
+    "Furniture apparent consumption\nUS$ Million": "357",
+    "Imports/ apparent consumption\n%": "75%",
+    "Population\nMillion": "69",
+    "Per capita GNP\nUS$": "1,200",
+    "Total GNP\nUS$ Billion": "80"
+  },
+  {
+    "Country": "Thailand",
+    "Furniture imports\nUS$ Million": "1,121",
+    "Furniture apparent consumption\nUS$ Million": "1,819",
+    "Imports/ apparent consumption\n%": "62%",
+    "Population\nMillion": "72",
+    "Per capita GNP\nUS$": "7,120",
+    "Total GNP\nUS$ Billion": "510"
+  },
+  {
+    "Country": "Tunisia",
+    "Furniture imports\nUS$ Million": "71",
+    "Furniture apparent consumption\nUS$ Million": "314",
+    "Imports/ apparent consumption\n%": "22%",
+    "Population\nMillion": "12",
+    "Per capita GNP\nUS$": "3,900",
+    "Total GNP\nUS$ Billion": "48"
+  },
+  {
+    "Country": "Türkiye",
+    "Furniture imports\nUS$ Million": "792",
+    "Furniture apparent consumption\nUS$ Million": "5,171",
+    "Imports/ apparent consumption\n%": "15%",
+    "Population\nMillion": "86",
+    "Per capita GNP\nUS$": "13,150",
+    "Total GNP\nUS$ Billion": "1,124"
+  },
+  {
+    "Country": "Turkmenistan",
+    "Furniture imports\nUS$ Million": "39",
+    "Furniture apparent consumption\nUS$ Million": "54",
+    "Imports/ apparent consumption\n%": "73%",
+    "Population\nMillion": "7",
+    "Per capita GNP\nUS$": "8,390",
+    "Total GNP\nUS$ Billion": "63"
+  },
+  {
+    "Country": "Ukraine",
+    "Furniture imports\nUS$ Million": "205",
+    "Furniture apparent consumption\nUS$ Million": "n.a.",
+    "Imports/ apparent consumption\n%": "n.a.",
+    "Population\nMillion": "38",
+    "Per capita GNP\nUS$": "5,220",
+    "Total GNP\nUS$ Billion": "185"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Furniture imports\nUS$ Million": "2,334",
+    "Furniture apparent consumption\nUS$ Million": "2,512",
+    "Imports/ apparent consumption\n%": "93%",
+    "Population\nMillion": "11",
+    "Per capita GNP\nUS$": "49,500",
+    "Total GNP\nUS$ Billion": "538"
+  },
+  {
+    "Country": "United Kingdom",
+    "Furniture imports\nUS$ Million": "9,806",
+    "Furniture apparent consumption\nUS$ Million": "17,118",
+    "Imports/ apparent consumption\n%": "57%",
+    "Population\nMillion": "69",
+    "Per capita GNP\nUS$": "48,610",
+    "Total GNP\nUS$ Billion": "3,365"
+  },
+  {
+    "Country": "United States",
+    "Furniture imports\nUS$ Million": "40,108",
+    "Furniture apparent consumption\nUS$ Million": "95,626",
+    "Imports/ apparent consumption\n%": "42%",
+    "Population\nMillion": "340",
+    "Per capita GNP\nUS$": "83,660",
+    "Total GNP\nUS$ Billion": "28,455"
+  },
+  {
+    "Country": "Uruguay",
+    "Furniture imports\nUS$ Million": "162",
+    "Furniture apparent consumption\nUS$ Million": "280",
+    "Imports/ apparent consumption\n%": "58%",
+    "Population\nMillion": "3",
+    "Per capita GNP\nUS$": "21,580",
+    "Total GNP\nUS$ Billion": "73"
+  },
+  {
+    "Country": "Uzbekistan",
+    "Furniture imports\nUS$ Million": "211",
+    "Furniture apparent consumption\nUS$ Million": "330",
+    "Imports/ apparent consumption\n%": "64%",
+    "Population\nMillion": "36",
+    "Per capita GNP\nUS$": "3,020",
+    "Total GNP\nUS$ Billion": "110"
+  },
+  {
+    "Country": "Vietnam",
+    "Furniture imports\nUS$ Million": "1,615",
+    "Furniture apparent consumption\nUS$ Million": "2,592",
+    "Imports/ apparent consumption\n%": "62%",
+    "Population\nMillion": "101",
+    "Per capita GNP\nUS$": "4,490",
+    "Total GNP\nUS$ Billion": "454"
+  }
+]
