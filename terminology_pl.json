@@ -1,0 +1,3938 @@
+[
+  {
+    "code": "00",
+    "term": "Maszyny, wyposażenie techniczne i usługi dla leśnictwa"
+  },
+  {
+    "code": "00.01.01",
+    "term": "Uprawy gleby"
+  },
+  {
+    "code": "00.01.02",
+    "term": "Nawożenia"
+  },
+  {
+    "code": "00.01.03",
+    "term": "Pozyskiwania drzewostanów nasiennych i hodowli sadzonek"
+  },
+  {
+    "code": "00.01.04",
+    "term": "Ochrony lasu"
+  },
+  {
+    "code": "00.01.05",
+    "term": "Wykonania dróg leśnych i spławnych dróg wodnych"
+  },
+  {
+    "code": "00.01.06",
+    "term": "Pielęgnacji upraw leśnych i młodników"
+  },
+  {
+    "code": "00.01.07",
+    "term": "Czyszczeń, usuwania sęków i prześwietlania drzewostanu"
+  },
+  {
+    "code": "00.01.08",
+    "term": "Szkółek roślin i drzew"
+  },
+  {
+    "code": "00.01.09",
+    "term": "Zasiewu, przygotowania upraw i sadzenia"
+  },
+  {
+    "code": "00.01.10",
+    "term": "Miernictwa leśnego"
+  },
+  {
+    "code": "00.01.11",
+    "term": "Budownictwa leśnego, rekultywacji gleby, ochrony lasów"
+  },
+  {
+    "code": "00.01.12",
+    "term": "Ochrona drewna, zwalczanie szkodników"
+  },
+  {
+    "code": "00.02",
+    "term": "Ścinka i zrywka drewna:"
+  },
+  {
+    "code": "00.02.01",
+    "term": "Maszyny i wyposażenie do obcinania gałęzi"
+  },
+  {
+    "code": "00.02.02",
+    "term": "Maszyny i wyposażenie do korowania"
+  },
+  {
+    "code": "00.02.03",
+    "term": "Maszyny do ścinki"
+  },
+  {
+    "code": "00.02.04",
+    "term": "Ciągniki leśne, specjalne ciągniki leśne i wyposażenie"
+  },
+  {
+    "code": "00.02.05",
+    "term": "Transport ciągnikowy i linowy napowietrzny, zrywka i transport linowy"
+  },
+  {
+    "code": "00.02.06",
+    "term": "Dźwigi i inne urządzenia leśne"
+  },
+  {
+    "code": "00.02.07",
+    "term": "Pilarki łańcuchowe przenośne i wyposażenie pomocnicze"
+  },
+  {
+    "code": "00.02.08",
+    "term": "Przyczepy kołowe lub ślizgowe"
+  },
+  {
+    "code": "00.02.09",
+    "term": "Liny i łańcuchy do zrywki, popręgi z wyposażeniem"
+  },
+  {
+    "code": "00.02.10",
+    "term": "Wciągarki i urządzenia odbierające do zrywki drewna Wciągarki i kleszcze do zrywki drewna"
+  },
+  {
+    "code": "00.02.11",
+    "term": "Smary i paliwa do maszyn leśnych"
+  },
+  {
+    "code": "00.03",
+    "term": "Narzędzia i urządzenia pomocnicze w leśnictwie"
+  },
+  {
+    "code": "00.03.01",
+    "term": "Siekiery, toporki"
+  },
+  {
+    "code": "00.03.02",
+    "term": "Łańcuchy"
+  },
+  {
+    "code": "00.03.03",
+    "term": "Noże"
+  },
+  {
+    "code": "00.03.04",
+    "term": "Nożyce, sekatory i inne"
+  },
+  {
+    "code": "00.03.05",
+    "term": "Liny i linki"
+  },
+  {
+    "code": "00.03.06",
+    "term": "Kleszcze i łączniki do kłód (do spławu drewna)"
+  },
+  {
+    "code": "00.03.07",
+    "term": "Urządzenia i materiały pomocnicze do znakowania, etykietowania i numerowania w lesie"
+  },
+  {
+    "code": "00.04",
+    "term": "Pojazdy do transportu i bliskiego przemieszczania drewna"
+  },
+  {
+    "code": "00.04.01",
+    "term": "Dźwigi załadunkowe do samochodów ciężarowych i chwytaki do kłód"
+  },
+  {
+    "code": "00.04.02",
+    "term": "Przyczepy do krótkich kłód"
+  },
+  {
+    "code": "00.04.03",
+    "term": "Samochody ciężarowe do krótkich kłód"
+  },
+  {
+    "code": "00.04.04",
+    "term": "Samochody ciężarowe do kłód"
+  },
+  {
+    "code": "00.04.05",
+    "term": "Przyczepy do długich kłód"
+  },
+  {
+    "code": "00.04.06",
+    "term": "Urządzenia pomocnicze do transportu drewna, maszyny leśne i pojazdy"
+  },
+  {
+    "code": "00.05",
+    "term": "Usługi telekomunikacyjne oraz mobilne przetwarzanie danych związanych z problematyką leśną"
+  },
+  {
+    "code": "00.05.01",
+    "term": "Wyposażenie i systemy do urządzania lasu"
+  },
+  {
+    "code": "00.05.02",
+    "term": "Wyposażenie i systemy do pomiarów drewna"
+  },
+  {
+    "code": "00.05.03",
+    "term": "Zarządzanie magazynami i logistyką"
+  },
+  {
+    "code": "00.05.04",
+    "term": "Oprogramowanie na użytek leśnictwa"
+  },
+  {
+    "code": "00.05.05",
+    "term": "Nadzór i walka z pożarami lasów"
+  },
+  {
+    "code": "00.06",
+    "term": "Bezpieczeństwo pracy w leśnictwie"
+  },
+  {
+    "code": "00.06.01",
+    "term": "Odzież ochronna i odzież robocza"
+  },
+  {
+    "code": "00.06.02",
+    "term": "Urządzenia ochronne"
+  },
+  {
+    "code": "00.07",
+    "term": "Usługi w leśnictwie"
+  },
+  {
+    "code": "00.07.01",
+    "term": "Przygotowanie i technika pracy"
+  },
+  {
+    "code": "00.07.02",
+    "term": "Usługi dla prac zrębowych"
+  },
+  {
+    "code": "00.07.03",
+    "term": "Urządzanie lasów, monitorowanie lasów"
+  },
+  {
+    "code": "00.07.04",
+    "term": "Certyfikacja lasów"
+  },
+  {
+    "code": "00.07.50",
+    "term": "Niezależne usługi inżynierskie i doradcze dla gospodarstwa leśnego i przemysłu drzewnego"
+  },
+  {
+    "code": "00.07.99",
+    "term": "Usługi dla leśnictwa, pozostałe"
+  },
+  {
+    "code": "00.08",
+    "term": "Wydawnictwa specjalistyczne dla leśnictwa"
+  },
+  {
+    "code": "00.08.01",
+    "term": "Gazety techniczne dla leśnictwa Czasopisma i periodyki dla leśnictwa"
+  },
+  {
+    "code": "00.08.03",
+    "term": "Książki techniczne dla leśnictwa"
+  },
+  {
+    "code": "00.08.04",
+    "term": "Publikacje oparte na internecie dla leśnictwa"
+  },
+  {
+    "code": "00.09",
+    "term": "Instytuty badawcze i doświadczalne, instytuty naukowe (wyższe uczelnie, szkoły techniczne itp.) dla leśnictwa"
+  },
+  {
+    "code": "00.09.01",
+    "term": "Placówki szkoleniowe dla leśnictwa"
+  },
+  {
+    "code": "00.09.02",
+    "term": "Instytuty badawcze dla leśnictwa"
+  },
+  {
+    "code": "00.09.03",
+    "term": "Instytuty doświadczalne dla leśnictwa"
+  },
+  {
+    "code": "00.10",
+    "term": "Ochrona środowiska w leśnictwie"
+  },
+  {
+    "code": "00.10.01",
+    "term": "Przewoźne zbiorniki paliwa i pompy"
+  },
+  {
+    "code": "00.10.02",
+    "term": "Przechowywanie materiałów zanieczyszczających wodę (oleje itp.)"
+  },
+  {
+    "code": "00.10.03",
+    "term": "Przechowywanie materiałów niebezpiecznych."
+  },
+  {
+    "code": "01",
+    "term": "Maszyny i wyposażenie techniczne do pierwotnego (pierwiastkowego) przerobu drewna (produkcji półfabrykatów)"
+  },
+  {
+    "code": "01.01",
+    "term": "Skład drewna okrągłego (skład surowca)"
+  },
+  {
+    "code": "01.01.01",
+    "term": "Przenośne transportery dłużyc"
+  },
+  {
+    "code": "01.01.02",
+    "term": "Żurawie dla składów drewna okrągłego"
+  },
+  {
+    "code": "01.01.03",
+    "term": "Stacjonarne urządzenia transportowe dla składów drewna okrągłego"
+  },
+  {
+    "code": "01.01.04",
+    "term": "Systemy składowania dla składów drewna okrągłego"
+  },
+  {
+    "code": "01.01.05",
+    "term": "Stanowiska sortowania drewna okrągłego"
+  },
+  {
+    "code": "01.01.06",
+    "term": "Systemy zraszające do przechowywania drewna metodą na mokro"
+  },
+  {
+    "code": "01.01.07",
+    "term": "Maszyny i narzędzia do korowania drewna okrągłego"
+  },
+  {
+    "code": "01.01.08",
+    "term": "Maszyny do rotacyjnego usuwania napływów korzeniowych / do wyrównywania czół"
+  },
+  {
+    "code": "01.01.09",
+    "term": "Pilarki poprzeczne do drewna okrągłego"
+  },
+  {
+    "code": "01.01.09.01",
+    "term": "Przenośne pilarki łańcuchowe"
+  },
+  {
+    "code": "01.01.09.02",
+    "term": "Stacjonarne pilarki łańcuchowe"
+  },
+  {
+    "code": "01.01.09.03",
+    "term": "Pilarki tarczowe poprzeczne"
+  },
+  {
+    "code": "01.01.09.04",
+    "term": "Stanowisko do przycinania na długość podczas posuwu"
+  },
+  {
+    "code": "01.01.10",
+    "term": "Urządzenia do pomiaru i optymalizacji drewna okrągłego"
+  },
+  {
+    "code": "01.01.11",
+    "term": "Wykrywacze metalu i urządzenia do usuwania metalu z drewna"
+  },
+  {
+    "code": "01.01.12",
+    "term": "Narzędzia do znakowania i etykietowania kłód i dłużyc"
+  },
+  {
+    "code": "01.02",
+    "term": "Technologie tartaczne (produkcja tarcicy)"
+  },
+  {
+    "code": "01.02.01",
+    "term": "Maszyny do przecierania kłód i pryzm"
+  },
+  {
+    "code": "01.02.01.01",
+    "term": "Pilarki ramowe poziome"
+  },
+  {
+    "code": "01.02.01.02",
+    "term": "Pilarki ramowe pionowe"
+  },
+  {
+    "code": "01.02.01.03",
+    "term": "Pilarki taśmowe poziome do kłód"
+  },
+  {
+    "code": "01.02.01.04",
+    "term": "Pilarki taśmowe pionowe do kłód"
+  },
+  {
+    "code": "01.02.01.05",
+    "term": "Pilarki taśmowe rozdzielcze"
+  },
+  {
+    "code": "01.02.01.06",
+    "term": "Pilarki taśmowe wielopiłowe"
+  },
+  {
+    "code": "01.02.01.07",
+    "term": "Pilarki tarczowe jednowrzecionowe do drewna okrągłego"
+  },
+  {
+    "code": "01.02.01.08",
+    "term": "Dwuwrzecionowe pilarki tarczowe do drewna okrągłego"
+  },
+  {
+    "code": "01.02.01.09",
+    "term": "Pilarki tarczowe do drewna okrągłego z ruchomym stołem"
+  },
+  {
+    "code": "01.02.01.10",
+    "term": "Pilarki tarczowe do drewna konstrukcyjnego"
+  },
+  {
+    "code": "01.02.01.11",
+    "term": "Rębarki pryzmujące / linie profilujące"
+  },
+  {
+    "code": "01.02.01.12",
+    "term": "Kombinowane rębarko - pilarki taśmowe"
+  },
+  {
+    "code": "01.02.01.13",
+    "term": "Bezwiórowe maszyny tnące do desek i materiałów klejonych"
+  },
+  {
+    "code": "01.02.01.14",
+    "term": "Pilarki tarczowe rozdzielcze z wózkiem posuwowym"
+  },
+  {
+    "code": "01.02.01.15",
+    "term": "Pilarki tarczowe rozdzielcze"
+  },
+  {
+    "code": "01.02.01.16",
+    "term": "Jednowrzecionowe obrzynarki / tarczówki wzdłużne"
+  },
+  {
+    "code": "01.02.01.17",
+    "term": "Dwuwrzecionowe obrzynarki / tarczówki wzdłużne"
+  },
+  {
+    "code": "01.02.01.18",
+    "term": "Kombinowane pilarki tarczowe z pionowym i poziomym wrzecionem"
+  },
+  {
+    "code": "01.02.01.19",
+    "term": "Optymalizujące obrzynarki do desek"
+  },
+  {
+    "code": "01.02.01.20",
+    "term": "Pilarki poprzeczne"
+  },
+  {
+    "code": "01.02.01.21",
+    "term": "Pilarki do przycinania przelotowe"
+  },
+  {
+    "code": "01.02.01.22",
+    "term": "Pilarki poprzeczne z prowadnicą dla pakietów tarcicy"
+  },
+  {
+    "code": "01.02.02",
+    "term": "Wyposażenie do transportowania, sortowania i układania tarcicy"
+  },
+  {
+    "code": "01.02.02.01",
+    "term": "Stanowiska sortowania tarcicy"
+  },
+  {
+    "code": "01.02.02.02",
+    "term": "Przenośniki tarcicy (przenośniki rolkowe / podajniki wzdłużne, poprzeczne, itd.)"
+  },
+  {
+    "code": "01.02.02.03",
+    "term": "Stanowiska układania i pakietowania tarcicy"
+  },
+  {
+    "code": "01.02.03",
+    "term": "Pomiary i rejestracja tarcicy"
+  },
+  {
+    "code": "01.02.04",
+    "term": "Przenośne pilarki do kłód"
+  },
+  {
+    "code": "01.02.04.01",
+    "term": "Przewoźne taśmowe pilarki do kłód"
+  },
+  {
+    "code": "01.02.04.02",
+    "term": "Przewoźne pilarki tarczowe do kłód"
+  },
+  {
+    "code": "01.03",
+    "term": "Suszenie, parowanie i impregnowanie drewna litego i innych materiałów"
+  },
+  {
+    "code": "01.03.01",
+    "term": "Urządzenia do parowania drewna"
+  },
+  {
+    "code": "01.03.02",
+    "term": "Komory suszarniane"
+  },
+  {
+    "code": "01.03.02.01",
+    "term": "Suszenie konwencjonalne"
+  },
+  {
+    "code": "01.03.02.02",
+    "term": "Suszarnie próżniowe"
+  },
+  {
+    "code": "01.03.02.03",
+    "term": "Suszarnie kondensacyjne np. suszarnie z pompą ciepła"
+  },
+  {
+    "code": "01.03.02.04",
+    "term": "Suszarnie specjalne (np. suszenie prądem wysokiej częstotliwości, mikrofalowe)"
+  },
+  {
+    "code": "01.03.03",
+    "term": "Urządzenia do pomiaru wilgotności drewna"
+  },
+  {
+    "code": "01.03.03.01",
+    "term": "Wilgotnościomierze ręczne"
+  },
+  {
+    "code": "01.03.03.02",
+    "term": "Wilgotnościomierze o działaniu ciągłym"
+  },
+  {
+    "code": "01.03.04",
+    "term": "Urządzenia kontrolne komór suszarnianych"
+  },
+  {
+    "code": "01.03.05",
+    "term": "Urządzenia do impregnacji"
+  },
+  {
+    "code": "01.03.06",
+    "term": "Urządzenia do obróbki drewna ciepłem w celu zmiany jego charakterystyki fizycznej"
+  },
+  {
+    "code": "01.03.07",
+    "term": "Urządzenia do chemicznej obróbki drewna w celu zmiany jego wyglądu (np. amoniakiem, olejami itd.)"
+  },
+  {
+    "code": "01.04",
+    "term": "Produkcja oklein (fornirów)"
+  },
+  {
+    "code": "01.04.01",
+    "term": "Urządzenia do parowania / gotowania pryzm do cięcia oklein (fornirów)"
+  },
+  {
+    "code": "01.04.02",
+    "term": "Specjalistyczne pilarki do piłowania kłód do skrawania oklein (fornirów)"
+  },
+  {
+    "code": "01.04.03",
+    "term": "Strugarki do pryzm do skrawania oklein (fornirów)"
+  },
+  {
+    "code": "01.04.04",
+    "term": "Skrawarki płaskie do oklein (fornirów)"
+  },
+  {
+    "code": "01.04.05",
+    "term": "Skrawarki nożowe rotacyjne do oklein (fornirów)"
+  },
+  {
+    "code": "01.04.06",
+    "term": "Skrawarki obwodowe do obłogów (łuszczki)"
+  },
+  {
+    "code": "01.04.07",
+    "term": "Urządzenia do załadunku i centrowania kłód i pryzm"
+  },
+  {
+    "code": "01.04.08",
+    "term": "Urządzenia do mimośrodowego skrawania obwodowego"
+  },
+  {
+    "code": "01.04.09",
+    "term": "Urządzenia do zwijania, sortowania i przeładunku oklein (fornirów)"
+  },
+  {
+    "code": "01.04.10",
+    "term": "Urządzenia do transportu i przechowywania oklein (fornirów) i obłogów (łuszczki) (magazyny)"
+  },
+  {
+    "code": "01.04.11",
+    "term": "Suszarnie do oklein (fornirów)"
+  },
+  {
+    "code": "01.04.11.01",
+    "term": "Suszarnie taśmowe"
+  },
+  {
+    "code": "01.04.11.02",
+    "term": "Suszarnie rolkowe"
+  },
+  {
+    "code": "01.04.11.03",
+    "term": "Urządzenia prasowania / wygładzania oklein (fornirów)"
+  },
+  {
+    "code": "01.04.12",
+    "term": "Urządzenia do ciągłego pomiaru wilgotności w suszarkach do oklein (fornirów)"
+  },
+  {
+    "code": "01.04.13",
+    "term": "Gilotyny / przekrawarki do oklein (fornirów) i obłogów (łuszczki)"
+  },
+  {
+    "code": "01.04.13.01",
+    "term": "Przekrawarki (gilotyny) do oklein (fornirów)"
+  },
+  {
+    "code": "01.04.13.02",
+    "term": "Przekrawarki (gilotyny) do obłogów (łuszczki)"
+  },
+  {
+    "code": "01.04.14",
+    "term": "Urządzenia do pomiaru i etykietowania oklein"
+  },
+  {
+    "code": "01.04.15",
+    "term": "Maszyny do pakietowania oklein (fornirów)"
+  },
+  {
+    "code": "01.05",
+    "term": "Produkcja litych materiałów powłokowych na bazie papieru (laminaty, folie, itd.)"
+  },
+  {
+    "code": "01.05.01",
+    "term": "Linie do impregnacji i nanoszenia powłok na papier i tkaniny"
+  },
+  {
+    "code": "01.05.02",
+    "term": "Suszarnie do papierów impregnowanych / powlekanych, wykorzystujące flotację powietrzem"
+  },
+  {
+    "code": "01.05.03",
+    "term": "Mieszarki i urządzenia / systemy dozowania żywic"
+  },
+  {
+    "code": "01.05.04",
+    "term": "Cykliczne prasy do laminatów (np. HPL)"
+  },
+  {
+    "code": "01.05.05",
+    "term": "Przelotowe prasy do laminatów (np. CPL)"
+  },
+  {
+    "code": "01.05.06",
+    "term": "Maszyny do cięcia laminatów i folii"
+  },
+  {
+    "code": "01.05.06.01",
+    "term": "Przekrawarki do laminatów i folii"
+  },
+  {
+    "code": "01.05.06.02",
+    "term": "Maszyny do cięcia laminatów i folii z nożami krążkowymi"
+  },
+  {
+    "code": "01.05.07",
+    "term": "Systemy rejestracji danych na temat produkcji i kontroli jakości twardych materiałów powłokowych"
+  },
+  {
+    "code": "01.06",
+    "term": "Produkcja sklejki i klejonych materiałów warstwowych z forniru"
+  },
+  {
+    "code": "01.06.01",
+    "term": "Maszyny do łączenia obłogów (łuszczki)"
+  },
+  {
+    "code": "01.06.02",
+    "term": "Sklejarki do obłogów (łuszczki)"
+  },
+  {
+    "code": "01.06.03",
+    "term": "Linie do skośnego łączenia obłogów (łuszczki)"
+  },
+  {
+    "code": "01.06.04",
+    "term": "Maszyny klejące do środków sklejek (cięcie na długość, klejenie, prasowanie, itd.)"
+  },
+  {
+    "code": "01.06.05",
+    "term": "Maszyny do nakładania kleju na okleiny i płyty"
+  },
+  {
+    "code": "01.06.06",
+    "term": "Prasy wielopółkowe do sklejki i warstwowego drewna klejonego z fornirów"
+  },
+  {
+    "code": "01.06.07",
+    "term": "Prasy do sklejki o powierzchniach płaskich"
+  },
+  {
+    "code": "01.06.09",
+    "term": "Urządzenia do przygotowania, dozowania i transportu kleju dla zakładów produkujących sklejkę"
+  },
+  {
+    "code": "01.06.10",
+    "term": "Urządzenia transportowe i magazynowe dla zakładów produkujących sklejkę"
+  },
+  {
+    "code": "01.06.11",
+    "term": "Systemy pobierania i rejestracji danych na temat produkcji i kontroli jakości dla zakładów produkujących sklejkę"
+  },
+  {
+    "code": "01.07",
+    "term": "Produkcja płyt wiórowych, pilśniowych i OSB"
+  },
+  {
+    "code": "01.07.01",
+    "term": "Rozdrabniarka materiałów odpadowych, np. drewna odpadowego, rozbiórkowego, zużytych wyrobów z drewna itd."
+  },
+  {
+    "code": "01.07.02",
+    "term": "Rębarki (rębaki) i maszyny do rozdrabniania drewna"
+  },
+  {
+    "code": "01.07.03",
+    "term": "Skrawarki - wiórkarki"
+  },
+  {
+    "code": "01.07.03.01",
+    "term": "Skrawarki - wiórkarki do długich wyrzynków"
+  },
+  {
+    "code": "01.07.03.02",
+    "term": "Skrawarki - wiórkarki do przemysłowych odpadów drzewnych (opoły, obrzynki, itd.) i innych materiałów"
+  },
+  {
+    "code": "01.07.03.03",
+    "term": "Skrawarki - wiórkarki do zrębków i innych materiałów"
+  },
+  {
+    "code": "01.07.04",
+    "term": "Młyny młotkowe, rozdrabniarki udarowe do wiórów"
+  },
+  {
+    "code": "01.07.05",
+    "term": "Rozdrabniarki do mikrowiórów (młyny udarowe, oddzielające etc.)"
+  },
+  {
+    "code": "01.07.06",
+    "term": "Urządzenia do oczyszczania zrębków"
+  },
+  {
+    "code": "01.07.07",
+    "term": "Urządzenia do transportu i przechowywania zrębków, wiórów, masy włóknistej, itd."
+  },
+  {
+    "code": "01.07.08",
+    "term": "Rafinery"
+  },
+  {
+    "code": "01.07.09",
+    "term": "Suszarnie do wiórów i masy włóknistej"
+  },
+  {
+    "code": "01.07.10",
+    "term": "Przesiewanie / urządzenia przesiewowe"
+  },
+  {
+    "code": "01.07.11",
+    "term": "Urządzenia do przygotowywania i dozowania kleju"
+  },
+  {
+    "code": "01.07.12",
+    "term": "Urządzenia do zaklejenia i mieszania"
+  },
+  {
+    "code": "01.07.13",
+    "term": "Systemy nakładania i formowania kobierca"
+  },
+  {
+    "code": "01.07.14",
+    "term": "Wagi taśmowe do kobierca wiórów i masy włóknistej"
+  },
+  {
+    "code": "01.07.15",
+    "term": "Urządzenia zwilżające do wstęgi wiórów i masy włóknistej"
+  },
+  {
+    "code": "01.07.16",
+    "term": "Prasy"
+  },
+  {
+    "code": "01.07.16.01",
+    "term": "Prasy cykliczne do prasowania wstępnego"
+  },
+  {
+    "code": "01.07.16.02",
+    "term": "Prasy ciągłe do prasowania wstępnego"
+  },
+  {
+    "code": "01.07.16.03",
+    "term": "Prasy wielopółkowe"
+  },
+  {
+    "code": "01.07.16.04",
+    "term": "Prasy jednopółkowe"
+  },
+  {
+    "code": "01.07.16.05",
+    "term": "Prasy przelotowe"
+  },
+  {
+    "code": "01.07.16.06",
+    "term": "Kalandry"
+  },
+  {
+    "code": "01.07.17",
+    "term": "Wyrówniarki do krawędzi płyt"
+  },
+  {
+    "code": "01.07.18",
+    "term": "Pilarki tarczowe do cięcia poprzecznego w ruchu"
+  },
+  {
+    "code": "01.07.19",
+    "term": "Stacje chłodzące"
+  },
+  {
+    "code": "01.07.20",
+    "term": "Linie szlifujące"
+  },
+  {
+    "code": "01.07.21",
+    "term": "Maszyny do dzielenia płyt"
+  },
+  {
+    "code": "01.07.22",
+    "term": "Urządzenia do magazynowania, przeładunku i wydawania płyt z magazynu"
+  },
+  {
+    "code": "01.07.23",
+    "term": "Urządzenia pakujące do płyt"
+  },
+  {
+    "code": "01.07.24",
+    "term": "Systemy pobierania i rejestracji danych na temat produkcji i kontroli jakości dla zakładów produkujących płyty wiórowe, pilśniowe i OSB"
+  },
+  {
+    "code": "01.07.25",
+    "term": "Podzespoły specjalne do maszyn i instalacji produkujących płyty wiórowe, pilśniowe i OSB"
+  },
+  {
+    "code": "01.07.26",
+    "term": "Technologia rozdzielania (frakcjonowania)"
+  },
+  {
+    "code": "01.08",
+    "term": "Produkcja płyt lekkich / elementów warstwowych"
+  },
+  {
+    "code": "01.08.01",
+    "term": "Maszyny do poszerzania i suszenia wypełniaczy o strukturze plastra miodu"
+  },
+  {
+    "code": "01.08.02",
+    "term": "Maszyny do wytwarzania elementów w postaci ram"
+  },
+  {
+    "code": "01.08.03",
+    "term": "Maszyny do wytwarzania wypełnień"
+  },
+  {
+    "code": "01.08.04",
+    "term": "Prasy do płyt o małym ciężarze / produkcja elementów warstwowych"
+  },
+  {
+    "code": "01.09",
+    "term": "Wytwarzanie powierzchni kształtowych i profilowych"
+  },
+  {
+    "code": "01.09.01",
+    "term": "Prasy do elementów profilowych z wiórów, masy włóknistej i innych materiałów"
+  },
+  {
+    "code": "01.09.02",
+    "term": "Prasy do powierzchni zakrzywionych i profilowanych, sklejki lub innych laminatów"
+  },
+  {
+    "code": "01.09.03",
+    "term": "Maszyny do wytłaczania"
+  },
+  {
+    "code": "01.99",
+    "term": "Maszyny i urządzenia techniczne do obróbki pierwotnej, inne"
+  },
+  {
+    "code": "02",
+    "term": "Maszyny i urządzenia techniczne do obróbki wtórnej (laminowanie, obróbka, klejenie)"
+  },
+  {
+    "code": "02.01",
+    "term": "Maszyny do przerobu forniru"
+  },
+  {
+    "code": "02.01.01",
+    "term": "Prasy do wygładzania forniru"
+  },
+  {
+    "code": "02.01.02",
+    "term": "Przekrawarki poprzeczne do forniru"
+  },
+  {
+    "code": "02.01.03",
+    "term": "Przekrawarki pakietów forniru"
+  },
+  {
+    "code": "02.01.03.01",
+    "term": "Przekrawarki pakietów forniru jedno nożowe"
+  },
+  {
+    "code": "02.01.03.02",
+    "term": "Przekrawarki pakietów forniru dwu nożowe"
+  },
+  {
+    "code": "02.01.04",
+    "term": "Przycinarki do listew fornirowych"
+  },
+  {
+    "code": "02.01.05",
+    "term": "Pilarki tarczowe do pakietów forniru"
+  },
+  {
+    "code": "02.01.06",
+    "term": "Strugarki do krawędzi / maszyny do cięcia pakietów forniru"
+  },
+  {
+    "code": "02.01.07",
+    "term": "Maszyny do nakładania kleju na krawędzie fornirowane"
+  },
+  {
+    "code": "02.01.08",
+    "term": "Maszyny do łączenia forniru z podajnikiem wzdłużnym"
+  },
+  {
+    "code": "02.01.09",
+    "term": "Maszyny do łączenia forniru z podajnikiem poprzecznym"
+  },
+  {
+    "code": "02.01.10",
+    "term": "Maszyny do klejenia końcowego"
+  },
+  {
+    "code": "02.01.11",
+    "term": "Maszyny i urządzenia do wzdłużnego łączenia forniru (np. na złącza klinowe)"
+  },
+  {
+    "code": "02.01.12",
+    "term": "Maszyny do łączenia forniru"
+  },
+  {
+    "code": "02.01.13",
+    "term": "Urządzenia do pomiaru i optymalizacji rozkroju forniru"
+  },
+  {
+    "code": "02.01.14",
+    "term": "Podświetlane stoły do kontroli jakości forniru"
+  },
+  {
+    "code": "02.01.15",
+    "term": "Maszyny do uplastyczniania forniru (typu flexer)"
+  },
+  {
+    "code": "02.02",
+    "term": "Prasy, maszyny do laminowania i kształtowego zwijania litych materiałów powłokowych (okleinowanie, laminowanie, powlekanie cienkimi warstwami, itd.)"
+  },
+  {
+    "code": "02.02.01",
+    "term": "Maszyny do szczotkwania i czyszczenia elementów obrabianych"
+  },
+  {
+    "code": "02.02.02",
+    "term": "Nakładarki kleju do płyt / forniru"
+  },
+  {
+    "code": "02.02.03",
+    "term": "Mechaniczne systemy podawania, przechowywania i układania materiałów powłokowych"
+  },
+  {
+    "code": "02.02.04",
+    "term": "Prasy cykliczne"
+  },
+  {
+    "code": "02.02.04.01",
+    "term": "Prasy cykliczne z posuwem ręcznym"
+  },
+  {
+    "code": "02.02.04.02",
+    "term": "Prasy cykliczne zmechanizowane / prasy krótko cyklowe"
+  },
+  {
+    "code": "02.02.04.03",
+    "term": "Prasy blokowe do laminowania"
+  },
+  {
+    "code": "02.02.04.04",
+    "term": "Prasy pracujące w trybie cyklicznym do laminowania elementów formowanych"
+  },
+  {
+    "code": "02.02.04.05",
+    "term": "Prasy membranowe"
+  },
+  {
+    "code": "02.02.05",
+    "term": "Prasy przelotowe / systemy laminowania"
+  },
+  {
+    "code": "02.02.05.01",
+    "term": "Prasy dwu taśmowe"
+  },
+  {
+    "code": "02.02.05.02",
+    "term": "Linie do laminowania folią odwijaną z roli / urządzenia do ciągłego laminowania powierzchni"
+  },
+  {
+    "code": "02.02.05.03",
+    "term": "Urządzenia do laminowania ciągłego ze zintegrowanymi urządzeniami do zawijania krawędzi"
+  },
+  {
+    "code": "02.02.05.04",
+    "term": "Maszyny do owijania profili"
+  },
+  {
+    "code": "02.02.06",
+    "term": "Maszyny do nakładania powłok ochronnych"
+  },
+  {
+    "code": "02.02.07",
+    "term": "Maszyny do nakładania na gorąco dekoracyjnych folii złoconych"
+  },
+  {
+    "code": "02.02.08",
+    "term": "Agregaty do cięcia i przycinania elementów powlekanych"
+  },
+  {
+    "code": "02.02.09",
+    "term": "Urządzenia do ładowania, rozładowywania i przenoszenia elementów laminowanych"
+  },
+  {
+    "code": "02.02.10",
+    "term": "Urządzenia do przygotowywania, dozowania i transportu kleju"
+  },
+  {
+    "code": "02.02.11",
+    "term": "Maszyny do nanoszenia podłoża zabezpieczającego pod fornir i powłoki syntetyczne"
+  },
+  {
+    "code": "02.03",
+    "term": "Pilarki do wtórnego przerobu drewna litego, płyt drewnopochodnych, tworzyw sztucznych, kompozytów i innych materiałów"
+  },
+  {
+    "code": "02.03.01",
+    "term": "Pilarki tarczowe poprzeczne dolno wrzecionowe"
+  },
+  {
+    "code": "02.03.02",
+    "term": "Pilarki tarczowe poprzeczne górno wrzecionowe"
+  },
+  {
+    "code": "02.03.02.01",
+    "term": "Pilarki wahadłowe"
+  },
+  {
+    "code": "02.03.02.02",
+    "term": "Pilarki wysięgnikowe"
+  },
+  {
+    "code": "02.03.03",
+    "term": "Pilarki tarczowe poprzeczne optymalizujące"
+  },
+  {
+    "code": "02.03.04",
+    "term": "Pilarki tarczowe do uciosów, jedno- i dwu wrzecionowe"
+  },
+  {
+    "code": "02.03.05",
+    "term": "Pilarki tarczowe poprzeczne wielo piłowe"
+  },
+  {
+    "code": "02.03.06",
+    "term": "Pilarki tarczowe jedno piłowe wzdłużne z ruchomym wrzecionem"
+  },
+  {
+    "code": "02.03.07",
+    "term": "Pilarki tarczowe jedno- i wielo piłowe obróbki krawędzi i cięcia wzdłużnego"
+  },
+  {
+    "code": "02.03.08",
+    "term": "Pilarki specjalne do wąskich rzazów"
+  },
+  {
+    "code": "02.03.08.01",
+    "term": "Pilarki ramowe do wąskich rzazów"
+  },
+  {
+    "code": "02.03.08.02",
+    "term": "Pilarki tarczowe do wąskich rzazów"
+  },
+  {
+    "code": "02.03.09",
+    "term": "Pilarki tarczowe stołowe"
+  },
+  {
+    "code": "02.03.10",
+    "term": "Pilarki tarczowe formatowe"
+  },
+  {
+    "code": "02.03.11",
+    "term": "Pilarki tarczowe pionowe do płyt"
+  },
+  {
+    "code": "02.03.12",
+    "term": "Pilarki poziome z belką dociskową do płyt"
+  },
+  {
+    "code": "02.03.12.01",
+    "term": "Pilarki poziome z belką dociskową, do cięcia wzdłużnego płyt"
+  },
+  {
+    "code": "02.03.12.02",
+    "term": "Pilarki poziome z belką dociskową, do cięcia poprzecznego płyt"
+  },
+  {
+    "code": "02.03.12.03",
+    "term": "Pilarki poziome z belką dociskową, do cięcia wzdłużnego i poprzecznego płyt (system kątowy)"
+  },
+  {
+    "code": "02.03.13",
+    "term": "Podwieszane pilarki do cięcia wzdłużnego i / lub poprzecznego płyt"
+  },
+  {
+    "code": "02.03.14",
+    "term": "Pilarki taśmowe wąsko piłowe"
+  },
+  {
+    "code": "02.03.15",
+    "term": "Pilarki taśmowe kopiujące"
+  },
+  {
+    "code": "02.03.16",
+    "term": "Wyrzynarki"
+  },
+  {
+    "code": "02.03.17",
+    "term": "Pilarki do nacinania"
+  },
+  {
+    "code": "02.03.18",
+    "term": "Pilarki do robót budowlanych"
+  },
+  {
+    "code": "02.03.19",
+    "term": "Pilarki taśmowe CNC"
+  },
+  {
+    "code": "02.03.20",
+    "term": "Pilarki tarczowe dwu piłowe do cięcia równoległego i / lub poprzecznego, płyt z posuwem ręcznym"
+  },
+  {
+    "code": "02.03.21",
+    "term": "Pilarki wzdłużne optymalizujące"
+  },
+  {
+    "code": "02.04",
+    "term": "Strugarki i frezarki"
+  },
+  {
+    "code": "02.04.01",
+    "term": "Strugarki wyrówniarki"
+  },
+  {
+    "code": "02.04.02",
+    "term": "Strugarki grubościowe (grubiarki)"
+  },
+  {
+    "code": "02.04.03",
+    "term": "Cykliniarki"
+  },
+  {
+    "code": "02.04.04",
+    "term": "Strugarko-pilarki"
+  },
+  {
+    "code": "02.04.05",
+    "term": "Strugarko-szlifierki"
+  },
+  {
+    "code": "02.04.06",
+    "term": "Strugarki kątowe do jednoczesnej obróbki powierzchni i łączenia"
+  },
+  {
+    "code": "02.04.07",
+    "term": "Strugarki dwustronne, w tym do strugania grubościowego"
+  },
+  {
+    "code": "02.04.08",
+    "term": "Strugarki trzy- i czterostronne"
+  },
+  {
+    "code": "02.04.09",
+    "term": "Frezarki do obróbki trzy- i czterostronnej"
+  },
+  {
+    "code": "02.04.10",
+    "term": "Frezarki czołowe do obróbki jedno- i wielostronnej"
+  },
+  {
+    "code": "02.04.11",
+    "term": "Frezarki jednowrzecionowe"
+  },
+  {
+    "code": "02.04.12",
+    "term": "Maszyny do łączenia na złącza klinowe"
+  },
+  {
+    "code": "02.04.13",
+    "term": "Frezarki górnowrzecionowe"
+  },
+  {
+    "code": "02.04.14",
+    "term": "Frezarki górnowrzecionowe CNC"
+  },
+  {
+    "code": "02.04.15",
+    "term": "Frezarki kopiujące"
+  },
+  {
+    "code": "02.04.15.01",
+    "term": "Frezarki kopiujące do obróbki wzdłużnej elementów formowanych (również z dodatkowymi urządzeniami szlifującymi, itd.)"
+  },
+  {
+    "code": "02.04.15.02",
+    "term": "Frezarki kopiarki ze stołem obrotowym (również z dodatkowymi urządzeniami szlifującymi, itd.)"
+  },
+  {
+    "code": "02.04.15.03",
+    "term": "Frezarki kopiujące z narzędziami prowadzonymi po wzorcu i automatyką obrotu elementu obrabianego (jedno- lub wielowrzecionowe, również z dodatkowymi urządzeniami szlifującymi)"
+  },
+  {
+    "code": "02.04.16",
+    "term": "Dwustronne frezarki i szlifierki CNC do obróbki elementów krzywoliniowych"
+  },
+  {
+    "code": "02.04.17",
+    "term": "Kopiarko - rzeźbiarki"
+  },
+  {
+    "code": "02.04.18",
+    "term": "Frezarki do prętów"
+  },
+  {
+    "code": "02.04.19",
+    "term": "Wyrówniarki krawędzi"
+  },
+  {
+    "code": "02.04.20",
+    "term": "Frezarki do prętów walcowych"
+  },
+  {
+    "code": "02.04.21",
+    "term": "Frezarki do spirali"
+  },
+  {
+    "code": "02.04.22",
+    "term": "Frezarki do skosów"
+  },
+  {
+    "code": "02.04.23",
+    "term": "Frezarki do słupków"
+  },
+  {
+    "code": "02.04.24",
+    "term": "Żłobiarki do schodów, drabin i żaluzji"
+  },
+  {
+    "code": "02.04.25",
+    "term": "Frezarki do listew dekoracyjnych"
+  },
+  {
+    "code": "02.04.26",
+    "term": "Frezarki do uciosów"
+  },
+  {
+    "code": "02.04.99",
+    "term": "Frezarki do zastosowań specjalnych"
+  },
+  {
+    "code": "02.05",
+    "term": "Technologia łączenia na złącza klinowe"
+  },
+  {
+    "code": "02.05.01",
+    "term": "Maszyny do frezowania złączy klinowych"
+  },
+  {
+    "code": "02.05.02",
+    "term": "Systemy klejące do złączy klinowych"
+  },
+  {
+    "code": "02.05.03",
+    "term": "Prasy do złączy klinowych"
+  },
+  {
+    "code": "02.05.04",
+    "term": "Linie do złączy klinowych – do cięcia poprzecznego, frezowania złączy klinowych, klejenia, prasowania, itd."
+  },
+  {
+    "code": "02.06",
+    "term": "Czopiarki"
+  },
+  {
+    "code": "02.06.01",
+    "term": "Czopiarki do czopów prostych (widlic)"
+  },
+  {
+    "code": "02.06.01.01",
+    "term": "Czopiarki jednostronne do czopów prostych"
+  },
+  {
+    "code": "02.06.01.02",
+    "term": "Czopiarki dwustronne do czopów prostych"
+  },
+  {
+    "code": "02.06.02",
+    "term": "Czopiarki do czopów zaokrąglonych"
+  },
+  {
+    "code": "02.06.02.01",
+    "term": "Czopiarki jednostronne do czopów zaokrąglonych"
+  },
+  {
+    "code": "02.06.02.02",
+    "term": "Czopiarki dwustronne do czopów zaokrąglonych"
+  },
+  {
+    "code": "02.07",
+    "term": "Profilarki i przycinarki (przycinanie, cięcie wzdłużne, profilowanie, szlifowanie, itd.)"
+  },
+  {
+    "code": "02.07.01",
+    "term": "Profilarki i przycinarki jednostronne do elementów niepłaskich np. więźb"
+  },
+  {
+    "code": "02.07.02",
+    "term": "Profilarki i przycinarki jednostronne do elementów płaskich np. płyt"
+  },
+  {
+    "code": "02.07.03",
+    "term": "Profilarki i przycinarki dwustronne do elementów niepłaskich np. więźb"
+  },
+  {
+    "code": "02.07.04",
+    "term": "Profilarki i przycinarki dwustronne do elementów płaskich np. płyt"
+  },
+  {
+    "code": "02.08",
+    "term": "Okleiniarki (oklejanie krawędzi, przycinanie, szlifowanie, itd.)"
+  },
+  {
+    "code": "02.08.01",
+    "term": "Okleiniarki jednostronne"
+  },
+  {
+    "code": "02.08.01.01",
+    "term": "Okleiniarki jednostronne do krawędzi prostych"
+  },
+  {
+    "code": "02.08.01.02",
+    "term": "Okleiniarki jednostronne do softformingu"
+  },
+  {
+    "code": "02.08.01.03",
+    "term": "Okleiniarki jednostronne do elementów kształtowanych / zakrzywionych"
+  },
+  {
+    "code": "02.08.02",
+    "term": "Okleiniarki dwustronne"
+  },
+  {
+    "code": "02.08.02.01",
+    "term": "Okleiniarki dwustronne do krawędzi prostych"
+  },
+  {
+    "code": "02.08.02.02",
+    "term": "Okleiniarki dwustronne do softformingu"
+  },
+  {
+    "code": "02.08.02.03",
+    "term": "Okleiniarki dwustronne do elementów kształtowanych / zakrzywionych"
+  },
+  {
+    "code": "02.08.03",
+    "term": "Okleiniarki stołowe"
+  },
+  {
+    "code": "02.09",
+    "term": "Maszyny przycinająco-oklejające (cięcie, profilowanie, oklejanie krawędzi, przycinanie, szlifowanie, itd.)"
+  },
+  {
+    "code": "02.09.01",
+    "term": "Maszyny przycinająco-oklejające jednostronne"
+  },
+  {
+    "code": "02.09.01.01",
+    "term": "Maszyny przycinająco-oklejające jednostronne do krawędzi prostych"
+  },
+  {
+    "code": "02.09.01.02",
+    "term": "Maszyny przycinająco-oklejające jednostronne do softformingu"
+  },
+  {
+    "code": "02.09.01.03",
+    "term": "Maszyny przycinająco-oklejające jednostronne do elementów kształtowanych / zakrzywionych"
+  },
+  {
+    "code": "02.09.02",
+    "term": "Maszyny przycinająco-oklejające dwustronne"
+  },
+  {
+    "code": "02.09.02.01",
+    "term": "Maszyny przycinająco-oklejające dwustronne do krawędzi prostych"
+  },
+  {
+    "code": "02.09.02.02",
+    "term": "Maszyny przycinająco-oklejające dwustronne do softformingu"
+  },
+  {
+    "code": "02.09.02.03",
+    "term": "Maszyny przycinająco-oklejające dwustronne do elementów kształtowanych / zakrzywionych"
+  },
+  {
+    "code": "02.10",
+    "term": "Maszyny do postformingu"
+  },
+  {
+    "code": "02.10.01",
+    "term": "Maszyny do postformingu do obróbki stacjonarnej"
+  },
+  {
+    "code": "02.10.02",
+    "term": "Maszyny do postformingu przelotowe"
+  },
+  {
+    "code": "02.10.02.01",
+    "term": "Maszyny do postformingu do laminatów"
+  },
+  {
+    "code": "02.10.02.02",
+    "term": "Maszyny do postformingu bezpośredniego do paneli laminowanych / fornirowanych"
+  },
+  {
+    "code": "02.11",
+    "term": "Systemy składające"
+  },
+  {
+    "code": "02.11.01",
+    "term": "Systemy do składania wzdłużnego"
+  },
+  {
+    "code": "02.11.02",
+    "term": "Pilarki i frezarki do uciosów poprzecznych"
+  },
+  {
+    "code": "02.11.03",
+    "term": "Prasy / stacje klejące do składania poprzecznego"
+  },
+  {
+    "code": "02.11.04",
+    "term": "Systemy do składania poprzecznego (cięcie na długość, piłowanie lub frezowanie uciosów, klejenie, składanie, prasowanie, itd.)"
+  },
+  {
+    "code": "02.12",
+    "term": "Wiertarki, kołkarki (kołczarki), maszyny do osadzania okuć"
+  },
+  {
+    "code": "02.12.01",
+    "term": "Wiertarki jedno- lub wielogłowicowe"
+  },
+  {
+    "code": "02.12.01.01",
+    "term": "Uniwersalne, wielowrzecionowe wiertarki do obróbki stacjonarnej"
+  },
+  {
+    "code": "02.12.01.02",
+    "term": "Wielowrzecionowe wiertarki z głowicami poziomymi i / lub pionowymi do obróbki stacjonarnej"
+  },
+  {
+    "code": "02.12.01.03",
+    "term": "Przelotowe, wielowrzecionowe wiertarki z głowicami poziomymi i / lub pionowymi"
+  },
+  {
+    "code": "02.12.02",
+    "term": "Maszyny do wiercenia otworów pod kołki do elementów mebli szkieletowych (ramiaków) i innych (o kształcie graniastosłupa) do obróbki stacjonarnej lub przelotowej"
+  },
+  {
+    "code": "02.12.03",
+    "term": "Urządzenia wiertarskie do pilarek, frezarek, wiertarek i osadzarek kołków"
+  },
+  {
+    "code": "02.12.04",
+    "term": "Wiertarki, frezarki, maszyny do osadzania okuć, itd."
+  },
+  {
+    "code": "02.12.05",
+    "term": "Wiertarki CNC"
+  },
+  {
+    "code": "02.12.05.01",
+    "term": "Wiertarki CNC do obróbki stacjonarnej"
+  },
+  {
+    "code": "02.12.05.02",
+    "term": "Wiertarki CNC przelotowe"
+  },
+  {
+    "code": "02.12.06",
+    "term": "Maszyny do osadzania kołków (nanoszenie kleju, osadzanie)"
+  },
+  {
+    "code": "02.12.07",
+    "term": "Maszyny do osadzania okuć"
+  },
+  {
+    "code": "02.12.08",
+    "term": "Sękarki"
+  },
+  {
+    "code": "02.12.09",
+    "term": "Wiertarki kolumnowe i stołowe"
+  },
+  {
+    "code": "02.12.10",
+    "term": "Frezarko-wiertarki oscylacyjne"
+  },
+  {
+    "code": "02.13",
+    "term": "Maszyny do gniazd do osadzania okuć"
+  },
+  {
+    "code": "02.14",
+    "term": "Dłutownice (dłutarki)"
+  },
+  {
+    "code": "02.14.01",
+    "term": "Dłutarki (dłutownice) oscylacyjne"
+  },
+  {
+    "code": "02.14.02",
+    "term": "Dłutarki (dłutownice) łańcuchowe"
+  },
+  {
+    "code": "02.14.03",
+    "term": "Dłutarki (dłutownice) z dłutami zwykłymi"
+  },
+  {
+    "code": "02.14.04",
+    "term": "Dłutarki (dłutownice) kombinowane łańcuchowo - zwykłe"
+  },
+  {
+    "code": "02.15",
+    "term": "Tokarki"
+  },
+  {
+    "code": "02.15.01",
+    "term": "Tokarki do toczenie wzdłużnego"
+  },
+  {
+    "code": "02.15.02",
+    "term": "Tokarki do toczenia czołowego"
+  },
+  {
+    "code": "02.15.03",
+    "term": "Tokarki profilujące"
+  },
+  {
+    "code": "02.15.04",
+    "term": "Tokarki kopiarki"
+  },
+  {
+    "code": "02.15.05",
+    "term": "Tokarki CNC"
+  },
+  {
+    "code": "02.16",
+    "term": "Szlifierki"
+  },
+  {
+    "code": "02.16.01",
+    "term": "Szlifierki taśmowe z ruchomym stołem"
+  },
+  {
+    "code": "02.16.02",
+    "term": "Szlifierki taśmowe z posuwem mechanicznym"
+  },
+  {
+    "code": "02.16.03",
+    "term": "Szlifierki szeroko taśmowe"
+  },
+  {
+    "code": "02.16.04",
+    "term": "Szlifierki taśmowe i szeroko-taśmowe do szlifowania krzyżowego"
+  },
+  {
+    "code": "02.16.05",
+    "term": "Szlifierki do forniru"
+  },
+  {
+    "code": "02.16.06",
+    "term": "Szlifierki kalibrujące"
+  },
+  {
+    "code": "02.16.07",
+    "term": "Szlifierki szerokotaśmowe do kalibrowania i szlifowania drewnopochodnych"
+  },
+  {
+    "code": "02.16.08",
+    "term": "Szlifierki walcowe do szlifowania powierzchni"
+  },
+  {
+    "code": "02.16.09",
+    "term": "Szlifierki do powierzchni zakrzywionych i profilowych"
+  },
+  {
+    "code": "02.16.10",
+    "term": "Szlifierki międzyoperacyjnego szlifowania pokryć lakierniczych"
+  },
+  {
+    "code": "02.16.11",
+    "term": "Szlifierki profilowe"
+  },
+  {
+    "code": "02.16.11.01",
+    "term": "Szlifierki profilowe jednostronne"
+  },
+  {
+    "code": "02.16.11.02",
+    "term": "Szlifierki profilowe dwustronne"
+  },
+  {
+    "code": "02.16.12",
+    "term": "Szlifierki rolkowe z posuwem ręcznym"
+  },
+  {
+    "code": "02.16.13",
+    "term": "Szlifierki taśmowe z posuwem ręcznym"
+  },
+  {
+    "code": "02.16.14",
+    "term": "Szlifierki tarczowe"
+  },
+  {
+    "code": "02.16.15",
+    "term": "Szlifierki do cylindrycznych drążków"
+  },
+  {
+    "code": "02.16.16",
+    "term": "Szlifierki do elementów toczonych"
+  },
+  {
+    "code": "02.16.17",
+    "term": "Szlifierki CNC do kompletnej obróbki wszystkich rodzajów powierzchni"
+  },
+  {
+    "code": "02.17",
+    "term": "Maszyny wygładzające i polerujące (polerki)"
+  },
+  {
+    "code": "02.17.01",
+    "term": "Polerki do powierzchni płaskich"
+  },
+  {
+    "code": "02.17.02",
+    "term": "Polerki do powierzchni kształtowych"
+  },
+  {
+    "code": "02.17.03",
+    "term": "Polerki do listew"
+  },
+  {
+    "code": "02.17.04",
+    "term": "Polerki z posuwem automatycznym"
+  },
+  {
+    "code": "02.17.05",
+    "term": "Maszyny do polerowania z posuwem ręcznym"
+  },
+  {
+    "code": "02.18",
+    "term": "Maszyny formujące"
+  },
+  {
+    "code": "02.18.01",
+    "term": "Giętarki"
+  },
+  {
+    "code": "02.18.02",
+    "term": "Maszyny wytłaczające"
+  },
+  {
+    "code": "02.18.02.01",
+    "term": "Maszyny wytłaczające stacjonarne"
+  },
+  {
+    "code": "02.18.02.02",
+    "term": "Maszyny wytłaczające przelotowe"
+  },
+  {
+    "code": "02.18.99",
+    "term": "Maszyny formujące; pozostałe"
+  },
+  {
+    "code": "02.19",
+    "term": "Maszyny kombinowane (stosowane ze względu na ograniczoną przestrzeń)"
+  },
+  {
+    "code": "02.19.01",
+    "term": "Wyrówniarki i grubiarki (grubościówki)"
+  },
+  {
+    "code": "02.19.02",
+    "term": "Tarczówko - frezarki"
+  },
+  {
+    "code": "02.19.03",
+    "term": "Tarczówko – frezarko - dłutarki"
+  },
+  {
+    "code": "02.19.04",
+    "term": "Tarczówko – wyrówniarko – frezarko - dłutarki"
+  },
+  {
+    "code": "02.19.05",
+    "term": "Maszyny kombinowane ciesielsko-stolarskie"
+  },
+  {
+    "code": "02.19.06",
+    "term": "Maszyny kombinowane modelarskie"
+  },
+  {
+    "code": "02.19.99",
+    "term": "Maszyny kombinowane, pozostałe"
+  },
+  {
+    "code": "02.20",
+    "term": "Centra obróbkowe (stacjonarne)"
+  },
+  {
+    "code": "02.20.01",
+    "term": "Centra obróbkowe do piłowania, frezowania frezami trzpieniowymi, profilowania, wiercenia, szlifowania"
+  },
+  {
+    "code": "02.20.02",
+    "term": "Centra obróbkowe do oklejania wąskich płaszczyzn"
+  },
+  {
+    "code": "02.20.03",
+    "term": "Centra obróbkowe do piłowania, frezowania frezami trzpieniowymi, wiercenia i oklejania wąskich płaszczyzn"
+  },
+  {
+    "code": "02.20.04",
+    "term": "Centra obróbkowe do piłowania, frezowania frezami trzpieniowymi, wiercenia, osadzania okuć i kołków."
+  },
+  {
+    "code": "02.21",
+    "term": "Elastyczne gniazda produkcyjne"
+  },
+  {
+    "code": "02.22",
+    "term": "Prasy i urządzenia do klejenia elementów z drewna litego i innych materiałów"
+  },
+  {
+    "code": "02.22.01",
+    "term": "Ściski do klejenia elementów łączonych, pionowe i wachlarzowate"
+  },
+  {
+    "code": "02.22.02",
+    "term": "Przelotowe prasy do sklejania płyt i łat wąskimi powierzchniami"
+  },
+  {
+    "code": "02.22.03",
+    "term": "Maszyny do klejenia warstw środkowych"
+  },
+  {
+    "code": "02.22.04",
+    "term": "Prasy warstwowego drewna klejonego"
+  },
+  {
+    "code": "02.23",
+    "term": "Prasy / zaciski do połączeń narożnikowych"
+  },
+  {
+    "code": "02.23.01",
+    "term": "Uniwersalne prasy stołowe"
+  },
+  {
+    "code": "02.23.02",
+    "term": "Zaciski do ram"
+  },
+  {
+    "code": "02.23.03",
+    "term": "Maszyny do klejenia połączeń półkolistych"
+  },
+  {
+    "code": "02.24",
+    "term": "Wykrawarki"
+  },
+  {
+    "code": "02.24.01",
+    "term": "Wykrawarki uciosarki"
+  },
+  {
+    "code": "02.24.02",
+    "term": "Wykrawarki wad i zaślepek w łuszczce"
+  },
+  {
+    "code": "02.24.99",
+    "term": "Wykrawarki, pozostałe"
+  },
+  {
+    "code": "03",
+    "term": "Maszyny i urządzenia techniczne do wykańczania powierzchni"
+  },
+  {
+    "code": "03.01",
+    "term": "Powlekanie substancjami ciekłymi (lakierowanie, itd.)"
+  },
+  {
+    "code": "03.01.01",
+    "term": "Wstępne przygotowanie powierzchni"
+  },
+  {
+    "code": "03.01.01.01",
+    "term": "Urządzenia do piaskowania"
+  },
+  {
+    "code": "03.01.01.02",
+    "term": "Maszyny do teksturowania / szczotkowania"
+  },
+  {
+    "code": "03.01.01.03",
+    "term": "Szczotki czyszczące"
+  },
+  {
+    "code": "03.01.02",
+    "term": "Urządzenia do bielenia i barwienia"
+  },
+  {
+    "code": "03.01.03",
+    "term": "Maszyny do nakładania wypełniacza, nożowe lub rolkowe"
+  },
+  {
+    "code": "03.01.04",
+    "term": "Urządzenia drukujące (np. do wykończeń drewnopodobnych)"
+  },
+  {
+    "code": "03.01.05",
+    "term": "Automatyczne maszyny natryskowe / automaty do wykończeń natryskowych"
+  },
+  {
+    "code": "03.01.06",
+    "term": "Systemy natryskowe rotacyjne"
+  },
+  {
+    "code": "03.01.07",
+    "term": "Urządzenia do natrysku elektrostatycznego"
+  },
+  {
+    "code": "03.01.08",
+    "term": "Polewarki, nakładarki kurtynowe"
+  },
+  {
+    "code": "03.01.09",
+    "term": "Nakładarki (powlekarki) wałkowe"
+  },
+  {
+    "code": "03.01.10",
+    "term": "Powlekarki próżniowe"
+  },
+  {
+    "code": "03.01.11",
+    "term": "Urządzenia do malowania zanurzeniowego"
+  },
+  {
+    "code": "03.01.12",
+    "term": "Systemy zalewające"
+  },
+  {
+    "code": "03.01.13",
+    "term": "Systemy powlekania krawędzi"
+  },
+  {
+    "code": "03.01.14",
+    "term": "Systemy powlekania bębnowego"
+  },
+  {
+    "code": "03.01.15",
+    "term": "Ściany i kabiny natryskowe"
+  },
+  {
+    "code": "03.01.16",
+    "term": "Linie do suszenia i utwardzania lakieru"
+  },
+  {
+    "code": "03.01.17",
+    "term": "Przenośniki dla instalacji lakierniczych"
+  },
+  {
+    "code": "03.01.18",
+    "term": "Urządzenia do przygotowania, dozowania i transportu płynnych materiałów powłokowych (np. lakierów, bejc, itd.)"
+  },
+  {
+    "code": "03.02",
+    "term": "Wykańczanie powierzchni materiałami stałymi"
+  },
+  {
+    "code": "03.02.01",
+    "term": "Maszyny i urządzenia do malowania proszkowego"
+  },
+  {
+    "code": "03.02.02",
+    "term": "Maszyny tynkarskie"
+  },
+  {
+    "code": "03.02.03",
+    "term": "Maszyny grawerujące i powlekające drewno pastami drzewnymi"
+  },
+  {
+    "code": "03.02.99",
+    "term": "Maszyny i urządzenia do powlekania stałymi materiałami powłokowymi; pozostałe"
+  },
+  {
+    "code": "03.03",
+    "term": "Maszyny i urządzenia do pirografii oraz / lub znakowania"
+  },
+  {
+    "code": "04",
+    "term": "Maszyny i urządzenia techniczne do montażu i pakowania"
+  },
+  {
+    "code": "04.01",
+    "term": "Technologia montażu"
+  },
+  {
+    "code": "04.01.01",
+    "term": "Linie do montażu wstępnego elementów meblowych"
+  },
+  {
+    "code": "04.01.02",
+    "term": "Stanowisko klejenia szkieletów"
+  },
+  {
+    "code": "04.01.02.01",
+    "term": "Stacje nakładania kleju na elementy szkieletów"
+  },
+  {
+    "code": "04.01.02.02",
+    "term": "Stacja wstępnego zaciskania"
+  },
+  {
+    "code": "04.01.02.03",
+    "term": "Zaciski do szkieletów"
+  },
+  {
+    "code": "04.01.03",
+    "term": "Stanowiska montażu końcowego elementów i szkieletów meblowych"
+  },
+  {
+    "code": "04.01.04",
+    "term": "Linie montażu końcowego mebli"
+  },
+  {
+    "code": "04.01.05",
+    "term": "Stanowiska i linie montażowe okien, drzwi i elementów fasad"
+  },
+  {
+    "code": "04.01.99",
+    "term": "Systemy montażowe; pozostałe"
+  },
+  {
+    "code": "04.02",
+    "term": "Gwoździarki, zszywarki, wkrętarki"
+  },
+  {
+    "code": "04.02.01",
+    "term": "Gwoździarki"
+  },
+  {
+    "code": "04.02.02",
+    "term": "Zszywarki i zszywacze"
+  },
+  {
+    "code": "04.02.03",
+    "term": "Wkrętarki"
+  },
+  {
+    "code": "04.03",
+    "term": "Technologia pakowania"
+  },
+  {
+    "code": "04.03.01",
+    "term": "Maszyny pakujące do części meblowych i mebli szkieletowych"
+  },
+  {
+    "code": "04.03.02",
+    "term": "Maszyny pakujące do elementów płaskich (elementy podłogowe, panele, itd.)"
+  },
+  {
+    "code": "04.03.03",
+    "term": "Maszyny pakujące do płyt, płyt ciętych pod wymiar, itd."
+  },
+  {
+    "code": "04.03.99",
+    "term": "Maszyny pakujące; pozostałe"
+  },
+  {
+    "code": "05",
+    "term": "Technologia transportu bliskiego, przeładunku, magazynowania i wydawania materiałów z magazynu"
+  },
+  {
+    "code": "05.01",
+    "term": "Technologia transportu bliskiego i przeładunku materiałów"
+  },
+  {
+    "code": "05.01.01",
+    "term": "Terenowe podnośniki widłowe, podnośniki widłowe czołowe i boczne wraz z wyposażeniem dodatkowym"
+  },
+  {
+    "code": "05.01.03",
+    "term": "Stoły podnoszące"
+  },
+  {
+    "code": "05.01.04",
+    "term": "Stanowiska układania i pakietowania"
+  },
+  {
+    "code": "05.01.05",
+    "term": "Podnośniki próżniowe"
+  },
+  {
+    "code": "05.01.06",
+    "term": "Urządzenia podające"
+  },
+  {
+    "code": "05.01.07",
+    "term": "Urządzenia odbierające i układające"
+  },
+  {
+    "code": "05.01.08",
+    "term": "Stanowiska obracania płyt"
+  },
+  {
+    "code": "05.01.09",
+    "term": "Stacje transportowe kątowe"
+  },
+  {
+    "code": "05.01.10",
+    "term": "Przenośniki poprzeczne"
+  },
+  {
+    "code": "05.01.11",
+    "term": "Przenośniki rewersyjne"
+  },
+  {
+    "code": "05.01.12",
+    "term": "Przenośniki rolkowe"
+  },
+  {
+    "code": "05.01.12.01",
+    "term": "Przenośniki rolkowe napędzane"
+  },
+  {
+    "code": "05.01.12.02",
+    "term": "Przenośniki rolkowe nienapędzane"
+  },
+  {
+    "code": "05.01.13",
+    "term": "Przenośniki taśmowe"
+  },
+  {
+    "code": "05.01.14",
+    "term": "Przenośniki podwieszane"
+  },
+  {
+    "code": "05.01.15",
+    "term": "Wózki transportowe, wózki magazynowe, itd."
+  },
+  {
+    "code": "05.01.16",
+    "term": "Wózki i kontenery do wydawania towaru z magazynu"
+  },
+  {
+    "code": "05.01.17",
+    "term": "Stojaki rolkowe"
+  },
+  {
+    "code": "05.01.18",
+    "term": "Urządzenia podające do maszyn stolarskich (frezarek do płaszczyzn, czopiarek jednowrzecionowych itp.)"
+  },
+  {
+    "code": "05.01.90",
+    "term": "Technologia przeładunku materiałów specjalnych"
+  },
+  {
+    "code": "05.01.90.01",
+    "term": "Technologia transportu bliskiego i przeładunku materiałów specjalnych dla pił wzdłużnych optymalizujących"
+  },
+  {
+    "code": "05.01.90.02",
+    "term": "Technologie transportu bliskiego i przeładunku materiałów specjalnych dla linii do mini wczepów"
+  },
+  {
+    "code": "05.01.90.03",
+    "term": "Specjalistyczna technika manipulacji materiałami dla linii obróbki powierzchni"
+  },
+  {
+    "code": "05.01.90.04",
+    "term": "Specjalistyczna technika manipulacji materiałami dla linii piłowania"
+  },
+  {
+    "code": "05.01.90.20",
+    "term": "Specjalistyczne urządzenie posuwowe dla rozdrabniarek, rębarek itp."
+  },
+  {
+    "code": "05.01.90.99",
+    "term": "Specjalistyczna technika manipulacji materiałami; pozostałe"
+  },
+  {
+    "code": "05.02",
+    "term": "Technologia magazynowania i wydawania materiałów z magazynu"
+  },
+  {
+    "code": "05.02.01",
+    "term": "Systemy układania materiałów na regałach"
+  },
+  {
+    "code": "05.02.02",
+    "term": "Urządzenia do przechowywania i odbioru materiałów z półek i regałów"
+  },
+  {
+    "code": "05.02.03",
+    "term": "Systemy sortowania i wydawania materiałów z magazynu"
+  },
+  {
+    "code": "05.02.04",
+    "term": "Systemy składowania i wydawania z magazynu dużych płyt (np. żurawie układające)"
+  },
+  {
+    "code": "05.02.99",
+    "term": "Systemy składowania; pozostałe"
+  },
+  {
+    "code": "06",
+    "term": "Robotyka"
+  },
+  {
+    "code": "06.01",
+    "term": "Roboty przeładowujące, podające, paletujące, itd."
+  },
+  {
+    "code": "06.02",
+    "term": "Roboty łączące i montujące"
+  },
+  {
+    "code": "06.03",
+    "term": "Automaty natryskowe, lakierujące, itd."
+  },
+  {
+    "code": "06.04",
+    "term": "Automaty do obróbki wiórowej (skrawania, szlifowania, cięcia, itd.)"
+  },
+  {
+    "code": "06.99",
+    "term": "Roboty / automaty; pozostałe"
+  },
+  {
+    "code": "10",
+    "term": "Maszyny i urządzenia do procesów specjalnych"
+  },
+  {
+    "code": "10.01",
+    "term": "Technologia laserowa"
+  },
+  {
+    "code": "10.02",
+    "term": "Technologia oparta o prądy wysokiej częstotliwości"
+  },
+  {
+    "code": "10.03",
+    "term": "Technologia mikrofalowa"
+  },
+  {
+    "code": "10.04",
+    "term": "Technologia ultradźwiękowa"
+  },
+  {
+    "code": "10.06",
+    "term": "Wygładzanie termiczne"
+  },
+  {
+    "code": "10.07",
+    "term": "Cięcie strumieniem wody"
+  },
+  {
+    "code": "10.99",
+    "term": "Procesy specjalne; pozostałe"
+  },
+  {
+    "code": "11",
+    "term": "Maszyny i urządzenia dla specjalnych grup produktów"
+  },
+  {
+    "code": "11.01",
+    "term": "Maszyny i urządzenia stosowane do elementów strukturalnych"
+  },
+  {
+    "code": "11.01.01",
+    "term": "Maszyny i urządzenia do produkcji okien i fasad"
+  },
+  {
+    "code": "11.01.01.01",
+    "term": "Centra obróbcze do wzdłużnej i poprzecznej obróbki elementów okiennych"
+  },
+  {
+    "code": "11.01.01.99",
+    "term": "Maszyny do produkcji okien i fasad; pozostałe"
+  },
+  {
+    "code": "11.01.02",
+    "term": "Maszyny i urządzenia do produkcji drzwi i ram"
+  },
+  {
+    "code": "11.01.03",
+    "term": "Maszyny i urządzenia do produkcji konstrukcji drewnianych"
+  },
+  {
+    "code": "11.01.03.01",
+    "term": "Linie przycinające"
+  },
+  {
+    "code": "11.01.03.02",
+    "term": "Maszyny specjalne ciesielskie i konstrukcyjne"
+  },
+  {
+    "code": "11.01.04",
+    "term": "Maszyny i urządzenia stosowane przy budowie domów prefabrykowanych np. konstrukcji na bazie ramy drewnianej"
+  },
+  {
+    "code": "11.01.04.01",
+    "term": "Stoły montażowe"
+  },
+  {
+    "code": "11.01.04.02",
+    "term": "Gwoździarki automatyczne do elementów ściennych"
+  },
+  {
+    "code": "11.01.04.03",
+    "term": "Centra obróbkowe do elementów strukturalnych"
+  },
+  {
+    "code": "11.01.05",
+    "term": "Maszyny i urządzenia do produkcji konstrukcji z drewna klejonego / ze sklejek, laminatów"
+  },
+  {
+    "code": "11.01.06",
+    "term": "Maszyny i urządzenia do produkcji podłóg drewnianych / parkietów"
+  },
+  {
+    "code": "11.01.07",
+    "term": "Maszyny i urządzenia do produkcji podłóg klejonych"
+  },
+  {
+    "code": "11.01.08",
+    "term": "Maszyny i urządzenia do budowy schodów"
+  },
+  {
+    "code": "11.02",
+    "term": "Maszyny i urządzenia do produkcji płyt z drewna litego"
+  },
+  {
+    "code": "11.03",
+    "term": "Maszyny i urządzenia do produkcji mebli o konstrukcji szkieletowej (krzesła, stoły, itd.)"
+  },
+  {
+    "code": "11.04",
+    "term": "Maszyny do produkcji i obróbki opakowań drewnianych (palety, skrzynie, itd.)"
+  },
+  {
+    "code": "11.04.01",
+    "term": "Maszyny i urządzenia stacjonarne do produkcji palet"
+  },
+  {
+    "code": "11.04.02",
+    "term": "Linie do produkcji palet"
+  },
+  {
+    "code": "11.04.03",
+    "term": "Maszyny i urządzenia stacjonarne do produkcji opakowań na owoce i warzywa"
+  },
+  {
+    "code": "11.04.04",
+    "term": "Linie do produkcji opakowań na owoce i warzywa"
+  },
+  {
+    "code": "11.04.05",
+    "term": "Maszyny do produkcji opakowań przemysłowych (skrzynie, itd.)"
+  },
+  {
+    "code": "11.04.06",
+    "term": "Maszyny do produkcji bębnów kablowych"
+  },
+  {
+    "code": "11.04.07",
+    "term": "Urządzenia do obróbki cieplnej palet i innych drewnianych materiałów opakowaniowych"
+  },
+  {
+    "code": "11.04.08",
+    "term": "Urządzenia do dezynfekowania gazowego palet i innych drewnianych materiałów opakowaniowych"
+  },
+  {
+    "code": "11.05",
+    "term": "Maszyny i urządzenia do produkcji drzwi meblowych"
+  },
+  {
+    "code": "11.06",
+    "term": "Maszyny i urządzenia do produkcji szuflad"
+  },
+  {
+    "code": "11.07",
+    "term": "Maszyny i sprzęt do produkcji ram, w tym ram do obrazów"
+  },
+  {
+    "code": "11.07.01",
+    "term": "Pilarki tarczowe dwupiłowe do wykonywania podwójnych uciosów"
+  },
+  {
+    "code": "11.07.02",
+    "term": "Zszywarki i zszywarko-klejarki do montażu ram"
+  },
+  {
+    "code": "11.07.03",
+    "term": "Maszyny do łączenia elementów metalowych z okuciami (klamry, elastyczne zakładki, itd.)"
+  },
+  {
+    "code": "11.07.04",
+    "term": "Frezarki jednowrzecionowe do rowków kątowych"
+  },
+  {
+    "code": "11.07.05",
+    "term": "Przekrawarki uciosarki (gilotyny do uciosów)"
+  },
+  {
+    "code": "11.07.06",
+    "term": "Zautomatyzowane systemy do wytwarzania ram"
+  },
+  {
+    "code": "11.08",
+    "term": "Maszyny i urządzenia do produkcji beczek drewnianych"
+  },
+  {
+    "code": "11.09",
+    "term": "Maszyny do wytwarzania i przeróbki materiałów izolacyjnych"
+  },
+  {
+    "code": "11.09.01",
+    "term": "Maszyny do wytwarzania materiałów izolacyjnych"
+  },
+  {
+    "code": "11.09.02",
+    "term": "Maszyny do przetwarzania materiałów izolacyjnych"
+  },
+  {
+    "code": "11.99",
+    "term": "Maszyny i urządzenia do pozostałych wyrobów"
+  },
+  {
+    "code": "11.99.01",
+    "term": "Maszyny i urządzenia do produkcji szczotek i pędzli"
+  },
+  {
+    "code": "11.99.02",
+    "term": "Maszyny i urządzenia do produkcji ołówków"
+  },
+  {
+    "code": "11.99.03",
+    "term": "Maszyny i urządzenia do produkcji drewniaków, podeszew i obcasów drewnianych, kopyt szewskich"
+  },
+  {
+    "code": "11.99.04",
+    "term": "Maszyny i urządzenia do produkcji kołków"
+  },
+  {
+    "code": "11.99.05",
+    "term": "Maszyny i urządzenia do produkcji słupów, masztów, palisad, płotów drewnianych"
+  },
+  {
+    "code": "11.99.06",
+    "term": "Maszyny i urządzenia do produkcji mebli ratanowych"
+  },
+  {
+    "code": "11.99.07",
+    "term": "Maszyny i urządzenia do produkcji uchwytów meblowych"
+  },
+  {
+    "code": "11.99.08",
+    "term": "Maszyny i urządzenia do produkcji żaluzji i okiennic"
+  },
+  {
+    "code": "11.99.09",
+    "term": "Maszyny i urządzenia do produkcji trumien"
+  },
+  {
+    "code": "11.99.10",
+    "term": "Maszyny i urządzenia do produkcji płyt szalunkowych"
+  },
+  {
+    "code": "11.99.11",
+    "term": "Maszyny i urządzenia do produkcji trzonków do narzędzi rolniczych (do łopat, szufli, motyk, grabi, młotków, kilofów, itd.)"
+  },
+  {
+    "code": "11.99.12",
+    "term": "Maszyny i urządzenia do produkcji sprzętu sportowego (kije bilardowe, wiosła, itd.)"
+  },
+  {
+    "code": "11.99.13",
+    "term": "Maszyny i urządzenia do produkcji wykałaczek / pałeczek do jedzenia"
+  },
+  {
+    "code": "11.99.14",
+    "term": "Maszyny i urządzenia do produkcji zapałek"
+  },
+  {
+    "code": "11.99.15",
+    "term": "Maszyny i urządzenia do produkcji wełny drzewnej"
+  },
+  {
+    "code": "11.99.16",
+    "term": "Maszyny i urządzenia do produkcji wiórów (strużyn) na ściółkę dla zwierząt"
+  },
+  {
+    "code": "11.99.17",
+    "term": "Maszyny i urządzenia do produkcji gontów drewnianych"
+  },
+  {
+    "code": "11.99.18",
+    "term": "Maszyny i urządzenia do wytwarzania łóżkowych ram listewkowych"
+  },
+  {
+    "code": "18",
+    "term": "Sprzęt, maszyny i urządzenia pomocnicze; pozostałe"
+  },
+  {
+    "code": "18.02",
+    "term": "Urządzenia mieszające"
+  },
+  {
+    "code": "18.03",
+    "term": "Systemy ważące"
+  },
+  {
+    "code": "18.04",
+    "term": "Stoły stolarskie, stoły warsztatowe"
+  },
+  {
+    "code": "18.05",
+    "term": "Zaciski"
+  },
+  {
+    "code": "18.99",
+    "term": "Maszyny pomocnicze; pozostałe"
+  },
+  {
+    "code": "19",
+    "term": "Przenośne maszyny do obróbki drewna i tworzyw sztucznych, kompozytów i innych materiałów"
+  },
+  {
+    "code": "19.01",
+    "term": "Przenośne przekrawarki do tworzyw sztucznych"
+  },
+  {
+    "code": "19.02",
+    "term": "Przenośne pilarki otwornice"
+  },
+  {
+    "code": "19.03",
+    "term": "Przenośne pilarki taśmowe"
+  },
+  {
+    "code": "19.04",
+    "term": "Przenośne pilarki tarczowe"
+  },
+  {
+    "code": "19.05",
+    "term": "Przenośne korowarki"
+  },
+  {
+    "code": "19.06",
+    "term": "Przenośne strugarki"
+  },
+  {
+    "code": "19.07",
+    "term": "Przenośne frezarki"
+  },
+  {
+    "code": "19.08",
+    "term": "Przenośne maszyny do obróbki krawędzi"
+  },
+  {
+    "code": "19.09",
+    "term": "Przenośne wiertarki"
+  },
+  {
+    "code": "19.10",
+    "term": "Przenośne dłutarki (dłutownice) łańcuchowe"
+  },
+  {
+    "code": "19.11",
+    "term": "Przenośne dłutarki (dłutownice) z dłutami zwykłymi"
+  },
+  {
+    "code": "19.12",
+    "term": "Przenośne szlifierki wibracyjne"
+  },
+  {
+    "code": "19.13",
+    "term": "Przenośne szlifierki taśmowe"
+  },
+  {
+    "code": "19.14",
+    "term": "Przenośne szlifierki tarczowe"
+  },
+  {
+    "code": "19.15",
+    "term": "Przenośne gwoździarki"
+  },
+  {
+    "code": "19.16",
+    "term": "Przenośne zszywarki"
+  },
+  {
+    "code": "19.17",
+    "term": "Przenośne wkrętaki akumulatorowe"
+  },
+  {
+    "code": "19.18",
+    "term": "Przenośne klejarki"
+  },
+  {
+    "code": "19.19",
+    "term": "Przenośne urządzenia natryskowe (np. pistolety do lakierów / klejów)"
+  },
+  {
+    "code": "19.20",
+    "term": "Przenośne urządzenia do klejenia forniru"
+  },
+  {
+    "code": "19.21",
+    "term": "Maszyny do szlifowania podłóg warstwowych"
+  },
+  {
+    "code": "19.90",
+    "term": "Skrzynki na maszyny przenośne, narzędzia itp."
+  },
+  {
+    "code": "19.99",
+    "term": "Przenośne maszyny specjalistyczne"
+  },
+  {
+    "code": "20",
+    "term": "Narzędzia i wyposażenie pomocnicze"
+  },
+  {
+    "code": "20.01",
+    "term": "Narzędzia skrawające"
+  },
+  {
+    "code": "20.01.01",
+    "term": "Piły taśmowe"
+  },
+  {
+    "code": "20.01.01.01",
+    "term": "Piły taśmowe do kłód, rozdzielcze"
+  },
+  {
+    "code": "20.01.01.02",
+    "term": "Piły taśmowe stolarskie"
+  },
+  {
+    "code": "20.01.02",
+    "term": "Piły do pilarek ramowych (trakowe)"
+  },
+  {
+    "code": "20.01.02.01",
+    "term": "Piły trakowe stalowe"
+  },
+  {
+    "code": "20.01.02.02",
+    "term": "Piły trakowe chromowane"
+  },
+  {
+    "code": "20.01.02.03",
+    "term": "Piły trakowe z nakładkami ze stopu kobaltowego"
+  },
+  {
+    "code": "20.01.02.04",
+    "term": "Piły trakowe z nakładkami z węglików spiekanych"
+  },
+  {
+    "code": "20.01.03",
+    "term": "Piły tarczowe"
+  },
+  {
+    "code": "20.01.03.01",
+    "term": "Piły tarczowe stalowe"
+  },
+  {
+    "code": "20.01.03.02",
+    "term": "Piły tarczowe z nakładkami ze stopu kobaltowego"
+  },
+  {
+    "code": "20.01.03.03",
+    "term": "Piły tarczowe z nakładkami z węglików spiekanych"
+  },
+  {
+    "code": "20.01.03.04",
+    "term": "Piły tarczowe z nakładkami z diamentu polikrystalicznego"
+  },
+  {
+    "code": "20.01.04",
+    "term": "Narzędzia rozdrabniające"
+  },
+  {
+    "code": "20.01.04.01",
+    "term": "Narzędzia rozdrabniające do kształtowania elementów płaskich (np. płyt), z nakładkami z węglików spiekanych"
+  },
+  {
+    "code": "20.01.04.02",
+    "term": "Narzędzia rozdrabniające do kształtowania elementów płaskich (np. płyt), z nakładkami z diamentu polikrystalicznego"
+  },
+  {
+    "code": "20.01.04.03",
+    "term": "Narzędzia rozdrabniające (rozdrabniaki) składane z nakładkami z węglików spiekanych"
+  },
+  {
+    "code": "20.01.04.04",
+    "term": "Narzędzia rozdrabniające (rozdrabniaki) składane z nakładkami z diamentu polikrystalicznego"
+  },
+  {
+    "code": "20.01.04.05",
+    "term": "Narzędzia rozdrabniające profilujące"
+  },
+  {
+    "code": "20.01.05",
+    "term": "Wały nożowe do frezarek do płaszczyzn (strugarek)"
+  },
+  {
+    "code": "20.01.06",
+    "term": "Frezy nasadzane, frezy całkowite i składane (głowice)"
+  },
+  {
+    "code": "20.01.06.01",
+    "term": "Frezy nasadzane stalowe"
+  },
+  {
+    "code": "20.01.06.02",
+    "term": "Frezy nasadzane, z nakładkami z węglików spiekanych / stali specjalnej"
+  },
+  {
+    "code": "20.01.06.03",
+    "term": "Frezy nasadzane składane, z ostrzami obracalnymi, z węglików spiekanych / stali specjalnej"
+  },
+  {
+    "code": "20.01.06.04",
+    "term": "Frezy nasadzane, całkowite z nakładkami z diamentu polikrystalicznego"
+  },
+  {
+    "code": "20.01.07",
+    "term": "Frezy trzpieniowe (chwytowe)"
+  },
+  {
+    "code": "20.01.07.01",
+    "term": "Frezy trzpieniowe do frezarek pionowych, górno-wrzecionowych"
+  },
+  {
+    "code": "20.01.07.03",
+    "term": "Frezy trzpieniowe do obrabiarek przenośnych"
+  },
+  {
+    "code": "20.01.07.10",
+    "term": "Frezy trzpieniowe stalowe do frezarek CNC i obrabiarek wielooperacyjnych"
+  },
+  {
+    "code": "20.01.07.11",
+    "term": "Frezy trzpieniowe do frezarek CNC i obrabiarek wielooperacyjnych z nakładkami z węglików spiekanych / stali specjalnej"
+  },
+  {
+    "code": "20.01.07.12",
+    "term": "Frezy trzpieniowe składane (głowice), do frezarek CNC i obrabiarek wielooperacyjnych, z ostrzami obracalnymi, z węglików spiekanych / stali specjalnej"
+  },
+  {
+    "code": "20.01.07.13",
+    "term": "Frezy trzpieniowe, do frezarek CNC i obrabiarek wielooperacyjnych, z nakładkami z diamentu polikrystalicznego"
+  },
+  {
+    "code": "20.01.07.99",
+    "term": "Frezy trzpieniowe; pozostałe"
+  },
+  {
+    "code": "20.01.08",
+    "term": "Wiertła do wiercenia maszynowego"
+  },
+  {
+    "code": "20.01.08.01",
+    "term": "Wiertła kręte"
+  },
+  {
+    "code": "20.01.08.02",
+    "term": "Wiertła do wiercenia na wskroś"
+  },
+  {
+    "code": "20.01.08.03",
+    "term": "Wiertła do wiercenia otworów pod kołki"
+  },
+  {
+    "code": "20.01.08.04",
+    "term": "Wiertła cylindryczne"
+  },
+  {
+    "code": "20.01.08.05",
+    "term": "Wiertła stopniowe"
+  },
+  {
+    "code": "20.01.08.06",
+    "term": "Pogłębiacze stożkowe"
+  },
+  {
+    "code": "20.01.08.07",
+    "term": "Wiertła cylindryczne do wykonywania zaślepek, do otworów po nawierconych sękach"
+  },
+  {
+    "code": "20.01.09",
+    "term": "Systemy narzędzi do produkcji okien i drzwi, w tym frezy do gniazd i czopów (widlic)"
+  },
+  {
+    "code": "20.01.10",
+    "term": "Frezy trzpieniowe z chwytem stożkowym, frezy całkowite i głowice (frezy składane)"
+  },
+  {
+    "code": "20.01.10.01",
+    "term": "Frezy trzpieniowe z chwytem stożkowym jednolite, stalowe"
+  },
+  {
+    "code": "20.01.10.02",
+    "term": "Frezy trzpieniowe z chwytem stożkowym, z nakładkami z węglików spiekanych / stali specjalnej"
+  },
+  {
+    "code": "20.01.10.03",
+    "term": "Frezy trzpieniowe, całkowite z nakładkami z diamentu polikrystalicznego"
+  },
+  {
+    "code": "20.01.10.04",
+    "term": "Frezy trzpieniowe, z chwytem stożkowym, z nakładkami z diamentu polikrystalicznego"
+  },
+  {
+    "code": "20.01.50",
+    "term": "Narzędzia skrawające maszynowe; inne"
+  },
+  {
+    "code": "20.01.50.01",
+    "term": "Dłuta oscylacyjne z wyposażeniem pomocniczym"
+  },
+  {
+    "code": "20.01.50.02",
+    "term": "Dłuta łańcuchowe z wyposażeniem dodatkowym"
+  },
+  {
+    "code": "20.01.50.03",
+    "term": "Narzędzia i wyposażenie pomocnicze do cyklinowania"
+  },
+  {
+    "code": "20.01.50.04",
+    "term": "Narzędzia tokarskie"
+  },
+  {
+    "code": "20.01.50.05",
+    "term": "Piły łańcuchowe"
+  },
+  {
+    "code": "20.01.50.06",
+    "term": "Piły tarczowe główne do pilarek"
+  },
+  {
+    "code": "20.01.90",
+    "term": "Narzędzia do materiałów specjalnych"
+  },
+  {
+    "code": "20.01.90.01",
+    "term": "Narzędzia do obróbki lekkich stopów"
+  },
+  {
+    "code": "20.01.90.02",
+    "term": "Narzędzia do obróbki szkła"
+  },
+  {
+    "code": "20.01.90.03",
+    "term": "Narzędzia do obróbki kamienia"
+  },
+  {
+    "code": "20.01.90.04",
+    "term": "Narzędzia do obróbki materiałów mineralnych"
+  },
+  {
+    "code": "20.01.90.99",
+    "term": "Narzędzia do obróbki materiałów specjalnych; pozostałe"
+  },
+  {
+    "code": "20.02",
+    "term": "Noże wymienne, noże obracalne, noże do składanych narzędzi do rozdrabniania, itd."
+  },
+  {
+    "code": "20.02.01",
+    "term": "Noże do głowic frezarskich"
+  },
+  {
+    "code": "20.02.02",
+    "term": "Noże obracalne dwu- i wielokrawędziowe"
+  },
+  {
+    "code": "20.02.03",
+    "term": "Płytki mocujące, ograniczniki"
+  },
+  {
+    "code": "20.02.04",
+    "term": "Noże, półfabrykaty do formowania krawędzi profilowych"
+  },
+  {
+    "code": "20.02.05",
+    "term": "Ostrza wstawne (segmenty) narzędzi rozdrabniających"
+  },
+  {
+    "code": "20.02.06",
+    "term": "Pręty ze stopu kobaltowego do napawania"
+  },
+  {
+    "code": "20.02.07",
+    "term": "Półfabrykaty z węglików spiekanych np. pręty, taśmy, nakładki, do pił itp."
+  },
+  {
+    "code": "20.02.08",
+    "term": "Noże do narzędzi rozdrabniających"
+  },
+  {
+    "code": "20.02.09",
+    "term": "Noże tarczowe (krążkowe)"
+  },
+  {
+    "code": "20.02.10",
+    "term": "Noże do skrawarek płaskich forniru i łuszczarek"
+  },
+  {
+    "code": "20.02.11",
+    "term": "Półfabrykaty z diamentu polikrystalicznego np. krążki, segmenty, nakładki do pił itp."
+  },
+  {
+    "code": "20.03",
+    "term": "Systemy mocowania narzędzi"
+  },
+  {
+    "code": "20.03.01",
+    "term": "Systemy mocowania pił tarczowych"
+  },
+  {
+    "code": "20.03.02",
+    "term": "Systemy mocowania frezów nasadzanych"
+  },
+  {
+    "code": "20.03.03",
+    "term": "Systemy mocowania frezów trzpieniowych"
+  },
+  {
+    "code": "20.03.04",
+    "term": "Systemy mocowania wierteł"
+  },
+  {
+    "code": "20.04",
+    "term": "Systemy do określania wymiaru i położenia narzędzi"
+  },
+  {
+    "code": "20.04.01",
+    "term": "Przyrządy do określania wymiaru i położenia narzędzi"
+  },
+  {
+    "code": "20.04.02",
+    "term": "Przyrządy do sprawdzania wymiaru i położenia narzędzi (sprawdziany)"
+  },
+  {
+    "code": "20.05",
+    "term": "Systemy zarządzania narzędziami"
+  },
+  {
+    "code": "20.05.01",
+    "term": "Systemy kodowania narzędzi"
+  },
+  {
+    "code": "20.05.02",
+    "term": "Oprogramowanie dla systemów zarządzania narzędziami"
+  },
+  {
+    "code": "20.06",
+    "term": "Narzędzia do szlifowania i polerowania"
+  },
+  {
+    "code": "20.06.01",
+    "term": "Narzędzia szlifierskie taśmowe długie (taśmy szlifierskie)"
+  },
+  {
+    "code": "20.06.02",
+    "term": "Narzędzia szlifierskie taśmowe szerokie"
+  },
+  {
+    "code": "20.06.03",
+    "term": "Narzędzia polerskie"
+  },
+  {
+    "code": "20.06.04",
+    "term": "Narzędzia szlifierskie tarczowe i krążki ścierne"
+  },
+  {
+    "code": "20.06.05",
+    "term": "Narzędzia szlifierskie szczotkowe"
+  },
+  {
+    "code": "20.06.06",
+    "term": "Narzędzia do szlifowania profilowego"
+  },
+  {
+    "code": "20.06.99",
+    "term": "Narzędzia i materiały szlifierskie; pozostałe"
+  },
+  {
+    "code": "20.07",
+    "term": "Urządzenia pomocnicze i części zamienne do obrabiarek (np. kliny mocujące, przekładki, pierścienie dystansowe, przyrządy do ostrzenia)"
+  },
+  {
+    "code": "20.08",
+    "term": "Narzędzia ręczne"
+  },
+  {
+    "code": "20.08.01",
+    "term": "Piły ręczne"
+  },
+  {
+    "code": "20.08.02",
+    "term": "Strugi ręczne"
+  },
+  {
+    "code": "20.08.03",
+    "term": "Dłuta, narzędzia tokarskie, narzędzia do rzeźbienia, itd."
+  },
+  {
+    "code": "20.08.04",
+    "term": "Młotki"
+  },
+  {
+    "code": "20.08.05",
+    "term": "Narzędzia pomiarowe, narzędzia do oznaczania"
+  },
+  {
+    "code": "20.08.99",
+    "term": "Narzędzia ręczne; pozostałe"
+  },
+  {
+    "code": "20.09",
+    "term": "Zaciski i prowadnice do narzędzi"
+  },
+  {
+    "code": "20.09.01",
+    "term": "Napinacze pił, uchwyty i przekładki pił trakowych"
+  },
+  {
+    "code": "20.09.02",
+    "term": "Prowadnice do pił taśmowych"
+  },
+  {
+    "code": "20.09.03",
+    "term": "Prowadnice do pił łańcuchowych"
+  },
+  {
+    "code": "20.09.04",
+    "term": "Trzpienie wymienne do mocowania frezów nasadzanych"
+  },
+  {
+    "code": "21",
+    "term": "Maszyny, sprzęt i narzędzia do przygotowania do pracy i produkcji narzędzi"
+  },
+  {
+    "code": "21.01",
+    "term": "Maszyny, sprzęt i narzędzia do przygotowania do pracy i produkcji maszynowych narzędzi skrawających"
+  },
+  {
+    "code": "21.01.01",
+    "term": "Ostrzarki do pił"
+  },
+  {
+    "code": "21.01.02",
+    "term": "Urządzenia do wyprawiania pił (usuwania odchyleń od płaskości i naprężania)"
+  },
+  {
+    "code": "21.01.03",
+    "term": "Maszyny do rozwierania, do zgrubiania (spęczania) i egalizacji ostrzy pił (trakowych i taśmowych)"
+  },
+  {
+    "code": "21.01.04",
+    "term": "Maszyny do spajania (lutowania, spawania) pił taśmowych"
+  },
+  {
+    "code": "21.01.05",
+    "term": "Maszyny do naprężania wstępnego (walcowania) i prostowania pił"
+  },
+  {
+    "code": "21.01.06",
+    "term": "Maszyny do powierzchniowego hartowania (utwardzania) wierzchołków ostrzy pił, prądem wysokiej częstotliwości"
+  },
+  {
+    "code": "21.01.07",
+    "term": "Maszyny do cięcia i spajania pił taśmowych"
+  },
+  {
+    "code": "21.01.08",
+    "term": "Szlifierki do noży"
+  },
+  {
+    "code": "21.01.08.01",
+    "term": "Szlifierki do noży strugarek, wiórkarek, rębarek"
+  },
+  {
+    "code": "21.01.08.02",
+    "term": "Szlifierki do noży do skrawarek płaskich, łuszczarek, przekrawarek"
+  },
+  {
+    "code": "21.01.08.03",
+    "term": "Maszyny do ostrzenia noży krążkowych i tarczowych"
+  },
+  {
+    "code": "21.01.08.90",
+    "term": "Systemy mocowania do ostrzarek do noży"
+  },
+  {
+    "code": "21.01.09",
+    "term": "Ostrzarki do narzędzi do cyklinowania"
+  },
+  {
+    "code": "21.01.10",
+    "term": "Ostrzarki do frezów nasadzanych"
+  },
+  {
+    "code": "21.01.11",
+    "term": "Ostrzarki frezów trzpieniowych i wierteł"
+  },
+  {
+    "code": "21.01.12",
+    "term": "Ostrzarki do narzędzi łańcuchowych"
+  },
+  {
+    "code": "21.01.13",
+    "term": "Ostrzarki uniwersalne do narzędzi"
+  },
+  {
+    "code": "21.01.14",
+    "term": "Ostrzarki do narzędzi z ostrzami z nakładkami z węglików spiekanych"
+  },
+  {
+    "code": "21.01.15",
+    "term": "Ostrzarki do narzędzi z nakładkami z diamentu polikrystalicznego"
+  },
+  {
+    "code": "21.01.50",
+    "term": "Maszyny i urządzenia do czyszczenia obrabiarek"
+  },
+  {
+    "code": "21.01.60",
+    "term": "Ściernice do ostrzenia narzędzi (z wyjątkiem ściernic diamentowych)"
+  },
+  {
+    "code": "21.01.61",
+    "term": "Ściernice diamentowe do ostrzenia narzędzi"
+  },
+  {
+    "code": "21.01.90",
+    "term": "Ostrzarki do specjalnych zastosowań"
+  },
+  {
+    "code": "21.01.99",
+    "term": "Maszyny, sprzęt i narzędzia do przygotowania do pracy i produkcji maszynowych narzędzi skrawających; pozostałe"
+  },
+  {
+    "code": "21.02",
+    "term": "Maszyny, sprzęt i narzędzia do przygotowania do pracy i produkcji narzędzi ręcznych"
+  },
+  {
+    "code": "22",
+    "term": "Urządzenia stanowiące wyposażenie maszyn"
+  },
+  {
+    "code": "22.01",
+    "term": "Systemy napędowe"
+  },
+  {
+    "code": "22.01.01",
+    "term": "Elektryczne systemy napędowe"
+  },
+  {
+    "code": "22.01.01.01",
+    "term": "Silniki elektryczne"
+  },
+  {
+    "code": "22.01.01.03",
+    "term": "Silniki z przekładnia napędową"
+  },
+  {
+    "code": "22.01.01.04",
+    "term": "Przemienniki częstotliwości"
+  },
+  {
+    "code": "22.01.01.05",
+    "term": "Elektroniczne układy napędowe"
+  },
+  {
+    "code": "22.01.01.06",
+    "term": "Silniki elektryczne liniowe"
+  },
+  {
+    "code": "22.01.01.07",
+    "term": "Elektryczne, elektroniczne i magnetyczne przełączniki i układy sterowania"
+  },
+  {
+    "code": "22.01.01.99",
+    "term": "Elektryczne układy napędowe; pozostałe"
+  },
+  {
+    "code": "22.01.02",
+    "term": "Pneumatyczne układy napędowe"
+  },
+  {
+    "code": "22.01.02.02",
+    "term": "Podzespoły i urządzenia pneumatyczne"
+  },
+  {
+    "code": "22.01.02.03",
+    "term": "Pneumatyczne układy sterowania i regulacji"
+  },
+  {
+    "code": "22.01.03",
+    "term": "Hydrauliczne zespoły napędowe"
+  },
+  {
+    "code": "22.01.03.01",
+    "term": "Elementy hydrauliki i wyposażenie"
+  },
+  {
+    "code": "22.01.03.02",
+    "term": "Kontrolery i regulatory hydrauliczne"
+  },
+  {
+    "code": "22.01.10",
+    "term": "Elementy i akcesoria do systemów napędowych"
+  },
+  {
+    "code": "22.01.10.01",
+    "term": "Reduktory i kontrolery prędkości"
+  },
+  {
+    "code": "22.01.10.02",
+    "term": "Sprzęgła i hamulce"
+  },
+  {
+    "code": "22.01.10.03",
+    "term": "Łożyska wałeczkowe i łożyska precyzyjne"
+  },
+  {
+    "code": "22.01.10.04",
+    "term": "Moduły liniowe"
+  },
+  {
+    "code": "22.01.10.99",
+    "term": "Elementy i przybory do systemów napędowych; pozostałe"
+  },
+  {
+    "code": "22.01.20",
+    "term": "Sprężarki"
+  },
+  {
+    "code": "22.02",
+    "term": "Zespoły do obróbki maszynowej"
+  },
+  {
+    "code": "22.02.01",
+    "term": "Zespoły piłujące"
+  },
+  {
+    "code": "22.02.02",
+    "term": "Zespoły strugające"
+  },
+  {
+    "code": "22.02.03",
+    "term": "Zespoły frezujące"
+  },
+  {
+    "code": "22.02.04",
+    "term": "Zespoły wiertarskie"
+  },
+  {
+    "code": "22.02.05",
+    "term": "Zespoły dłutarskie"
+  },
+  {
+    "code": "22.02.06",
+    "term": "Zespoły szlifierskie i polerskie"
+  },
+  {
+    "code": "22.02.07",
+    "term": "Zespoły natryskowe"
+  },
+  {
+    "code": "22.02.08",
+    "term": "Zespoły klejące"
+  },
+  {
+    "code": "22.02.09",
+    "term": "Zespoły montażowe"
+  },
+  {
+    "code": "22.02.10",
+    "term": "Generatory prądu wysokiej częstotliwości, generatory mikrofalowe"
+  },
+  {
+    "code": "22.02.11",
+    "term": "Urządzenia do wymiany narzędzi w obrabiarkach CNC"
+  },
+  {
+    "code": "22.02.12",
+    "term": "Mechanizmy krzywkowe i krzywki"
+  },
+  {
+    "code": "22.02.13",
+    "term": "Systemy antyelektrostatyczne"
+  },
+  {
+    "code": "22.03",
+    "term": "Zaciski i prowadnice do elementów obrabianych"
+  },
+  {
+    "code": "22.03.01",
+    "term": "Projektory laserowe"
+  },
+  {
+    "code": "22.03.02",
+    "term": "Prowadnice i ograniczniki dla elementów obrabianych"
+  },
+  {
+    "code": "22.03.02.01",
+    "term": "Prowadnice i ograniczniki dla elementów obrabianych, pozycjonowane mechanicznie"
+  },
+  {
+    "code": "22.03.02.02",
+    "term": "Prowadnice i ograniczniki dla elementów obrabianych, pozycjonowane komputerowe"
+  },
+  {
+    "code": "22.03.03",
+    "term": "Urządzenia mocujące"
+  },
+  {
+    "code": "22.03.04",
+    "term": "Systemy podciśnieniowe"
+  },
+  {
+    "code": "22.03.04.01",
+    "term": "Pompy i podzespoły do wytwarzania podciśnienia"
+  },
+  {
+    "code": "22.03.04.02",
+    "term": "Przyssawkowe urządzenia do mocujące element obrabiany"
+  },
+  {
+    "code": "22.03.04.03",
+    "term": "Centralne systemy podciśnieniowe"
+  },
+  {
+    "code": "22.03.05",
+    "term": "Urządzenia do frezowania wczepów"
+  },
+  {
+    "code": "22.03.06",
+    "term": "Wstrząsowe prowadniki kołków"
+  },
+  {
+    "code": "22.04",
+    "term": "Mechaniczne elementy do obsługi i mocowania maszyn, urządzeń i przenośników (uchwyty, pokrętła, gałki, itd.)"
+  },
+  {
+    "code": "22.05",
+    "term": "Materiały eksploatacyjne"
+  },
+  {
+    "code": "22.05.01",
+    "term": "Smary"
+  },
+  {
+    "code": "22.05.02",
+    "term": "Topniki"
+  },
+  {
+    "code": "22.99",
+    "term": "Elementy wyposażenia; pozostałe"
+  },
+  {
+    "code": "22.99.01",
+    "term": "Pompy, zawory, rury"
+  },
+  {
+    "code": "22.99.02",
+    "term": "Sita drenażowe"
+  },
+  {
+    "code": "22.99.03",
+    "term": "Płyty, osłony i elementy z tworzyw sztucznych do pras"
+  },
+  {
+    "code": "22.99.04",
+    "term": "Taśmy do pras pracujących w trybie ciągłym"
+  },
+  {
+    "code": "22.99.05",
+    "term": "Podgrzewane płyty dociskowe i pręty grzejne"
+  },
+  {
+    "code": "22.99.06",
+    "term": "Formy do prasowania i cylindry do produkcji elementów formowanych z wiórów, masy włóknistej, tworzyw sztucznych lub do powlekania twardymi materiałami powłokowymi"
+  },
+  {
+    "code": "22.99.07",
+    "term": "Elementy przenośników"
+  },
+  {
+    "code": "22.99.07.01",
+    "term": "Rolki i kółka"
+  },
+  {
+    "code": "22.99.07.02",
+    "term": "Taśmy"
+  },
+  {
+    "code": "22.99.07.99",
+    "term": "Elementy przenośników; pozostałe"
+  },
+  {
+    "code": "22.99.08",
+    "term": "Nieelektroniczne układy i urządzenia sterowania"
+  },
+  {
+    "code": "22.99.09",
+    "term": "Centralne systemy smarowania"
+  },
+  {
+    "code": "22.99.10",
+    "term": "Stopy dociskowe do szlifierek taśmowych"
+  },
+  {
+    "code": "22.99.11",
+    "term": "Filtry, elementy filtrów i wkłady filtrowe"
+  },
+  {
+    "code": "22.99.12",
+    "term": "Systemy prowadzenia kabli"
+  },
+  {
+    "code": "22.99.13",
+    "term": "Lampy / żarówki UV do utwardzania promieniami UV"
+  },
+  {
+    "code": "22.99.14",
+    "term": "Rolki i koła kolczaste do ciągnięcia drewna"
+  },
+  {
+    "code": "22.99.15",
+    "term": "Łańcuchy transmisyjne i transportowe"
+  },
+  {
+    "code": "30",
+    "term": "Wykorzystanie drewna odpadowego (trocin, wiórów, drewna opałowego, kory), wytwarzanie energii elektrycznej i cieplnej z wykorzystaniem paliwa drzewnego"
+  },
+  {
+    "code": "30.01",
+    "term": "Przygotowanie, transport i składowanie trocin, wiórów, drewna opałowego, itd."
+  },
+  {
+    "code": "30.01.01",
+    "term": "Rozłupywarki do okrąglaków, drewna opałowego, itd."
+  },
+  {
+    "code": "30.01.02",
+    "term": "Rozdrabniarki"
+  },
+  {
+    "code": "30.01.02.01",
+    "term": "Rozdrabniarki stacjonarne"
+  },
+  {
+    "code": "30.01.02.02",
+    "term": "Rozdrabniarki przenośne"
+  },
+  {
+    "code": "30.01.03",
+    "term": "Rębaki (wolnoobrotowe)"
+  },
+  {
+    "code": "30.01.04",
+    "term": "Pilarki do drewna opałowego"
+  },
+  {
+    "code": "30.01.05",
+    "term": "Maszyny do pakietowania drewna opałowego"
+  },
+  {
+    "code": "30.01.06",
+    "term": "Brykieciarki"
+  },
+  {
+    "code": "30.01.07",
+    "term": "Prasy do granulacji drewna"
+  },
+  {
+    "code": "30.01.12",
+    "term": "Maszyny zamiatające"
+  },
+  {
+    "code": "30.01.13",
+    "term": "Systemy przechowywania i transportu granulatu drzewnego"
+  },
+  {
+    "code": "30.01.14",
+    "term": "Kompletne urządzenia do produkcji granulatu drzewnego"
+  },
+  {
+    "code": "30.01.15",
+    "term": "Suszarnie do granulatu drzewnego"
+  },
+  {
+    "code": "30.01.16",
+    "term": "Suszarnie do paliw drzewnych"
+  },
+  {
+    "code": "30.01.20",
+    "term": "Wyposażenie do wychwytywania wiórów i pyłu"
+  },
+  {
+    "code": "30.01.20.01",
+    "term": "Systemy do wychwytywania wiórów i pyłu (włącznie z filtrami) / instalacje odwiórowania; instalacje odpylania"
+  },
+  {
+    "code": "30.01.20.02",
+    "term": "Systemy wychwytujące"
+  },
+  {
+    "code": "30.01.20.03",
+    "term": "Indywidualne urządzenia do odwiórowania / odpylania"
+  },
+  {
+    "code": "30.01.20.04",
+    "term": "Seperatory filtrujące"
+  },
+  {
+    "code": "30.01.20.05",
+    "term": "Silosy (zasobniki)"
+  },
+  {
+    "code": "30.01.20.06",
+    "term": "Odkurzacze przemysłowe"
+  },
+  {
+    "code": "30.01.20.07",
+    "term": "Wentylatory"
+  },
+  {
+    "code": "30.01.20.08",
+    "term": "Podgrzewacze do ciepłego powietrza"
+  },
+  {
+    "code": "30.01.20.09",
+    "term": "Systemy monitorowania koncentracji zapylenia resztowego"
+  },
+  {
+    "code": "30.01.20.10",
+    "term": "Specjalistyczne systemy kontroli wychwytywania wiórów (odwiórowania) i pyłu (odpylania)"
+  },
+  {
+    "code": "30.01.20.99",
+    "term": "Systemy do wychwytywania wiórów i pyłu; pozostałe"
+  },
+  {
+    "code": "30.02",
+    "term": "Wytwarzanie energii elektrycznej i cieplnej z wykorzystaniem paliwa drzewnego"
+  },
+  {
+    "code": "30.02.01",
+    "term": "Systemy kotłów z piecami na paliwo drzewne (drewno lite, wióry, trociny, itd.)"
+  },
+  {
+    "code": "30.02.02",
+    "term": "Piece do spalania drewna do wytwarzania gorących gazów"
+  },
+  {
+    "code": "30.02.03",
+    "term": "Generatory gazu drzewnego"
+  },
+  {
+    "code": "30.02.04",
+    "term": "Piece do spalania drewna do wytwarzania energii elektrycznej"
+  },
+  {
+    "code": "30.02.05",
+    "term": "Kominy, piece i palniki"
+  },
+  {
+    "code": "30.02.99",
+    "term": "Instalacje, układy i urządzenia pomocnicze do wytwarzania energii; pozostałe"
+  },
+  {
+    "code": "31",
+    "term": "Oszczędzanie energii, ochrona środowiska, bezpieczeństwo pracy, ochrona przeciwpożarowa i systemy klimatyzacyjne"
+  },
+  {
+    "code": "31.01",
+    "term": "Oszczędzanie energii"
+  },
+  {
+    "code": "31.01.01",
+    "term": "Instalacje i urządzenia do wtórnego wykorzystania energii"
+  },
+  {
+    "code": "31.01.02",
+    "term": "Energooszczędne pneumatyczne systemy przenośnikowe i urządzenia pomocnicze"
+  },
+  {
+    "code": "31.01.99",
+    "term": "Instalacje, układy i urządzenia pomocnicze wspomagające oszczędzanie energii; pozostałe"
+  },
+  {
+    "code": "31.02",
+    "term": "Technologia bezpieczeństwa"
+  },
+  {
+    "code": "31.03",
+    "term": "Ochrona środowiska"
+  },
+  {
+    "code": "31.03.01",
+    "term": "Instalacje do oczyszczania wody i płynnych środków chemicznych"
+  },
+  {
+    "code": "31.03.02",
+    "term": "Ekologiczne smary i paliwa"
+  },
+  {
+    "code": "31.03.03",
+    "term": "Instalacje i urządzenia do oczyszczania wywiewanego powietrza i spalin"
+  },
+  {
+    "code": "31.03.04",
+    "term": "Instalacje do spalania produktów chemicznych (lakierów, klejów, folii, itd.)"
+  },
+  {
+    "code": "31.04",
+    "term": "Bezpieczeństwo pracy"
+  },
+  {
+    "code": "31.04.01",
+    "term": "Urządzenia wyciszające (kabiny dźwiękoszczelne, itd.)"
+  },
+  {
+    "code": "31.04.02",
+    "term": "Urządzenia zabezpieczające do maszyn"
+  },
+  {
+    "code": "31.04.03",
+    "term": "Odzież i urządzenia ochronne (w tym odzież robocza)"
+  },
+  {
+    "code": "31.05",
+    "term": "Ochrona przeciwpożarowa i gaszenie pożarów, zabezpieczanie przed wybuchami"
+  },
+  {
+    "code": "31.05.01",
+    "term": "Przeciwpożarowe systemy alarmowe"
+  },
+  {
+    "code": "31.05.02",
+    "term": "Systemy gaśnicze (gaszenie ognia i iskier)"
+  },
+  {
+    "code": "31.05.03",
+    "term": "Instalacje spryskujące"
+  },
+  {
+    "code": "31.05.04",
+    "term": "Systemy zabezpieczania przed wybuchami"
+  },
+  {
+    "code": "31.06",
+    "term": "Technologie klimatyzacyjne"
+  },
+  {
+    "code": "31.06.01",
+    "term": "Urządzenia klimatyzacyjne"
+  },
+  {
+    "code": "31.06.02",
+    "term": "Komory klimatyzacyjne"
+  },
+  {
+    "code": "31.06.03",
+    "term": "Systemy nawilżania powietrza"
+  },
+  {
+    "code": "31.06.04",
+    "term": "Układy pomiarowe i sterujące do urządzeń klimatyzacyjnych"
+  },
+  {
+    "code": "40",
+    "term": "Urządzenia elektroniczne do pobierania, rejestracji i przetwarzania danych; systemy pomiarowe, testujące i sterujące"
+  },
+  {
+    "code": "40.01",
+    "term": "Urządzenia elektroniczne do rejestracji i przetwarzania danych"
+  },
+  {
+    "code": "40.01.01",
+    "term": "Systemy sterowania numerycznego"
+  },
+  {
+    "code": "40.01.02",
+    "term": "Systemy CAM"
+  },
+  {
+    "code": "40.01.03",
+    "term": "Systemy programowania NC"
+  },
+  {
+    "code": "40.01.04",
+    "term": "Systemy do identyfikacji i oznaczania komponentów (kody paskowe, itd.)"
+  },
+  {
+    "code": "40.01.05",
+    "term": "Systemy przetwarzania obrazu, identyfikacja kolorów, struktur, kontrola powierzchni, pomiar optyczny, itd."
+  },
+  {
+    "code": "40.01.06",
+    "term": "Urządzenia elektroniczne do pobierania, rejestracji i przetwarzania danych dla specjalistycznych sektorów i dziedzin"
+  },
+  {
+    "code": "40.01.06.01",
+    "term": "Urządzenia elektroniczne do pobierania, rejestracji i przetwarzania danych dla składów drewna i tartaków"
+  },
+  {
+    "code": "40.01.06.02",
+    "term": "Urządzenia elektroniczne do pobierania, rejestracji i przetwarzania danych dla zakładów produkujących fornir"
+  },
+  {
+    "code": "40.01.06.03",
+    "term": "Urządzenia elektroniczne do rejestracji i przetwarzania danych dotyczących cięcia i klejenia forniru"
+  },
+  {
+    "code": "40.01.06.04",
+    "term": "Urządzenia elektroniczne do pobierania, rejestracji i przetwarzania danych dotyczących produkcji mebli"
+  },
+  {
+    "code": "40.01.06.05",
+    "term": "Elektroniczne wyposażenie do przejmowania, rejestracji i przetwarzania informacji dla produkcji płyt drewnopochodnych"
+  },
+  {
+    "code": "40.02",
+    "term": "Systemy pomiarowe, testujące i sterujące"
+  },
+  {
+    "code": "40.02.01",
+    "term": "Instrumenty do pomiaru elementów obrabianych"
+  },
+  {
+    "code": "40.02.02",
+    "term": "Instrumenty do testowania i wykrywania wad materiałowych"
+  },
+  {
+    "code": "40.02.03",
+    "term": "Systemy monitorowania produkcji"
+  },
+  {
+    "code": "40.02.04",
+    "term": "Wykrywacze metalu i urządzenia do usuwania metalu"
+  },
+  {
+    "code": "40.02.99",
+    "term": "Urządzenia pomiarowe i testujące; pozostałe"
+  },
+  {
+    "code": "80",
+    "term": "Dostawcy kompletnych instalacji przemysłowych, firmy finansujące i leasingowe"
+  },
+  {
+    "code": "80.01",
+    "term": "Wykonawcy generalni odpowiedzialni za dostarczenie kompletnych instalacji"
+  },
+  {
+    "code": "80.01.01",
+    "term": "Generalni wykonawcy dla tartaków"
+  },
+  {
+    "code": "80.01.02",
+    "term": "Generalni wykonawcy dla zakładów produkujących fornir i sklejkę"
+  },
+  {
+    "code": "80.01.03",
+    "term": "Generalni wykonawcy dla zakładów produkujących twarde materiały powłokowe (laminaty, folie, itd.)"
+  },
+  {
+    "code": "80.01.04",
+    "term": "Generalni wykonawcy dla zakładów produkujących płyty wiórowe, pilśniowe i OSB"
+  },
+  {
+    "code": "80.01.05",
+    "term": "Generalni wykonawcy dla zakładów produkujących meble"
+  },
+  {
+    "code": "80.01.06",
+    "term": "Generalni wykonawcy dla zakładów obróbki drewna litego"
+  },
+  {
+    "code": "80.01.07",
+    "term": "Generalni wykonawcy dla zakładów produkujących drewniane elementy konstrukcyjne (okna, fasady, itd.)"
+  },
+  {
+    "code": "80.01.08",
+    "term": "Generalni wykonawcy dla konstrukcji drewnianych i domów z drewna"
+  },
+  {
+    "code": "80.01.09",
+    "term": "Generalni wykonawcy dla zakładów produkujących podłogi laminowane"
+  },
+  {
+    "code": "80.01.10",
+    "term": "Generalni wykonawcy dla zakładów produkujących parkiet z drewna litego"
+  },
+  {
+    "code": "80.01.11",
+    "term": "Generalni wykonawcy dla zakładów produkujących panele z drewna litego"
+  },
+  {
+    "code": "80.01.12",
+    "term": "Generalni wykonawcy dla zakładów produkujących płyty drewniano-cementowe"
+  },
+  {
+    "code": "80.01.99",
+    "term": "Generalni wykonawcy; inne"
+  },
+  {
+    "code": "80.02",
+    "term": "Firmy finansujące"
+  },
+  {
+    "code": "80.03",
+    "term": "Firmy leasingowe"
+  },
+  {
+    "code": "90",
+    "term": "Niezależne oprogramowanie komputerowe (CAD, ERP, planowanie i kontrola produkcji, itp.)"
+  },
+  {
+    "code": "90.01",
+    "term": "Niezależne oprogramowanie dla tartaków i składnic drewna"
+  },
+  {
+    "code": "90.02",
+    "term": "Niezależne oprogramowanie do produkcji forniru i sklejki"
+  },
+  {
+    "code": "90.03",
+    "term": "Niezależne oprogramowanie do produkcji płyt wiórowych, pilśniowych i OSB"
+  },
+  {
+    "code": "90.04",
+    "term": "Niezależne oprogramowanie do przerobu forniru"
+  },
+  {
+    "code": "90.05",
+    "term": "Niezależne oprogramowanie do przerobu drewna litego"
+  },
+  {
+    "code": "90.06",
+    "term": "Niezależne oprogramowanie dla przemysłu meblowego"
+  },
+  {
+    "code": "90.07",
+    "term": "Niezależne oprogramowanie do produkcji okien"
+  },
+  {
+    "code": "90.08",
+    "term": "Niezależne oprogramowanie do produkcji konstrukcji drewnianych"
+  },
+  {
+    "code": "90.09",
+    "term": "Niezależne oprogramowanie dla branży rzemieślniczej"
+  },
+  {
+    "code": "90.10",
+    "term": "Niezależne oprogramowanie do konstrukcji schodów"
+  },
+  {
+    "code": "90.11",
+    "term": "Niezależne oprogramowanie do handlu drewnem"
+  },
+  {
+    "code": "90.50",
+    "term": "Standardowe oprogramowanie dla przemysłu drzewnego (ERP, zarządzanie materiałami, zarządzanie kadrami, obliczanie kosztów, itp.)"
+  },
+  {
+    "code": "90.99",
+    "term": "Niezależne oprogramowanie; pozostałe"
+  },
+  {
+    "code": "95",
+    "term": "Niezależne usługi dla przemysłu drzewnego"
+  },
+  {
+    "code": "95.01",
+    "term": "Niezależne usługi inżynierskie i doradcze dla przemysłu drzewnego"
+  },
+  {
+    "code": "95.01.01",
+    "term": "Niezależne usługi inżynierskie i doradcze dla tartaków"
+  },
+  {
+    "code": "95.01.02",
+    "term": "Niezależne usługi inżynierskie i doradcze dla zakładów produkujących fornir i sklejkę"
+  },
+  {
+    "code": "95.01.03",
+    "term": "Niezależne usługi inżynierskie i doradcze związane z produkcją twardych materiałów powłokowych i technologiami laminowania (laminaty, folie, powłoki, itd.)"
+  },
+  {
+    "code": "95.01.04",
+    "term": "Niezależne usługi inżynieryjne i konsultingowe związane z produkcją płyt wiórowych, pilśniowych i OSB"
+  },
+  {
+    "code": "95.01.05",
+    "term": "Niezależne usługi inżynierskie i doradcze dla przemysłu meblowego"
+  },
+  {
+    "code": "95.01.06",
+    "term": "Niezależne usługi inżynierskie i doradcze związane z suszeniem i parowaniem drewna litego"
+  },
+  {
+    "code": "95.01.07",
+    "term": "Niezależne usługi inżynierskie i doradcze związane z obróbką drewna litego"
+  },
+  {
+    "code": "95.01.08",
+    "term": "Niezależne usługi inżynierskie i doradcze związane z produkcją okien i fasad"
+  },
+  {
+    "code": "95.01.09",
+    "term": "Niezależne usługi inżynierskie i doradcze z zastosowaniem dla konstrukcji drewnianych"
+  },
+  {
+    "code": "95.01.10",
+    "term": "Niezależne usługi inżynierskie i doradcze dla branży rzemieślniczej"
+  },
+  {
+    "code": "95.01.11",
+    "term": "Niezależne usługi inżynierskie i doradcze związane z wykańczaniem powierzchni"
+  },
+  {
+    "code": "95.01.12",
+    "term": "Niezależne usługi inżynierskie i doradcze związane z wytwarzaniem energii z paliwa drzewnego i oszczędzaniem energii"
+  },
+  {
+    "code": "95.01.13",
+    "term": "Niezależne usługi inżynierskie i doradcze związane z ochroną środowiska"
+  },
+  {
+    "code": "95.01.14",
+    "term": "Niezależne inżynierskie i doradcze związane z technologiami bezpieczeństwa oraz bezpieczeństwa pracy i pożarowego"
+  },
+  {
+    "code": "95.02",
+    "term": "Usługi szkoleniowe"
+  },
+  {
+    "code": "95.03",
+    "term": "Konserwacja, naprawy, montaż, demontaż, odnawianie / regeneracja i modernizacja maszyn i instalacji"
+  },
+  {
+    "code": "95.04",
+    "term": "Stowarzyszenia"
+  },
+  {
+    "code": "95.05",
+    "term": "Organizacje zrzeszające organizatorów targów"
+  },
+  {
+    "code": "95.99",
+    "term": "Usługi; pozostałe"
+  },
+  {
+    "code": "96",
+    "term": "Instytuty badawcze i testujące, instytucje edukacyjne dla przemysłu drzewnego (uniwersytety, politechniki, itd.)"
+  },
+  {
+    "code": "96.01",
+    "term": "Instytucje edukacyjne dla przemysłu drzewnego"
+  },
+  {
+    "code": "96.02",
+    "term": "Instytucje badawcze dla przemysłu drzewnego"
+  },
+  {
+    "code": "96.03",
+    "term": "Instytucje testujące dla przemysłu drzewnego"
+  },
+  {
+    "code": "97",
+    "term": "Wydawcy literatury dla przemysłu drzewnego"
+  },
+  {
+    "code": "97.01",
+    "term": "Czasopisma techniczne i periodyki dla przemysłu drzewnego"
+  },
+  {
+    "code": "97.03",
+    "term": "Książki techniczne dla przemysłu drzewnego"
+  },
+  {
+    "code": "97.04",
+    "term": "Publikacje na bazie internetu dla leśnictwa i przemysłu drzewnego"
+  }
+]
