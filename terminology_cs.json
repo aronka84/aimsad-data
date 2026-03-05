@@ -1,0 +1,3938 @@
+[
+  {
+    "code": "00",
+    "term": "Stroje, technické vybavení a služby pro lesnictví"
+  },
+  {
+    "code": "00.01.01",
+    "term": "Kultivace půdy"
+  },
+  {
+    "code": "00.01.02",
+    "term": "Hnojení"
+  },
+  {
+    "code": "00.01.03",
+    "term": "Lesní sběr a těžba dřeva"
+  },
+  {
+    "code": "00.01.04",
+    "term": "Ochrana lesa"
+  },
+  {
+    "code": "00.01.05",
+    "term": "Rozvoj lesních cest a vodních toků"
+  },
+  {
+    "code": "00.01.06",
+    "term": "Péče o mladé porosty a lesní plodiny"
+  },
+  {
+    "code": "00.01.07",
+    "term": "Zvyšování výnosů, vyvětvování a probírky"
+  },
+  {
+    "code": "00.01.08",
+    "term": "Pěstitelské školky"
+  },
+  {
+    "code": "00.01.09",
+    "term": "Osivo, příprava plochy a sadba"
+  },
+  {
+    "code": "00.01.10",
+    "term": "Vyměřování v lesnictví"
+  },
+  {
+    "code": "00.01.11",
+    "term": "Lesnictví, rekultivace půdy a ochrana lesního porostu"
+  },
+  {
+    "code": "00.01.12",
+    "term": "Ochrana lesního porostu, obrana před škůdci"
+  },
+  {
+    "code": "00.02",
+    "term": "Těžba dřeva a přibližování"
+  },
+  {
+    "code": "00.02.01",
+    "term": "Strojní zařízení a vybavení pro vyvětvování"
+  },
+  {
+    "code": "00.02.02",
+    "term": "Odkorňovací stroje a vybavení"
+  },
+  {
+    "code": "00.02.03",
+    "term": "Stroje na těžbu dřeva"
+  },
+  {
+    "code": "00.02.04",
+    "term": "Lesní traktory, speciální lesní traktory a vybavení"
+  },
+  {
+    "code": "00.02.05",
+    "term": "Přibližování a lanové dráhy při těžbě dřeva"
+  },
+  {
+    "code": "00.02.06",
+    "term": "Jeřáby a další lesnické vybavení"
+  },
+  {
+    "code": "00.02.07",
+    "term": "Přenosné řetězové pily a další pomocné vybavení"
+  },
+  {
+    "code": "00.02.08",
+    "term": "Vlečné vozíky a přívěsy pro přibližování dřeva"
+  },
+  {
+    "code": "00.02.09",
+    "term": "Přibližovací lana, lanový úvazek, bezpečnostní pásy a vyměřování"
+  },
+  {
+    "code": "00.02.10",
+    "term": "Přibližovací navijáky, přibližovací kleště"
+  },
+  {
+    "code": "00.02.11",
+    "term": "Maziva a palivo pro lesní stroje"
+  },
+  {
+    "code": "00.03",
+    "term": "Lesnické nářadí a pomocné nástroje"
+  },
+  {
+    "code": "00.03.01",
+    "term": "Sekyry"
+  },
+  {
+    "code": "00.03.02",
+    "term": "Řetězy"
+  },
+  {
+    "code": "00.03.03",
+    "term": "Nože"
+  },
+  {
+    "code": "00.03.04",
+    "term": "Odřezávače"
+  },
+  {
+    "code": "00.03.05",
+    "term": "Provazy a lana"
+  },
+  {
+    "code": "00.03.06",
+    "term": "Kotvení a stěnování řeziva"
+  },
+  {
+    "code": "00.03.07",
+    "term": "Vybavení a pomocný materiál k označování, štítkování a číslování v lese"
+  },
+  {
+    "code": "00.04",
+    "term": "Vozidla pro přepravu řeziva a manipulaci s řezivem"
+  },
+  {
+    "code": "00.04.01",
+    "term": "Vozové nakládací jeřáby a drapáky pro manipulaci s dřevem"
+  },
+  {
+    "code": "00.04.02",
+    "term": "Přívěsy pro krátké řezivo"
+  },
+  {
+    "code": "00.04.03",
+    "term": "Těžba a nakládka krátkého řeziva"
+  },
+  {
+    "code": "00.04.04",
+    "term": "Přeprava krátkého řeziva"
+  },
+  {
+    "code": "00.04.05",
+    "term": "Přívěsy"
+  },
+  {
+    "code": "00.04.06",
+    "term": "Pomocné vybavení pro lesní přepravu, lesnické strojní vybavení a vozidla"
+  },
+  {
+    "code": "00.05",
+    "term": "Telekomunikační vybavení a mobilní zpracování dat v lesním hospodářství"
+  },
+  {
+    "code": "00.05.01",
+    "term": "Zařízení a systémy k provádění inventarizace zásob v lesním hospodářství"
+  },
+  {
+    "code": "00.05.02",
+    "term": "Zařízení a systémy měření řeziva"
+  },
+  {
+    "code": "00.05.03",
+    "term": "Řízení zásob a logistika"
+  },
+  {
+    "code": "00.05.04",
+    "term": "Software v lesním hospodářství"
+  },
+  {
+    "code": "00.05.05",
+    "term": "Monitoring lesních požárů a požární ochrana"
+  },
+  {
+    "code": "00.06",
+    "term": "Bezpečnost práce v lesnictví"
+  },
+  {
+    "code": "00.06.01",
+    "term": "Pracovní a ochranný oděv"
+  },
+  {
+    "code": "00.06.02",
+    "term": "Ochranné vybavení a pomůcky"
+  },
+  {
+    "code": "00.07",
+    "term": "Služby pro lesní hospodářství"
+  },
+  {
+    "code": "00.07.01",
+    "term": "Pracovní příprava a pracovní techniky"
+  },
+  {
+    "code": "00.07.02",
+    "term": "Služby při těžbě dřeva"
+  },
+  {
+    "code": "00.07.03",
+    "term": "Inventarizace v lesním hospodářství, monitoring lesa"
+  },
+  {
+    "code": "00.07.04",
+    "term": "Certifikáty v lesním hospodářství"
+  },
+  {
+    "code": "00.07.50",
+    "term": "Nezávislé odborné a konzultační služby v lesnictví"
+  },
+  {
+    "code": "00.07.99",
+    "term": "Služby v lesnictví; ostatní"
+  },
+  {
+    "code": "00.08",
+    "term": "Vydavatelé literatury o lesnictví"
+  },
+  {
+    "code": "00.08.01",
+    "term": "Odborné časopisy a periodika o lesnictví"
+  },
+  {
+    "code": "00.08.03",
+    "term": "Odborné knihy o lesnictví"
+  },
+  {
+    "code": "00.08.04",
+    "term": "Knihy a publikace pro lesnický průmysl založené na webu"
+  },
+  {
+    "code": "00.09",
+    "term": "Výzkumné a zkušební ústavy, vzdělávací instituce (univerzity, technické fakulty, apod.), zabývající se lesnictvím"
+  },
+  {
+    "code": "00.09.01",
+    "term": "Vzdělávací instituce zabývající se lesnictvím"
+  },
+  {
+    "code": "00.09.02",
+    "term": "Výzkumné instituce zabývající se lesnictvím"
+  },
+  {
+    "code": "00.09.03",
+    "term": "Zkušební ústavy zabývající se lesnictvím"
+  },
+  {
+    "code": "00.10",
+    "term": "Ochrana životního prostředí pro lesnický průmysl"
+  },
+  {
+    "code": "00.10.01",
+    "term": "Mobilní palivové nádrže a čerpadla"
+  },
+  {
+    "code": "00.10.02",
+    "term": "Skladování látek, kontaminujících vodu (nafta atd.)"
+  },
+  {
+    "code": "00.10.03",
+    "term": "Skladování nebezpečných materiálů"
+  },
+  {
+    "code": "01",
+    "term": "Stroje a technické vybavení prvotního zpracování (produkce polotovarů)"
+  },
+  {
+    "code": "01.01",
+    "term": "Skladiště kulatiny"
+  },
+  {
+    "code": "01.01.01",
+    "term": "Mobilní přepravníky kulatiny"
+  },
+  {
+    "code": "01.01.02",
+    "term": "Jeřáby pro sklady kulatiny"
+  },
+  {
+    "code": "01.01.03",
+    "term": "Stacionární přepravníky na skladech kulatiny"
+  },
+  {
+    "code": "01.01.04",
+    "term": "Systémy skladování kmenových výřezů"
+  },
+  {
+    "code": "01.01.05",
+    "term": "Třídírny kmenových výřezů"
+  },
+  {
+    "code": "01.01.06",
+    "term": "Automatické protipožární systémy na ochranu dřeva"
+  },
+  {
+    "code": "01.01.07",
+    "term": "Strojní vybavení a nástroje odkorňování kulatiny"
+  },
+  {
+    "code": "01.01.08",
+    "term": "Rotační rozmělňovače kulatiny, patkové rozmělňovače"
+  },
+  {
+    "code": "01.01.09",
+    "term": "Krátící pily"
+  },
+  {
+    "code": "01.01.09.01",
+    "term": "Mobilní řetězové pily"
+  },
+  {
+    "code": "01.01.09.02",
+    "term": "Stacionární řetězové pily"
+  },
+  {
+    "code": "01.01.09.03",
+    "term": "Kotoučové pily pro příčný pořez"
+  },
+  {
+    "code": "01.01.09.04",
+    "term": "Stanoviště pro pořez dřeva s kontinuálním podáváním"
+  },
+  {
+    "code": "01.01.10",
+    "term": "Měření a optimalizace kmenových výřezů"
+  },
+  {
+    "code": "01.01.11",
+    "term": "Detektory kovu a vytahovače z kulatiny"
+  },
+  {
+    "code": "01.01.12",
+    "term": "Nástroje označování a štítkování kmenů a kmenových výřezů"
+  },
+  {
+    "code": "01.02",
+    "term": "Pilařská technologie (produkce řeziva)"
+  },
+  {
+    "code": "01.02.01",
+    "term": "Zpracování dřeva a rozmítací stroje"
+  },
+  {
+    "code": "01.02.01.01",
+    "term": "Horizontální rámové pily"
+  },
+  {
+    "code": "01.02.01.02",
+    "term": "Vertikální rámové pily"
+  },
+  {
+    "code": "01.02.01.03",
+    "term": "Pásové kmenové pily, horizontální"
+  },
+  {
+    "code": "01.02.01.04",
+    "term": "Pásové kmenové pily, vertikální"
+  },
+  {
+    "code": "01.02.01.05",
+    "term": "Pásové rozmítací pily"
+  },
+  {
+    "code": "01.02.01.06",
+    "term": "Kombinované pásové pily"
+  },
+  {
+    "code": "01.02.01.07",
+    "term": "Jednovřetenové kotoučové pily pro pořez kmenového dřeva"
+  },
+  {
+    "code": "01.02.01.08",
+    "term": "Dvouvřetenové kotoučové pily pro pořez kmenového dřeva"
+  },
+  {
+    "code": "01.02.01.09",
+    "term": "Kotoučové pily s volnoběžným držením kmenového dřeva"
+  },
+  {
+    "code": "01.02.01.10",
+    "term": "Kotoučové pily pro pořez stavebního dřeva"
+  },
+  {
+    "code": "01.02.01.11",
+    "term": "Hoblovačky / tvarovací linky"
+  },
+  {
+    "code": "01.02.01.12",
+    "term": "Kombinace hoblovaček a pásových pil"
+  },
+  {
+    "code": "01.02.01.13",
+    "term": "Beztřískové řezací stroje pro pořez latí a laminovaný materiál"
+  },
+  {
+    "code": "01.02.01.14",
+    "term": "Kotoučové pily s vozíkem na rozmítání"
+  },
+  {
+    "code": "01.02.01.15",
+    "term": "Kotoučové rozmítačky"
+  },
+  {
+    "code": "01.02.01.16",
+    "term": "Jednovřetenová omítací / rozřezávací pila"
+  },
+  {
+    "code": "01.02.01.17",
+    "term": "Dvouvřetenová omítací / rozřezávací pila"
+  },
+  {
+    "code": "01.02.01.18",
+    "term": "Kombinované vertikálně-horizontální kotoučové pily"
+  },
+  {
+    "code": "01.02.01.19",
+    "term": "Optimalizace pořezu latí"
+  },
+  {
+    "code": "01.02.01.20",
+    "term": "Pily pro příčný pořez"
+  },
+  {
+    "code": "01.02.01.21",
+    "term": "Kontinuální zkracovací pily"
+  },
+  {
+    "code": "01.02.01.22",
+    "term": "Pily pro příčný pořez s vodicí lištou pro balíkování řeziva"
+  },
+  {
+    "code": "01.02.02",
+    "term": "Zařízení k přepravě, třídění a ukládání zpracovaného řeziva"
+  },
+  {
+    "code": "01.02.02.01",
+    "term": "Třídírny užitkového dřeva"
+  },
+  {
+    "code": "01.02.02.02",
+    "term": "Přepravníky zpracovaného řeziva (válečkové dopravníky / tratě, překladače apod.)"
+  },
+  {
+    "code": "01.02.02.03",
+    "term": "Ukládání a stohování užitkového dřeva"
+  },
+  {
+    "code": "01.02.03",
+    "term": "Měření a evidence zpracovaného řeziva"
+  },
+  {
+    "code": "01.02.04",
+    "term": "Mobilní pily na pořez kmenového dřeva"
+  },
+  {
+    "code": "01.02.04.01",
+    "term": "Mobilní pásové pily na pořez kmenového dřeva"
+  },
+  {
+    "code": "01.02.04.02",
+    "term": "Mobilní kotoučové pily na pořez kmenového dřeva"
+  },
+  {
+    "code": "01.03",
+    "term": "Sušení, napařování a impregnace masivního řeziva"
+  },
+  {
+    "code": "01.03.01",
+    "term": "Napařování řeziva"
+  },
+  {
+    "code": "01.03.02",
+    "term": "Sušárny"
+  },
+  {
+    "code": "01.03.02.01",
+    "term": "Sušení teplem a větráním"
+  },
+  {
+    "code": "01.03.02.02",
+    "term": "Sušení ve vakuu"
+  },
+  {
+    "code": "01.03.02.03",
+    "term": "Sušárny s tepelnými čerpadly"
+  },
+  {
+    "code": "01.03.02.04",
+    "term": "Sušárny pro speciální procesy (např. vysokofrekvenční sušení, mikrovlné sušení)"
+  },
+  {
+    "code": "01.03.03",
+    "term": "Přístrojové vybavení k měření vlhkosti dřeva"
+  },
+  {
+    "code": "01.03.03.01",
+    "term": "Příruční měřiče vlhkosti"
+  },
+  {
+    "code": "01.03.03.02",
+    "term": "Měřiče vlhkosti, přímé"
+  },
+  {
+    "code": "01.03.04",
+    "term": "Kontrolní vybavení sušárny"
+  },
+  {
+    "code": "01.03.05",
+    "term": "Impregnování dřeva"
+  },
+  {
+    "code": "01.03.06",
+    "term": "Provozy pro tepelnou úpravu dřeva pro změnu fyzikálních vlastností"
+  },
+  {
+    "code": "01.03.07",
+    "term": "Provozy pro chemickou úpravu dřeva pro změnu jeho vzhledu (např. čpavkem, olejem atd."
+  },
+  {
+    "code": "01.04",
+    "term": "Výroba dýh"
+  },
+  {
+    "code": "01.04.01",
+    "term": "Napařování a tepelné zpracování špalků na krájení dýh"
+  },
+  {
+    "code": "01.04.02",
+    "term": "Speciální pily pro pořez dýhového řeziva"
+  },
+  {
+    "code": "01.04.03",
+    "term": "Hoblovačky na špalky"
+  },
+  {
+    "code": "01.04.04",
+    "term": "Kráječky na dýhy"
+  },
+  {
+    "code": "01.04.05",
+    "term": "Rotační kráječky na dýhy"
+  },
+  {
+    "code": "01.04.06",
+    "term": "Loupačky dýh"
+  },
+  {
+    "code": "01.04.07",
+    "term": "Vystřeďovací a nakladací zařízení"
+  },
+  {
+    "code": "01.04.08",
+    "term": "Zařízení na excentrické loupání dýh"
+  },
+  {
+    "code": "01.04.09",
+    "term": "Zařízení pro loupání, třídění a vykládání dýh"
+  },
+  {
+    "code": "01.04.10",
+    "term": "Přepravníky a skladovací vybavení (zásobníky) nakrájených a oloupaných dýh"
+  },
+  {
+    "code": "01.04.11",
+    "term": "Sušičky dýh"
+  },
+  {
+    "code": "01.04.11.01",
+    "term": "Pásové sušičky"
+  },
+  {
+    "code": "01.04.11.02",
+    "term": "Válečkové sušičky"
+  },
+  {
+    "code": "01.04.11.03",
+    "term": "Tlakové / vyrovnávací sušičky"
+  },
+  {
+    "code": "01.04.12",
+    "term": "Řadové kontrolní vybavení pro zjišťování vlhkosti dřeva při vysoušení dýh"
+  },
+  {
+    "code": "01.04.13",
+    "term": "Gilotinové nůžky / kleště na dýhy"
+  },
+  {
+    "code": "01.04.13.01",
+    "term": "Gilotinové nůžky ke krájení dýh"
+  },
+  {
+    "code": "01.04.13.02",
+    "term": "Kleště na oloupané dýhy"
+  },
+  {
+    "code": "01.04.14",
+    "term": "Zařízení a stroje pro měření a značení dýh"
+  },
+  {
+    "code": "01.04.15",
+    "term": "Balíkovací stroje na dýhy"
+  },
+  {
+    "code": "01.05",
+    "term": "Výroba pevných nátěrových hmot na bázi papíru (lamináty, filmy apod.)"
+  },
+  {
+    "code": "01.05.01",
+    "term": "Linky pro impregnaci a nátěry papíru a tkanin"
+  },
+  {
+    "code": "01.05.02",
+    "term": "Sušičky na principu flotace vzduchem - k impregnaci a natírání papíru"
+  },
+  {
+    "code": "01.05.03",
+    "term": "Systémy nanášení lepidel (při výrobě třískových desek) a dávkovací zařízení"
+  },
+  {
+    "code": "01.05.04",
+    "term": "Cyklické lisy pro lamináty (např. HPL)"
+  },
+  {
+    "code": "01.05.05",
+    "term": "Kontinuální typy cyklických lisů pro lamináty (např. CPL)"
+  },
+  {
+    "code": "01.05.06",
+    "term": "Řezné stroje pro laminování a nanášení filmů"
+  },
+  {
+    "code": "01.05.06.01",
+    "term": "Kleště pro laminování a nanášení filmů"
+  },
+  {
+    "code": "01.05.06.02",
+    "term": "Řezné stroje pro laminování a nanášení filmů - s válečkovými střihacími noži"
+  },
+  {
+    "code": "01.05.07",
+    "term": "Systémy pro pořizování výrobních údajů a monitorování kvality pevných nátěrových hmot"
+  },
+  {
+    "code": "01.06",
+    "term": "Výroba překližek z dýh a laminového dýhového stavebního dřeva"
+  },
+  {
+    "code": "01.06.01",
+    "term": "Spojovací stroje pro oloupanou dýhu"
+  },
+  {
+    "code": "01.06.02",
+    "term": "Sesazovačky oloupaných dýh"
+  },
+  {
+    "code": "01.06.03",
+    "term": "Linky pro šikmý úkos oloupané dýhy"
+  },
+  {
+    "code": "01.06.04",
+    "term": "Slepovačky kmenových jader (krájení na délku, lepení, lisování apod.)"
+  },
+  {
+    "code": "01.06.05",
+    "term": "Nanášení lepidla při výrobě dýh a desek"
+  },
+  {
+    "code": "01.06.06",
+    "term": "Blokové lisy pro zpracování překližkového a laminovaného dýhového řeziva"
+  },
+  {
+    "code": "01.06.07",
+    "term": "Překližkové lisy pro ploché povrchy"
+  },
+  {
+    "code": "01.06.09",
+    "term": "Zařízení pro přípravu lepidel, dávkování a přepravu překližkových desek"
+  },
+  {
+    "code": "01.06.10",
+    "term": "Přepravníky a skladovací zařízení pro uložení překližkových desek"
+  },
+  {
+    "code": "01.06.11",
+    "term": "Systémy pro pořizování výrobních údajů a monitorování kvality v dílnách vyrábějících překližky"
+  },
+  {
+    "code": "01.07",
+    "term": "Výroba třískových desek, dřevovláknitých desek a desek typu OSB"
+  },
+  {
+    "code": "01.07.01",
+    "term": "Drtič odpadního dřeva, demoličního dřeva, použitých produktů ze dřeva apod."
+  },
+  {
+    "code": "01.07.02",
+    "term": "Hoblovačky a hoblovny"
+  },
+  {
+    "code": "01.07.03",
+    "term": "Třískové desky"
+  },
+  {
+    "code": "01.07.03.01",
+    "term": "Třískové desky z dlouhých výřezů"
+  },
+  {
+    "code": "01.07.03.02",
+    "term": "Lístková tříska pro průmyslové odpadní dřevo (desky, odřezky apod.)"
+  },
+  {
+    "code": "01.07.03.03",
+    "term": "Nožové kruhové dezintegrátory pro nasekané dřevo"
+  },
+  {
+    "code": "01.07.04",
+    "term": "Kladivové drtiče, buchary"
+  },
+  {
+    "code": "01.07.05",
+    "term": "Brusky pro odřezky, lístkovou třísku, piliny apod. (nárazové mlýny, prosévadla atd.)"
+  },
+  {
+    "code": "01.07.06",
+    "term": "Čistírny nasekaného dřeva"
+  },
+  {
+    "code": "01.07.07",
+    "term": "Přepravní a skladovací zařízení pro dřevotřísku, dřevovlákna apod."
+  },
+  {
+    "code": "01.07.08",
+    "term": "Rafinátory"
+  },
+  {
+    "code": "01.07.09",
+    "term": "Sušičky dřevotřísky, dřevovláken a větví"
+  },
+  {
+    "code": "01.07.10",
+    "term": "Prosévání / vybavení sít"
+  },
+  {
+    "code": "01.07.11",
+    "term": "Příprava lepicí hmoty a její dávkování"
+  },
+  {
+    "code": "01.07.12",
+    "term": "Vybavení pro lepení a spojování"
+  },
+  {
+    "code": "01.07.13",
+    "term": "Systémy nanášení materiálu a jeho tvarování"
+  },
+  {
+    "code": "01.07.14",
+    "term": "Pásové váhy"
+  },
+  {
+    "code": "01.07.15",
+    "term": "Zařízení ke zvlhčování dřevotřísky a dřevovláknitých materiálů"
+  },
+  {
+    "code": "01.07.16",
+    "term": "Lisy"
+  },
+  {
+    "code": "01.07.16.01",
+    "term": "Cyklické přípravné lisy"
+  },
+  {
+    "code": "01.07.16.02",
+    "term": "Kontinuální přípravné lisy"
+  },
+  {
+    "code": "01.07.16.03",
+    "term": "Kombinované denní lisy"
+  },
+  {
+    "code": "01.07.16.04",
+    "term": "Jednoduché denní lisy"
+  },
+  {
+    "code": "01.07.16.05",
+    "term": "Lisy kontinuálního typu"
+  },
+  {
+    "code": "01.07.16.06",
+    "term": "Kalandrovací lisy"
+  },
+  {
+    "code": "01.07.17",
+    "term": "Mechanické obrábění hran desek"
+  },
+  {
+    "code": "01.07.18",
+    "term": "Provoz pil pro příčný pořez"
+  },
+  {
+    "code": "01.07.19",
+    "term": "Chladicí stanice"
+  },
+  {
+    "code": "01.07.20",
+    "term": "Brusné linky"
+  },
+  {
+    "code": "01.07.21",
+    "term": "Mechanické rozdružování panelů"
+  },
+  {
+    "code": "01.07.22",
+    "term": "Zařízení ke skladování panelů a manipulaci s nimi, jeho uvedení do provozu"
+  },
+  {
+    "code": "01.07.23",
+    "term": "Balicí zařízení panelů"
+  },
+  {
+    "code": "01.07.24",
+    "term": "Systémy pro pořizování výrobních dat a monitorování kvality pro stroje na výrobu dřevotřískových desek, dřevovláknitých desek a desek typu OSB"
+  },
+  {
+    "code": "01.07.25",
+    "term": "Speciální mechanické komponenty pro výrobu dřevotřískových desek, dřevovláknitých desek a desek typu OSB"
+  },
+  {
+    "code": "01.07.26",
+    "term": "Separační technologie"
+  },
+  {
+    "code": "01.08",
+    "term": "Výroba lehčených desek a sendvičových elementů"
+  },
+  {
+    "code": "01.08.01",
+    "term": "Mechanické rozšiřování a vysoušení voštinových desek"
+  },
+  {
+    "code": "01.08.02",
+    "term": "Strojní vybavení pro výrobu dveřních rámů"
+  },
+  {
+    "code": "01.08.03",
+    "term": "Strojní vybavení pro provádění výztuhy dveřních rámů"
+  },
+  {
+    "code": "01.08.04",
+    "term": "Lisy pro výrobu vylehčených desek / vrstvených prvků"
+  },
+  {
+    "code": "01.09",
+    "term": "Výroba tvarovaných plochých dílců a výlisků"
+  },
+  {
+    "code": "01.09.01",
+    "term": "Lisy pro tvarování dřevotřísky či dřevovlákna"
+  },
+  {
+    "code": "01.09.02",
+    "term": "Překližkové lisy pro konturované povrchy a tvarování"
+  },
+  {
+    "code": "01.09.03",
+    "term": "Vytlačovací lisy"
+  },
+  {
+    "code": "01.99",
+    "term": "Stroje a technické zařízení pro prvotní zpracování, ostatní"
+  },
+  {
+    "code": "02",
+    "term": "Stroje a technické vybavení pro sekundární zpracovatelské procesy (laminování, obrábění, lepení pevné třísky)"
+  },
+  {
+    "code": "02.01",
+    "term": "Zpracování dýhy"
+  },
+  {
+    "code": "02.01.01",
+    "term": "Vyrovnávací lisy pro zpracování dýhy"
+  },
+  {
+    "code": "02.01.02",
+    "term": "Pily pro příčný pořez dýhy"
+  },
+  {
+    "code": "02.01.03",
+    "term": "Balíkovací nůžky pro zpracování dýhy"
+  },
+  {
+    "code": "02.01.03.01",
+    "term": "Jednoduché balíkovací nůžky pro zpracování dýhy"
+  },
+  {
+    "code": "02.01.03.02",
+    "term": "Dvojité balíkovací nůžky pro zpracování dýhy"
+  },
+  {
+    "code": "02.01.04",
+    "term": "Mechanické pásování dýhy"
+  },
+  {
+    "code": "02.01.05",
+    "term": "Kotoučové pily pro zpracování dýhy"
+  },
+  {
+    "code": "02.01.06",
+    "term": "Mechanické krájení a ořezávání hran při zpracování dýhy"
+  },
+  {
+    "code": "02.01.07",
+    "term": "Strojní vybavení pro aplikaci lepicích hmot na hrany dýh"
+  },
+  {
+    "code": "02.01.08",
+    "term": "Podélné sesazovačky dýhy"
+  },
+  {
+    "code": "02.01.09",
+    "term": "Sesazovačky dýhy s příčným podáváním"
+  },
+  {
+    "code": "02.01.10",
+    "term": "Finální mechanické lepení"
+  },
+  {
+    "code": "02.01.11",
+    "term": "Strojní vybavení k podélnému spojování dýh (např. pomocí spojů na klínové ozuby)"
+  },
+  {
+    "code": "02.01.12",
+    "term": "Záplatovací stroje na dýhu"
+  },
+  {
+    "code": "02.01.13",
+    "term": "Strojní zařízení k měření a optimalizaci při zpracování dýh"
+  },
+  {
+    "code": "02.01.14",
+    "term": "Světelné stoly ke kontrole dýh"
+  },
+  {
+    "code": "02.01.15",
+    "term": "Stroje na vyrovnávání dýh (prolamovací stroje)"
+  },
+  {
+    "code": "02.02",
+    "term": "Lisy, laminovací a profilovací stroje pro pevné nátěrové hmoty (dýhování, laminování, pokrývání filmem, nátěry apod.)"
+  },
+  {
+    "code": "02.02.01",
+    "term": "Obrušovací a čisticí stroje"
+  },
+  {
+    "code": "02.02.02",
+    "term": "Nanášení lepidel na desky a dýhy"
+  },
+  {
+    "code": "02.02.03",
+    "term": "Systémy mechanického podávání, skladování a pokládání povrchových materiálů"
+  },
+  {
+    "code": "02.02.04",
+    "term": "Cyklické lisy"
+  },
+  {
+    "code": "02.02.04.01",
+    "term": "Cyklické lisy s ručním podáváním"
+  },
+  {
+    "code": "02.02.04.02",
+    "term": "Cyklické lisy s mechanickým podáváním / lisy s krátkými cykly"
+  },
+  {
+    "code": "02.02.04.03",
+    "term": "Blokové cyklické lisy pro laminování"
+  },
+  {
+    "code": "02.02.04.04",
+    "term": "Cyklické lisy pro laminování tvarovaných částí"
+  },
+  {
+    "code": "02.02.04.05",
+    "term": "Membránové lisy"
+  },
+  {
+    "code": "02.02.05",
+    "term": "Kontinuální lisy / systémy laminování"
+  },
+  {
+    "code": "02.02.05.01",
+    "term": "Lisy s dvojitým páskováním"
+  },
+  {
+    "code": "02.02.05.02",
+    "term": "Linky pro navíjení fólií / kontinuální laminování povrchů"
+  },
+  {
+    "code": "02.02.05.03",
+    "term": "Kontinuální laminování povrchů s integrovaným ovíjením hran"
+  },
+  {
+    "code": "02.02.05.04",
+    "term": "Mechanické ovíjení profilů"
+  },
+  {
+    "code": "02.02.06",
+    "term": "Strojní vybavení k aplikaci ochranných filmů"
+  },
+  {
+    "code": "02.02.07",
+    "term": "Zlaticí stroje pro aplikaci zlatých folií za horka"
+  },
+  {
+    "code": "02.02.08",
+    "term": "Agregáty pro rozdružování a zastřihování povrchových částí"
+  },
+  {
+    "code": "02.02.09",
+    "term": "Zařízení pro nakládku, vykládku a pásovou přepravu laminovaných částí"
+  },
+  {
+    "code": "02.02.10",
+    "term": "Zařízení pro přípravu lepidel, dávkování a přepravu materiálu"
+  },
+  {
+    "code": "02.02.11",
+    "term": "Sklotextilové pomocné strojní vybavení pro dýhování a syntetické povrchové vrstvy"
+  },
+  {
+    "code": "02.03",
+    "term": "Mechanické pily pro další zpracování masivního dřeva, panelů na bázi dřeva a plastických hmot"
+  },
+  {
+    "code": "02.03.01",
+    "term": "Pily na spodní příčný pořez"
+  },
+  {
+    "code": "02.03.02",
+    "term": "Pily na svrchní příčný pořez"
+  },
+  {
+    "code": "02.03.02.01",
+    "term": "Kyvadlové pily"
+  },
+  {
+    "code": "02.03.02.02",
+    "term": "Pily s radiálními rameny"
+  },
+  {
+    "code": "02.03.03",
+    "term": "Optimalizace práce s pilou na příčný pořez"
+  },
+  {
+    "code": "02.03.04",
+    "term": "Jednoduché a dvojité pily pro řezání pod úhlem"
+  },
+  {
+    "code": "02.03.05",
+    "term": "Vícebřité zkracovací kotoučové pily"
+  },
+  {
+    "code": "02.03.06",
+    "term": "Jednobřité kotoučové pily s pohyblivou jednotkou"
+  },
+  {
+    "code": "02.03.07",
+    "term": "Jednobřité a vícebřité kotoučové pily pro broušení a hlazení okrajů"
+  },
+  {
+    "code": "02.03.08",
+    "term": "Speciální mechanické pily pro úzký zářez"
+  },
+  {
+    "code": "02.03.08.01",
+    "term": "Rámové pily pro úzký zářez"
+  },
+  {
+    "code": "02.03.08.02",
+    "term": "Kotoučové pily pro úzký zářez"
+  },
+  {
+    "code": "02.03.09",
+    "term": "Omítací pily"
+  },
+  {
+    "code": "02.03.10",
+    "term": "Výsuvné omítací pily"
+  },
+  {
+    "code": "02.03.11",
+    "term": "Vertikální panelové pily"
+  },
+  {
+    "code": "02.03.12",
+    "term": "Horizontální panelové pily s tlakovým nosníkem"
+  },
+  {
+    "code": "02.03.12.01",
+    "term": "Horizontální panelové pily s tlakovým nosníkem pro podélný pořez"
+  },
+  {
+    "code": "02.03.12.02",
+    "term": "Horizontální panelové pily s tlakovým nosníkem pro příčný pořez"
+  },
+  {
+    "code": "02.03.12.03",
+    "term": "Horizontální panelové pily s tlakovým nosníkem pro příčný i podélný pořez (rohový systém)"
+  },
+  {
+    "code": "02.03.13",
+    "term": "Pily na nástropní panely (portálové pily), pro příčný i podélný pořez"
+  },
+  {
+    "code": "02.03.14",
+    "term": "Pily pro úzké páskování"
+  },
+  {
+    "code": "02.03.15",
+    "term": "Kopírovací pily"
+  },
+  {
+    "code": "02.03.16",
+    "term": "Lupenkové pilky"
+  },
+  {
+    "code": "02.03.17",
+    "term": "Vrubovací pily"
+  },
+  {
+    "code": "02.03.18",
+    "term": "Mechanické pily pro stavební použití"
+  },
+  {
+    "code": "02.03.19",
+    "term": "Pásové pily typu CNC"
+  },
+  {
+    "code": "02.03.20",
+    "term": "Kotoučové pily pro přesné obrábění dvojitých panelů, paralelní i pravoúhlý pořez, ruční podávání"
+  },
+  {
+    "code": "02.03.21",
+    "term": "Optimalizační pily rozmítací"
+  },
+  {
+    "code": "02.04",
+    "term": "Tvarovací a hoblovací stroje"
+  },
+  {
+    "code": "02.04.01",
+    "term": "Hoblovačky povrchu"
+  },
+  {
+    "code": "02.04.02",
+    "term": "Tloušťkovací frézky"
+  },
+  {
+    "code": "02.04.03",
+    "term": "Nožové hladičky"
+  },
+  {
+    "code": "02.04.04",
+    "term": "Mechanické pily a hoblovací stroje"
+  },
+  {
+    "code": "02.04.05",
+    "term": "Kombinace hoblovaček a brusných strojů"
+  },
+  {
+    "code": "02.04.06",
+    "term": "Rohové hoblovací stroje pro současné opracování a propojení povrchů"
+  },
+  {
+    "code": "02.04.07",
+    "term": "Dvoustranné tloušťkovací frézky pro současné opracování povrchů a tloušťkování"
+  },
+  {
+    "code": "02.04.08",
+    "term": "Tří a čtyřstranné hoblovací stroje"
+  },
+  {
+    "code": "02.04.09",
+    "term": "Tří a čtyřstranné tvarovací hoblovačky"
+  },
+  {
+    "code": "02.04.10",
+    "term": "Čelní frézovačky pro jednostranné i vícestranné opracování povrchů"
+  },
+  {
+    "code": "02.04.11",
+    "term": "Jednovřetenové tvarovací frézky"
+  },
+  {
+    "code": "02.04.12",
+    "term": "Stroje na vytváření spojů (cink)"
+  },
+  {
+    "code": "02.04.13",
+    "term": "Horní frézky"
+  },
+  {
+    "code": "02.04.14",
+    "term": "Horní frézky typu CNC"
+  },
+  {
+    "code": "02.04.15",
+    "term": "Kopírovací tvarovačky"
+  },
+  {
+    "code": "02.04.15.01",
+    "term": "Kopírovací tvarovačky pro podélné zpracování tvarovaných částí (také s dodatečnými brusnými jednotkami atd.)"
+  },
+  {
+    "code": "02.04.15.02",
+    "term": "Kopírovací tvarovačky s kulatým stolem (také s dodatečnými brusnými jednotkami atd.)"
+  },
+  {
+    "code": "02.04.15.03",
+    "term": "Kopírovací tvarovačky s řízením nástrojů dle vzoru a automatickým otáčením obrobku (s jedním nebo více vřeteny, také s dodatečnými brusnými jednotkami)"
+  },
+  {
+    "code": "02.04.16",
+    "term": "Dvoustranné CNC tvarovací (a brusné) stroje pro obrysové části"
+  },
+  {
+    "code": "02.04.17",
+    "term": "Kopírovací vyřezávací stroje"
+  },
+  {
+    "code": "02.04.18",
+    "term": "Tyčové tvarovače"
+  },
+  {
+    "code": "02.04.19",
+    "term": "Zastřihovače hran"
+  },
+  {
+    "code": "02.04.20",
+    "term": "Tvarovačky kulatých tyčí"
+  },
+  {
+    "code": "02.04.21",
+    "term": "Spirálové tvarovačky"
+  },
+  {
+    "code": "02.04.22",
+    "term": "Pokosové tvarovačky"
+  },
+  {
+    "code": "02.04.23",
+    "term": "Tvarovačky svislých příčlí"
+  },
+  {
+    "code": "02.04.24",
+    "term": "Řezačky drážek pro schody, žebříky a žaluzie"
+  },
+  {
+    "code": "02.04.25",
+    "term": "Dekorativní pásové tvarovačky"
+  },
+  {
+    "code": "02.04.26",
+    "term": "Šálové tvarovačky"
+  },
+  {
+    "code": "02.04.99",
+    "term": "Tvarovací stroje pro zvláštní použití"
+  },
+  {
+    "code": "02.05",
+    "term": "Technologie na vytváření spojů (cink)"
+  },
+  {
+    "code": "02.05.01",
+    "term": "Stroje pro frézování spojů"
+  },
+  {
+    "code": "02.05.02",
+    "term": "Systémy aplikace lepidla pro spoje"
+  },
+  {
+    "code": "02.05.03",
+    "term": "Lisy pro podélné nastavování"
+  },
+  {
+    "code": "02.05.04",
+    "term": "Linky podélného nastavování pro příčné řezání, frézování spojů, aplikaci lepidla, lisování atd."
+  },
+  {
+    "code": "02.06",
+    "term": "Čepovací stroje"
+  },
+  {
+    "code": "02.06.01",
+    "term": "Koncové čepovačky pro rovné čepy"
+  },
+  {
+    "code": "02.06.01.01",
+    "term": "Jednokoncové čepovačky pro rovné čepy"
+  },
+  {
+    "code": "02.06.01.02",
+    "term": "Dvoukoncové čepovačky pro rovné čepy"
+  },
+  {
+    "code": "02.06.02",
+    "term": "Čepovačky s kulatým koncem"
+  },
+  {
+    "code": "02.06.02.01",
+    "term": "Čepovačky s jedním kulatým koncem"
+  },
+  {
+    "code": "02.06.02.02",
+    "term": "Čepovačky se dvěma kulatými konci"
+  },
+  {
+    "code": "02.07",
+    "term": "Profilovací a zmenšovací stroje (ořezávání, řezání na délku, profilování, broušení atd.)"
+  },
+  {
+    "code": "02.07.01",
+    "term": "Jednokoncové profilovačky / zmenšovací stroje pro díly z masívu"
+  },
+  {
+    "code": "02.07.02",
+    "term": "Jednokoncové profilovačky / zmenšovací stroje pro desky"
+  },
+  {
+    "code": "02.07.03",
+    "term": "Dvoukoncové profilovačky / zmenšovací stroje pro části z masívu"
+  },
+  {
+    "code": "02.07.04",
+    "term": "Dvoukoncové profilovačky / zmenšovací stroje pro desky"
+  },
+  {
+    "code": "02.08",
+    "term": "Olepovací stroje (olepování boků, ořezávání, broušení atd.)"
+  },
+  {
+    "code": "02.08.01",
+    "term": "Jednokoncové olepovací stroje"
+  },
+  {
+    "code": "02.08.01.01",
+    "term": "Jednokoncové olepovací stroje pro rovné hrany"
+  },
+  {
+    "code": "02.08.01.02",
+    "term": "Jednokoncové olepovací stroje pro tvarování za měkka"
+  },
+  {
+    "code": "02.08.01.03",
+    "term": "Jednokoncové olepovací stroje pro tvarované / zakřivené části"
+  },
+  {
+    "code": "02.08.02",
+    "term": "Dvoukoncové olepovací stroje"
+  },
+  {
+    "code": "02.08.02.01",
+    "term": "Dvoukoncové olepovací stroje pro rovné hrany"
+  },
+  {
+    "code": "02.08.02.02",
+    "term": "Dvoukoncové olepovací stroje pro tvarování za měkka"
+  },
+  {
+    "code": "02.08.02.03",
+    "term": "Dvoukoncové olepovací stroje pro tvarované / zakřivené části"
+  },
+  {
+    "code": "02.08.03",
+    "term": "Stolové olepovací stroje"
+  },
+  {
+    "code": "02.09",
+    "term": "Zmenšovací a olepovací stroje (zmenšování, profilování, olepování boků, ořezávání, broušení atd.)"
+  },
+  {
+    "code": "02.09.01",
+    "term": "Jednokoncové zmenšovací a olepovací stroje"
+  },
+  {
+    "code": "02.09.01.01",
+    "term": "Jednokoncové zmenšovací a olepovací stroje pro rovné hrany"
+  },
+  {
+    "code": "02.09.01.02",
+    "term": "Jednokoncové zmenšovací a olepovací stroje pro tvarování za měkka"
+  },
+  {
+    "code": "02.09.01.03",
+    "term": "Jednokoncové zmenšovací a olepovací stroje pro tvarované / zakřivené části"
+  },
+  {
+    "code": "02.09.02",
+    "term": "Dvoukoncové zmenšovací a olepovací stroje"
+  },
+  {
+    "code": "02.09.02.01",
+    "term": "Dvoukoncové zmenšovací a olepovací stroje pro rovné hrany"
+  },
+  {
+    "code": "02.09.02.02",
+    "term": "Dvoukoncové zmenšovací a olepovací stroje pro tvarování za měkka"
+  },
+  {
+    "code": "02.09.02.03",
+    "term": "Dvoukoncové zmenšovací a olepovací stroje pro tvarované / zakřivené části"
+  },
+  {
+    "code": "02.10",
+    "term": "Stroje pro dodatečné tvarování"
+  },
+  {
+    "code": "02.10.01",
+    "term": "Stroje pro dodatečné tvarování pro stacionární zpracování"
+  },
+  {
+    "code": "02.10.02",
+    "term": "Stroje pro dodatečné tvarování pro průchozí zpracování"
+  },
+  {
+    "code": "02.10.02.01",
+    "term": "Stroje pro dodatečné tvarování pro lamináty"
+  },
+  {
+    "code": "02.10.02.02",
+    "term": "Přímé stroje pro dodatečné tvarování pro laminované / dýhované desky"
+  },
+  {
+    "code": "02.11",
+    "term": "Skládací systémy"
+  },
+  {
+    "code": "02.11.01",
+    "term": "Podélné skládací systémy"
+  },
+  {
+    "code": "02.11.02",
+    "term": "Pokosové řezací stroje pro příčné skládání"
+  },
+  {
+    "code": "02.11.03",
+    "term": "Rámové lisy / lepící stanice pro příčné skládání"
+  },
+  {
+    "code": "02.11.04",
+    "term": "Příčné skládací systémy (řezání na délku, řezání pokosů, aplikace lepidla, skládání, lisování atd.)"
+  },
+  {
+    "code": "02.12",
+    "term": "Stroje pro vrtání, kolíkování a vkládání kování"
+  },
+  {
+    "code": "02.12.01",
+    "term": "Vrtací stroje s jednou nebo několika vrtacími hlavicemi"
+  },
+  {
+    "code": "02.12.01.01",
+    "term": "Univerzální vícevřetenové vrtací stroje, stacionární zpracování"
+  },
+  {
+    "code": "02.12.01.02",
+    "term": "Vícevřetenové vrtací stroje s vodorovnými anebo svislými hlavicemi, stacionární zpracování"
+  },
+  {
+    "code": "02.12.01.03",
+    "term": "Průchozí vícevřetenové vrtací stroje s vodorovnými anebo svislými hlavicemi"
+  },
+  {
+    "code": "02.12.02",
+    "term": "Kolíkovací vrtací stroje pro stojany, rámy a ostatní hranolové součásti, stacionární nebo průchozí zpracování"
+  },
+  {
+    "code": "02.12.03",
+    "term": "Vrtací stroje pro řezání, tvarování, vrtání a kolíkování"
+  },
+  {
+    "code": "02.12.04",
+    "term": "Stroje pro vrtání, frézování, vkládání kování atd."
+  },
+  {
+    "code": "02.12.05",
+    "term": "CNC vrtací stroje"
+  },
+  {
+    "code": "02.12.05.01",
+    "term": "CNC vrtací stroje pro stacionární zpracování"
+  },
+  {
+    "code": "02.12.05.02",
+    "term": "Průchozí CNC vrtací stroje"
+  },
+  {
+    "code": "02.12.06",
+    "term": "Kolíkovací stroje (lepení, vhánění)"
+  },
+  {
+    "code": "02.12.07",
+    "term": "Stroje pro vkládání kování"
+  },
+  {
+    "code": "02.12.08",
+    "term": "Vrtací stroje děr po suku"
+  },
+  {
+    "code": "02.12.09",
+    "term": "Stolové a sloupové vrtací stroje"
+  },
+  {
+    "code": "02.12.10",
+    "term": "Štěrbinové vrtací stroje"
+  },
+  {
+    "code": "02.13",
+    "term": "Stroje pro zapuštění kování"
+  },
+  {
+    "code": "02.14",
+    "term": "Dlabačky"
+  },
+  {
+    "code": "02.14.01",
+    "term": "Dlabačky s oběžným pohybem nástroje"
+  },
+  {
+    "code": "02.14.02",
+    "term": "Řetězové dlabačky"
+  },
+  {
+    "code": "02.14.03",
+    "term": "Dlátové dlabačky"
+  },
+  {
+    "code": "02.14.04",
+    "term": "Dlabačky, volitelně pro řetěz či dláto"
+  },
+  {
+    "code": "02.15",
+    "term": "Stáčecí stroje"
+  },
+  {
+    "code": "02.15.01",
+    "term": "Stáčecí soustruhy"
+  },
+  {
+    "code": "02.15.02",
+    "term": "Čelní soustruhy"
+  },
+  {
+    "code": "02.15.03",
+    "term": "Profilovací soustruhy"
+  },
+  {
+    "code": "02.15.04",
+    "term": "Kopírovací soustruhy s řízením nástroje dle šablony"
+  },
+  {
+    "code": "02.15.05",
+    "term": "CNC soustruhy"
+  },
+  {
+    "code": "02.16",
+    "term": "Brusné stroje"
+  },
+  {
+    "code": "02.16.01",
+    "term": "Brusky s dlouhým pásem se stolem"
+  },
+  {
+    "code": "02.16.02",
+    "term": "Brusky s dlouhým pásem s mechanickým přísunem"
+  },
+  {
+    "code": "02.16.03",
+    "term": "Brusky se širokým pásem"
+  },
+  {
+    "code": "02.16.04",
+    "term": "Brusky s křížným pásem / širokým pásem"
+  },
+  {
+    "code": "02.16.05",
+    "term": "Dýhové listové brusky"
+  },
+  {
+    "code": "02.16.06",
+    "term": "Brusné kalibrační stroje pro masív"
+  },
+  {
+    "code": "02.16.07",
+    "term": "Širokopásové brusky pro kalibrování a broušení dřevných desek"
+  },
+  {
+    "code": "02.16.08",
+    "term": "Bubnové brusky pro broušení povrchu"
+  },
+  {
+    "code": "02.16.09",
+    "term": "Brusky pro zakřivené a tvarované součásti"
+  },
+  {
+    "code": "02.16.10",
+    "term": "Brusky pro broušení středního laku"
+  },
+  {
+    "code": "02.16.11",
+    "term": "Profilovací brusky"
+  },
+  {
+    "code": "02.16.11.01",
+    "term": "Jednokoncové profilovací brusky"
+  },
+  {
+    "code": "02.16.11.02",
+    "term": "Dvoukoncové profilovací brusky"
+  },
+  {
+    "code": "02.16.12",
+    "term": "Špulkové brusky"
+  },
+  {
+    "code": "02.16.13",
+    "term": "Pásové brusky"
+  },
+  {
+    "code": "02.16.14",
+    "term": "Kotoučové brusky"
+  },
+  {
+    "code": "02.16.15",
+    "term": "Brusky pro kulaté tyče"
+  },
+  {
+    "code": "02.16.16",
+    "term": "Brusky pro soustružené části"
+  },
+  {
+    "code": "02.16.17",
+    "term": "CNC brusná centra pro úplné broušení všech povrchů"
+  },
+  {
+    "code": "02.17",
+    "term": "Leštící a obrušovací stroje"
+  },
+  {
+    "code": "02.17.01",
+    "term": "Leštící stroje pro rovné povrchy"
+  },
+  {
+    "code": "02.17.02",
+    "term": "Leštící stroje pro tvarování"
+  },
+  {
+    "code": "02.17.03",
+    "term": "Leštící stroje pro pásy"
+  },
+  {
+    "code": "02.17.04",
+    "term": "Leštící / obrušovací stroje s automatickým přísunem"
+  },
+  {
+    "code": "02.17.05",
+    "term": "Obrušovací stojany"
+  },
+  {
+    "code": "02.18",
+    "term": "Tvarovací stroje"
+  },
+  {
+    "code": "02.18.01",
+    "term": "Ohýbací stroje"
+  },
+  {
+    "code": "02.18.02",
+    "term": "Razící stroje"
+  },
+  {
+    "code": "02.18.02.01",
+    "term": "Stacionární razící stroje"
+  },
+  {
+    "code": "02.18.02.02",
+    "term": "Průchozí razící stroje"
+  },
+  {
+    "code": "02.18.99",
+    "term": "Tvarovací stroje; ostatní"
+  },
+  {
+    "code": "02.19",
+    "term": "Kombinované stroje (prostorově vynucené kombinace)"
+  },
+  {
+    "code": "02.19.01",
+    "term": "Srovnávačky a hoblovací stroje"
+  },
+  {
+    "code": "02.19.02",
+    "term": "Kombinované okružní pily a tvarovačky"
+  },
+  {
+    "code": "02.19.03",
+    "term": "Kombinované okružní pily, tvarovačky a štěrbinové dlabačky"
+  },
+  {
+    "code": "02.19.04",
+    "term": "Kombinované okružní pily, srovnávačky, tvarovačky a štěrbinové dlabačky"
+  },
+  {
+    "code": "02.19.05",
+    "term": "Univerzální kombinované stroje pro tesařství a truhlářství"
+  },
+  {
+    "code": "02.19.06",
+    "term": "Univerzální kombinované stroje pro kutilství"
+  },
+  {
+    "code": "02.19.99",
+    "term": "Kombinované stroje; ostatní"
+  },
+  {
+    "code": "02.20",
+    "term": "Obráběcí centra (stacionární zpracování)"
+  },
+  {
+    "code": "02.20.01",
+    "term": "Obráběcí centra pro řezání, drážkování, profilování, vrtání, broušení"
+  },
+  {
+    "code": "02.20.02",
+    "term": "Obráběcí centra pro slepování hran"
+  },
+  {
+    "code": "02.20.03",
+    "term": "Obráběcí centra pro drážkování, řezání, vrtání, olepování boků"
+  },
+  {
+    "code": "02.20.04",
+    "term": "Obráběcí centra pro drážkování, řezání, vrtání, vkládání kování a kolíků atd."
+  },
+  {
+    "code": "02.21",
+    "term": "Výrobní buňky"
+  },
+  {
+    "code": "02.22",
+    "term": "Lisy a zařízení pro lepení součástí z masívu"
+  },
+  {
+    "code": "02.22.01",
+    "term": "Lepící stroje spojů se svislou hranou"
+  },
+  {
+    "code": "02.22.02",
+    "term": "Lisy pro lepení hranových spojů s nepřetržitým přísunem pro desky a hranolky"
+  },
+  {
+    "code": "02.22.03",
+    "term": "Jádrové skládací / deskové lepící stroje"
+  },
+  {
+    "code": "02.22.04",
+    "term": "Lisy laminovaného řeziva / spony pro stavební řezivo, glulam atd."
+  },
+  {
+    "code": "02.23",
+    "term": "Lisy / spony pro rohové spoje"
+  },
+  {
+    "code": "02.23.01",
+    "term": "Univerzální stolní lisy"
+  },
+  {
+    "code": "02.23.02",
+    "term": "Rámové spony"
+  },
+  {
+    "code": "02.23.03",
+    "term": "Lepící stroje pro půlkruhové obloukové spoje"
+  },
+  {
+    "code": "02.24",
+    "term": "Děrovací lisy"
+  },
+  {
+    "code": "02.24.01",
+    "term": "Děrovací lisy pro pokosy"
+  },
+  {
+    "code": "02.24.02",
+    "term": "Děrovací lisy pro okenní příčle"
+  },
+  {
+    "code": "02.24.99",
+    "term": "Děrovací lisy; ostatní"
+  },
+  {
+    "code": "03",
+    "term": "Stroje a technická zařízení pro povrchové úpravy"
+  },
+  {
+    "code": "03.01",
+    "term": "Krytí tekutými materiály (lakování atd.)"
+  },
+  {
+    "code": "03.01.01",
+    "term": "Předúprava dřevěných a dřevěných deskových povrchů"
+  },
+  {
+    "code": "03.01.01.01",
+    "term": "Pískovací zařízení"
+  },
+  {
+    "code": "03.01.01.02",
+    "term": "Texturovací / kartáčovací stroje"
+  },
+  {
+    "code": "03.01.01.03",
+    "term": "Čistící kartáče"
+  },
+  {
+    "code": "03.01.02",
+    "term": "Bělící a barvící stroje"
+  },
+  {
+    "code": "03.01.03",
+    "term": "Stroje pro aplikaci plničů nožem či válcem"
+  },
+  {
+    "code": "03.01.04",
+    "term": "Razící (např. fládrovací) stroje"
+  },
+  {
+    "code": "03.01.05",
+    "term": "Automatické stříkací stroje / roboti pro stříkané úpravy"
+  },
+  {
+    "code": "03.01.06",
+    "term": "Rotační stříkací systémy"
+  },
+  {
+    "code": "03.01.07",
+    "term": "Elektrostatická stříkací zařízení"
+  },
+  {
+    "code": "03.01.08",
+    "term": "Clonové natírací stroje"
+  },
+  {
+    "code": "03.01.09",
+    "term": "Válečkové natírací stroje"
+  },
+  {
+    "code": "03.01.10",
+    "term": "Vakuové natírací stroje"
+  },
+  {
+    "code": "03.01.11",
+    "term": "Namáčecí zařízení"
+  },
+  {
+    "code": "03.01.12",
+    "term": "Zaplavovací systémy"
+  },
+  {
+    "code": "03.01.13",
+    "term": "Hranové natírací systémy"
+  },
+  {
+    "code": "03.01.14",
+    "term": "Bubnové natírací systémy"
+  },
+  {
+    "code": "03.01.15",
+    "term": "Stříkací stěny a kabiny"
+  },
+  {
+    "code": "03.01.16",
+    "term": "Lakovací sušící a vytvrzovací linky"
+  },
+  {
+    "code": "03.01.17",
+    "term": "Dopravníky pro lakovací stroje"
+  },
+  {
+    "code": "03.01.18",
+    "term": "Zařízení pro přípravu, dávkování a dopravu tekutých nátěrových hmot (např. lak, mořidlo atd.)"
+  },
+  {
+    "code": "03.02",
+    "term": "Povrchové úpravy s pevnými materiály"
+  },
+  {
+    "code": "03.02.01",
+    "term": "Stroje a zařízení pro práškové nátěry"
+  },
+  {
+    "code": "03.02.02",
+    "term": "Stroje pro omítkování"
+  },
+  {
+    "code": "03.02.03",
+    "term": "Rycí a natírací stroje na dřevo s buničinou"
+  },
+  {
+    "code": "03.02.99",
+    "term": "Stroje a zařízení pro nátěry s pevnými materiály; ostatní"
+  },
+  {
+    "code": "03.03",
+    "term": "Stroje a zařízení pro pyrografii a značení"
+  },
+  {
+    "code": "04",
+    "term": "Stroje a technická zařízení pro montáž, balení"
+  },
+  {
+    "code": "04.01",
+    "term": "Montážní technologie"
+  },
+  {
+    "code": "04.01.01",
+    "term": "Předmontážní linky pro části nábytku"
+  },
+  {
+    "code": "04.01.02",
+    "term": "Lepící stanice rámů"
+  },
+  {
+    "code": "04.01.02.01",
+    "term": "Stanice roztírání lepidla pro součásti rámů"
+  },
+  {
+    "code": "04.01.02.02",
+    "term": "Předpínací stanice"
+  },
+  {
+    "code": "04.01.02.03",
+    "term": "Rámové svorky"
+  },
+  {
+    "code": "04.01.03",
+    "term": "Stanice pro konečnou montáž dílů nábytku, rámový nábytek"
+  },
+  {
+    "code": "04.01.04",
+    "term": "Linky konečné montáže nábytku"
+  },
+  {
+    "code": "04.01.05",
+    "term": "Montážní pracovní stanice a linky pro okna, dveře a fasádové prvky"
+  },
+  {
+    "code": "04.01.99",
+    "term": "Montážní systémy; ostatní"
+  },
+  {
+    "code": "04.02",
+    "term": "Stroje pro aplikaci hřebíků, spon a šroubů"
+  },
+  {
+    "code": "04.02.01",
+    "term": "Zatloukací stroje"
+  },
+  {
+    "code": "04.02.02",
+    "term": "Svorkovačky a sešívačky"
+  },
+  {
+    "code": "04.02.03",
+    "term": "Šroubovací stroje"
+  },
+  {
+    "code": "04.03",
+    "term": "Balící technologie"
+  },
+  {
+    "code": "04.03.01",
+    "term": "Balící stroje pro části nábytku a rámový nábytek"
+  },
+  {
+    "code": "04.03.02",
+    "term": "Balící stroje pro ploché části (podlahové prvky, desky atd.)"
+  },
+  {
+    "code": "04.03.03",
+    "term": "Balící stroje pro prkna, zakázková prkna atd."
+  },
+  {
+    "code": "04.03.99",
+    "term": "Balící stroje; ostatní"
+  },
+  {
+    "code": "05",
+    "term": "Technologie manipulace, skladování a uvádění do provozu materiálů"
+  },
+  {
+    "code": "05.01",
+    "term": "Technologie manipulace s materiály"
+  },
+  {
+    "code": "05.01.01",
+    "term": "Terénní vysokozdvižné vozíky, čelní a boční vysokozdvižné vozíky a pomocná zařízení"
+  },
+  {
+    "code": "05.01.03",
+    "term": "Zdvihací stoly"
+  },
+  {
+    "code": "05.01.04",
+    "term": "Stohovací a svazkovací stanice"
+  },
+  {
+    "code": "05.01.05",
+    "term": "Vakuová zdvihací zařízení"
+  },
+  {
+    "code": "05.01.06",
+    "term": "Přísunové jednotky"
+  },
+  {
+    "code": "05.01.07",
+    "term": "Výstupní a stohovací jednotky"
+  },
+  {
+    "code": "05.01.08",
+    "term": "Stanice otáčení prken"
+  },
+  {
+    "code": "05.01.09",
+    "term": "Stanice úhlového převodu"
+  },
+  {
+    "code": "05.01.10",
+    "term": "Příčné dopravníky"
+  },
+  {
+    "code": "05.01.11",
+    "term": "Zpětné dopravníky"
+  },
+  {
+    "code": "05.01.12",
+    "term": "Válečkové dopravníky"
+  },
+  {
+    "code": "05.01.12.01",
+    "term": "Hnané válečkové dopravníky"
+  },
+  {
+    "code": "05.01.12.02",
+    "term": "Nehnané válečkové dopravníky"
+  },
+  {
+    "code": "05.01.13",
+    "term": "Pásové dopravníky"
+  },
+  {
+    "code": "05.01.14",
+    "term": "Nadhlavní dopravníky"
+  },
+  {
+    "code": "05.01.15",
+    "term": "Přepravní vozíky, policové vozíky atd."
+  },
+  {
+    "code": "05.01.16",
+    "term": "Vozíky pro uvedení do provozu, nádoby pro uvedení do provozu"
+  },
+  {
+    "code": "05.01.17",
+    "term": "Válečkové stojany"
+  },
+  {
+    "code": "05.01.18",
+    "term": "Podávací jednotky pro truhlářské stroje (srovnávací frézky, spodní frézky)"
+  },
+  {
+    "code": "05.01.90",
+    "term": "Speciální technologie manipulace s materiálem"
+  },
+  {
+    "code": "05.01.90.01",
+    "term": "Speciální technologie manipulace s materiálem pro optimalizační rozmítací pily"
+  },
+  {
+    "code": "05.01.90.02",
+    "term": "Speciální technologie manipulace s materiálem pro linky podélného nastavování"
+  },
+  {
+    "code": "05.01.90.03",
+    "term": "Speciální technologie pro manipulaci s materiálem na hoblovacích strojích"
+  },
+  {
+    "code": "05.01.90.04",
+    "term": "Speciální technologie pro manipulaci s materiálem na pilách"
+  },
+  {
+    "code": "05.01.90.20",
+    "term": "Speciální podávací systémy pro drtiče, sekačky atd."
+  },
+  {
+    "code": "05.01.90.99",
+    "term": "Speciální technologie pro manipulaci s materiálem; ostatní"
+  },
+  {
+    "code": "05.02",
+    "term": "Technologie skladování a uvádění do provozu"
+  },
+  {
+    "code": "05.02.01",
+    "term": "Policové systémy"
+  },
+  {
+    "code": "05.02.02",
+    "term": "Skladování a odběr zařízení pro police a stojany"
+  },
+  {
+    "code": "05.02.03",
+    "term": "Systémy třídění a uvádění do provozu"
+  },
+  {
+    "code": "05.02.04",
+    "term": "Systémy skladování a uvádění do provozu pro velká prkna (např. stohovací jeřáby)"
+  },
+  {
+    "code": "05.02.99",
+    "term": "Skladové systémy; ostatní"
+  },
+  {
+    "code": "06",
+    "term": "Technologie robotů"
+  },
+  {
+    "code": "06.01",
+    "term": "Roboti pro manipulaci, přísun a paletování atd."
+  },
+  {
+    "code": "06.02",
+    "term": "Roboti pro spojování a montáž"
+  },
+  {
+    "code": "06.03",
+    "term": "Roboti pro stříkání, lakování atd."
+  },
+  {
+    "code": "06.04",
+    "term": "Roboti pro třískové procesy (broušení, řezání atd.)"
+  },
+  {
+    "code": "06.99",
+    "term": "Roboti; ostatní"
+  },
+  {
+    "code": "10",
+    "term": "Stroje a zařízení pro zvláštní procesy"
+  },
+  {
+    "code": "10.01",
+    "term": "Laserová technologie"
+  },
+  {
+    "code": "10.02",
+    "term": "Vysokofrekvenční technologie"
+  },
+  {
+    "code": "10.03",
+    "term": "Mikrovlnná technologie"
+  },
+  {
+    "code": "10.04",
+    "term": "Nadzvuková technologie"
+  },
+  {
+    "code": "10.06",
+    "term": "Tepelné vyhlazování"
+  },
+  {
+    "code": "10.07",
+    "term": "Řezání vodním paprskem"
+  },
+  {
+    "code": "10.99",
+    "term": "Zvláštní procesy; ostatní"
+  },
+  {
+    "code": "11",
+    "term": "Stroje a zařízení pro zvláštní skupiny výrobků"
+  },
+  {
+    "code": "11.01",
+    "term": "Stroje a zařízení pro konstrukční řezivové prvky a řezivovou výstavbu"
+  },
+  {
+    "code": "11.01.01",
+    "term": "Stroje a zařízení pro okna a fasády"
+  },
+  {
+    "code": "11.01.01.01",
+    "term": "Zpracovávací centra pro podélné a příčné zpracování okenních částí"
+  },
+  {
+    "code": "11.01.01.99",
+    "term": "Stroje pro okna a fasády; ostatní"
+  },
+  {
+    "code": "11.01.02",
+    "term": "Stroje a zařízení pro dveře a rámy"
+  },
+  {
+    "code": "11.01.03",
+    "term": "Stroje a zařízení pro řezivovou výstavbu"
+  },
+  {
+    "code": "11.01.03.01",
+    "term": "Zařezávací linky"
+  },
+  {
+    "code": "11.01.03.02",
+    "term": "Zvláštní stroje pro tesaře a stavebnictví"
+  },
+  {
+    "code": "11.01.04",
+    "term": "Stroje a zařízení pro výstavbu domů z prefabrikátů / výstavbu s dřevěným rámem"
+  },
+  {
+    "code": "11.01.04.01",
+    "term": "Montážní stoly"
+  },
+  {
+    "code": "11.01.04.02",
+    "term": "Automatické zatloukače pro stěnové jednotky atd."
+  },
+  {
+    "code": "11.01.04.03",
+    "term": "Obráběcí centra pro konstrukční řezivové prvky"
+  },
+  {
+    "code": "11.01.05",
+    "term": "Stroje a zařízení pro lepidlem laminované řezivo / glulam výstavbu"
+  },
+  {
+    "code": "11.01.06",
+    "term": "Stroje a zařízení pro dřevěné podlahové krytiny / parketování"
+  },
+  {
+    "code": "11.01.07",
+    "term": "Stroje a zařízení pro laminátové podlahové krytiny"
+  },
+  {
+    "code": "11.01.08",
+    "term": "Stroje a zařízení pro výstavbu schodů"
+  },
+  {
+    "code": "11.02",
+    "term": "Stroje a zařízení pro výrobu masivních prken"
+  },
+  {
+    "code": "11.03",
+    "term": "Stroje a zařízení pro výrobu stojanového nábytku (židle, stoly atd.)"
+  },
+  {
+    "code": "11.04",
+    "term": "Stroje pro výrobu a úpravu (ošetření) dřevěných obalů (palety, bedny, atd)"
+  },
+  {
+    "code": "11.04.01",
+    "term": "Stroje a zařízení pro výrobu palet, stacionární"
+  },
+  {
+    "code": "11.04.02",
+    "term": "Paletové výrobní linky"
+  },
+  {
+    "code": "11.04.03",
+    "term": "Stroje a zařízení pro výrobu obalů pro zeleninu a ovoce, stacionární"
+  },
+  {
+    "code": "11.04.04",
+    "term": "Výrobní linky pro výrobu obalů pro zeleninu a ovoce"
+  },
+  {
+    "code": "11.04.05",
+    "term": "Stroje pro výrobu průmyslových obalů (bedny atd.)"
+  },
+  {
+    "code": "11.04.06",
+    "term": "Stroje pro výrobu kabelových cívek"
+  },
+  {
+    "code": "11.04.07",
+    "term": "Strojní zařízení pro tepelnou úpravu palet a jiného dřeveného obalového materiálu"
+  },
+  {
+    "code": "11.04.08",
+    "term": "Strojní zařízení pro kouřovou desinfekci palet a jiného dřevěného obalového materiálu"
+  },
+  {
+    "code": "11.05",
+    "term": "Stroje a zařízení pro výrobu dveří pro nábytek"
+  },
+  {
+    "code": "11.06",
+    "term": "Stroje a zařízení pro výrobu zásuvek"
+  },
+  {
+    "code": "11.07",
+    "term": "Stroje a zařízení pro výrobu obrazových rámů a rámů"
+  },
+  {
+    "code": "11.07.01",
+    "term": "Dvojité okružní pily pro řezání do V"
+  },
+  {
+    "code": "11.07.02",
+    "term": "Sponové, sponové lepící stroje pro montáž rámů"
+  },
+  {
+    "code": "11.07.03",
+    "term": "Stroje pro kovové spojovací prvky a příslušné kování (V spony, pružné záložky atd.)"
+  },
+  {
+    "code": "11.07.04",
+    "term": "Jednohlavé pokosové řezací stroje"
+  },
+  {
+    "code": "11.07.05",
+    "term": "Pokosové řezací gilotiny"
+  },
+  {
+    "code": "11.07.06",
+    "term": "Automatizované systémy pro výrobu rámů"
+  },
+  {
+    "code": "11.08",
+    "term": "Stroje a zařízení pro výrobu dřevěných sudů"
+  },
+  {
+    "code": "11.09",
+    "term": "Stroje pro výrobu a zpracování izolačních materiálů"
+  },
+  {
+    "code": "11.09.01",
+    "term": "Stroje pro výrobu isolačních materiálů"
+  },
+  {
+    "code": "11.09.02",
+    "term": "Stroje pro zpracování izolačních materiálů"
+  },
+  {
+    "code": "11.99",
+    "term": "Stroje a zařízení pro různé výrobky"
+  },
+  {
+    "code": "11.99.01",
+    "term": "Stroje a zařízení pro košťata a kartáče"
+  },
+  {
+    "code": "11.99.02",
+    "term": "Stroje a zařízení pro tužky"
+  },
+  {
+    "code": "11.99.03",
+    "term": "Stroje a zařízení pro dřeváky, dřevěné podrážky, dřevěné podpatky, kraje obuvi"
+  },
+  {
+    "code": "11.99.04",
+    "term": "Stroje a zařízení pro kolíky"
+  },
+  {
+    "code": "11.99.05",
+    "term": "Stroje a zařízení pro bidla, stěžně, palisády, dřevěné ploty"
+  },
+  {
+    "code": "11.99.06",
+    "term": "Stroje a zařízení pro rákosový nábytek"
+  },
+  {
+    "code": "11.99.07",
+    "term": "Stroje a zařízení pro madla nábytku"
+  },
+  {
+    "code": "11.99.08",
+    "term": "Stroje a zařízení pro žaluzie a rolety"
+  },
+  {
+    "code": "11.99.09",
+    "term": "Stroje a zařízení pro rakve"
+  },
+  {
+    "code": "11.99.10",
+    "term": "Stroje a zařízení pro roletové desky"
+  },
+  {
+    "code": "11.99.11",
+    "term": "Stroje a zařízení pro rukojeti zemědělského nářadí (pro lopaty, rýče, motyky, hrábě, kladiva, krumpáče atd.)"
+  },
+  {
+    "code": "11.99.12",
+    "term": "Stroje a zařízení pro sportovní zařízení (kulečníková tága, pádla, vesla atd.)"
+  },
+  {
+    "code": "11.99.13",
+    "term": "Stroje a zařízení pro párátka / hůlky"
+  },
+  {
+    "code": "11.99.14",
+    "term": "Stroje a zařízení pro zápalky"
+  },
+  {
+    "code": "11.99.15",
+    "term": "Stroje a zařízení pro dřevitou vlnu"
+  },
+  {
+    "code": "11.99.16",
+    "term": "Stroje a zařízení pro dřevěné odřezky pro podestýlku zvířat"
+  },
+  {
+    "code": "11.99.17",
+    "term": "Stroje a zařízení pro dřevěné došky"
+  },
+  {
+    "code": "11.99.18",
+    "term": "Stroje a technologické linky pro postelové příčky / lamely"
+  },
+  {
+    "code": "18",
+    "term": "Pomocné stroje, zařízení a přístroje; ostatní"
+  },
+  {
+    "code": "18.02",
+    "term": "Míchací jednotky"
+  },
+  {
+    "code": "18.03",
+    "term": "Vážící systémy"
+  },
+  {
+    "code": "18.04",
+    "term": "Hoblovací lavice, pracovní stoly"
+  },
+  {
+    "code": "18.05",
+    "term": "Svorky"
+  },
+  {
+    "code": "18.99",
+    "term": "Pomocné stroje; ostatní"
+  },
+  {
+    "code": "19",
+    "term": "Přenosné stroje pro zpracování řeziva a plastů"
+  },
+  {
+    "code": "19.01",
+    "term": "Přenosné plastové nůžky"
+  },
+  {
+    "code": "19.02",
+    "term": "Přenosné děrovky"
+  },
+  {
+    "code": "19.03",
+    "term": "Přenosné pásové pily"
+  },
+  {
+    "code": "19.04",
+    "term": "Přenosné okružní pily"
+  },
+  {
+    "code": "19.05",
+    "term": "Přenosné odkorňovače"
+  },
+  {
+    "code": "19.06",
+    "term": "Přenosné hoblovky"
+  },
+  {
+    "code": "19.07",
+    "term": "Přenosné tvarovačky"
+  },
+  {
+    "code": "19.08",
+    "term": "Přenosné hranové stroje"
+  },
+  {
+    "code": "19.09",
+    "term": "Přenosné vrtací stroje"
+  },
+  {
+    "code": "19.10",
+    "term": "Přenosné řetězové dlabačky"
+  },
+  {
+    "code": "19.11",
+    "term": "Přenosné dlátové dlabačky"
+  },
+  {
+    "code": "19.12",
+    "term": "Přenosné vibrační brusky"
+  },
+  {
+    "code": "19.13",
+    "term": "Přenosné řemenové brusky"
+  },
+  {
+    "code": "19.14",
+    "term": "Přenosné kotoučové brusky"
+  },
+  {
+    "code": "19.15",
+    "term": "Přenosné zatloukače"
+  },
+  {
+    "code": "19.16",
+    "term": "Přenosné sešívačky"
+  },
+  {
+    "code": "19.17",
+    "term": "Přenosné napájené šroubováky"
+  },
+  {
+    "code": "19.18",
+    "term": "Přenosné roztírače lepidla"
+  },
+  {
+    "code": "19.19",
+    "term": "Přenosné stříkací zařízení (např. pistole na laky / lepidla)"
+  },
+  {
+    "code": "19.20",
+    "term": "Přenosná dýhová spojovací zařízení"
+  },
+  {
+    "code": "19.21",
+    "term": "Brusky položené podlahy"
+  },
+  {
+    "code": "19.90",
+    "term": "Kufříky pro přenosné stroje, nástroje, apod."
+  },
+  {
+    "code": "19.99",
+    "term": "Přenosné stroje pro zvláštní účely"
+  },
+  {
+    "code": "20",
+    "term": "Nástroje a pomůcky"
+  },
+  {
+    "code": "20.01",
+    "term": "Strojní řezací nástroje"
+  },
+  {
+    "code": "20.01.01",
+    "term": "Listy pásových pil"
+  },
+  {
+    "code": "20.01.01.01",
+    "term": "Listy pásových pil pro pásové pily na kulatinu / pásové rozmítací pily"
+  },
+  {
+    "code": "20.01.01.02",
+    "term": "Listy pásových pil pro úzké pásové pily"
+  },
+  {
+    "code": "20.01.02",
+    "term": "Listy pro rámové pily"
+  },
+  {
+    "code": "20.01.02.01",
+    "term": "Listy pro rámové pily, celoocelové"
+  },
+  {
+    "code": "20.01.02.02",
+    "term": "Listy pro rámové pily, pochromované"
+  },
+  {
+    "code": "20.01.02.03",
+    "term": "Listy pro rámové pily, s hrotem z kobaltové slitiny"
+  },
+  {
+    "code": "20.01.02.04",
+    "term": "Listy pro rámové pily, s hrotem z HW"
+  },
+  {
+    "code": "20.01.03",
+    "term": "Kotouče pro okružní pily"
+  },
+  {
+    "code": "20.01.03.01",
+    "term": "Kotouče pro okružní pily, celoocelové"
+  },
+  {
+    "code": "20.01.03.02",
+    "term": "Kotouče pro okružní pily, s hrotem z kobaltové slitiny"
+  },
+  {
+    "code": "20.01.03.03",
+    "term": "Kotouče pro okružní pily, s hrotem z HW"
+  },
+  {
+    "code": "20.01.03.04",
+    "term": "Kotouče pro okružní pily, s hrotem z DP"
+  },
+  {
+    "code": "20.01.04",
+    "term": "Sekací systémy"
+  },
+  {
+    "code": "20.01.04.01",
+    "term": "Sekací systémy pro tvarování dřevných desek, s hrotem z HW"
+  },
+  {
+    "code": "20.01.04.02",
+    "term": "Sekací systémy pro tvarování dřevných desek, s hrotem z DP"
+  },
+  {
+    "code": "20.01.04.03",
+    "term": "Skládací sekačka odpadu, s hrotem z HW"
+  },
+  {
+    "code": "20.01.04.04",
+    "term": "Skládací sekačka odpadu, s hrotem z DP"
+  },
+  {
+    "code": "20.01.04.05",
+    "term": "Sekačka odpadu pro zpracování masívu"
+  },
+  {
+    "code": "20.01.05",
+    "term": "Dlouhé hlavice hoblovek"
+  },
+  {
+    "code": "20.01.06",
+    "term": "Řezačky s vrtáním (řezačky a řezací hlavice)"
+  },
+  {
+    "code": "20.01.06.01",
+    "term": "Řezačky s vrtáním, celoocelové"
+  },
+  {
+    "code": "20.01.06.02",
+    "term": "Řezačky s vrtáním, s hrotem z HW / zvláštní oceli"
+  },
+  {
+    "code": "20.01.06.03",
+    "term": "Řezačky s vrtáním, s otočnými noži (HW / zvláštní ocel)"
+  },
+  {
+    "code": "20.01.06.04",
+    "term": "Řezačky s vrtáním, s hrotem z DP"
+  },
+  {
+    "code": "20.01.07",
+    "term": "Stopkové frézy"
+  },
+  {
+    "code": "20.01.07.01",
+    "term": "Stopkové frézy pro horní frézky"
+  },
+  {
+    "code": "20.01.07.03",
+    "term": "Stopkové frézy pro přenosné stroje"
+  },
+  {
+    "code": "20.01.07.10",
+    "term": "Stopkové frézky pro CNC horní frézky a obráběcí centra, celoocelová"
+  },
+  {
+    "code": "20.01.07.11",
+    "term": "Stopkové frézy pro CNC horní frézky a obráběcí centra, s HW nebo spec. ocel. hrotem"
+  },
+  {
+    "code": "20.01.07.12",
+    "term": "Stopkové frézy pro CNC horní frézky a obráběcí centra, s otočnými noži (HW nebo spec. ocel)"
+  },
+  {
+    "code": "20.01.07.13",
+    "term": "Stopkové frézy pro CNC horní frézky a obráběcí centra, s DP hrotem"
+  },
+  {
+    "code": "20.01.07.99",
+    "term": "Stopkové frézky; ostatní"
+  },
+  {
+    "code": "20.01.08",
+    "term": "Strojní vrtáky"
+  },
+  {
+    "code": "20.01.08.01",
+    "term": "Spirálový vrták"
+  },
+  {
+    "code": "20.01.08.02",
+    "term": "Bity na vrtání průchozích děr"
+  },
+  {
+    "code": "20.01.08.03",
+    "term": "Kolíkové bity"
+  },
+  {
+    "code": "20.01.08.04",
+    "term": "Bity na válcové vrtání"
+  },
+  {
+    "code": "20.01.08.05",
+    "term": "Bity na krokové vrtání"
+  },
+  {
+    "code": "20.01.08.06",
+    "term": "Zapouštěcí bity"
+  },
+  {
+    "code": "20.01.08.07",
+    "term": "Zátková řezačka"
+  },
+  {
+    "code": "20.01.09",
+    "term": "Nástrojové systémy pro výrobu oken a dveří včetně drážkovacích a čepovacích řezaček"
+  },
+  {
+    "code": "20.01.10",
+    "term": "Frézy s kuželovou stopkou (frézy a frézovací hlavičky)"
+  },
+  {
+    "code": "20.01.10.01",
+    "term": "Frézy s kuželovou stopkou, celokovové"
+  },
+  {
+    "code": "20.01.10.02",
+    "term": "Frézy s kuželovou stopkou, HW- / speciální ocel- hrot"
+  },
+  {
+    "code": "20.01.10.03",
+    "term": "Frézy s kuželovou stopkou, s překlopnými noži (HW- / speciální ocel)"
+  },
+  {
+    "code": "20.01.10.04",
+    "term": "Frézy s kuželovou stopkou, DP - hroty"
+  },
+  {
+    "code": "20.01.50",
+    "term": "Obráběcí stroje; ostatní"
+  },
+  {
+    "code": "20.01.50.01",
+    "term": "Oscilační dlabací dláto a pomocná zařízení"
+  },
+  {
+    "code": "20.01.50.02",
+    "term": "Dlabací řetězy a pomocná zařízení"
+  },
+  {
+    "code": "20.01.50.03",
+    "term": "Škrabací nástroje a pomocná zařízení"
+  },
+  {
+    "code": "20.01.50.04",
+    "term": "Stáčecí nástroje"
+  },
+  {
+    "code": "20.01.50.05",
+    "term": "Pilové řetězy"
+  },
+  {
+    "code": "20.01.50.06",
+    "term": "Zkušební kopie pro kotouče okružních pil"
+  },
+  {
+    "code": "20.01.90",
+    "term": "Nástroje pro speciální materiály"
+  },
+  {
+    "code": "20.01.90.01",
+    "term": "Nástroje pro opracování lehké slitiny"
+  },
+  {
+    "code": "20.01.90.02",
+    "term": "Nástroje na opracování skla"
+  },
+  {
+    "code": "20.01.90.03",
+    "term": "Nástroje na opracování kamene"
+  },
+  {
+    "code": "20.01.90.04",
+    "term": "Nástroje na opracování minerálních materiálů"
+  },
+  {
+    "code": "20.01.90.99",
+    "term": "Nástroje pro speciální materiály, ostatní"
+  },
+  {
+    "code": "20.02",
+    "term": "Nože, soustruhové nože, sekací segmenty atd."
+  },
+  {
+    "code": "20.02.01",
+    "term": "Nože pro řezačky, řezací hlavy"
+  },
+  {
+    "code": "20.02.02",
+    "term": "Soustruhové nože"
+  },
+  {
+    "code": "20.02.03",
+    "term": "Podkládací kotouče, vymezovače"
+  },
+  {
+    "code": "20.02.04",
+    "term": "Hoblovací nože"
+  },
+  {
+    "code": "20.02.05",
+    "term": "Segmenty sekačky odpadu"
+  },
+  {
+    "code": "20.02.06",
+    "term": "Lité kobaltové slitiny"
+  },
+  {
+    "code": "20.02.07",
+    "term": "Karbidové hroty pro listy pil"
+  },
+  {
+    "code": "20.02.08",
+    "term": "Nože sekaček odpadu"
+  },
+  {
+    "code": "20.02.09",
+    "term": "Nože okružní"
+  },
+  {
+    "code": "20.02.10",
+    "term": "Loupací a dýhové nože"
+  },
+  {
+    "code": "20.02.11",
+    "term": "Polotovary vyrobené z PCD, např. disky, segmenty, pilové hroty pro pilové kotouče"
+  },
+  {
+    "code": "20.03",
+    "term": "Systémy upínání nástrojů"
+  },
+  {
+    "code": "20.03.01",
+    "term": "Upínací systémy pro kotouče okružních pil"
+  },
+  {
+    "code": "20.03.02",
+    "term": "Upínací systémy pro řezačky s vrtáním"
+  },
+  {
+    "code": "20.03.03",
+    "term": "Upínací systémy pro stopkové frézy"
+  },
+  {
+    "code": "20.03.04",
+    "term": "Upínací systémy pro vrtáky"
+  },
+  {
+    "code": "20.04",
+    "term": "Nástrojové měřící a nastavovací systémy"
+  },
+  {
+    "code": "20.04.01",
+    "term": "Nástrojové měřící a nastavovací přístroje"
+  },
+  {
+    "code": "20.04.02",
+    "term": "Nástrojové měřící a nastavovací měřidla"
+  },
+  {
+    "code": "20.05",
+    "term": "Systémy správy nástrojů"
+  },
+  {
+    "code": "20.05.01",
+    "term": "Systémy pro enkódování nástrojů"
+  },
+  {
+    "code": "20.05.02",
+    "term": "Software pro systémy správy nástrojů"
+  },
+  {
+    "code": "20.06",
+    "term": "Brusné a obrušovací nástroje"
+  },
+  {
+    "code": "20.06.01",
+    "term": "Dlouhé brusné pásy"
+  },
+  {
+    "code": "20.06.02",
+    "term": "Široké brusné pásy"
+  },
+  {
+    "code": "20.06.03",
+    "term": "Obrušovací nástroje"
+  },
+  {
+    "code": "20.06.04",
+    "term": "Brusné kotouče a kola"
+  },
+  {
+    "code": "20.06.05",
+    "term": "Brusné kartáče"
+  },
+  {
+    "code": "20.06.06",
+    "term": "Profilové brusné nástroje"
+  },
+  {
+    "code": "20.06.99",
+    "term": "Brusné nástroje a materiály; ostatní"
+  },
+  {
+    "code": "20.07",
+    "term": "Pomocná zařízení a náhradní díly pro obráběcí stroje (např. upínací klíny, vymezovače, vodící kroužky, ostřící zařízení)"
+  },
+  {
+    "code": "20.08",
+    "term": "Ruční nástroje"
+  },
+  {
+    "code": "20.08.01",
+    "term": "Ruční pily"
+  },
+  {
+    "code": "20.08.02",
+    "term": "Ruční hoblíky"
+  },
+  {
+    "code": "20.08.03",
+    "term": "Dláta, stáčecí nástroje, vyřezávací nástroje atd."
+  },
+  {
+    "code": "20.08.04",
+    "term": "Kladiva"
+  },
+  {
+    "code": "20.08.05",
+    "term": "Nástroje pro měření a značení"
+  },
+  {
+    "code": "20.08.99",
+    "term": "Ruční nástroje; ostatní"
+  },
+  {
+    "code": "20.09",
+    "term": "Svorky a vodítka pro nástroje"
+  },
+  {
+    "code": "20.09.01",
+    "term": "Napínače pil, přezky a vymezovače rámových pil"
+  },
+  {
+    "code": "20.09.02",
+    "term": "Vodítka pásových pil"
+  },
+  {
+    "code": "20.09.03",
+    "term": "Řezné tyče pro pilové řetězy"
+  },
+  {
+    "code": "20.09.04",
+    "term": "Tvarovací vřetena / trny řezaček"
+  },
+  {
+    "code": "21",
+    "term": "Stroje, zařízení a nástroje pro údržbu a výrobu nástrojů"
+  },
+  {
+    "code": "21.01",
+    "term": "Stroje, zařízení a nástroje pro údržbu a výrobu strojů"
+  },
+  {
+    "code": "21.01.01",
+    "term": "Ostřičky pil"
+  },
+  {
+    "code": "21.01.02",
+    "term": "Pilové pilníky"
+  },
+  {
+    "code": "21.01.03",
+    "term": "Nastavovací, pěchovací, a ošetřovací stroje pro pily"
+  },
+  {
+    "code": "21.01.04",
+    "term": "Pilové pájecí a svářecí stroje"
+  },
+  {
+    "code": "21.01.05",
+    "term": "Stroje pro válcování a vyrovnávání pilových listů"
+  },
+  {
+    "code": "21.01.06",
+    "term": "Tvrdící stroje pro špičky pilových zubů"
+  },
+  {
+    "code": "21.01.07",
+    "term": "Stroje pro stříhání a šikmé spojování listů pásových pil"
+  },
+  {
+    "code": "21.01.08",
+    "term": "Stroje na broušení nožů"
+  },
+  {
+    "code": "21.01.08.01",
+    "term": "Stroje na broušení nožů pro hoblovací, odlupovací a třískové nože"
+  },
+  {
+    "code": "21.01.08.02",
+    "term": "Stroje na broušení nožů pro dýhové nože (rozřezávání, loupání a odřezávání)"
+  },
+  {
+    "code": "21.01.08.03",
+    "term": "Stroje na broušení nožů pro nožové kroužky"
+  },
+  {
+    "code": "21.01.08.90",
+    "term": "Upínací systémy pro stroje na broušení nožů"
+  },
+  {
+    "code": "21.01.09",
+    "term": "Ostřičky pro škrabky"
+  },
+  {
+    "code": "21.01.10",
+    "term": "Ostřičky pro tvarovací řezačky"
+  },
+  {
+    "code": "21.01.11",
+    "term": "Ostřičky pro vrtáky a drážkovací řezačky"
+  },
+  {
+    "code": "21.01.12",
+    "term": "Ostřičky pro řetězové nástroje"
+  },
+  {
+    "code": "21.01.13",
+    "term": "Univerzální nástrojové a řezací ostřiky"
+  },
+  {
+    "code": "21.01.14",
+    "term": "Ostřičky pro řezací, tvarovací a hoblovací nástroje s hrotem z karbidu"
+  },
+  {
+    "code": "21.01.15",
+    "term": "Ostřičky pro diamantové nástroje"
+  },
+  {
+    "code": "21.01.50",
+    "term": "Čistící stroje a zařízení pro obráběcí stroje"
+  },
+  {
+    "code": "21.01.60",
+    "term": "Kola pro ostřící nástroje (kromě diamantových kol)"
+  },
+  {
+    "code": "21.01.61",
+    "term": "Diamantová kola pro ostřící nástroje"
+  },
+  {
+    "code": "21.01.90",
+    "term": "Nástrojové brusky pro speciální určení"
+  },
+  {
+    "code": "21.01.99",
+    "term": "Stroje, zařízení a nástroje pro údržbu a výrobu obráběcích strojů; ostatní"
+  },
+  {
+    "code": "21.02",
+    "term": "Stroje, zařízení a nástroje pro údržbu a výrobu ručních nástrojů"
+  },
+  {
+    "code": "22",
+    "term": "Výrobky pro výbavu strojů"
+  },
+  {
+    "code": "22.01",
+    "term": "Hnací systémy"
+  },
+  {
+    "code": "22.01.01",
+    "term": "Elektrické hnací systémy"
+  },
+  {
+    "code": "22.01.01.01",
+    "term": "Elektrické motory"
+  },
+  {
+    "code": "22.01.01.03",
+    "term": "Převodové motory"
+  },
+  {
+    "code": "22.01.01.04",
+    "term": "Frekvenční měniče"
+  },
+  {
+    "code": "22.01.01.05",
+    "term": "Elektronické hnací jednotky"
+  },
+  {
+    "code": "22.01.01.06",
+    "term": "Lineární motory / elektrické válce"
+  },
+  {
+    "code": "22.01.01.07",
+    "term": "Elektrické, elektronické a magnetické spínací a ovládací jednotky"
+  },
+  {
+    "code": "22.01.01.99",
+    "term": "Elektrické hnací systémy; ostatní"
+  },
+  {
+    "code": "22.01.02",
+    "term": "Pneumatické hnací jednotky"
+  },
+  {
+    "code": "22.01.02.02",
+    "term": "Pneumatické součásti a zařízení"
+  },
+  {
+    "code": "22.01.02.03",
+    "term": "Pneumatické ovládací prvky a regulátory"
+  },
+  {
+    "code": "22.01.03",
+    "term": "Hydraulické hnací jednotky"
+  },
+  {
+    "code": "22.01.03.01",
+    "term": "Hydraulické prvky a vybavení"
+  },
+  {
+    "code": "22.01.03.02",
+    "term": "Hydraulické ovladače a regulátory"
+  },
+  {
+    "code": "22.01.10",
+    "term": "Prvky a příslušenství pro hnací systémy"
+  },
+  {
+    "code": "22.01.10.01",
+    "term": "Reduktory otáček a regulátory"
+  },
+  {
+    "code": "22.01.10.02",
+    "term": "Spojky a brzdy"
+  },
+  {
+    "code": "22.01.10.03",
+    "term": "Valivá a přesná ložiska"
+  },
+  {
+    "code": "22.01.10.04",
+    "term": "Lineární moduly"
+  },
+  {
+    "code": "22.01.10.99",
+    "term": "Prvky a příslušenství pro hnací systémy; ostatní"
+  },
+  {
+    "code": "22.01.20",
+    "term": "Kompresory"
+  },
+  {
+    "code": "22.02",
+    "term": "Obráběcí jednotky"
+  },
+  {
+    "code": "22.02.01",
+    "term": "Řezací jednotky"
+  },
+  {
+    "code": "22.02.02",
+    "term": "Hoblovací jednotky"
+  },
+  {
+    "code": "22.02.03",
+    "term": "Tvarovací jednotky"
+  },
+  {
+    "code": "22.02.04",
+    "term": "Vrtací jednotky"
+  },
+  {
+    "code": "22.02.05",
+    "term": "Dlabací jednotky"
+  },
+  {
+    "code": "22.02.06",
+    "term": "Brusné a leštící jednotky"
+  },
+  {
+    "code": "22.02.07",
+    "term": "Stříkací jednotky"
+  },
+  {
+    "code": "22.02.08",
+    "term": "Lepící jednotky"
+  },
+  {
+    "code": "22.02.09",
+    "term": "Montážní jednotky"
+  },
+  {
+    "code": "22.02.10",
+    "term": "Vysokofrekvenční a mikrovlnná zařízení (např. generátory)"
+  },
+  {
+    "code": "22.02.11",
+    "term": "Měniče nástrojů pro CNC stroje"
+  },
+  {
+    "code": "22.02.12",
+    "term": "Vačkové mechanismy a vačky"
+  },
+  {
+    "code": "22.02.13",
+    "term": "Antistatické systémy"
+  },
+  {
+    "code": "22.03",
+    "term": "Svorky a vodítka pro obrobky"
+  },
+  {
+    "code": "22.03.01",
+    "term": "Laserové projektory, stínová vodící zařízení"
+  },
+  {
+    "code": "22.03.02",
+    "term": "Obrobkové ploty a zarážky"
+  },
+  {
+    "code": "22.03.02.01",
+    "term": "Obrobkové ploty a zarážky, mechanizované polohování"
+  },
+  {
+    "code": "22.03.02.02",
+    "term": "Obrobkové ploty a zarážky, počítačové polohování"
+  },
+  {
+    "code": "22.03.03",
+    "term": "Upínací zařízení"
+  },
+  {
+    "code": "22.03.04",
+    "term": "Vakuové systémy"
+  },
+  {
+    "code": "22.03.04.01",
+    "term": "Čerpadla a součásti pro vakuové systémy"
+  },
+  {
+    "code": "22.03.04.02",
+    "term": "Přísavková upínací zařízení"
+  },
+  {
+    "code": "22.03.04.03",
+    "term": "Ústřední vakuové systémy"
+  },
+  {
+    "code": "22.03.05",
+    "term": "Rybinové nástavce"
+  },
+  {
+    "code": "22.03.06",
+    "term": "Přípravky na vrtání kolíků"
+  },
+  {
+    "code": "22.04",
+    "term": "Mechanické provozní a upínací prvky pro stroje, zařízení a dopravníky (madla, ruční kola, knoflíky atd.)"
+  },
+  {
+    "code": "22.05",
+    "term": "Provozní dodací položky"
+  },
+  {
+    "code": "22.05.01",
+    "term": "Maziva"
+  },
+  {
+    "code": "22.05.02",
+    "term": "Tavidlové materiály"
+  },
+  {
+    "code": "22.99",
+    "term": "Vybavení; ostatní"
+  },
+  {
+    "code": "22.99.01",
+    "term": "Čerpadla, ventily, potrubní systémy"
+  },
+  {
+    "code": "22.99.02",
+    "term": "Vypouštěcí clony"
+  },
+  {
+    "code": "22.99.03",
+    "term": "Desky, clony a plastové vložky pro lisy"
+  },
+  {
+    "code": "22.99.04",
+    "term": "Lisové pásy pro nepřetržité lisy"
+  },
+  {
+    "code": "22.99.05",
+    "term": "Horké desky a ohřívací tyče"
+  },
+  {
+    "code": "22.99.06",
+    "term": "Lisové formy a válce pro výrobu tvarovaných částí třísek, vláken, plastů nebo pro překrývání pevnými materiály"
+  },
+  {
+    "code": "22.99.07",
+    "term": "Dopravníkové prvky"
+  },
+  {
+    "code": "22.99.07.01",
+    "term": "Válečky a kola"
+  },
+  {
+    "code": "22.99.07.02",
+    "term": "Řemeny"
+  },
+  {
+    "code": "22.99.07.99",
+    "term": "Dopravníkové prvky; ostatní"
+  },
+  {
+    "code": "22.99.08",
+    "term": "Neelektronické řídící jednotky a zařízení"
+  },
+  {
+    "code": "22.99.09",
+    "term": "Ústřední mazací systémy"
+  },
+  {
+    "code": "22.99.10",
+    "term": "Řemenové brusné destičky"
+  },
+  {
+    "code": "22.99.11",
+    "term": "Filtry, filtrační prvky a zásobníky"
+  },
+  {
+    "code": "22.99.12",
+    "term": "Kabelové horní frézky"
+  },
+  {
+    "code": "22.99.13",
+    "term": "UV zářiče / žárovky pro UV tvrzení"
+  },
+  {
+    "code": "22.99.14",
+    "term": "Válečky a kola s jehlami pro tažení dřeva"
+  },
+  {
+    "code": "22.99.15",
+    "term": "Převodní a dopravníkové řetězy"
+  },
+  {
+    "code": "30",
+    "term": "Použití zbytkového dřeva (piliny, třísky, dřevo na topení, kůra), generování energie a topení pomocí dřevěných paliv"
+  },
+  {
+    "code": "30.01",
+    "term": "Příprava, doprava a skladování pilin, třísek, dřeva na topení atd."
+  },
+  {
+    "code": "30.01.01",
+    "term": "Štípací stroje pro kulatinu, dřevo na topení atd."
+  },
+  {
+    "code": "30.01.02",
+    "term": "Sekačky odpadu"
+  },
+  {
+    "code": "30.01.02.01",
+    "term": "Stacionární sekačky odpadu"
+  },
+  {
+    "code": "30.01.02.02",
+    "term": "Mobile sekačky odpadu"
+  },
+  {
+    "code": "30.01.03",
+    "term": "Sekací stroje (nízkorychlostní)"
+  },
+  {
+    "code": "30.01.04",
+    "term": "Pily na dřevo na topení"
+  },
+  {
+    "code": "30.01.05",
+    "term": "Stroje pro svazkování dřeva na topení"
+  },
+  {
+    "code": "30.01.06",
+    "term": "Briketovací lisy"
+  },
+  {
+    "code": "30.01.07",
+    "term": "Kuličkovací lisy"
+  },
+  {
+    "code": "30.01.12",
+    "term": "Zametací stroje"
+  },
+  {
+    "code": "30.01.13",
+    "term": "Skladovací a přepravní systémy"
+  },
+  {
+    "code": "30.01.14",
+    "term": "Provozy pro výrobu dřevěných pelet dodané na klíč"
+  },
+  {
+    "code": "30.01.15",
+    "term": "Sušárny surovin pro výrobu dřevěných pelet"
+  },
+  {
+    "code": "30.01.16",
+    "term": "Sušárny dřevěných paliv"
+  },
+  {
+    "code": "30.01.20",
+    "term": "Zařízení pro odsávání třísek a pilin"
+  },
+  {
+    "code": "30.01.20.01",
+    "term": "Systémy pro odsávání třísek a pilin (včetně filtrů)"
+  },
+  {
+    "code": "30.01.20.02",
+    "term": "Odsávací systémy"
+  },
+  {
+    "code": "30.01.20.03",
+    "term": "Odsávací stroje, samostatné"
+  },
+  {
+    "code": "30.01.20.04",
+    "term": "Filtrační odlučovače"
+  },
+  {
+    "code": "30.01.20.05",
+    "term": "Sila"
+  },
+  {
+    "code": "30.01.20.06",
+    "term": "Průmyslové vysavače"
+  },
+  {
+    "code": "30.01.20.07",
+    "term": "Ventilátory"
+  },
+  {
+    "code": "30.01.20.08",
+    "term": "Teplovzdušná topná zařízení"
+  },
+  {
+    "code": "30.01.20.09",
+    "term": "Systémy pro sledování koncentrace zbytkového prachu"
+  },
+  {
+    "code": "30.01.20.10",
+    "term": "Specializované řídící systémy pro zařízení k odsávání třísek a pilin"
+  },
+  {
+    "code": "30.01.20.99",
+    "term": "Zařízení pro odtah třísek a pilin; ostatní"
+  },
+  {
+    "code": "30.02",
+    "term": "Generování energie a tepla pomocí dřevěných paliv"
+  },
+  {
+    "code": "30.02.01",
+    "term": "Kotlové systémy s pecemi na dřevěná paliva (masív, třísky, piliny atd.)"
+  },
+  {
+    "code": "30.02.02",
+    "term": "Dřevěné pece pro generování horkého plynu"
+  },
+  {
+    "code": "30.02.03",
+    "term": "Generátory dřevoplynu"
+  },
+  {
+    "code": "30.02.04",
+    "term": "Dřevěné pece pro generování elektřiny"
+  },
+  {
+    "code": "30.02.05",
+    "term": "Komíny, pece a hořáky"
+  },
+  {
+    "code": "30.02.99",
+    "term": "Stroje, jednotky a pomocná zařízení pro generován energie; ostatní"
+  },
+  {
+    "code": "31",
+    "term": "Úspora energie, ochrana životního prostředí, bezpečnost práce, požární ochrana a klimatizace"
+  },
+  {
+    "code": "31.01",
+    "term": "Úspora energie"
+  },
+  {
+    "code": "31.01.01",
+    "term": "Stroje a zařízení pro recyklaci energie"
+  },
+  {
+    "code": "31.01.02",
+    "term": "Energeticky úsporné pneumatické dopravní systémy a pomocná zařízení"
+  },
+  {
+    "code": "31.01.99",
+    "term": "Stroje, jednotky a pomocná zařízení pro úsporu energie; ostatní"
+  },
+  {
+    "code": "31.02",
+    "term": "Bezpečnostní technologie"
+  },
+  {
+    "code": "31.03",
+    "term": "Ochrana životního prostředí"
+  },
+  {
+    "code": "31.03.01",
+    "term": "Čističky pro vodu a tekuté chemikálie"
+  },
+  {
+    "code": "31.03.02",
+    "term": "Ekologicky přátelská maziva a paliva"
+  },
+  {
+    "code": "31.03.03",
+    "term": "Stroje a zařízení pro čištění výfukového vzduchu a plynů"
+  },
+  {
+    "code": "31.03.04",
+    "term": "Spalovací stroj na chemikálie (laky, lepidla, filmy atd.)"
+  },
+  {
+    "code": "31.04",
+    "term": "Bezpečnost práce"
+  },
+  {
+    "code": "31.04.01",
+    "term": "Zařízení zvukové odolnosti (zvukově odolné kabiny atd.)"
+  },
+  {
+    "code": "31.04.02",
+    "term": "Bezpečnostní zařízení pro stroje"
+  },
+  {
+    "code": "31.04.03",
+    "term": "Ochranné oblečení a zařízení (včetně pracovního oděvu)"
+  },
+  {
+    "code": "31.05",
+    "term": "Požární ochrana a boj s požárem, ochrana proti výbuchu"
+  },
+  {
+    "code": "31.05.01",
+    "term": "Požární poplašné systémy"
+  },
+  {
+    "code": "31.05.02",
+    "term": "Požární a jiskrové hasící systémy"
+  },
+  {
+    "code": "31.05.03",
+    "term": "Sprinklerové systémy"
+  },
+  {
+    "code": "31.05.04",
+    "term": "Systémy ochrany proti výbuchu"
+  },
+  {
+    "code": "31.06",
+    "term": "Klimatizační technologie"
+  },
+  {
+    "code": "31.06.01",
+    "term": "Klimatizační zařízení"
+  },
+  {
+    "code": "31.06.02",
+    "term": "Klimatizační komory"
+  },
+  {
+    "code": "31.06.03",
+    "term": "Systémy zvlhčování vzduchu"
+  },
+  {
+    "code": "31.06.04",
+    "term": "Měřící a řídící jednotky pro klimatizaci"
+  },
+  {
+    "code": "40",
+    "term": "Elektronická zařízení pro sběr a zpracování dat; měřící, zkušební a kontrolní systémy"
+  },
+  {
+    "code": "40.01",
+    "term": "Elektronická zařízení sběru a zpracování dat"
+  },
+  {
+    "code": "40.01.01",
+    "term": "Numerické řídící systémy"
+  },
+  {
+    "code": "40.01.02",
+    "term": "CAM systémy"
+  },
+  {
+    "code": "40.01.03",
+    "term": "NC programovací systémy"
+  },
+  {
+    "code": "40.01.04",
+    "term": "Identifikační systémy pro kompetentní identifikaci a značení (čárový kód atd.)"
+  },
+  {
+    "code": "40.01.05",
+    "term": "Systémy zpracování obrazu, identifikace barev, konstrukce, prohlídka povrchu, optické měření atd."
+  },
+  {
+    "code": "40.01.06",
+    "term": "Elektronická zařízení pro sběr a zpracování dat pro zvláštní výrobní odvětví a oblasti"
+  },
+  {
+    "code": "40.01.06.01",
+    "term": "Elektronická zařízení pro sběr a zpracování dat pro skladiště kulatiny a pily"
+  },
+  {
+    "code": "40.01.06.02",
+    "term": "Elektronická zařízení pro sběr a zpracování dat pro dýhovací závody"
+  },
+  {
+    "code": "40.01.06.03",
+    "term": "Elektronická zařízení pro sběr a zpracování dat pro řezání a spojování dýhy"
+  },
+  {
+    "code": "40.01.06.04",
+    "term": "Elektronická zařízení pro sběr a zpracování dat pro výrobu nábytku"
+  },
+  {
+    "code": "40.01.06.05",
+    "term": "Elektronické vybavení pro sběr a zpracování dat pro výrobu dřevěných panelů"
+  },
+  {
+    "code": "40.02",
+    "term": "Měřící, zkušební a řídící systémy"
+  },
+  {
+    "code": "40.02.01",
+    "term": "Přístroje měření obrobků"
+  },
+  {
+    "code": "40.02.02",
+    "term": "Přístroje zkoušení materiálů a detekce poruch"
+  },
+  {
+    "code": "40.02.03",
+    "term": "Systémy sledování výroby"
+  },
+  {
+    "code": "40.02.04",
+    "term": "Detektory a odstraňovače kovů"
+  },
+  {
+    "code": "40.02.99",
+    "term": "Měřící a zkušební zařízení; ostatní"
+  },
+  {
+    "code": "80",
+    "term": "Dodávka kompletních strojů, financování a leasingové společnosti"
+  },
+  {
+    "code": "80.01",
+    "term": "Generální dodavatelé pro dodávku úplných závodů"
+  },
+  {
+    "code": "80.01.01",
+    "term": "Generální dodavatelé pro pily"
+  },
+  {
+    "code": "80.01.02",
+    "term": "Generální dodavatelé pro dýhovací a překližkové závody"
+  },
+  {
+    "code": "80.01.03",
+    "term": "Generální dodavatelé pro závody na výrobu pevných krycích hmot (lamináty, filmy, fólie atd.)"
+  },
+  {
+    "code": "80.01.04",
+    "term": "Generální dodavatelé pro výrobní závody dřevotřískových desek, dřevovláknitých desek a OSB"
+  },
+  {
+    "code": "80.01.05",
+    "term": "Generální dodavatelé pro výrobní závody nábytku"
+  },
+  {
+    "code": "80.01.06",
+    "term": "Generální dodavatelé pro závody zpracování masívu"
+  },
+  {
+    "code": "80.01.07",
+    "term": "Generální dodavatelé pro závody na výrobu dřevěných stavebních prvků (okna, fasády, atd.)"
+  },
+  {
+    "code": "80.01.08",
+    "term": "Generální dodavatelé pro výstavbu z řeziva a dřevěné domy"
+  },
+  {
+    "code": "80.01.09",
+    "term": "Generální dodavatelé pro závody na laminátové podlažní krytiny"
+  },
+  {
+    "code": "80.01.10",
+    "term": "Generální dodavatelé pro závody na výrobu parket"
+  },
+  {
+    "code": "80.01.11",
+    "term": "Generální dodavatelé pro závody na výrobu masívních desek"
+  },
+  {
+    "code": "80.01.12",
+    "term": "Generální dodavatelé pro závody na (cement) desky z minerální lepené vlny"
+  },
+  {
+    "code": "80.01.99",
+    "term": "Generální dodavatelé, ostatní"
+  },
+  {
+    "code": "80.02",
+    "term": "Financující společnosti"
+  },
+  {
+    "code": "80.03",
+    "term": "Leasingové společnosti"
+  },
+  {
+    "code": "90",
+    "term": "Nezávislý počítačový software (CAD, ERP, výrobní plánování a řízení atd.)"
+  },
+  {
+    "code": "90.01",
+    "term": "Nezávislý software pro pily a skladiště kulatiny"
+  },
+  {
+    "code": "90.02",
+    "term": "Nezávislý software pro dýhovací a překližkovou výrobu"
+  },
+  {
+    "code": "90.03",
+    "term": "Nezávislý software pro výrobu dřevotřískových desek, dřevovláknitých desek a OSB"
+  },
+  {
+    "code": "90.04",
+    "term": "Nezávislý software pro zpracování dýhy"
+  },
+  {
+    "code": "90.05",
+    "term": "Nezávislý software pro zpracování masívu"
+  },
+  {
+    "code": "90.06",
+    "term": "Nezávislý software pro nábytkový průmysl"
+  },
+  {
+    "code": "90.07",
+    "term": "Nezávislý software pro stavbu oken"
+  },
+  {
+    "code": "90.08",
+    "term": "Nezávislý software pro řezivovou výstavbu"
+  },
+  {
+    "code": "90.09",
+    "term": "Nezávislý software pro řemeslnictví"
+  },
+  {
+    "code": "90.10",
+    "term": "Nezávislý software pro stavbu schodů"
+  },
+  {
+    "code": "90.11",
+    "term": "Nezávislý software pro obchod s řezivem"
+  },
+  {
+    "code": "90.50",
+    "term": "Standardní software pro dřevařský průmysl (ERP, správa materiálu, správa personálu, nákladové účetnictví atd.)"
+  },
+  {
+    "code": "90.99",
+    "term": "Nezávislý software; ostatní"
+  },
+  {
+    "code": "95",
+    "term": "Nezávislé služby pro dřevařský průmysl"
+  },
+  {
+    "code": "95.01",
+    "term": "Nezávislé návrhové a konzultační služby pro dřevařský průmysl"
+  },
+  {
+    "code": "95.01.01",
+    "term": "Nezávislé návrhové a konzultační služby pro pily"
+  },
+  {
+    "code": "95.01.02",
+    "term": "Nezávislé návrhové a konzultační služby pro závody na dýhy a překližky"
+  },
+  {
+    "code": "95.01.03",
+    "term": "Nezávislé návrhové a konzultační služby pro výrobu pevných krycích materiálů a laminovací technologii (lamináty, filmy, fólie atd.)"
+  },
+  {
+    "code": "95.01.04",
+    "term": "Nezávislé návrhové a konzultační služby pro výrobu dřevotřískových, dřevovláknitých a OSB desek"
+  },
+  {
+    "code": "95.01.05",
+    "term": "Nezávislé návrhové a konzultační služby pro nábytkový průmysl"
+  },
+  {
+    "code": "95.01.06",
+    "term": "Nezávislé návrhové a konzultační služby pro sušení a páření masívu"
+  },
+  {
+    "code": "95.01.07",
+    "term": "Nezávislé návrhové a konzultační služby pro zpracování masívu"
+  },
+  {
+    "code": "95.01.08",
+    "term": "Nezávislé návrhové a konzultační služby pro okna a fasády"
+  },
+  {
+    "code": "95.01.09",
+    "term": "Nezávislé návrhové a konzultační služby pro řezivovou výstavbu"
+  },
+  {
+    "code": "95.01.10",
+    "term": "Nezávislé návrhové a konzultační služby pro řemeslnictví"
+  },
+  {
+    "code": "95.01.11",
+    "term": "Nezávislé návrhové a konzultační služby pro povrchové úpravy"
+  },
+  {
+    "code": "95.01.12",
+    "term": "Nezávislé návrhové a konzultační služby pro generování energie pomocí dřevěných paliv a úspor energie"
+  },
+  {
+    "code": "95.01.13",
+    "term": "Nezávislé návrhové a konzultační služby pro ochranu životního prostředí"
+  },
+  {
+    "code": "95.01.14",
+    "term": "Nezávislé návrhové a konzultační služby pro bezpečnostní technologii, bezpečnost práce a požární ochranu"
+  },
+  {
+    "code": "95.02",
+    "term": "Školící služby"
+  },
+  {
+    "code": "95.03",
+    "term": "Údržba, oprava, instalace, odinstalace, obnova a dovybavení strojů a zařízení"
+  },
+  {
+    "code": "95.04",
+    "term": "Asociace"
+  },
+  {
+    "code": "95.05",
+    "term": "Organizace zajišťující výstavy a veletrhy"
+  },
+  {
+    "code": "95.99",
+    "term": "Služby; ostatní"
+  },
+  {
+    "code": "96",
+    "term": "Výzkumné a zkušební ústavy, vzdělávací instituce pro řezivový a dřevozpracující průmysl (univerzity, technické fakulty atd.)"
+  },
+  {
+    "code": "96.01",
+    "term": "Vzdělávací instituce pro řezivový a dřevozpracující průmysl"
+  },
+  {
+    "code": "96.02",
+    "term": "Výzkumné instituce pro řezivový a dřevozpracující průmysl"
+  },
+  {
+    "code": "96.03",
+    "term": "Zkušební instituce pro řezivový a dřevozpracující průmysl"
+  },
+  {
+    "code": "97",
+    "term": "Vydavatelé literatury pro řezivový a dřevozpracující průmysl"
+  },
+  {
+    "code": "97.01",
+    "term": "Technické časopisy pro dřevařský a dřevozpracující průmysl"
+  },
+  {
+    "code": "97.03",
+    "term": "Technické knihy pro řezivový a dřevozpracující průmysl"
+  },
+  {
+    "code": "97.04",
+    "term": "Technické knihy pro dřevařský a dřevozpracující průmysl"
+  }
+]

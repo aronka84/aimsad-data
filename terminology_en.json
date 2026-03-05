@@ -1,0 +1,3938 @@
+[
+  {
+    "code": "00",
+    "term": "Machines, technical equipment and services for forestry"
+  },
+  {
+    "code": "00.01.01",
+    "term": "Soil cultivation"
+  },
+  {
+    "code": "00.01.02",
+    "term": "Fertilising"
+  },
+  {
+    "code": "00.01.03",
+    "term": "Forestry collection and plant production"
+  },
+  {
+    "code": "00.01.04",
+    "term": "Forest protection"
+  },
+  {
+    "code": "00.01.05",
+    "term": "Forestry track and waterway development"
+  },
+  {
+    "code": "00.01.06",
+    "term": "Tending of young growth and forest crops"
+  },
+  {
+    "code": "00.01.07",
+    "term": "Crop improvement, pruning and thinning"
+  },
+  {
+    "code": "00.01.08",
+    "term": "Plant and tree nurseries"
+  },
+  {
+    "code": "00.01.09",
+    "term": "Seed, site preparation and planting"
+  },
+  {
+    "code": "00.01.10",
+    "term": "Forestry surveying"
+  },
+  {
+    "code": "00.01.11",
+    "term": "Silviculture, site / soil rehabilitation, forest protection"
+  },
+  {
+    "code": "00.01.12",
+    "term": "Preservation of wood, pest control"
+  },
+  {
+    "code": "00.02",
+    "term": "Wood harvesting and skidding"
+  },
+  {
+    "code": "00.02.01",
+    "term": "Machines and equipment for pruning"
+  },
+  {
+    "code": "00.02.02",
+    "term": "Debarking machines and equipment"
+  },
+  {
+    "code": "00.02.03",
+    "term": "Harvesting machines"
+  },
+  {
+    "code": "00.02.04",
+    "term": "Forest tractors, specialised forest tractors and equipment"
+  },
+  {
+    "code": "00.02.05",
+    "term": "Skidding and cable logging"
+  },
+  {
+    "code": "00.02.06",
+    "term": "Cranes and other forest equipment"
+  },
+  {
+    "code": "00.02.07",
+    "term": "Portable chain saws and auxiliary equipment"
+  },
+  {
+    "code": "00.02.08",
+    "term": "Drag carts / skidding trailer"
+  },
+  {
+    "code": "00.02.09",
+    "term": "Skidding cables, skidding choker, safety belt and assessment"
+  },
+  {
+    "code": "00.02.10",
+    "term": "Skidding winches, skidding tongs"
+  },
+  {
+    "code": "00.02.11",
+    "term": "Lubricants and fuel for forestry machines"
+  },
+  {
+    "code": "00.03",
+    "term": "Forestry tools and auxiliary equipment"
+  },
+  {
+    "code": "00.03.01",
+    "term": "Axes, hatchets"
+  },
+  {
+    "code": "00.03.02",
+    "term": "Chains"
+  },
+  {
+    "code": "00.03.03",
+    "term": "Knives"
+  },
+  {
+    "code": "00.03.04",
+    "term": "Clippers"
+  },
+  {
+    "code": "00.03.05",
+    "term": "Ropes and cables"
+  },
+  {
+    "code": "00.03.06",
+    "term": "Anchor log, log cribbing"
+  },
+  {
+    "code": "00.03.07",
+    "term": "Equipment and auxiliary material for marking, labeling and numbering in the forest"
+  },
+  {
+    "code": "00.04",
+    "term": "Vehicles for timber transport and handling"
+  },
+  {
+    "code": "00.04.01",
+    "term": "Truck loading cranes and log grabs"
+  },
+  {
+    "code": "00.04.02",
+    "term": "Shortwood trailers"
+  },
+  {
+    "code": "00.04.03",
+    "term": "Short loggers"
+  },
+  {
+    "code": "00.04.04",
+    "term": "Log trucks"
+  },
+  {
+    "code": "00.04.05",
+    "term": "Trailers"
+  },
+  {
+    "code": "00.04.06",
+    "term": "Auxiliary equipment for wood transport, forest machinery and vehicles"
+  },
+  {
+    "code": "00.05",
+    "term": "Telecommunication facilities and mobile data processing for forestry"
+  },
+  {
+    "code": "00.05.01",
+    "term": "Equipment and systems for forest inventories"
+  },
+  {
+    "code": "00.05.02",
+    "term": "Equipment and systems for measuring timber"
+  },
+  {
+    "code": "00.05.03",
+    "term": "Stock management and logistics"
+  },
+  {
+    "code": "00.05.04",
+    "term": "Software for forestry"
+  },
+  {
+    "code": "00.05.05",
+    "term": "Forest fire monitoring and fire fighting"
+  },
+  {
+    "code": "00.06",
+    "term": "Occupational safety for forestry"
+  },
+  {
+    "code": "00.06.01",
+    "term": "Protective clothing and work clothes"
+  },
+  {
+    "code": "00.06.02",
+    "term": "Protective equipment"
+  },
+  {
+    "code": "00.07",
+    "term": "Services for forestry"
+  },
+  {
+    "code": "00.07.01",
+    "term": "Work preparation and techniques"
+  },
+  {
+    "code": "00.07.02",
+    "term": "Services for wood harvesting"
+  },
+  {
+    "code": "00.07.03",
+    "term": "Forest inventory, forest monitoring"
+  },
+  {
+    "code": "00.07.04",
+    "term": "Forest certification"
+  },
+  {
+    "code": "00.07.50",
+    "term": "Independent engineering and consulting services for the forestry industry"
+  },
+  {
+    "code": "00.07.99",
+    "term": "Services for the forestry industry; other"
+  },
+  {
+    "code": "00.08",
+    "term": "Publishers of literature for the forestry industry"
+  },
+  {
+    "code": "00.08.01",
+    "term": "Technical journals and periodicals for the forestry industry"
+  },
+  {
+    "code": "00.08.03",
+    "term": "Technical books for the forestry industry"
+  },
+  {
+    "code": "00.08.04",
+    "term": "Web based publications for the forestry industry"
+  },
+  {
+    "code": "00.09",
+    "term": "Research and testing institutes, educational institutions (universities, technical colleges, etc.) for the forestry industry"
+  },
+  {
+    "code": "00.09.01",
+    "term": "Educational institutions for the forestry industry"
+  },
+  {
+    "code": "00.09.02",
+    "term": "Research institutions for the forestry industry"
+  },
+  {
+    "code": "00.09.03",
+    "term": "Testing institutions for the forestry industry"
+  },
+  {
+    "code": "00.10",
+    "term": "Environmental protection for the forestry industry"
+  },
+  {
+    "code": "00.10.01",
+    "term": "Mobile fuel tanks and pumps"
+  },
+  {
+    "code": "00.10.02",
+    "term": "Storage of water polluting materials (oil etc.)"
+  },
+  {
+    "code": "00.10.03",
+    "term": "Storage of hazardous materials"
+  },
+  {
+    "code": "01",
+    "term": "Machines and technical equipment for primary processing (production of semi-finished products)"
+  },
+  {
+    "code": "01.01",
+    "term": "Roundwood yard"
+  },
+  {
+    "code": "01.01.01",
+    "term": "Mobile log conveyors"
+  },
+  {
+    "code": "01.01.02",
+    "term": "Cranes for roundwood yards"
+  },
+  {
+    "code": "01.01.03",
+    "term": "Stationary conveying devices for roundwood yards"
+  },
+  {
+    "code": "01.01.04",
+    "term": "Storage systems for roundwood yards"
+  },
+  {
+    "code": "01.01.05",
+    "term": "Log sorting stations"
+  },
+  {
+    "code": "01.01.06",
+    "term": "Sprinkling systems for wet preservation of wood"
+  },
+  {
+    "code": "01.01.07",
+    "term": "Machinery and tools for debarking of roundwood"
+  },
+  {
+    "code": "01.01.08",
+    "term": "Rotating log reducers / butt end reducers"
+  },
+  {
+    "code": "01.01.09",
+    "term": "Cross-cut saws"
+  },
+  {
+    "code": "01.01.09.01",
+    "term": "Mobile chain saws"
+  },
+  {
+    "code": "01.01.09.02",
+    "term": "Stationary chain saws"
+  },
+  {
+    "code": "01.01.09.03",
+    "term": "Cross-cut circular saws"
+  },
+  {
+    "code": "01.01.09.04",
+    "term": "Cutting to length station with continuous feed"
+  },
+  {
+    "code": "01.01.10",
+    "term": "Plants for measuring and optimization of roundwood"
+  },
+  {
+    "code": "01.01.11",
+    "term": "Metal detectors and removers for roundwood"
+  },
+  {
+    "code": "01.01.12",
+    "term": "Tools for marking and labeling of roundwood and logs"
+  },
+  {
+    "code": "01.02",
+    "term": "Sawmilling technology (sawn timber production)"
+  },
+  {
+    "code": "01.02.01",
+    "term": "Log conversion and resawing machines"
+  },
+  {
+    "code": "01.02.01.01",
+    "term": "Horizontal frame saws"
+  },
+  {
+    "code": "01.02.01.02",
+    "term": "Vertical frame saws"
+  },
+  {
+    "code": "01.02.01.03",
+    "term": "Log band saws, horizontal"
+  },
+  {
+    "code": "01.02.01.04",
+    "term": "Log band saws, vertical"
+  },
+  {
+    "code": "01.02.01.05",
+    "term": "Band resaws"
+  },
+  {
+    "code": "01.02.01.06",
+    "term": "Multiple band saws"
+  },
+  {
+    "code": "01.02.01.07",
+    "term": "Single arbour circular saws for roundwood"
+  },
+  {
+    "code": "01.02.01.08",
+    "term": "Double arbour circular saws for roundwood"
+  },
+  {
+    "code": "01.02.01.09",
+    "term": "Circular saws with freewheeling carriage for roundwood"
+  },
+  {
+    "code": "01.02.01.10",
+    "term": "Circular saws for construction timber"
+  },
+  {
+    "code": "01.02.01.11",
+    "term": "Chipper canters / profiling lines"
+  },
+  {
+    "code": "01.02.01.12",
+    "term": "Chipper- / band saw combinations"
+  },
+  {
+    "code": "01.02.01.13",
+    "term": "Chipless cutting machines for boards and laminated material"
+  },
+  {
+    "code": "01.02.01.14",
+    "term": "Circular saws with carriage for resawing"
+  },
+  {
+    "code": "01.02.01.15",
+    "term": "Circular resaws"
+  },
+  {
+    "code": "01.02.01.16",
+    "term": "Single arbor edger / rip saw"
+  },
+  {
+    "code": "01.02.01.17",
+    "term": "Double arbor edger / rip saw"
+  },
+  {
+    "code": "01.02.01.18",
+    "term": "Combined vertical-horizontal circular saws"
+  },
+  {
+    "code": "01.02.01.19",
+    "term": "Optimizing board edgers"
+  },
+  {
+    "code": "01.02.01.20",
+    "term": "Cross-cutting saws"
+  },
+  {
+    "code": "01.02.01.21",
+    "term": "Continuous trim saws"
+  },
+  {
+    "code": "01.02.01.22",
+    "term": "Cross-cut saws with guide bar for timber packs"
+  },
+  {
+    "code": "01.02.02",
+    "term": "Equipment for transportation, sorting and stacking of sawn timber"
+  },
+  {
+    "code": "01.02.02.01",
+    "term": "Timber sorting stations"
+  },
+  {
+    "code": "01.02.02.02",
+    "term": "Conveyors for sawn timber (roller conveyors / tracks, cross-transfer units, etc.)"
+  },
+  {
+    "code": "01.02.02.03",
+    "term": "Timber stacking and bundling stations"
+  },
+  {
+    "code": "01.02.03",
+    "term": "Measuring and registration of sawn timber"
+  },
+  {
+    "code": "01.02.04",
+    "term": "Mobile log saws"
+  },
+  {
+    "code": "01.02.04.01",
+    "term": "Mobile log band saws"
+  },
+  {
+    "code": "01.02.04.02",
+    "term": "Mobile log circular saws"
+  },
+  {
+    "code": "01.03",
+    "term": "Drying, steaming and impregnation of solid timber and other materials"
+  },
+  {
+    "code": "01.03.01",
+    "term": "Steaming plants"
+  },
+  {
+    "code": "01.03.02",
+    "term": "Kiln dryers"
+  },
+  {
+    "code": "01.03.02.01",
+    "term": "Conventional dryers"
+  },
+  {
+    "code": "01.03.02.02",
+    "term": "Vacuum dryers"
+  },
+  {
+    "code": "01.03.02.03",
+    "term": "Condensation dryers, e.g. heat pump dryers"
+  },
+  {
+    "code": "01.03.02.04",
+    "term": "Dryers for special processes (e.g. high frequency drying, micro wave drying)"
+  },
+  {
+    "code": "01.03.03",
+    "term": "Wood moisture measuring equipment"
+  },
+  {
+    "code": "01.03.03.01",
+    "term": "Moisture meters, hand-held"
+  },
+  {
+    "code": "01.03.03.02",
+    "term": "Moisture meters, inline"
+  },
+  {
+    "code": "01.03.04",
+    "term": "Kiln control equipment"
+  },
+  {
+    "code": "01.03.05",
+    "term": "Impregnating plants"
+  },
+  {
+    "code": "01.03.06",
+    "term": "Plants for heat treatment of wood for changing its physical characteristics"
+  },
+  {
+    "code": "01.03.07",
+    "term": "Plants for chemical treatment of wood for changing its appearance (e.g. by ammonia, oils etc.)"
+  },
+  {
+    "code": "01.04",
+    "term": "Production of veneers"
+  },
+  {
+    "code": "01.04.01",
+    "term": "Steaming / cooking plants for veneer flitches"
+  },
+  {
+    "code": "01.04.02",
+    "term": "Specialised sawing machines for sawing of veneer logs"
+  },
+  {
+    "code": "01.04.03",
+    "term": "Flitch planers"
+  },
+  {
+    "code": "01.04.04",
+    "term": "Veneer slicers"
+  },
+  {
+    "code": "01.04.05",
+    "term": "Rotation slicers"
+  },
+  {
+    "code": "01.04.06",
+    "term": "Veneer peelers"
+  },
+  {
+    "code": "01.04.07",
+    "term": "Centering and loading equipment"
+  },
+  {
+    "code": "01.04.08",
+    "term": "Staylog devices"
+  },
+  {
+    "code": "01.04.09",
+    "term": "Veneer reeling, sorting and offloading equipment"
+  },
+  {
+    "code": "01.04.10",
+    "term": "Conveying and storage equipment (magazines) for sliced and peeled veneers"
+  },
+  {
+    "code": "01.04.11",
+    "term": "Veneer dryers"
+  },
+  {
+    "code": "01.04.11.01",
+    "term": "Belt dryers"
+  },
+  {
+    "code": "01.04.11.02",
+    "term": "Roller dryers"
+  },
+  {
+    "code": "01.04.11.03",
+    "term": "Press / ironing dryers"
+  },
+  {
+    "code": "01.04.12",
+    "term": "Inline wood moisture control equipment for veneer dryers"
+  },
+  {
+    "code": "01.04.13",
+    "term": "Veneer guillotines / clippers"
+  },
+  {
+    "code": "01.04.13.01",
+    "term": "Sliced veneer guillotines"
+  },
+  {
+    "code": "01.04.13.02",
+    "term": "Peeled veneer clippers"
+  },
+  {
+    "code": "01.04.14",
+    "term": "Devices / plants for measuring and labeling of veneers"
+  },
+  {
+    "code": "01.04.15",
+    "term": "Veneer bundling machines"
+  },
+  {
+    "code": "01.05",
+    "term": "Production of solid coating materials based on paper (laminates, films, etc.)"
+  },
+  {
+    "code": "01.05.01",
+    "term": "Lines for impregnating and coating of papers and tissue"
+  },
+  {
+    "code": "01.05.02",
+    "term": "Air flotation dryers for impregnated / coated papers"
+  },
+  {
+    "code": "01.05.03",
+    "term": "Resin blenders and proportioning devices / systems"
+  },
+  {
+    "code": "01.05.04",
+    "term": "Cycle presses for laminates (e.g. HPL)"
+  },
+  {
+    "code": "01.05.05",
+    "term": "Continuous-type presses for laminates (e.g. CPL)"
+  },
+  {
+    "code": "01.05.06",
+    "term": "Laminate and film cutting machines"
+  },
+  {
+    "code": "01.05.06.01",
+    "term": "Laminate and film clippers"
+  },
+  {
+    "code": "01.05.06.02",
+    "term": "Laminate and film cutting machines with roller shear knives"
+  },
+  {
+    "code": "01.05.07",
+    "term": "Systems for production data acquisition and quality monitoring for solid coating materials"
+  },
+  {
+    "code": "01.06",
+    "term": "Production of veneer plywood and laminated veneer lumber"
+  },
+  {
+    "code": "01.06.01",
+    "term": "Jointing machines for peeled veneer"
+  },
+  {
+    "code": "01.06.02",
+    "term": "Splicers for peeled veneer"
+  },
+  {
+    "code": "01.06.03",
+    "term": "Scarfing lines for peeled veneer"
+  },
+  {
+    "code": "01.06.04",
+    "term": "Core stock gluing machines (cutting to length, gluing, pressing, etc.)"
+  },
+  {
+    "code": "01.06.05",
+    "term": "Glue spreaders for veneers and boards"
+  },
+  {
+    "code": "01.06.06",
+    "term": "Block presses for plywood and laminated veneer lumber"
+  },
+  {
+    "code": "01.06.07",
+    "term": "Plywood presses for flat surfaces"
+  },
+  {
+    "code": "01.06.09",
+    "term": "Equipment for glue preparation, proportioning and transport for plywood plants"
+  },
+  {
+    "code": "01.06.10",
+    "term": "Conveying and storage equipment for plywood plants"
+  },
+  {
+    "code": "01.06.11",
+    "term": "Systems for production data acquisition and quality monitoring for plywood plants"
+  },
+  {
+    "code": "01.07",
+    "term": "Production of particle board, fibre board and OSB"
+  },
+  {
+    "code": "01.07.01",
+    "term": "Crushers for waste materials, e.g. waste wood, demolition wood, used wood products etc."
+  },
+  {
+    "code": "01.07.02",
+    "term": "Chippers and chipping mills"
+  },
+  {
+    "code": "01.07.03",
+    "term": "Flakers"
+  },
+  {
+    "code": "01.07.03.01",
+    "term": "Long log flakers"
+  },
+  {
+    "code": "01.07.03.02",
+    "term": "Flakers for industrial waste wood (slabs, offcuts, etc.) and other materials"
+  },
+  {
+    "code": "01.07.03.03",
+    "term": "Knife ring flakers for hogged wood and other materials"
+  },
+  {
+    "code": "01.07.04",
+    "term": "Hammermills, beating flakers"
+  },
+  {
+    "code": "01.07.05",
+    "term": "Grinders for shavings, flakes, sawdust, etc. (impact mills, sievering mills, etc.)"
+  },
+  {
+    "code": "01.07.06",
+    "term": "Cleaning plants for hogged wood"
+  },
+  {
+    "code": "01.07.07",
+    "term": "Conveying and storage equipment for hogged wood chips, fibres, etc."
+  },
+  {
+    "code": "01.07.08",
+    "term": "Refiners"
+  },
+  {
+    "code": "01.07.09",
+    "term": "Dryers for chips, fibres, strands"
+  },
+  {
+    "code": "01.07.10",
+    "term": "Sifting / screening equipment"
+  },
+  {
+    "code": "01.07.11",
+    "term": "Glue preparation and dosing equipment"
+  },
+  {
+    "code": "01.07.12",
+    "term": "Gluing and mixing equipment"
+  },
+  {
+    "code": "01.07.13",
+    "term": "Spreading and matforming systems"
+  },
+  {
+    "code": "01.07.14",
+    "term": "Belt scales"
+  },
+  {
+    "code": "01.07.15",
+    "term": "Moisturing equipment for chips and fibre mats"
+  },
+  {
+    "code": "01.07.16",
+    "term": "Presses"
+  },
+  {
+    "code": "01.07.16.01",
+    "term": "Cycle pre-presses"
+  },
+  {
+    "code": "01.07.16.02",
+    "term": "Continuous pre-presses"
+  },
+  {
+    "code": "01.07.16.03",
+    "term": "Multi-daylight presses"
+  },
+  {
+    "code": "01.07.16.04",
+    "term": "Single daylight presses"
+  },
+  {
+    "code": "01.07.16.05",
+    "term": "Continuous-type presses"
+  },
+  {
+    "code": "01.07.16.06",
+    "term": "Calender presses"
+  },
+  {
+    "code": "01.07.17",
+    "term": "Panel edging machines"
+  },
+  {
+    "code": "01.07.18",
+    "term": "Running cross-cut saws"
+  },
+  {
+    "code": "01.07.19",
+    "term": "Cooling stations"
+  },
+  {
+    "code": "01.07.20",
+    "term": "Sanding lines"
+  },
+  {
+    "code": "01.07.21",
+    "term": "Panel dividing machines"
+  },
+  {
+    "code": "01.07.22",
+    "term": "Warehousing, handling, commissioning equipment for panels"
+  },
+  {
+    "code": "01.07.23",
+    "term": "Packaging equipment for panels"
+  },
+  {
+    "code": "01.07.24",
+    "term": "Systems for production data acquisition and quality monitoring for particle board, fibre board and OSB plants"
+  },
+  {
+    "code": "01.07.25",
+    "term": "Special equipment components for machinery and plants for particle boards, fibre boards and OSB production"
+  },
+  {
+    "code": "01.07.26",
+    "term": "Separating technology"
+  },
+  {
+    "code": "01.08",
+    "term": "Production of lightweight boards / sandwich elements"
+  },
+  {
+    "code": "01.08.01",
+    "term": "Machines for expanding and drying honeycombs"
+  },
+  {
+    "code": "01.08.02",
+    "term": "Machines for panel frames"
+  },
+  {
+    "code": "01.08.03",
+    "term": "Machines for core composition"
+  },
+  {
+    "code": "01.08.04",
+    "term": "Presses for lightweight boards / sandwich elements production"
+  },
+  {
+    "code": "01.09",
+    "term": "Production of contoured surfaces and mouldings"
+  },
+  {
+    "code": "01.09.01",
+    "term": "Presses for moulded parts of particles, fibres and other materials"
+  },
+  {
+    "code": "01.09.02",
+    "term": "Presses for contoured surfaces and mouldings of plywood or other laminates"
+  },
+  {
+    "code": "01.09.03",
+    "term": "Extruders"
+  },
+  {
+    "code": "01.99",
+    "term": "Machines and technical equipment for primary processing, other"
+  },
+  {
+    "code": "02",
+    "term": "Machines and technical equipment for secondary processing (laminating, machining, gluing)"
+  },
+  {
+    "code": "02.01",
+    "term": "Veneer processing"
+  },
+  {
+    "code": "02.01.01",
+    "term": "Veneer ironing presses"
+  },
+  {
+    "code": "02.01.02",
+    "term": "Veneer cross-cutters"
+  },
+  {
+    "code": "02.01.03",
+    "term": "Veneer pack shears"
+  },
+  {
+    "code": "02.01.03.01",
+    "term": "Single knife veneer pack shears"
+  },
+  {
+    "code": "02.01.03.02",
+    "term": "Double knife veneer pack shears"
+  },
+  {
+    "code": "02.01.04",
+    "term": "Veneer strip sizing machines"
+  },
+  {
+    "code": "02.01.05",
+    "term": "Circular saws for veneer packs"
+  },
+  {
+    "code": "02.01.06",
+    "term": "Edge planing / cutting machines for veneer packs"
+  },
+  {
+    "code": "02.01.07",
+    "term": "Machines for glue application on veneer edges"
+  },
+  {
+    "code": "02.01.08",
+    "term": "Longitudinal veneer splicers"
+  },
+  {
+    "code": "02.01.09",
+    "term": "Cross-feed veneer splicers"
+  },
+  {
+    "code": "02.01.10",
+    "term": "End gluing machines"
+  },
+  {
+    "code": "02.01.11",
+    "term": "Machines and equipment for lengthwise joining of veneers (e.g. by means of finger joints)"
+  },
+  {
+    "code": "02.01.12",
+    "term": "Veneer patching machines"
+  },
+  {
+    "code": "02.01.13",
+    "term": "Equipment for measuring and optimizing of veneers"
+  },
+  {
+    "code": "02.01.14",
+    "term": "Luminous tables for veneer inspection"
+  },
+  {
+    "code": "02.01.15",
+    "term": "Veneer tenderizing machines (flexer)"
+  },
+  {
+    "code": "02.02",
+    "term": "Presses, laminating and profile wrapping machines for solid coating materials (veneering, laminating, film coating, etc.)"
+  },
+  {
+    "code": "02.02.01",
+    "term": "Brushing and cleaning machines for workpieces"
+  },
+  {
+    "code": "02.02.02",
+    "term": "Glue spreaders for boards / veneers"
+  },
+  {
+    "code": "02.02.03",
+    "term": "Mechanical feeding, storing and laying systems for coating materials"
+  },
+  {
+    "code": "02.02.04",
+    "term": "Cycle presses"
+  },
+  {
+    "code": "02.02.04.01",
+    "term": "Hand-fed cycle presses"
+  },
+  {
+    "code": "02.02.04.02",
+    "term": "Mechanised fed cycle presses / short-cycle presses"
+  },
+  {
+    "code": "02.02.04.03",
+    "term": "Block cycle presses for laminating"
+  },
+  {
+    "code": "02.02.04.04",
+    "term": "Cycle presses for laminating of moulded parts"
+  },
+  {
+    "code": "02.02.04.05",
+    "term": "Membrane presses"
+  },
+  {
+    "code": "02.02.05",
+    "term": "Continuous press / laminating systems"
+  },
+  {
+    "code": "02.02.05.01",
+    "term": "Double-band presses"
+  },
+  {
+    "code": "02.02.05.02",
+    "term": "Foil roll-on lines / continuous surface laminating plants"
+  },
+  {
+    "code": "02.02.05.03",
+    "term": "Continuous surface laminating plants with integrated edge-wrapping units"
+  },
+  {
+    "code": "02.02.05.04",
+    "term": "Profile wrapping machines"
+  },
+  {
+    "code": "02.02.06",
+    "term": "Machines for the application of protective films"
+  },
+  {
+    "code": "02.02.07",
+    "term": "Gilding machines for hot application of gold foil"
+  },
+  {
+    "code": "02.02.08",
+    "term": "Aggregates for dividing and trimming of coated parts"
+  },
+  {
+    "code": "02.02.09",
+    "term": "Equipment for loading, offloading and conveying of laminated parts"
+  },
+  {
+    "code": "02.02.10",
+    "term": "Equipment for glue preparation, proportioning and transport"
+  },
+  {
+    "code": "02.02.11",
+    "term": "Fleece backing machines for veneer and synthetic coating material"
+  },
+  {
+    "code": "02.03",
+    "term": "Sawing machines for further processing of solid wood, wood-based panels, plastics, composites and other materials"
+  },
+  {
+    "code": "02.03.01",
+    "term": "Undercut cross-cutting saws"
+  },
+  {
+    "code": "02.03.02",
+    "term": "Topcut cross-cutting saws"
+  },
+  {
+    "code": "02.03.02.01",
+    "term": "Pendulum saws"
+  },
+  {
+    "code": "02.03.02.02",
+    "term": "Radial arm saws"
+  },
+  {
+    "code": "02.03.03",
+    "term": "Optimizing cross-cutting saws"
+  },
+  {
+    "code": "02.03.04",
+    "term": "Single and double mitre saws"
+  },
+  {
+    "code": "02.03.05",
+    "term": "Multi-blade trimming circular saws"
+  },
+  {
+    "code": "02.03.06",
+    "term": "Single blade circular saws with moving saw unit"
+  },
+  {
+    "code": "02.03.07",
+    "term": "Single- and multi-blade circular saws for edging or ripping"
+  },
+  {
+    "code": "02.03.08",
+    "term": "Special sawing machines for thin saw kerfs"
+  },
+  {
+    "code": "02.03.08.01",
+    "term": "Frame saws for thin saw kerfs"
+  },
+  {
+    "code": "02.03.08.02",
+    "term": "Circular saws for thin saw kerfs"
+  },
+  {
+    "code": "02.03.09",
+    "term": "Table saws"
+  },
+  {
+    "code": "02.03.10",
+    "term": "Sliding table saws"
+  },
+  {
+    "code": "02.03.11",
+    "term": "Vertical panel saws"
+  },
+  {
+    "code": "02.03.12",
+    "term": "Horizontal panel saws with pressure beam"
+  },
+  {
+    "code": "02.03.12.01",
+    "term": "Horizontal panel saws with pressure beam for longitudinal cuts"
+  },
+  {
+    "code": "02.03.12.02",
+    "term": "Horizontal panel saws with pressure beam for cross cuts"
+  },
+  {
+    "code": "02.03.12.03",
+    "term": "Horizontal panel saws with pressure beam for longitudinal and cross cuts (angular system)"
+  },
+  {
+    "code": "02.03.13",
+    "term": "Overhead panel saws (portal saws) for longitudinal and / or cross-cutting"
+  },
+  {
+    "code": "02.03.14",
+    "term": "Narrow band saws"
+  },
+  {
+    "code": "02.03.15",
+    "term": "Copying band saws"
+  },
+  {
+    "code": "02.03.16",
+    "term": "Jig saws"
+  },
+  {
+    "code": "02.03.17",
+    "term": "Notching saws"
+  },
+  {
+    "code": "02.03.18",
+    "term": "Sawing machines for building sites"
+  },
+  {
+    "code": "02.03.19",
+    "term": "CNC band saws"
+  },
+  {
+    "code": "02.03.20",
+    "term": "Double panel sizing circular sawing machines for parallel and / or squaring cuts, hand feed"
+  },
+  {
+    "code": "02.03.21",
+    "term": "Optimizing rip saws"
+  },
+  {
+    "code": "02.04",
+    "term": "Moulding and planing machines"
+  },
+  {
+    "code": "02.04.01",
+    "term": "Surface planers"
+  },
+  {
+    "code": "02.04.02",
+    "term": "Thickness planers"
+  },
+  {
+    "code": "02.04.03",
+    "term": "Scraper machines"
+  },
+  {
+    "code": "02.04.04",
+    "term": "Planing / sawing machines"
+  },
+  {
+    "code": "02.04.05",
+    "term": "Planer / sander combinations"
+  },
+  {
+    "code": "02.04.06",
+    "term": "Angular-edge surface planers for surfacing and jointing in one operation"
+  },
+  {
+    "code": "02.04.07",
+    "term": "Two-side thicknessing planers for surfacing and thicknessing in one operation"
+  },
+  {
+    "code": "02.04.08",
+    "term": "Three- and four-side planers"
+  },
+  {
+    "code": "02.04.09",
+    "term": "Moulding machines for three- and four-side machining"
+  },
+  {
+    "code": "02.04.10",
+    "term": "Face milling machines for one and multi-side machining"
+  },
+  {
+    "code": "02.04.11",
+    "term": "Single-spindle moulders"
+  },
+  {
+    "code": "02.04.12",
+    "term": "Finger jointing machines"
+  },
+  {
+    "code": "02.04.13",
+    "term": "Routers"
+  },
+  {
+    "code": "02.04.14",
+    "term": "CNC routers"
+  },
+  {
+    "code": "02.04.15",
+    "term": "Copy moulders"
+  },
+  {
+    "code": "02.04.15.01",
+    "term": "Copy moulders for longitudinal processing of moulded parts (also with additional sanding units, etc.)"
+  },
+  {
+    "code": "02.04.15.02",
+    "term": "Copy moulders with rotating table (also with additional sanding units, etc.)"
+  },
+  {
+    "code": "02.04.15.03",
+    "term": "Copy moulders with tool control by pattern and automatic rotation of workpiece (with one or more spindles, also with additional sanding units)"
+  },
+  {
+    "code": "02.04.16",
+    "term": "Double-sided CNC moulding (and sanding) machines for contoured parts"
+  },
+  {
+    "code": "02.04.17",
+    "term": "Copy carving machines"
+  },
+  {
+    "code": "02.04.18",
+    "term": "Rod moulders"
+  },
+  {
+    "code": "02.04.19",
+    "term": "Lip trimmers"
+  },
+  {
+    "code": "02.04.20",
+    "term": "Round rod moulders"
+  },
+  {
+    "code": "02.04.21",
+    "term": "Spiral moulders"
+  },
+  {
+    "code": "02.04.22",
+    "term": "Mitre moulders"
+  },
+  {
+    "code": "02.04.23",
+    "term": "Mullion moulders"
+  },
+  {
+    "code": "02.04.24",
+    "term": "Groove cutters for stairs, ladders and louvres"
+  },
+  {
+    "code": "02.04.25",
+    "term": "Decorative strip moulders"
+  },
+  {
+    "code": "02.04.26",
+    "term": "Scarf moulders"
+  },
+  {
+    "code": "02.04.99",
+    "term": "Moulding machines for special applications"
+  },
+  {
+    "code": "02.05",
+    "term": "Finger jointing technology"
+  },
+  {
+    "code": "02.05.01",
+    "term": "Machines for cutting finger joints"
+  },
+  {
+    "code": "02.05.02",
+    "term": "Glue application systems for finger joints"
+  },
+  {
+    "code": "02.05.03",
+    "term": "Finger jointing presses"
+  },
+  {
+    "code": "02.05.04",
+    "term": "Finger jointing lines for cross-cutting, cutting finger joints, glue application, pressing, etc."
+  },
+  {
+    "code": "02.06",
+    "term": "Tenoning machines"
+  },
+  {
+    "code": "02.06.01",
+    "term": "End tenoners for straight tenons"
+  },
+  {
+    "code": "02.06.01.01",
+    "term": "Single-end tenoners for straight tenons"
+  },
+  {
+    "code": "02.06.01.02",
+    "term": "Double-end tenoners for straight tenons"
+  },
+  {
+    "code": "02.06.02",
+    "term": "Round end tenoners"
+  },
+  {
+    "code": "02.06.02.01",
+    "term": "Single round end tenoners"
+  },
+  {
+    "code": "02.06.02.02",
+    "term": "Double round end tenoners"
+  },
+  {
+    "code": "02.07",
+    "term": "Profiling and sizing machines (trimming, length cutting, profiling, sanding, etc.)"
+  },
+  {
+    "code": "02.07.01",
+    "term": "Single-end profilers / sizing machines for non-flat parts, e.g. scantlings"
+  },
+  {
+    "code": "02.07.02",
+    "term": "Single-end profilers / sizing machines for flat parts, e.g. panels"
+  },
+  {
+    "code": "02.07.03",
+    "term": "Double-end profilers / sizing machines for non-flat parts, e.g. scantlings"
+  },
+  {
+    "code": "02.07.04",
+    "term": "Double-end profilers / sizing machines for flat parts, e.g. panels"
+  },
+  {
+    "code": "02.08",
+    "term": "Edge banding machines (edge banding, trimming, sanding, etc.)"
+  },
+  {
+    "code": "02.08.01",
+    "term": "Single-end edge banding machines"
+  },
+  {
+    "code": "02.08.01.01",
+    "term": "Single-end edge banding machines for straight edges"
+  },
+  {
+    "code": "02.08.01.02",
+    "term": "Single-end edge banding machines for softforming"
+  },
+  {
+    "code": "02.08.01.03",
+    "term": "Single-end edge banding machines for shaped / curved parts"
+  },
+  {
+    "code": "02.08.02",
+    "term": "Double-end edge banding machines"
+  },
+  {
+    "code": "02.08.02.01",
+    "term": "Double-end edge banding machines for straight edges"
+  },
+  {
+    "code": "02.08.02.02",
+    "term": "Double-end edge banding machines for softforming"
+  },
+  {
+    "code": "02.08.02.03",
+    "term": "Double-end edge banding machines for shaped / curved parts"
+  },
+  {
+    "code": "02.08.03",
+    "term": "Table edge banding machines"
+  },
+  {
+    "code": "02.09",
+    "term": "Sizing and edge banding machines (sizing, profiling, edge banding, trimming, sanding, etc.)"
+  },
+  {
+    "code": "02.09.01",
+    "term": "Single-end sizing and edge banding machines"
+  },
+  {
+    "code": "02.09.01.01",
+    "term": "Single-end sizing and edge banding machines for straight edges"
+  },
+  {
+    "code": "02.09.01.02",
+    "term": "Single-end sizing and edge banding machines for softforming"
+  },
+  {
+    "code": "02.09.01.03",
+    "term": "Single-end sizing and edge banding machines for shaped / curved parts"
+  },
+  {
+    "code": "02.09.02",
+    "term": "Double-end sizing and edge banding machines"
+  },
+  {
+    "code": "02.09.02.01",
+    "term": "Double-end sizing and edge banding machines for straight edges"
+  },
+  {
+    "code": "02.09.02.02",
+    "term": "Double-end sizing and edge banding machines for softforming"
+  },
+  {
+    "code": "02.09.02.03",
+    "term": "Double-end sizing and edge banding machines for shaped / curved parts"
+  },
+  {
+    "code": "02.10",
+    "term": "Postforming machines"
+  },
+  {
+    "code": "02.10.01",
+    "term": "Postforming machines for stationary processing"
+  },
+  {
+    "code": "02.10.02",
+    "term": "Postforming machines for through-feed processing"
+  },
+  {
+    "code": "02.10.02.01",
+    "term": "Postforming machines for laminates"
+  },
+  {
+    "code": "02.10.02.02",
+    "term": "Direct-postforming machines for laminated / veneered panels"
+  },
+  {
+    "code": "02.11",
+    "term": "Folding systems"
+  },
+  {
+    "code": "02.11.01",
+    "term": "Longitudinal folding systems"
+  },
+  {
+    "code": "02.11.02",
+    "term": "Mitre cutting machines for cross-folding"
+  },
+  {
+    "code": "02.11.03",
+    "term": "Carcass presses / gluing stations for cross-folding"
+  },
+  {
+    "code": "02.11.04",
+    "term": "Cross-folding systems (cutting to length, mitre cutting, glue application, folding, pressing, etc.)"
+  },
+  {
+    "code": "02.12",
+    "term": "Machines for boring, dowel-driving and hardware inserting"
+  },
+  {
+    "code": "02.12.01",
+    "term": "Boring machines with one or several boring heads"
+  },
+  {
+    "code": "02.12.01.01",
+    "term": "Universal multispindle boring machines, stationary processing"
+  },
+  {
+    "code": "02.12.01.02",
+    "term": "Multispindle boring machines with horizontal and / or vertical heads, stationary processing"
+  },
+  {
+    "code": "02.12.01.03",
+    "term": "Through feed multi-spindle boring machines with horizontal and / or vertical heads"
+  },
+  {
+    "code": "02.12.02",
+    "term": "Dowel hole boring machines for rack, frame and other prismatic components, stationary or through feed processing"
+  },
+  {
+    "code": "02.12.03",
+    "term": "Boring machines for sawing, moulding, boring and dowel-driving"
+  },
+  {
+    "code": "02.12.04",
+    "term": "Machines for boring, milling, hardware inserting, etc."
+  },
+  {
+    "code": "02.12.05",
+    "term": "CNC boring machines"
+  },
+  {
+    "code": "02.12.05.01",
+    "term": "CNC boring machines for stationary processing"
+  },
+  {
+    "code": "02.12.05.02",
+    "term": "Through feed CNC boring machines"
+  },
+  {
+    "code": "02.12.06",
+    "term": "Dowel driving machines (gluing, driving-in)"
+  },
+  {
+    "code": "02.12.07",
+    "term": "Machines for hardware inserting"
+  },
+  {
+    "code": "02.12.08",
+    "term": "Knothole boring machines"
+  },
+  {
+    "code": "02.12.09",
+    "term": "Bench- and column-type boring machines"
+  },
+  {
+    "code": "02.12.10",
+    "term": "Slot boring machines"
+  },
+  {
+    "code": "02.13",
+    "term": "Hardware recessing machines"
+  },
+  {
+    "code": "02.14",
+    "term": "Mortising machines"
+  },
+  {
+    "code": "02.14.01",
+    "term": "Mortisers with orbital tool action"
+  },
+  {
+    "code": "02.14.02",
+    "term": "Chain mortisers"
+  },
+  {
+    "code": "02.14.03",
+    "term": "Chisel mortisers"
+  },
+  {
+    "code": "02.14.04",
+    "term": "Mortisers, optionally for chain or chisel"
+  },
+  {
+    "code": "02.15",
+    "term": "Turning machines"
+  },
+  {
+    "code": "02.15.01",
+    "term": "Turning lathes"
+  },
+  {
+    "code": "02.15.02",
+    "term": "Facing lathes"
+  },
+  {
+    "code": "02.15.03",
+    "term": "Profiling lathes"
+  },
+  {
+    "code": "02.15.04",
+    "term": "Copying lathes with tool control by template"
+  },
+  {
+    "code": "02.15.05",
+    "term": "CNC lathes"
+  },
+  {
+    "code": "02.16",
+    "term": "Sanding machines"
+  },
+  {
+    "code": "02.16.01",
+    "term": "Longbelt sanders with table"
+  },
+  {
+    "code": "02.16.02",
+    "term": "Longbelt sanders with mechanical feed"
+  },
+  {
+    "code": "02.16.03",
+    "term": "Wide-belt sanders"
+  },
+  {
+    "code": "02.16.04",
+    "term": "Cross-belt / wide-belt sanders"
+  },
+  {
+    "code": "02.16.05",
+    "term": "Veneer sheet sanders"
+  },
+  {
+    "code": "02.16.06",
+    "term": "Abrasive calibrating machines"
+  },
+  {
+    "code": "02.16.07",
+    "term": "Wide-belt sanders for calibrating and sanding"
+  },
+  {
+    "code": "02.16.08",
+    "term": "Drum sanders for surface sanding"
+  },
+  {
+    "code": "02.16.09",
+    "term": "Sanders for curved and moulded components"
+  },
+  {
+    "code": "02.16.10",
+    "term": "Sanders for intermediate lacquer sanding"
+  },
+  {
+    "code": "02.16.11",
+    "term": "Profile sanders"
+  },
+  {
+    "code": "02.16.11.01",
+    "term": "Single-end profile sanders"
+  },
+  {
+    "code": "02.16.11.02",
+    "term": "Double-end profile sanders"
+  },
+  {
+    "code": "02.16.12",
+    "term": "Bobbin sanders"
+  },
+  {
+    "code": "02.16.13",
+    "term": "Belt sanders"
+  },
+  {
+    "code": "02.16.14",
+    "term": "Disc sanders"
+  },
+  {
+    "code": "02.16.15",
+    "term": "Sanders for round rods"
+  },
+  {
+    "code": "02.16.16",
+    "term": "Sanders for lathe turned parts"
+  },
+  {
+    "code": "02.16.17",
+    "term": "CNC sanding centres for complete sanding of all surfaces"
+  },
+  {
+    "code": "02.17",
+    "term": "Polishing and buffing machines"
+  },
+  {
+    "code": "02.17.01",
+    "term": "Polishing machines for flat surfaces"
+  },
+  {
+    "code": "02.17.02",
+    "term": "Polishing machines for mouldings"
+  },
+  {
+    "code": "02.17.03",
+    "term": "Polishing machines for strips"
+  },
+  {
+    "code": "02.17.04",
+    "term": "Polishing / buffing machines with automatic feed"
+  },
+  {
+    "code": "02.17.05",
+    "term": "Buffing stands"
+  },
+  {
+    "code": "02.18",
+    "term": "Forming machines"
+  },
+  {
+    "code": "02.18.01",
+    "term": "Bending machines"
+  },
+  {
+    "code": "02.18.02",
+    "term": "Embossing machines"
+  },
+  {
+    "code": "02.18.02.01",
+    "term": "Stationary embossing machines"
+  },
+  {
+    "code": "02.18.02.02",
+    "term": "Through feed embossing machines"
+  },
+  {
+    "code": "02.18.99",
+    "term": "Forming machines; other"
+  },
+  {
+    "code": "02.19",
+    "term": "Combined machines (space-induced combinations)"
+  },
+  {
+    "code": "02.19.01",
+    "term": "Surfacers and thicknessers"
+  },
+  {
+    "code": "02.19.02",
+    "term": "Combined circular saws and moulders"
+  },
+  {
+    "code": "02.19.03",
+    "term": "Combined circular saws, moulders and slot mortisers"
+  },
+  {
+    "code": "02.19.04",
+    "term": "Combined circular saws, surfacers, moulders and slot mortisers"
+  },
+  {
+    "code": "02.19.05",
+    "term": "Universal combined machines for carpentry and joinery"
+  },
+  {
+    "code": "02.19.06",
+    "term": "Universal combined machines for DIY"
+  },
+  {
+    "code": "02.19.99",
+    "term": "Combined machines; other"
+  },
+  {
+    "code": "02.20",
+    "term": "Machining centres (stationary processing)"
+  },
+  {
+    "code": "02.20.01",
+    "term": "Machining centres for sawing, routing, profiling, boring, sanding"
+  },
+  {
+    "code": "02.20.02",
+    "term": "Machining centres for edge-bonding"
+  },
+  {
+    "code": "02.20.03",
+    "term": "Machining centres for routing, sawing, boring, edge banding"
+  },
+  {
+    "code": "02.20.04",
+    "term": "Machining centres for routing, sawing, boring, hardware and dowel inserting, etc."
+  },
+  {
+    "code": "02.21",
+    "term": "Manufacturing cells"
+  },
+  {
+    "code": "02.22",
+    "term": "Presses and equipment for gluing of solid timber components and other materials"
+  },
+  {
+    "code": "02.22.01",
+    "term": "Vertical edge joint gluing machines"
+  },
+  {
+    "code": "02.22.02",
+    "term": "Continuous feed edge joint gluing presses for boards and scantlings"
+  },
+  {
+    "code": "02.22.03",
+    "term": "Core composer / board gluing machines"
+  },
+  {
+    "code": "02.22.04",
+    "term": "Laminated timber presses / clamps for construction timber, glulam, etc."
+  },
+  {
+    "code": "02.23",
+    "term": "Presses / clamps for corner joints"
+  },
+  {
+    "code": "02.23.01",
+    "term": "Universal table presses"
+  },
+  {
+    "code": "02.23.02",
+    "term": "Frame clamps"
+  },
+  {
+    "code": "02.23.03",
+    "term": "Semicircular arch joint gluing machines"
+  },
+  {
+    "code": "02.24",
+    "term": "Punch presses"
+  },
+  {
+    "code": "02.24.01",
+    "term": "Punch presses for mitres"
+  },
+  {
+    "code": "02.24.02",
+    "term": "Punch presses for muntin bars"
+  },
+  {
+    "code": "02.24.99",
+    "term": "Punch presses; other"
+  },
+  {
+    "code": "03",
+    "term": "Machines and technical equipment for surface finishing"
+  },
+  {
+    "code": "03.01",
+    "term": "Coating with liquid materials (lacquering, etc.)"
+  },
+  {
+    "code": "03.01.01",
+    "term": "Surface pre-conditioning"
+  },
+  {
+    "code": "03.01.01.01",
+    "term": "Sand-blasting equipment"
+  },
+  {
+    "code": "03.01.01.02",
+    "term": "Texturing / brushing machines"
+  },
+  {
+    "code": "03.01.01.03",
+    "term": "Cleaning brushes"
+  },
+  {
+    "code": "03.01.02",
+    "term": "Bleaching and staining plants"
+  },
+  {
+    "code": "03.01.03",
+    "term": "Filler applying machines by knife or roller"
+  },
+  {
+    "code": "03.01.04",
+    "term": "Printing (e.g. wood grain) plants"
+  },
+  {
+    "code": "03.01.05",
+    "term": "Automatic spraying machines / robots for spray finishing"
+  },
+  {
+    "code": "03.01.06",
+    "term": "Rotation spraying systems"
+  },
+  {
+    "code": "03.01.07",
+    "term": "Electrostatic spraying equipment"
+  },
+  {
+    "code": "03.01.08",
+    "term": "Curtain coaters"
+  },
+  {
+    "code": "03.01.09",
+    "term": "Roller coaters"
+  },
+  {
+    "code": "03.01.10",
+    "term": "Vacuum coaters"
+  },
+  {
+    "code": "03.01.11",
+    "term": "Dipping equipment"
+  },
+  {
+    "code": "03.01.12",
+    "term": "Flooding systems"
+  },
+  {
+    "code": "03.01.13",
+    "term": "Edge coating systems"
+  },
+  {
+    "code": "03.01.14",
+    "term": "Drum coating systems"
+  },
+  {
+    "code": "03.01.15",
+    "term": "Spray walls and booths"
+  },
+  {
+    "code": "03.01.16",
+    "term": "Lacquer drying and curing lines"
+  },
+  {
+    "code": "03.01.17",
+    "term": "Conveyers for lacquering plants"
+  },
+  {
+    "code": "03.01.18",
+    "term": "Equipment for preparation, dosing and transport of liquid coating materials (e.g. lacquer, stain, etc.)"
+  },
+  {
+    "code": "03.02",
+    "term": "Surface finishing with solid materials"
+  },
+  {
+    "code": "03.02.01",
+    "term": "Machines and equipment for powder coating"
+  },
+  {
+    "code": "03.02.02",
+    "term": "Plaster coating machines"
+  },
+  {
+    "code": "03.02.03",
+    "term": "Engraving and coating machines on wood and with wood pulp"
+  },
+  {
+    "code": "03.02.99",
+    "term": "Machines and equipment for coating with solid material; other"
+  },
+  {
+    "code": "03.03",
+    "term": "Machines and equipment for pyrography and / or marking"
+  },
+  {
+    "code": "04",
+    "term": "Machines and technical equipment for assembly, packaging"
+  },
+  {
+    "code": "04.01",
+    "term": "Assembly technology"
+  },
+  {
+    "code": "04.01.01",
+    "term": "Pre-assembly lines for furniture parts"
+  },
+  {
+    "code": "04.01.02",
+    "term": "Carcass gluing stations"
+  },
+  {
+    "code": "04.01.02.01",
+    "term": "Glue spreading stations for carcass components"
+  },
+  {
+    "code": "04.01.02.02",
+    "term": "Pre-clamping stations"
+  },
+  {
+    "code": "04.01.02.03",
+    "term": "Carcass clamps"
+  },
+  {
+    "code": "04.01.03",
+    "term": "Final assembly work stations for furniture parts, carcass furniture"
+  },
+  {
+    "code": "04.01.04",
+    "term": "Final assembly lines for furniture"
+  },
+  {
+    "code": "04.01.05",
+    "term": "Assembly work stations and lines for windows, doors and facade elements"
+  },
+  {
+    "code": "04.01.99",
+    "term": "Assembly systems; other"
+  },
+  {
+    "code": "04.02",
+    "term": "Nailing, stapling and screw-setting machines"
+  },
+  {
+    "code": "04.02.01",
+    "term": "Nailing machines"
+  },
+  {
+    "code": "04.02.02",
+    "term": "Stapling and stitching machines"
+  },
+  {
+    "code": "04.02.03",
+    "term": "Screw-setting machines"
+  },
+  {
+    "code": "04.03",
+    "term": "Packaging technology"
+  },
+  {
+    "code": "04.03.01",
+    "term": "Packaging machines for furniture parts and carcass furniture"
+  },
+  {
+    "code": "04.03.02",
+    "term": "Packaging machines for flat parts (floor elements, panels, etc.)"
+  },
+  {
+    "code": "04.03.03",
+    "term": "Packaging machines for boards, custom sized boards, etc."
+  },
+  {
+    "code": "04.03.99",
+    "term": "Packaging machines; other"
+  },
+  {
+    "code": "05",
+    "term": "Materials handling, warehousing and commissioning technology"
+  },
+  {
+    "code": "05.01",
+    "term": "Materials handling technology"
+  },
+  {
+    "code": "05.01.01",
+    "term": "Off-road forklifts, front and side forklifts including auxiliary equipment"
+  },
+  {
+    "code": "05.01.03",
+    "term": "Lifting tables"
+  },
+  {
+    "code": "05.01.04",
+    "term": "Stacking and bundling stations"
+  },
+  {
+    "code": "05.01.05",
+    "term": "Vacuum lifting equipment"
+  },
+  {
+    "code": "05.01.06",
+    "term": "Infeed units"
+  },
+  {
+    "code": "05.01.07",
+    "term": "Outfeed and stacking units"
+  },
+  {
+    "code": "05.01.08",
+    "term": "Board turning stations"
+  },
+  {
+    "code": "05.01.09",
+    "term": "Angle transfer stations"
+  },
+  {
+    "code": "05.01.10",
+    "term": "Cross conveyors"
+  },
+  {
+    "code": "05.01.11",
+    "term": "Reverse conveyors"
+  },
+  {
+    "code": "05.01.12",
+    "term": "Roller conveyors"
+  },
+  {
+    "code": "05.01.12.01",
+    "term": "Driven roller conveyors"
+  },
+  {
+    "code": "05.01.12.02",
+    "term": "Undriven roller conveyors"
+  },
+  {
+    "code": "05.01.13",
+    "term": "Belt conveyors"
+  },
+  {
+    "code": "05.01.14",
+    "term": "Overhead conveyors"
+  },
+  {
+    "code": "05.01.15",
+    "term": "Transport trolleys, shelf trolleys, etc."
+  },
+  {
+    "code": "05.01.16",
+    "term": "Commissioning trolleys, commissioning containers"
+  },
+  {
+    "code": "05.01.17",
+    "term": "Roller stands"
+  },
+  {
+    "code": "05.01.18",
+    "term": "Feeding units for joiners machines (surface planers, single-spindle moulders etc.)"
+  },
+  {
+    "code": "05.01.90",
+    "term": "Specialised materials handling technology"
+  },
+  {
+    "code": "05.01.90.01",
+    "term": "Specialised materials handling technology for optimizing rip saws"
+  },
+  {
+    "code": "05.01.90.02",
+    "term": "Specialised materials handling technology for finger jointing lines"
+  },
+  {
+    "code": "05.01.90.03",
+    "term": "Specialised materials handling technology for planing lines"
+  },
+  {
+    "code": "05.01.90.04",
+    "term": "Specialised materials handling technology for sawing lines"
+  },
+  {
+    "code": "05.01.90.20",
+    "term": "Specialised feeding systems for crushers, chippers etc."
+  },
+  {
+    "code": "05.01.90.99",
+    "term": "Specialised materials handling technology; other"
+  },
+  {
+    "code": "05.02",
+    "term": "Warehousing and commissioning technology"
+  },
+  {
+    "code": "05.02.01",
+    "term": "Shelving systems"
+  },
+  {
+    "code": "05.02.02",
+    "term": "Storage and retrieval equipment for shelves and racks"
+  },
+  {
+    "code": "05.02.03",
+    "term": "Sorting and commissioning systems"
+  },
+  {
+    "code": "05.02.04",
+    "term": "Storage and commissioning systems for large boards (e.g. stacking cranes)"
+  },
+  {
+    "code": "05.02.99",
+    "term": "Storage systems; other"
+  },
+  {
+    "code": "06",
+    "term": "Robots technology"
+  },
+  {
+    "code": "06.01",
+    "term": "Robots for handling, feeding and palleting, etc."
+  },
+  {
+    "code": "06.02",
+    "term": "Robots for joining and assembling"
+  },
+  {
+    "code": "06.03",
+    "term": "Robots for spraying, lacquering, etc."
+  },
+  {
+    "code": "06.04",
+    "term": "Robots for chipping processes (sanding, cutting, etc.)"
+  },
+  {
+    "code": "06.99",
+    "term": "Robots; other"
+  },
+  {
+    "code": "10",
+    "term": "Machines and plants for special processes"
+  },
+  {
+    "code": "10.01",
+    "term": "Laser technology"
+  },
+  {
+    "code": "10.02",
+    "term": "High frequency technology"
+  },
+  {
+    "code": "10.03",
+    "term": "Microwave technology"
+  },
+  {
+    "code": "10.04",
+    "term": "Supersonic technology"
+  },
+  {
+    "code": "10.06",
+    "term": "Thermic smoothening"
+  },
+  {
+    "code": "10.07",
+    "term": "Water jet cutting"
+  },
+  {
+    "code": "10.99",
+    "term": "Special processes; other"
+  },
+  {
+    "code": "11",
+    "term": "Machines and plants for special product groups"
+  },
+  {
+    "code": "11.01",
+    "term": "Machines and plants for structural elements"
+  },
+  {
+    "code": "11.01.01",
+    "term": "Machines and plants for windows and facades"
+  },
+  {
+    "code": "11.01.01.01",
+    "term": "Processing centres for longitudinal and cross-wise processing of window parts"
+  },
+  {
+    "code": "11.01.01.99",
+    "term": "Machines for windows and facades; other"
+  },
+  {
+    "code": "11.01.02",
+    "term": "Machines and plants for doors and frames"
+  },
+  {
+    "code": "11.01.03",
+    "term": "Machines and plants for timber construction"
+  },
+  {
+    "code": "11.01.03.01",
+    "term": "Trimming lines"
+  },
+  {
+    "code": "11.01.03.02",
+    "term": "Special machines for carpenters and building industry"
+  },
+  {
+    "code": "11.01.04",
+    "term": "Machines and plants for prefab house construction, e.g. wood frame construction"
+  },
+  {
+    "code": "11.01.04.01",
+    "term": "Assembly tables"
+  },
+  {
+    "code": "11.01.04.02",
+    "term": "Automatic nailers for wall units, etc."
+  },
+  {
+    "code": "11.01.04.03",
+    "term": "Machining centres for structural elements"
+  },
+  {
+    "code": "11.01.05",
+    "term": "Machines and equipment for glue laminated timber / glulam construction"
+  },
+  {
+    "code": "11.01.06",
+    "term": "Machines and equipment for timber flooring / parquetry"
+  },
+  {
+    "code": "11.01.07",
+    "term": "Machines and equipment for laminate floorings"
+  },
+  {
+    "code": "11.01.08",
+    "term": "Machines and equipment for stair construction"
+  },
+  {
+    "code": "11.02",
+    "term": "Machines and equipment for manufacturing solid timber boards"
+  },
+  {
+    "code": "11.03",
+    "term": "Machines and equipment for manufacturing rack furniture (chairs, tables, etc.)"
+  },
+  {
+    "code": "11.04",
+    "term": "Machines for manufacturing and treatment of wooden packaging (pallets, boxes, etc.)"
+  },
+  {
+    "code": "11.04.01",
+    "term": "Machines and equipment for manufacturing pallets, stationary"
+  },
+  {
+    "code": "11.04.02",
+    "term": "Pallets production lines"
+  },
+  {
+    "code": "11.04.03",
+    "term": "Machines and equipment for manufacturing packing for vegetables and fruits, stationary"
+  },
+  {
+    "code": "11.04.04",
+    "term": "Production lines for manufacturing packing for vegetables and fruits"
+  },
+  {
+    "code": "11.04.05",
+    "term": "Machines for manufacturing industrial packing (boxes, etc.)"
+  },
+  {
+    "code": "11.04.06",
+    "term": "Machines for manufacturing cable drums"
+  },
+  {
+    "code": "11.04.07",
+    "term": "Plants for heat treatment of pallets and other wood packaging material"
+  },
+  {
+    "code": "11.04.08",
+    "term": "Plants for fumigation of pallets and other wood packaging material"
+  },
+  {
+    "code": "11.05",
+    "term": "Machines and equipment for manufacturing doors for furniture"
+  },
+  {
+    "code": "11.06",
+    "term": "Machines and equipment for manufacturing drawers"
+  },
+  {
+    "code": "11.07",
+    "term": "Machines and equipment for manufacturing picture frames and frames"
+  },
+  {
+    "code": "11.07.01",
+    "term": "V-cutting double circular saws"
+  },
+  {
+    "code": "11.07.02",
+    "term": "Stapling, stapling-gluing machines for assembling frames"
+  },
+  {
+    "code": "11.07.03",
+    "term": "Machines for metallic joining elements and respective hardware (V staples, flexible tabs, etc.)"
+  },
+  {
+    "code": "11.07.04",
+    "term": "Single head mitre cutting machines"
+  },
+  {
+    "code": "11.07.05",
+    "term": "Mitre cutting guillotines"
+  },
+  {
+    "code": "11.07.06",
+    "term": "Automated systems for frame manufacturing"
+  },
+  {
+    "code": "11.08",
+    "term": "Machines and equipment for manufacturing wood barrels"
+  },
+  {
+    "code": "11.09",
+    "term": "Machines for manufacturing and processing insulating materials"
+  },
+  {
+    "code": "11.09.01",
+    "term": "Machines for manufacturing insulating materials"
+  },
+  {
+    "code": "11.09.02",
+    "term": "Machines for processing insulating materials"
+  },
+  {
+    "code": "11.99",
+    "term": "Machines and plants for different products"
+  },
+  {
+    "code": "11.99.01",
+    "term": "Machines and plants for brooms and brushes"
+  },
+  {
+    "code": "11.99.02",
+    "term": "Machines and plants for pencils"
+  },
+  {
+    "code": "11.99.03",
+    "term": "Machines and plants for clogs, wood soles, wood heels, shoes last"
+  },
+  {
+    "code": "11.99.04",
+    "term": "Machines and plants for dowels"
+  },
+  {
+    "code": "11.99.05",
+    "term": "Machines and plants for poles, masts, palisades, wood fences"
+  },
+  {
+    "code": "11.99.06",
+    "term": "Machines and plants for rattan furniture"
+  },
+  {
+    "code": "11.99.07",
+    "term": "Machines and plants for furniture handles"
+  },
+  {
+    "code": "11.99.08",
+    "term": "Machines and plants for louvres and shutters"
+  },
+  {
+    "code": "11.99.09",
+    "term": "Machines and plants for coffins"
+  },
+  {
+    "code": "11.99.10",
+    "term": "Machines and plants for shuttering panels"
+  },
+  {
+    "code": "11.99.11",
+    "term": "Machines and plants for agricultural tool handles (for shovel, spade, hoe, rake, hammer, pick, etc.)"
+  },
+  {
+    "code": "11.99.12",
+    "term": "Machines and plants for sporting equipment (billiard cues, paddles, oars, etc.)"
+  },
+  {
+    "code": "11.99.13",
+    "term": "Machines and plants for tooth picks / chop sticks"
+  },
+  {
+    "code": "11.99.14",
+    "term": "Machines and plants for matches"
+  },
+  {
+    "code": "11.99.15",
+    "term": "Machines and plants for woodwool"
+  },
+  {
+    "code": "11.99.16",
+    "term": "Machines and plants for wood shavings for animal bedding"
+  },
+  {
+    "code": "11.99.17",
+    "term": "Machines and plants for wood shingles"
+  },
+  {
+    "code": "11.99.18",
+    "term": "Machines and plants for bed staves / slats"
+  },
+  {
+    "code": "18",
+    "term": "Auxiliary machines, equipment and devices; other"
+  },
+  {
+    "code": "18.02",
+    "term": "Stirring units"
+  },
+  {
+    "code": "18.03",
+    "term": "Weighing systems"
+  },
+  {
+    "code": "18.04",
+    "term": "Planing benches, working tables"
+  },
+  {
+    "code": "18.05",
+    "term": "Clamps"
+  },
+  {
+    "code": "18.99",
+    "term": "Auxiliary machines; other"
+  },
+  {
+    "code": "19",
+    "term": "Portable machines for processing of timber, plastics, composites and other materials"
+  },
+  {
+    "code": "19.01",
+    "term": "Portable plastic shears"
+  },
+  {
+    "code": "19.02",
+    "term": "Portable keyhole saws"
+  },
+  {
+    "code": "19.03",
+    "term": "Portable band saws"
+  },
+  {
+    "code": "19.04",
+    "term": "Portable circular saws"
+  },
+  {
+    "code": "19.05",
+    "term": "Portable debarkers"
+  },
+  {
+    "code": "19.06",
+    "term": "Portable planers"
+  },
+  {
+    "code": "19.07",
+    "term": "Portable routers"
+  },
+  {
+    "code": "19.08",
+    "term": "Portable edge working machines"
+  },
+  {
+    "code": "19.09",
+    "term": "Portable boring machines"
+  },
+  {
+    "code": "19.10",
+    "term": "Portable chain mortisers"
+  },
+  {
+    "code": "19.11",
+    "term": "Portable chisel mortisers"
+  },
+  {
+    "code": "19.12",
+    "term": "Portable vibratory sanders"
+  },
+  {
+    "code": "19.13",
+    "term": "Portable belt sanders"
+  },
+  {
+    "code": "19.14",
+    "term": "Portable disc sanders"
+  },
+  {
+    "code": "19.15",
+    "term": "Portable nailers"
+  },
+  {
+    "code": "19.16",
+    "term": "Portable staplers"
+  },
+  {
+    "code": "19.17",
+    "term": "Portable powered screwdrivers"
+  },
+  {
+    "code": "19.18",
+    "term": "Portable glue spreaders"
+  },
+  {
+    "code": "19.19",
+    "term": "Portable spraying equipment (e.g. guns for lacquers / adhesives)"
+  },
+  {
+    "code": "19.20",
+    "term": "Portable veneer splicing equipment"
+  },
+  {
+    "code": "19.21",
+    "term": "Layed floor sanding machines"
+  },
+  {
+    "code": "19.90",
+    "term": "Cases for portable machines, tools etc."
+  },
+  {
+    "code": "19.99",
+    "term": "Special-purpose portable machines"
+  },
+  {
+    "code": "20",
+    "term": "Tools and auxiliaries"
+  },
+  {
+    "code": "20.01",
+    "term": "Machine cutting tools"
+  },
+  {
+    "code": "20.01.01",
+    "term": "Band saw blades"
+  },
+  {
+    "code": "20.01.01.01",
+    "term": "Band saw blades for log band saws / band resaws"
+  },
+  {
+    "code": "20.01.01.02",
+    "term": "Band saw blades for narrow band saws"
+  },
+  {
+    "code": "20.01.02",
+    "term": "Frame saw blades"
+  },
+  {
+    "code": "20.01.02.01",
+    "term": "Frame saw blades, all-steel"
+  },
+  {
+    "code": "20.01.02.02",
+    "term": "Frame saw blades, chrome-plated"
+  },
+  {
+    "code": "20.01.02.03",
+    "term": "Frame saw blades, tipped with cobalt alloy"
+  },
+  {
+    "code": "20.01.02.04",
+    "term": "Frame saw blades, HW-tipped"
+  },
+  {
+    "code": "20.01.03",
+    "term": "Circular saw blades"
+  },
+  {
+    "code": "20.01.03.01",
+    "term": "Circular saw blades, all-steel"
+  },
+  {
+    "code": "20.01.03.02",
+    "term": "Circular saw blades, tipped with cobalt alloy"
+  },
+  {
+    "code": "20.01.03.03",
+    "term": "Circular saw blades, HW-tipped"
+  },
+  {
+    "code": "20.01.03.04",
+    "term": "Circular saw blades, DP-tipped"
+  },
+  {
+    "code": "20.01.04",
+    "term": "Hogging systems"
+  },
+  {
+    "code": "20.01.04.01",
+    "term": "Hogging systems for shaping of flat parts (e.g. panels), HW-tipped"
+  },
+  {
+    "code": "20.01.04.02",
+    "term": "Hogging systems for shaping of flat parts (e.g. panels), DP-tipped"
+  },
+  {
+    "code": "20.01.04.03",
+    "term": "Folding hoggers, HW-tipped"
+  },
+  {
+    "code": "20.01.04.04",
+    "term": "Folding hoggers, DP-tipped"
+  },
+  {
+    "code": "20.01.04.05",
+    "term": "Hoggers for shaping of non-flat parts, e.g. scantlings"
+  },
+  {
+    "code": "20.01.05",
+    "term": "Long planer heads"
+  },
+  {
+    "code": "20.01.06",
+    "term": "Cutters with bore (cutters and cutter heads)"
+  },
+  {
+    "code": "20.01.06.01",
+    "term": "Cutters with bore, all-steel"
+  },
+  {
+    "code": "20.01.06.02",
+    "term": "Cutters with bore, HW- / special steel-tipped"
+  },
+  {
+    "code": "20.01.06.03",
+    "term": "Cutters with bore, with turnover knives (HW / special steel)"
+  },
+  {
+    "code": "20.01.06.04",
+    "term": "Cutters with bore, DP-tipped"
+  },
+  {
+    "code": "20.01.07",
+    "term": "Shank cutters"
+  },
+  {
+    "code": "20.01.07.01",
+    "term": "Shank cutters for routers"
+  },
+  {
+    "code": "20.01.07.03",
+    "term": "Shank cutters for portable machines"
+  },
+  {
+    "code": "20.01.07.10",
+    "term": "Shank cutters for CNC routers and machining centres, all-steel"
+  },
+  {
+    "code": "20.01.07.11",
+    "term": "Shank cutters for CNC routers and machining centres, HW- / special steel-tipped"
+  },
+  {
+    "code": "20.01.07.12",
+    "term": "Shank cutters for CNC routers and machining centres, with turnover knives (HW / special steel)"
+  },
+  {
+    "code": "20.01.07.13",
+    "term": "Shank cutters for CNC routers and machining centres, DP-tipped"
+  },
+  {
+    "code": "20.01.07.99",
+    "term": "Shank cutters; other"
+  },
+  {
+    "code": "20.01.08",
+    "term": "Machine boring bits"
+  },
+  {
+    "code": "20.01.08.01",
+    "term": "Twist drills"
+  },
+  {
+    "code": "20.01.08.02",
+    "term": "Through-hole boring bits"
+  },
+  {
+    "code": "20.01.08.03",
+    "term": "Dowel bits"
+  },
+  {
+    "code": "20.01.08.04",
+    "term": "Cylinder boring bits"
+  },
+  {
+    "code": "20.01.08.05",
+    "term": "Step boring bits"
+  },
+  {
+    "code": "20.01.08.06",
+    "term": "Countersink bits"
+  },
+  {
+    "code": "20.01.08.07",
+    "term": "Plug cutters"
+  },
+  {
+    "code": "20.01.09",
+    "term": "Tool systems for window and door manufacturing incl. slotting and tenoning cutters"
+  },
+  {
+    "code": "20.01.10",
+    "term": "Cutters with taper shank (cutters and cutter heads)"
+  },
+  {
+    "code": "20.01.10.01",
+    "term": "Cutters with taper shank, all-steel"
+  },
+  {
+    "code": "20.01.10.02",
+    "term": "Cutters with taper shank, HW- / special steel-tipped"
+  },
+  {
+    "code": "20.01.10.03",
+    "term": "Cutters with taper shank, with turnover knives (HW / special steel)"
+  },
+  {
+    "code": "20.01.10.04",
+    "term": "Cutters with taper shank, DP-tipped"
+  },
+  {
+    "code": "20.01.50",
+    "term": "Machine cutting tools; other"
+  },
+  {
+    "code": "20.01.50.01",
+    "term": "Oscillating mortise chisel and auxiliary equipment"
+  },
+  {
+    "code": "20.01.50.02",
+    "term": "Mortise chains and auxiliary equipment"
+  },
+  {
+    "code": "20.01.50.03",
+    "term": "Scraping tools and auxiliary equipment"
+  },
+  {
+    "code": "20.01.50.04",
+    "term": "Turning tools"
+  },
+  {
+    "code": "20.01.50.05",
+    "term": "Saw chains"
+  },
+  {
+    "code": "20.01.50.06",
+    "term": "Master plates for circular saw blades"
+  },
+  {
+    "code": "20.01.90",
+    "term": "Tools for special materials"
+  },
+  {
+    "code": "20.01.90.01",
+    "term": "Tools for working with light alloy"
+  },
+  {
+    "code": "20.01.90.02",
+    "term": "Tools for working with glass"
+  },
+  {
+    "code": "20.01.90.03",
+    "term": "Tools for working with stone"
+  },
+  {
+    "code": "20.01.90.04",
+    "term": "Tools for working with mineral materials"
+  },
+  {
+    "code": "20.01.90.99",
+    "term": "Tools for special materials; other"
+  },
+  {
+    "code": "20.02",
+    "term": "Knives, turn blade knives, hogger segments, etc."
+  },
+  {
+    "code": "20.02.01",
+    "term": "Knives for cutters, cutter heads"
+  },
+  {
+    "code": "20.02.02",
+    "term": "Turn blade knives"
+  },
+  {
+    "code": "20.02.03",
+    "term": "Backing plates, limiters"
+  },
+  {
+    "code": "20.02.04",
+    "term": "Blank knives"
+  },
+  {
+    "code": "20.02.05",
+    "term": "Hogger segments"
+  },
+  {
+    "code": "20.02.06",
+    "term": "Cast cobalt alloys"
+  },
+  {
+    "code": "20.02.07",
+    "term": "Semi-finished products made from tungsten carbide, e.g. rods, strips, tips for saw blades, etc."
+  },
+  {
+    "code": "20.02.08",
+    "term": "Hogging knives"
+  },
+  {
+    "code": "20.02.09",
+    "term": "Circular knives"
+  },
+  {
+    "code": "20.02.10",
+    "term": "Peeling and veneer knives"
+  },
+  {
+    "code": "20.02.11",
+    "term": "Semi-finished products made from PCD, e.g. discs, segments, saw tips for saw-blades, etc."
+  },
+  {
+    "code": "20.03",
+    "term": "Tool clamping systems"
+  },
+  {
+    "code": "20.03.01",
+    "term": "Clamping systems for circular saw blades"
+  },
+  {
+    "code": "20.03.02",
+    "term": "Clamping systems for cutters with bore"
+  },
+  {
+    "code": "20.03.03",
+    "term": "Clamping systems for shank cutters"
+  },
+  {
+    "code": "20.03.04",
+    "term": "Clamping systems for boring bits"
+  },
+  {
+    "code": "20.04",
+    "term": "Tool measuring and setting systems"
+  },
+  {
+    "code": "20.04.01",
+    "term": "Tool measuring and setting instruments"
+  },
+  {
+    "code": "20.04.02",
+    "term": "Tool measuring and setting gauges"
+  },
+  {
+    "code": "20.05",
+    "term": "Tool management systems"
+  },
+  {
+    "code": "20.05.01",
+    "term": "Systems for tool encoding"
+  },
+  {
+    "code": "20.05.02",
+    "term": "Software for tool management systems"
+  },
+  {
+    "code": "20.06",
+    "term": "Sanding and buffing tools"
+  },
+  {
+    "code": "20.06.01",
+    "term": "Long sanding belts"
+  },
+  {
+    "code": "20.06.02",
+    "term": "Wide sanding belts"
+  },
+  {
+    "code": "20.06.03",
+    "term": "Buffing tools"
+  },
+  {
+    "code": "20.06.04",
+    "term": "Abrasive discs and wheels"
+  },
+  {
+    "code": "20.06.05",
+    "term": "Sanding brushes"
+  },
+  {
+    "code": "20.06.06",
+    "term": "Profile sanding tools"
+  },
+  {
+    "code": "20.06.99",
+    "term": "Sanding tools and materials; other"
+  },
+  {
+    "code": "20.07",
+    "term": "Auxiliary equipment and spare parts for machine tools (e.g. clamping wedges, spacers, guide rings, sharpening devices)"
+  },
+  {
+    "code": "20.08",
+    "term": "Manual hand-held tools"
+  },
+  {
+    "code": "20.08.01",
+    "term": "Hand saws"
+  },
+  {
+    "code": "20.08.02",
+    "term": "Hand planes"
+  },
+  {
+    "code": "20.08.03",
+    "term": "Chisels, turning tools, carving tools, etc."
+  },
+  {
+    "code": "20.08.04",
+    "term": "Hammers"
+  },
+  {
+    "code": "20.08.05",
+    "term": "Tools for measuring and marking"
+  },
+  {
+    "code": "20.08.99",
+    "term": "Manual hand-held tools; other"
+  },
+  {
+    "code": "20.09",
+    "term": "Clamps and guides for tools"
+  },
+  {
+    "code": "20.09.01",
+    "term": "Saw tensioners, frame saw buckles and spacers"
+  },
+  {
+    "code": "20.09.02",
+    "term": "Band saw guides"
+  },
+  {
+    "code": "20.09.03",
+    "term": "Cutter bars for saw chains"
+  },
+  {
+    "code": "20.09.04",
+    "term": "Moulding spindles / cutter arbors"
+  },
+  {
+    "code": "21",
+    "term": "Machines, equipment and tools for maintenance and manufacturing of tools"
+  },
+  {
+    "code": "21.01",
+    "term": "Machines, equipment and tools for maintenance and manufacturing of machine cutting tools"
+  },
+  {
+    "code": "21.01.01",
+    "term": "Saw sharpeners"
+  },
+  {
+    "code": "21.01.02",
+    "term": "Saw filers"
+  },
+  {
+    "code": "21.01.03",
+    "term": "Saw setting, swaging and dressing machines"
+  },
+  {
+    "code": "21.01.04",
+    "term": "Saw brazing and welding machines"
+  },
+  {
+    "code": "21.01.05",
+    "term": "Saw blade rolling and leveling machines"
+  },
+  {
+    "code": "21.01.06",
+    "term": "Hardening machines for saw tooth points"
+  },
+  {
+    "code": "21.01.07",
+    "term": "Band saw blade shearing and scarf-jointing machines"
+  },
+  {
+    "code": "21.01.08",
+    "term": "Knife grinding machines"
+  },
+  {
+    "code": "21.01.08.01",
+    "term": "Knife grinding machines for planing, flaking and chipper knives"
+  },
+  {
+    "code": "21.01.08.02",
+    "term": "Knife grinding machines for veneer knives (slicing, peeling, clipping)"
+  },
+  {
+    "code": "21.01.08.03",
+    "term": "Knife grinding machines for knife rings"
+  },
+  {
+    "code": "21.01.08.90",
+    "term": "Clamping systems for knife grinding machines"
+  },
+  {
+    "code": "21.01.09",
+    "term": "Sharpeners for scrapers"
+  },
+  {
+    "code": "21.01.10",
+    "term": "Sharpeners for moulding cutters"
+  },
+  {
+    "code": "21.01.11",
+    "term": "Sharpeners for boring bits and routing cutters"
+  },
+  {
+    "code": "21.01.12",
+    "term": "Sharpeners for chain tools"
+  },
+  {
+    "code": "21.01.13",
+    "term": "Universal tool and cutter sharpeners"
+  },
+  {
+    "code": "21.01.14",
+    "term": "Sharpeners for carbide-tipped sawing, moulding and planing tools"
+  },
+  {
+    "code": "21.01.15",
+    "term": "Sharpeners for diamond tools"
+  },
+  {
+    "code": "21.01.50",
+    "term": "Cleaning machines and equipment for machine tools"
+  },
+  {
+    "code": "21.01.60",
+    "term": "Wheels for sharpening tools (except diamond wheels)"
+  },
+  {
+    "code": "21.01.61",
+    "term": "Diamond wheels for sharpening tools"
+  },
+  {
+    "code": "21.01.90",
+    "term": "Sharpeners for special applications"
+  },
+  {
+    "code": "21.01.99",
+    "term": "Machines, equipment and tools for maintenance and manufacturing of machine cutting tools; other"
+  },
+  {
+    "code": "21.02",
+    "term": "Machines, equipment and tools for maintenance and manufacturing of manual hand-held tools"
+  },
+  {
+    "code": "22",
+    "term": "Products for the equipment of machines"
+  },
+  {
+    "code": "22.01",
+    "term": "Drive systems"
+  },
+  {
+    "code": "22.01.01",
+    "term": "Electric drive systems"
+  },
+  {
+    "code": "22.01.01.01",
+    "term": "Electric motors"
+  },
+  {
+    "code": "22.01.01.03",
+    "term": "Gear motors"
+  },
+  {
+    "code": "22.01.01.04",
+    "term": "Frequency converters"
+  },
+  {
+    "code": "22.01.01.05",
+    "term": "Electronic drive units"
+  },
+  {
+    "code": "22.01.01.06",
+    "term": "Linear motors / electro-cylinders"
+  },
+  {
+    "code": "22.01.01.07",
+    "term": "Electric, electronic and magnetic switchgear and control units"
+  },
+  {
+    "code": "22.01.01.99",
+    "term": "Electric drive systems; other"
+  },
+  {
+    "code": "22.01.02",
+    "term": "Pneumatic drive units"
+  },
+  {
+    "code": "22.01.02.02",
+    "term": "Pneumatic components and equipment"
+  },
+  {
+    "code": "22.01.02.03",
+    "term": "Pneumatic controls and regulators"
+  },
+  {
+    "code": "22.01.03",
+    "term": "Hydraulic drive units"
+  },
+  {
+    "code": "22.01.03.01",
+    "term": "Hydraulic components and equipment"
+  },
+  {
+    "code": "22.01.03.02",
+    "term": "Hydraulic controls and regulators"
+  },
+  {
+    "code": "22.01.10",
+    "term": "Elements and accessories for drive systems"
+  },
+  {
+    "code": "22.01.10.01",
+    "term": "Speed reducers and controllers"
+  },
+  {
+    "code": "22.01.10.02",
+    "term": "Clutches and brakes"
+  },
+  {
+    "code": "22.01.10.03",
+    "term": "Roller bearings and precision bearings"
+  },
+  {
+    "code": "22.01.10.04",
+    "term": "Linear modules"
+  },
+  {
+    "code": "22.01.10.99",
+    "term": "Elements and accessories for drive systems; other"
+  },
+  {
+    "code": "22.01.20",
+    "term": "Compressors"
+  },
+  {
+    "code": "22.02",
+    "term": "Machining units"
+  },
+  {
+    "code": "22.02.01",
+    "term": "Sawing units"
+  },
+  {
+    "code": "22.02.02",
+    "term": "Planing units"
+  },
+  {
+    "code": "22.02.03",
+    "term": "Moulding units"
+  },
+  {
+    "code": "22.02.04",
+    "term": "Boring units"
+  },
+  {
+    "code": "22.02.05",
+    "term": "Mortising units"
+  },
+  {
+    "code": "22.02.06",
+    "term": "Sanding and polishing units"
+  },
+  {
+    "code": "22.02.07",
+    "term": "Spraying units"
+  },
+  {
+    "code": "22.02.08",
+    "term": "Gluing units"
+  },
+  {
+    "code": "22.02.09",
+    "term": "Assembling units"
+  },
+  {
+    "code": "22.02.10",
+    "term": "High frequency and microwave equipment (e.g. generators)"
+  },
+  {
+    "code": "22.02.11",
+    "term": "Tool changers for CNC machines"
+  },
+  {
+    "code": "22.02.12",
+    "term": "Cam mechanisms and cams"
+  },
+  {
+    "code": "22.02.13",
+    "term": "Antistatic systems"
+  },
+  {
+    "code": "22.03",
+    "term": "Clamps and guides for workpieces"
+  },
+  {
+    "code": "22.03.01",
+    "term": "Laser projectors, shadow guiding devices"
+  },
+  {
+    "code": "22.03.02",
+    "term": "Workpiece fences and stops"
+  },
+  {
+    "code": "22.03.02.01",
+    "term": "Workpiece fences and stops, mechanised positioning"
+  },
+  {
+    "code": "22.03.02.02",
+    "term": "Workpiece fences and stops, computerised positioning"
+  },
+  {
+    "code": "22.03.03",
+    "term": "Clamping devices"
+  },
+  {
+    "code": "22.03.04",
+    "term": "Vacuum systems"
+  },
+  {
+    "code": "22.03.04.01",
+    "term": "Pumps and components for vacuum systems"
+  },
+  {
+    "code": "22.03.04.02",
+    "term": "Vacuum cup clamping devices"
+  },
+  {
+    "code": "22.03.04.03",
+    "term": "Central vacuum systems"
+  },
+  {
+    "code": "22.03.05",
+    "term": "Dovetailing attachments"
+  },
+  {
+    "code": "22.03.06",
+    "term": "Dowel boring jigs"
+  },
+  {
+    "code": "22.04",
+    "term": "Mechanical operating and clamping elements for machines, devices and conveyors (handles, handwheels, knobs, etc.)"
+  },
+  {
+    "code": "22.05",
+    "term": "Operating supply items"
+  },
+  {
+    "code": "22.05.01",
+    "term": "Lubricants"
+  },
+  {
+    "code": "22.05.02",
+    "term": "Flux materials"
+  },
+  {
+    "code": "22.99",
+    "term": "Items of equipment; other"
+  },
+  {
+    "code": "22.99.01",
+    "term": "Pumps, valves, pipe systems"
+  },
+  {
+    "code": "22.99.02",
+    "term": "Drainage screens"
+  },
+  {
+    "code": "22.99.03",
+    "term": "Plates, screens and plastic inserts for presses"
+  },
+  {
+    "code": "22.99.04",
+    "term": "Press belts for continuous presses"
+  },
+  {
+    "code": "22.99.05",
+    "term": "Hot platens and heating rods"
+  },
+  {
+    "code": "22.99.06",
+    "term": "Press moulds and cylinders for manufacturing moulded parts of chips, fibres, plastics, or for overlaying with solid materials"
+  },
+  {
+    "code": "22.99.07",
+    "term": "Conveyor elements"
+  },
+  {
+    "code": "22.99.07.01",
+    "term": "Rollers and wheels"
+  },
+  {
+    "code": "22.99.07.02",
+    "term": "Belts"
+  },
+  {
+    "code": "22.99.07.99",
+    "term": "Conveyor elements; other"
+  },
+  {
+    "code": "22.99.08",
+    "term": "Non-electronic control units and devices"
+  },
+  {
+    "code": "22.99.09",
+    "term": "Central lubrication systems"
+  },
+  {
+    "code": "22.99.10",
+    "term": "Belt sanding pads"
+  },
+  {
+    "code": "22.99.11",
+    "term": "Filters, filter elements and cartridges"
+  },
+  {
+    "code": "22.99.12",
+    "term": "Cable routers"
+  },
+  {
+    "code": "22.99.13",
+    "term": "UV-beamers / bulbs for UV curing"
+  },
+  {
+    "code": "22.99.14",
+    "term": "Rollers and wheels with needles for towing of wood"
+  },
+  {
+    "code": "22.99.15",
+    "term": "Transmission and conveyor chains"
+  },
+  {
+    "code": "30",
+    "term": "Use of residual wood (dust, chips, firewood, bark), generation of energy and heating using wood fuels"
+  },
+  {
+    "code": "30.01",
+    "term": "Preparation, transportation and storage of dust, chips, firewood, etc."
+  },
+  {
+    "code": "30.01.01",
+    "term": "Cleaving machines for roundwood, firewood, etc."
+  },
+  {
+    "code": "30.01.02",
+    "term": "Hoggers"
+  },
+  {
+    "code": "30.01.02.01",
+    "term": "Stationary hoggers"
+  },
+  {
+    "code": "30.01.02.02",
+    "term": "Mobile hoggers"
+  },
+  {
+    "code": "30.01.03",
+    "term": "Chopping machines (slow-speed)"
+  },
+  {
+    "code": "30.01.04",
+    "term": "Firewood saws"
+  },
+  {
+    "code": "30.01.05",
+    "term": "Firewood bundling machines"
+  },
+  {
+    "code": "30.01.06",
+    "term": "Briquetting presses"
+  },
+  {
+    "code": "30.01.07",
+    "term": "Wood pelleting presses"
+  },
+  {
+    "code": "30.01.12",
+    "term": "Sweeping machines"
+  },
+  {
+    "code": "30.01.13",
+    "term": "Pellet storage and transport systems"
+  },
+  {
+    "code": "30.01.14",
+    "term": "Turn-key wood pellets plants"
+  },
+  {
+    "code": "30.01.15",
+    "term": "Dryers for wood pellets materials"
+  },
+  {
+    "code": "30.01.16",
+    "term": "Dryers for wood fuels"
+  },
+  {
+    "code": "30.01.20",
+    "term": "Chips and dust extraction equipment"
+  },
+  {
+    "code": "30.01.20.01",
+    "term": "Chips and dust extraction systems (including filters)"
+  },
+  {
+    "code": "30.01.20.02",
+    "term": "Extraction systems"
+  },
+  {
+    "code": "30.01.20.03",
+    "term": "Extraction machines, stand alone"
+  },
+  {
+    "code": "30.01.20.04",
+    "term": "Filtering separators"
+  },
+  {
+    "code": "30.01.20.05",
+    "term": "Silos"
+  },
+  {
+    "code": "30.01.20.06",
+    "term": "Industrial vacuum cleaners"
+  },
+  {
+    "code": "30.01.20.07",
+    "term": "Fans"
+  },
+  {
+    "code": "30.01.20.08",
+    "term": "Warm air heaters"
+  },
+  {
+    "code": "30.01.20.09",
+    "term": "Residual dust concentration monitoring systems"
+  },
+  {
+    "code": "30.01.20.10",
+    "term": "Specialised control systems for chips and dust extraction systems"
+  },
+  {
+    "code": "30.01.20.99",
+    "term": "Chips and dust extraction equipment; other"
+  },
+  {
+    "code": "30.02",
+    "term": "Generation of energy and heating using wood fuels"
+  },
+  {
+    "code": "30.02.01",
+    "term": "Boiler systems with furnaces for wood fuels (solid wood, chips, dust, etc.)"
+  },
+  {
+    "code": "30.02.02",
+    "term": "Wood furnaces for generating hot gas"
+  },
+  {
+    "code": "30.02.03",
+    "term": "Wood gas generators"
+  },
+  {
+    "code": "30.02.04",
+    "term": "Wood furnaces for generating electrical energy"
+  },
+  {
+    "code": "30.02.05",
+    "term": "Chimneys, ovens and burners"
+  },
+  {
+    "code": "30.02.99",
+    "term": "Plants, units and auxiliary equipment for energy generation; other"
+  },
+  {
+    "code": "31",
+    "term": "Energy saving, environmental protection, occupational safety, fire prevention and air-conditioning"
+  },
+  {
+    "code": "31.01",
+    "term": "Energy saving"
+  },
+  {
+    "code": "31.01.01",
+    "term": "Plants and equipment for energy recycling"
+  },
+  {
+    "code": "31.01.02",
+    "term": "Energy-saving pneumatic conveying systems and auxiliary equipment"
+  },
+  {
+    "code": "31.01.99",
+    "term": "Plants, units and auxiliary equipment for energy saving; other"
+  },
+  {
+    "code": "31.02",
+    "term": "Safety technology"
+  },
+  {
+    "code": "31.03",
+    "term": "Environmental protection"
+  },
+  {
+    "code": "31.03.01",
+    "term": "Purification plants for water and liquid chemicals"
+  },
+  {
+    "code": "31.03.02",
+    "term": "Environmentally friendly lubricants and fuels"
+  },
+  {
+    "code": "31.03.03",
+    "term": "Exhaust air and gases purification plants and equipment"
+  },
+  {
+    "code": "31.03.04",
+    "term": "Combustion plant for chemicals (lacquers, glues, films, etc.)"
+  },
+  {
+    "code": "31.04",
+    "term": "Occupational safety"
+  },
+  {
+    "code": "31.04.01",
+    "term": "Sound-proofing equipment (sound-proofing cabins, etc.)"
+  },
+  {
+    "code": "31.04.02",
+    "term": "Safety devices for machines"
+  },
+  {
+    "code": "31.04.03",
+    "term": "Protective clothing and equipment (including work clothes)"
+  },
+  {
+    "code": "31.05",
+    "term": "Fire protection and fighting, explosion protection"
+  },
+  {
+    "code": "31.05.01",
+    "term": "Fire alarm systems"
+  },
+  {
+    "code": "31.05.02",
+    "term": "Fire and spark extinguishing systems"
+  },
+  {
+    "code": "31.05.03",
+    "term": "Sprinkler systems"
+  },
+  {
+    "code": "31.05.04",
+    "term": "Explosion protection systems"
+  },
+  {
+    "code": "31.06",
+    "term": "Air-conditioning technology"
+  },
+  {
+    "code": "31.06.01",
+    "term": "Air-conditioning equipment"
+  },
+  {
+    "code": "31.06.02",
+    "term": "Air-conditioning chambers"
+  },
+  {
+    "code": "31.06.03",
+    "term": "Air humidification systems"
+  },
+  {
+    "code": "31.06.04",
+    "term": "Measuring and control units for air-conditioning"
+  },
+  {
+    "code": "40",
+    "term": "Electronic data acquisition and data processing equipment; measuring, testing and control systems"
+  },
+  {
+    "code": "40.01",
+    "term": "Electronic data acquisition and data processing equipment"
+  },
+  {
+    "code": "40.01.01",
+    "term": "Numerical control systems"
+  },
+  {
+    "code": "40.01.02",
+    "term": "CAM systems"
+  },
+  {
+    "code": "40.01.03",
+    "term": "NC programming systems"
+  },
+  {
+    "code": "40.01.04",
+    "term": "Identification systems for component identification and labeling (Barcode, etc.)"
+  },
+  {
+    "code": "40.01.05",
+    "term": "Image processing systems for identification of colours, structure, surface inspection, optical measuring, etc."
+  },
+  {
+    "code": "40.01.06",
+    "term": "Electronic equipment for data acquisition and data processing for special manufacturing sectors and areas"
+  },
+  {
+    "code": "40.01.06.01",
+    "term": "Electronic equipment for data acquisition and data processing for roundwood yards and saw mills"
+  },
+  {
+    "code": "40.01.06.02",
+    "term": "Electronic equipment for data acquisition and data processing for veneer plants"
+  },
+  {
+    "code": "40.01.06.03",
+    "term": "Electronic equipment for data acquisition and data processing for veneer cutting and splicing"
+  },
+  {
+    "code": "40.01.06.04",
+    "term": "Electronic equipment for data acquisition and data processing for furniture manufacturing"
+  },
+  {
+    "code": "40.01.06.05",
+    "term": "Electronic equipment for data acquisition and data processing for wood based panels manufacturing"
+  },
+  {
+    "code": "40.02",
+    "term": "Measuring, testing and control systems"
+  },
+  {
+    "code": "40.02.01",
+    "term": "Workpiece measuring instruments"
+  },
+  {
+    "code": "40.02.02",
+    "term": "Material testing and fault detection instruments"
+  },
+  {
+    "code": "40.02.03",
+    "term": "Production monitoring systems"
+  },
+  {
+    "code": "40.02.04",
+    "term": "Metal detectors and removers"
+  },
+  {
+    "code": "40.02.99",
+    "term": "Measuring and testing equipment; other"
+  },
+  {
+    "code": "80",
+    "term": "Delivery of complete plants, financing and leasing companies"
+  },
+  {
+    "code": "80.01",
+    "term": "General contractors for the delivery of complete plants"
+  },
+  {
+    "code": "80.01.01",
+    "term": "General contractors for saw mills"
+  },
+  {
+    "code": "80.01.02",
+    "term": "General contractors for veneer and plywood plants"
+  },
+  {
+    "code": "80.01.03",
+    "term": "General contractors for plants for manufacturing of solid coating materials (laminates, films, foils, etc.)"
+  },
+  {
+    "code": "80.01.04",
+    "term": "General contractors for particle board, fibre board and OSB production plants"
+  },
+  {
+    "code": "80.01.05",
+    "term": "General contractors for furniture production plants"
+  },
+  {
+    "code": "80.01.06",
+    "term": "General contractors for solid wood processing plants"
+  },
+  {
+    "code": "80.01.07",
+    "term": "General contractors for plants for manufacturing of wooden construction elements (windows, facades, etc.)"
+  },
+  {
+    "code": "80.01.08",
+    "term": "General contractors for timber construction and wooden houses"
+  },
+  {
+    "code": "80.01.09",
+    "term": "General contractors for laminate flooring plants"
+  },
+  {
+    "code": "80.01.10",
+    "term": "General contractors for parquetry plants"
+  },
+  {
+    "code": "80.01.11",
+    "term": "General contractors for plants for solid wood panel production"
+  },
+  {
+    "code": "80.01.12",
+    "term": "General contractors for plants for mineral bonded wood (cement) boards"
+  },
+  {
+    "code": "80.01.99",
+    "term": "General contractors, other"
+  },
+  {
+    "code": "80.02",
+    "term": "Financing companies"
+  },
+  {
+    "code": "80.03",
+    "term": "Leasing companies"
+  },
+  {
+    "code": "90",
+    "term": "Independent computer software (CAD, ERP, production planning and control, etc.)"
+  },
+  {
+    "code": "90.01",
+    "term": "Independent software for saw mills and roundwood yards"
+  },
+  {
+    "code": "90.02",
+    "term": "Independent software for veneer and plywood production"
+  },
+  {
+    "code": "90.03",
+    "term": "Independent software for particle board, fibre board and OSB production"
+  },
+  {
+    "code": "90.04",
+    "term": "Independent software for veneer processing"
+  },
+  {
+    "code": "90.05",
+    "term": "Independent software for solid wood processing"
+  },
+  {
+    "code": "90.06",
+    "term": "Independent software for the furniture industry"
+  },
+  {
+    "code": "90.07",
+    "term": "Independent software for window construction"
+  },
+  {
+    "code": "90.08",
+    "term": "Independent software for timber construction"
+  },
+  {
+    "code": "90.09",
+    "term": "Independent software for the craft business"
+  },
+  {
+    "code": "90.10",
+    "term": "Independent software for stair construction"
+  },
+  {
+    "code": "90.11",
+    "term": "Independent software for the timber trade"
+  },
+  {
+    "code": "90.50",
+    "term": "Standard software for the wood industries (ERP, material management, personnel management, cost accounting, etc.)"
+  },
+  {
+    "code": "90.99",
+    "term": "Independent software; other"
+  },
+  {
+    "code": "95",
+    "term": "Independent services for the wood industries"
+  },
+  {
+    "code": "95.01",
+    "term": "Independent engineering and consulting services for the wood industries"
+  },
+  {
+    "code": "95.01.01",
+    "term": "Independent engineering and consulting services for saw mills"
+  },
+  {
+    "code": "95.01.02",
+    "term": "Independent engineering and consulting services for veneer and plywood plants"
+  },
+  {
+    "code": "95.01.03",
+    "term": "Independent engineering and consulting services for manufacturing of solid coating materials and laminating technology (laminates, films, foils, etc.)"
+  },
+  {
+    "code": "95.01.04",
+    "term": "Independent engineering and consulting services for particle board, fibre board and OSB production"
+  },
+  {
+    "code": "95.01.05",
+    "term": "Independent engineering and consulting services for the furniture industry"
+  },
+  {
+    "code": "95.01.06",
+    "term": "Independent engineering and consulting services for solid wood drying and steaming"
+  },
+  {
+    "code": "95.01.07",
+    "term": "Independent engineering and consulting services for solid wood processing"
+  },
+  {
+    "code": "95.01.08",
+    "term": "Independent engineering and consulting services for windows and facades"
+  },
+  {
+    "code": "95.01.09",
+    "term": "Independent engineering and consulting services for timber construction"
+  },
+  {
+    "code": "95.01.10",
+    "term": "Independent engineering and consulting services for craft business"
+  },
+  {
+    "code": "95.01.11",
+    "term": "Independent engineering and consulting services for surface finishing"
+  },
+  {
+    "code": "95.01.12",
+    "term": "Independent engineering and consulting services for the generation of energy using wood fuels and energy saving"
+  },
+  {
+    "code": "95.01.13",
+    "term": "Independent engineering and consulting services for environmental protection"
+  },
+  {
+    "code": "95.01.14",
+    "term": "Independent engineering and consulting services for safety technology, occupational and fire safety"
+  },
+  {
+    "code": "95.02",
+    "term": "Training services"
+  },
+  {
+    "code": "95.03",
+    "term": "Maintenance, repair, installation, de-installation, refurbishing and retrofitting of machines and plants"
+  },
+  {
+    "code": "95.04",
+    "term": "Associations"
+  },
+  {
+    "code": "95.05",
+    "term": "Fair organisations"
+  },
+  {
+    "code": "95.99",
+    "term": "Services; other"
+  },
+  {
+    "code": "96",
+    "term": "Research and testing institutes, educational institutions for the timber and woodworking industries (universities, technical colleges, etc.)"
+  },
+  {
+    "code": "96.01",
+    "term": "Educational institutions for the timber and woodworking industries"
+  },
+  {
+    "code": "96.02",
+    "term": "Research instititions for the timber and woodworking industries"
+  },
+  {
+    "code": "96.03",
+    "term": "Testing institutions for the timber and woodworking industries"
+  },
+  {
+    "code": "97",
+    "term": "Publishers of literature for the timber and woodworking industries"
+  },
+  {
+    "code": "97.01",
+    "term": "Technical journals and periodicals for the timber and woodworking industries"
+  },
+  {
+    "code": "97.03",
+    "term": "Technical books for the timber and woodworking industries"
+  },
+  {
+    "code": "97.04",
+    "term": "Web based publications for the timber and woodworking industries"
+  }
+]

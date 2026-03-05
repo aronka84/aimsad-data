@@ -1,0 +1,3938 @@
+[
+  {
+    "code": "00",
+    "term": "Máquinas, equipos técnicos y servicios para la industria forestal"
+  },
+  {
+    "code": "00.01.01",
+    "term": "Cultivo del terreno"
+  },
+  {
+    "code": "00.01.02",
+    "term": "Fertilización"
+  },
+  {
+    "code": "00.01.03",
+    "term": "Recolección forestal y producción de plantas"
+  },
+  {
+    "code": "00.01.04",
+    "term": "Protección del bosque"
+  },
+  {
+    "code": "00.01.05",
+    "term": "Caminos forestales y desarrollo de los cursos de agua"
+  },
+  {
+    "code": "00.01.06",
+    "term": "Cuidado del crecimiento y cultivos forestales"
+  },
+  {
+    "code": "00.01.07",
+    "term": "Mejora de cultivos, poda y entresaca"
+  },
+  {
+    "code": "00.01.08",
+    "term": "Viveros de árboles y plantas"
+  },
+  {
+    "code": "00.01.09",
+    "term": "Semillas, preparación del terreno y sembrado"
+  },
+  {
+    "code": "00.01.10",
+    "term": "Medición del bosque"
+  },
+  {
+    "code": "00.01.11",
+    "term": "Silvicultura, rehabilitación de lugares / terrenos, protección forestal"
+  },
+  {
+    "code": "00.01.12",
+    "term": "Preservación de la madera, control de sus plagas"
+  },
+  {
+    "code": "00.02",
+    "term": "Recolección y arrastre de la madera"
+  },
+  {
+    "code": "00.02.01",
+    "term": "Maquinas y equipos para poda"
+  },
+  {
+    "code": "00.02.02",
+    "term": "Máquinas y equipos para descortezar"
+  },
+  {
+    "code": "00.02.03",
+    "term": "Maquinas para recolección"
+  },
+  {
+    "code": "00.02.04",
+    "term": "Tractores forestales, tractores forestales y equipos especializados"
+  },
+  {
+    "code": "00.02.05",
+    "term": "Transporte por arrastre o cable"
+  },
+  {
+    "code": "00.02.06",
+    "term": "Grúas y otros equipos forestales"
+  },
+  {
+    "code": "00.02.07",
+    "term": "Sierras de cadena portátiles y equipos auxiliares"
+  },
+  {
+    "code": "00.02.08",
+    "term": "Remolques con ruedas y para skidder"
+  },
+  {
+    "code": "00.02.09",
+    "term": "Cables para skidder, amarre (choker), cinturón de seguridad y valoración"
+  },
+  {
+    "code": "00.02.10",
+    "term": "Torno para skidder, tenazas"
+  },
+  {
+    "code": "00.02.11",
+    "term": "Lubricantes y combustible para maquinas forestales"
+  },
+  {
+    "code": "00.03",
+    "term": "Herramientas forestales y equipos auxiliares"
+  },
+  {
+    "code": "00.03.01",
+    "term": "Hachas, hachuelas"
+  },
+  {
+    "code": "00.03.02",
+    "term": "Cadenas"
+  },
+  {
+    "code": "00.03.03",
+    "term": "Cuchillas"
+  },
+  {
+    "code": "00.03.04",
+    "term": "Tijeras para podar"
+  },
+  {
+    "code": "00.03.05",
+    "term": "Cuerdas y cables"
+  },
+  {
+    "code": "00.03.06",
+    "term": "Estacas de anclaje y sujeción de troncos"
+  },
+  {
+    "code": "00.03.07",
+    "term": "Equipos y materiales auxiliares para el marcado, etiquetado y numeración en el bosque"
+  },
+  {
+    "code": "00.04",
+    "term": "Vehículos para el manejo y transporte de la madera"
+  },
+  {
+    "code": "00.04.01",
+    "term": "Grúas sobre tractor y pinzas para troncos"
+  },
+  {
+    "code": "00.04.02",
+    "term": "Remolques para troncos cortos"
+  },
+  {
+    "code": "00.04.03",
+    "term": "Autocargadores para troncos cortos"
+  },
+  {
+    "code": "00.04.04",
+    "term": "Autocargadores para troncos"
+  },
+  {
+    "code": "00.04.05",
+    "term": "Remolques para troncos largos"
+  },
+  {
+    "code": "00.04.06",
+    "term": "Equipos auxiliares para transporte de madera, maquinaria forestal y vehículos"
+  },
+  {
+    "code": "00.05",
+    "term": "Servicios de telecomunicación y proceso móvil de datos para la industria forestal"
+  },
+  {
+    "code": "00.05.01",
+    "term": "Equipamiento y sistemas para inventarios forestales"
+  },
+  {
+    "code": "00.05.02",
+    "term": "Equipamiento y sistemas para mediciones de la madera"
+  },
+  {
+    "code": "00.05.03",
+    "term": "Gestión y logística de almacenamiento"
+  },
+  {
+    "code": "00.05.04",
+    "term": "Software para la industria forestal"
+  },
+  {
+    "code": "00.05.05",
+    "term": "Vigilancia de incendios forestales y lucha contra el fuego"
+  },
+  {
+    "code": "00.06",
+    "term": "Seguridad en el trabajo forestal"
+  },
+  {
+    "code": "00.06.01",
+    "term": "Vestimenta de protección y ropa de trabajo"
+  },
+  {
+    "code": "00.06.02",
+    "term": "Equipamiento de protección"
+  },
+  {
+    "code": "00.07",
+    "term": "Servicios para la industria forestal"
+  },
+  {
+    "code": "00.07.01",
+    "term": "Preparación y técnicas del trabajo"
+  },
+  {
+    "code": "00.07.02",
+    "term": "Servicios para la recolección forestal"
+  },
+  {
+    "code": "00.07.03",
+    "term": "Inventario forestal, vigilancia del bosque"
+  },
+  {
+    "code": "00.07.04",
+    "term": "Certificación forestal"
+  },
+  {
+    "code": "00.07.50",
+    "term": "Servicios independientes de ingeniería y consultores para la industria forestal"
+  },
+  {
+    "code": "00.07.99",
+    "term": "Otros servicios para la industria forestal"
+  },
+  {
+    "code": "00.08",
+    "term": "Editores de publicaciones para las industrias forestales"
+  },
+  {
+    "code": "00.08.01",
+    "term": "Publicaciones periódicas y diarios técnicos para la industria forestal"
+  },
+  {
+    "code": "00.08.03",
+    "term": "Libros técnicos para la industria forestal"
+  },
+  {
+    "code": "00.08.04",
+    "term": "Publicaciones on-line para la industria forestal"
+  },
+  {
+    "code": "00.09",
+    "term": "Institutos de ensayo e investigación, instituciones educativas (universidades, escuelas técnicas, etc.) para la industria forestal"
+  },
+  {
+    "code": "00.09.01",
+    "term": "Instituciones educativas para la industria forestal"
+  },
+  {
+    "code": "00.09.02",
+    "term": "Institutos de investigación para la industria forestal"
+  },
+  {
+    "code": "00.09.03",
+    "term": "Institutos de ensayos para la industria forestal"
+  },
+  {
+    "code": "00.10",
+    "term": "Protección medioambiental para la industria forestal"
+  },
+  {
+    "code": "00.10.01",
+    "term": "Tanques y bombas para combustible"
+  },
+  {
+    "code": "00.10.02",
+    "term": "Almacenaje de materiales contaminantes para el agua (aceite, etc.)"
+  },
+  {
+    "code": "00.10.03",
+    "term": "Almacenaje de materiales peligrosos"
+  },
+  {
+    "code": "01",
+    "term": "Máquinas y equipos técnicos para la primera transformación (elaboración de productos semiacabados)"
+  },
+  {
+    "code": "01.01",
+    "term": "Parque de troncos"
+  },
+  {
+    "code": "01.01.01",
+    "term": "Transportadores móviles para troncos"
+  },
+  {
+    "code": "01.01.02",
+    "term": "Grúas para parques de troncos"
+  },
+  {
+    "code": "01.01.03",
+    "term": "Dispositivos de transporte, fijos, para parque de troncos"
+  },
+  {
+    "code": "01.01.04",
+    "term": "Sistemas de almacenamiento para parque de troncos"
+  },
+  {
+    "code": "01.01.05",
+    "term": "Estaciones de selección de troncos"
+  },
+  {
+    "code": "01.01.06",
+    "term": "Sistemas de rociado para la preservación húmeda de la madera"
+  },
+  {
+    "code": "01.01.07",
+    "term": "Maquinaria y herramientas para descortezado de troncos"
+  },
+  {
+    "code": "01.01.08",
+    "term": "Redondeadores y retestadores para troncos"
+  },
+  {
+    "code": "01.01.09",
+    "term": "Sierras transversales"
+  },
+  {
+    "code": "01.01.09.01",
+    "term": "Sierras de cadena móviles"
+  },
+  {
+    "code": "01.01.09.02",
+    "term": "Sierras de cadena fijas"
+  },
+  {
+    "code": "01.01.09.03",
+    "term": "Sierras circulares de corte transversal"
+  },
+  {
+    "code": "01.01.09.04",
+    "term": "Corte longitudinal de troncos con alimentación en continuo"
+  },
+  {
+    "code": "01.01.10",
+    "term": "Plantas para medición y optimización de troncos"
+  },
+  {
+    "code": "01.01.11",
+    "term": "Detectores y extractores de metal en troncos"
+  },
+  {
+    "code": "01.01.12",
+    "term": "Herramientas para marcar y etiquetar troncos"
+  },
+  {
+    "code": "01.02",
+    "term": "Tecnología para aserradero (producción de madera aserrada)"
+  },
+  {
+    "code": "01.02.01",
+    "term": "Máquinas para retestado y reaserrado"
+  },
+  {
+    "code": "01.02.01.01",
+    "term": "Sierras alternativas horizontales"
+  },
+  {
+    "code": "01.02.01.02",
+    "term": "Sierras alternativas verticales"
+  },
+  {
+    "code": "01.02.01.03",
+    "term": "Sierras de cinta, para troncos horizontales"
+  },
+  {
+    "code": "01.02.01.04",
+    "term": "Sierras de cinta, para troncos verticales"
+  },
+  {
+    "code": "01.02.01.05",
+    "term": "Reaserradoras de cinta"
+  },
+  {
+    "code": "01.02.01.06",
+    "term": "Sierras de cinta múltiples"
+  },
+  {
+    "code": "01.02.01.07",
+    "term": "Sierras circulares de un eje, para troncos"
+  },
+  {
+    "code": "01.02.01.08",
+    "term": "Sierras circulares de doble eje para troncos"
+  },
+  {
+    "code": "01.02.01.09",
+    "term": "Sierras circulares con carro de ruedas locas para troncos"
+  },
+  {
+    "code": "01.02.01.10",
+    "term": "Sierras circulares para madera de construcción"
+  },
+  {
+    "code": "01.02.01.11",
+    "term": "Canteadoras - astilladoras / Líneas de perfilado con sierras circulares"
+  },
+  {
+    "code": "01.02.01.12",
+    "term": "Astilladoras / Líneas de perfilado con sierras de cinta"
+  },
+  {
+    "code": "01.02.01.13",
+    "term": "Maquinas de corte sin arranque de material para tableros y laminados"
+  },
+  {
+    "code": "01.02.01.14",
+    "term": "Sierras circulares con carro para reaserrado"
+  },
+  {
+    "code": "01.02.01.15",
+    "term": "Reaserradoras"
+  },
+  {
+    "code": "01.02.01.16",
+    "term": "Sierras múltiples de un eje"
+  },
+  {
+    "code": "01.02.01.17",
+    "term": "Sierras múltiples de doble eje"
+  },
+  {
+    "code": "01.02.01.18",
+    "term": "Sierras circulares verticales- horizontales combinadas"
+  },
+  {
+    "code": "01.02.01.19",
+    "term": "Perfiladoras optimizadoras para tableros"
+  },
+  {
+    "code": "01.02.01.20",
+    "term": "Sierras transversales para tableros"
+  },
+  {
+    "code": "01.02.01.21",
+    "term": "Perfiladoras en continuo"
+  },
+  {
+    "code": "01.02.01.22",
+    "term": "Sierras transversales con barra de guía para paquetes de tablas"
+  },
+  {
+    "code": "01.02.02",
+    "term": "Equipos para el transporte, clasificación y almacenaje de madera aserrada"
+  },
+  {
+    "code": "01.02.02.01",
+    "term": "Estaciones de clasificación para madera"
+  },
+  {
+    "code": "01.02.02.02",
+    "term": "Transportadores para madera aserrada (a rodillos / vías, unidades de transferencia transversal, etc.)"
+  },
+  {
+    "code": "01.02.02.03",
+    "term": "Estaciones de atado y almacenamiento de madera"
+  },
+  {
+    "code": "01.02.03",
+    "term": "Medición y registro de madera aserrada"
+  },
+  {
+    "code": "01.02.04",
+    "term": "Sierras móviles para troncos"
+  },
+  {
+    "code": "01.02.04.01",
+    "term": "Sierras de cinta, móviles para troncos"
+  },
+  {
+    "code": "01.02.04.02",
+    "term": "Sierras circulares, móviles para troncos"
+  },
+  {
+    "code": "01.03",
+    "term": "Secado, vaporizado e impregnación de madera maciza y otros materiales"
+  },
+  {
+    "code": "01.03.01",
+    "term": "Plantas de vaporizado"
+  },
+  {
+    "code": "01.03.02",
+    "term": "Secaderos"
+  },
+  {
+    "code": "01.03.02.01",
+    "term": "Secaderos convencionales"
+  },
+  {
+    "code": "01.03.02.02",
+    "term": "Secaderos por vacío"
+  },
+  {
+    "code": "01.03.02.03",
+    "term": "Secaderos por bomba de calor"
+  },
+  {
+    "code": "01.03.02.04",
+    "term": "Secaderos para procesos especiales (por ejemplo, de alta frecuencia, de microondas)"
+  },
+  {
+    "code": "01.03.03",
+    "term": "Equipos para medición de la humedad de la madera"
+  },
+  {
+    "code": "01.03.03.01",
+    "term": "Medidores de humedad portátiles"
+  },
+  {
+    "code": "01.03.03.02",
+    "term": "Medidores de humedad en línea"
+  },
+  {
+    "code": "01.03.04",
+    "term": "Equipos de control de secaderos"
+  },
+  {
+    "code": "01.03.05",
+    "term": "Plantas de impregnación"
+  },
+  {
+    "code": "01.03.06",
+    "term": "Plantas para el tratamiento térmico de la madera para cambiar sus características físicas"
+  },
+  {
+    "code": "01.03.07",
+    "term": "Plantas para el tratamiento químico de la madera para cambiar su aspecto (p.e. amoniaco, aceites...)"
+  },
+  {
+    "code": "01.04",
+    "term": "Producción de chapa de madera"
+  },
+  {
+    "code": "01.04.01",
+    "term": "Plantas de vaporizado / calentamiento para bloques de chapa"
+  },
+  {
+    "code": "01.04.02",
+    "term": "Maquinas para serrado de madera para chapa"
+  },
+  {
+    "code": "01.04.03",
+    "term": "Cepilladoras para bloques de chapa"
+  },
+  {
+    "code": "01.04.04",
+    "term": "Cortadoras de chapa (Planas)"
+  },
+  {
+    "code": "01.04.05",
+    "term": "Tornos de desenrollo"
+  },
+  {
+    "code": "01.04.06",
+    "term": "Peladoras para chapa"
+  },
+  {
+    "code": "01.04.07",
+    "term": "Equipos para centrado y carga"
+  },
+  {
+    "code": "01.04.08",
+    "term": "Elementos para la sujeción del bloque"
+  },
+  {
+    "code": "01.04.09",
+    "term": "Equipos para bobinado, selección y descarga de la chapa"
+  },
+  {
+    "code": "01.04.10",
+    "term": "Equipos para el transporte y almacenamiento para chapas cortadas y desenrolladas"
+  },
+  {
+    "code": "01.04.11",
+    "term": "Secaderos de chapa"
+  },
+  {
+    "code": "01.04.11.01",
+    "term": "Secaderos de chapa por banda"
+  },
+  {
+    "code": "01.04.11.02",
+    "term": "Secaderos de chapa a rodillos"
+  },
+  {
+    "code": "01.04.11.03",
+    "term": "Secaderos de chapa con prensado y planchado"
+  },
+  {
+    "code": "01.04.12",
+    "term": "Equipos de control de la humedad en línea para secaderos de chapa"
+  },
+  {
+    "code": "01.04.13",
+    "term": "Guillotinas / cizallas para chapa"
+  },
+  {
+    "code": "01.04.13.01",
+    "term": "Guillotinas para chapa cortada"
+  },
+  {
+    "code": "01.04.13.02",
+    "term": "Cizallas para chapa desenrollada"
+  },
+  {
+    "code": "01.04.14",
+    "term": "Aparatos / plantas para medición y etiquetado de chapas"
+  },
+  {
+    "code": "01.04.15",
+    "term": "Maquinas para hacer paquetes de chapas"
+  },
+  {
+    "code": "01.05",
+    "term": "Producción de materiales sólidos para revestimientos con base de papel (laminados, películas)"
+  },
+  {
+    "code": "01.05.01",
+    "term": "Líneas para el revestimiento y la impregnación de papeles y tejidos"
+  },
+  {
+    "code": "01.05.02",
+    "term": "Secaderos por emisión de aire para papel impregnado o recubierto"
+  },
+  {
+    "code": "01.05.03",
+    "term": "Sistemas / Aparatos para la mezcla y dosificado de resinas"
+  },
+  {
+    "code": "01.05.04",
+    "term": "Prensas de un ciclo para laminados (p.e. HLP)"
+  },
+  {
+    "code": "01.05.05",
+    "term": "Prensas de tipo continúo para laminados (p.e. CLP)"
+  },
+  {
+    "code": "01.05.06",
+    "term": "Máquinas de corte para laminados y películas"
+  },
+  {
+    "code": "01.05.06.01",
+    "term": "Cizallas para laminados y películas"
+  },
+  {
+    "code": "01.05.06.02",
+    "term": "Máquinas de corte con cuchillas rotatorias para laminados y películas"
+  },
+  {
+    "code": "01.05.07",
+    "term": "Sistemas para la adquisición de datos de producción y control de la calidad de materiales sólidos para revestimientos"
+  },
+  {
+    "code": "01.06",
+    "term": "Producción de contrachapado y LVL"
+  },
+  {
+    "code": "01.06.01",
+    "term": "Ensambladoras de chapa desenrollada"
+  },
+  {
+    "code": "01.06.02",
+    "term": "Juntadoras para chapa descortezada"
+  },
+  {
+    "code": "01.06.03",
+    "term": "Líneas para eliminación de defectos de la chapa"
+  },
+  {
+    "code": "01.06.04",
+    "term": "Encoladoras de listones (corte a medida, encolado, prensado, etc.)"
+  },
+  {
+    "code": "01.06.05",
+    "term": "Rociadoras de cola para chapa y tableros"
+  },
+  {
+    "code": "01.06.06",
+    "term": "Prensas de bloques para contrachapado y LVL"
+  },
+  {
+    "code": "01.06.07",
+    "term": "Prensas de contrachapado para superficies planas"
+  },
+  {
+    "code": "01.06.09",
+    "term": "Equipos para la preparación, dosificado y transporte de cola para plantas de contrachapado"
+  },
+  {
+    "code": "01.06.10",
+    "term": "Equipos de transporte y almacenaje para plantas de contrachapado"
+  },
+  {
+    "code": "01.06.11",
+    "term": "Sistemas para la adquisición de datos de producción y control de la calidad para plantas de contrachapado"
+  },
+  {
+    "code": "01.07",
+    "term": "Producción de paneles de aglomerado, fibras y OSB"
+  },
+  {
+    "code": "01.07.01",
+    "term": "Trituradoras para residuos, p.e., desechos de madera, madera de derribo, productos de madera usada, etc."
+  },
+  {
+    "code": "01.07.02",
+    "term": "Astilladoras y plantas de astillado"
+  },
+  {
+    "code": "01.07.03",
+    "term": "Máquinas para producir astillas planas"
+  },
+  {
+    "code": "01.07.03.01",
+    "term": "Astilladoras para troncos largos"
+  },
+  {
+    "code": "01.07.03.02",
+    "term": "Astilladoras para desechos industriales de madera (residuos de aserraderos, planchas, etc.) y otros materiales"
+  },
+  {
+    "code": "01.07.03.03",
+    "term": "Virutadora de cuchilla circular para madera triturada y otros materiales"
+  },
+  {
+    "code": "01.07.04",
+    "term": "Machacadoras, astilladoras por impacto"
+  },
+  {
+    "code": "01.07.05",
+    "term": "Máquinas de moler virutas, astillas, serrín, etc."
+  },
+  {
+    "code": "01.07.06",
+    "term": "Instalaciones de lavado para madera triturada"
+  },
+  {
+    "code": "01.07.07",
+    "term": "Equipos de transporte y almacenaje para madera triturada, virutas, fibras, etc."
+  },
+  {
+    "code": "01.07.08",
+    "term": "Refinadoras"
+  },
+  {
+    "code": "01.07.09",
+    "term": "Secaderos para viruta, hebras, fibras, etc."
+  },
+  {
+    "code": "01.07.10",
+    "term": "Equipos para filtrado y tamizado"
+  },
+  {
+    "code": "01.07.11",
+    "term": "Equipos para preparado y dosificado de colas"
+  },
+  {
+    "code": "01.07.12",
+    "term": "Equipos para encolado y mezclado"
+  },
+  {
+    "code": "01.07.13",
+    "term": "Sistemas de rociado y moldeado"
+  },
+  {
+    "code": "01.07.14",
+    "term": "Balanzas de banda"
+  },
+  {
+    "code": "01.07.15",
+    "term": "Equipos de humidificación para virutas y planchas de fibra"
+  },
+  {
+    "code": "01.07.16",
+    "term": "Prensas"
+  },
+  {
+    "code": "01.07.16.01",
+    "term": "Preprensas de ciclo"
+  },
+  {
+    "code": "01.07.16.02",
+    "term": "Preprensas en continuo"
+  },
+  {
+    "code": "01.07.16.03",
+    "term": "Prensas de platos múltiples"
+  },
+  {
+    "code": "01.07.16.04",
+    "term": "Prensas de un plato"
+  },
+  {
+    "code": "01.07.16.05",
+    "term": "Prensas de ciclo continuo"
+  },
+  {
+    "code": "01.07.16.06",
+    "term": "Prensas de calandra"
+  },
+  {
+    "code": "01.07.17",
+    "term": "Máquinas para escuadrado paralelo"
+  },
+  {
+    "code": "01.07.18",
+    "term": "Sierras de corte diagonal"
+  },
+  {
+    "code": "01.07.19",
+    "term": "Unidades de enfriado"
+  },
+  {
+    "code": "01.07.20",
+    "term": "Líneas de lijado"
+  },
+  {
+    "code": "01.07.21",
+    "term": "Máquinas seccionadoras de tableros"
+  },
+  {
+    "code": "01.07.22",
+    "term": "Manejo, almacenaje y puesta en marcha de equipos para paneles"
+  },
+  {
+    "code": "01.07.23",
+    "term": "Equipos de empaquetado para paneles"
+  },
+  {
+    "code": "01.07.24",
+    "term": "Sistemas para la adquisición de datos de producción y control de la calidad para plantas de paneles de aglomerado, fibra y OSB"
+  },
+  {
+    "code": "01.07.25",
+    "term": "Componentes de equipos especiales para maquinaria y plantas de producción de paneles de aglomerado, fibras y OSB"
+  },
+  {
+    "code": "01.07.26",
+    "term": "Tecnologías de separación"
+  },
+  {
+    "code": "01.08",
+    "term": "Producción de paneles ligeros / paneles nidos de abejas"
+  },
+  {
+    "code": "01.08.01",
+    "term": "Máquinas para ampliar y secar los nidos de abejas"
+  },
+  {
+    "code": "01.08.02",
+    "term": "Máquinas para los marcos de panel"
+  },
+  {
+    "code": "01.08.03",
+    "term": "Máquinas para la composición de la base"
+  },
+  {
+    "code": "01.08.04",
+    "term": "Prensas para paneles ligeros / producción de sándwich"
+  },
+  {
+    "code": "01.09",
+    "term": "Producción de superficies contorneadas y molduras"
+  },
+  {
+    "code": "01.09.01",
+    "term": "Prensas para piezas moldeadas de partículas, fibras y otros materiales"
+  },
+  {
+    "code": "01.09.02",
+    "term": "Prensas para superficies curvadas y molduras de contrachapado u otros materiales"
+  },
+  {
+    "code": "01.09.03",
+    "term": "Extrusores"
+  },
+  {
+    "code": "01.99",
+    "term": "Máquinas y equipos técnicos para la primera transformación, otros"
+  },
+  {
+    "code": "02",
+    "term": "Máquinas y equipos técnicos para la segunda transformación (laminado, mecanizado, encolado)"
+  },
+  {
+    "code": "02.01",
+    "term": "Fabricación de chapa"
+  },
+  {
+    "code": "02.01.01",
+    "term": "Prensas de planchado de chapa"
+  },
+  {
+    "code": "02.01.02",
+    "term": "Cortadoras transversales de chapa"
+  },
+  {
+    "code": "02.01.03",
+    "term": "Cizallas para paquetes de chapa"
+  },
+  {
+    "code": "02.01.03.01",
+    "term": "Cizallas de una sola cuchilla para paquetes de chapa"
+  },
+  {
+    "code": "02.01.03.02",
+    "term": "Cizallas de doble cuchilla para paquetes de chapa"
+  },
+  {
+    "code": "02.01.04",
+    "term": "Máquinas cortadoras de tiras de chapa"
+  },
+  {
+    "code": "02.01.05",
+    "term": "Sierras circulares para paquetes de chapa"
+  },
+  {
+    "code": "02.01.06",
+    "term": "Máquinas cepilladoras y cortadoras para paquetes de chapa"
+  },
+  {
+    "code": "02.01.07",
+    "term": "Máquinas para aplicar cola en cantos de chapa"
+  },
+  {
+    "code": "02.01.08",
+    "term": "Juntadoras longitudinales de chapa"
+  },
+  {
+    "code": "02.01.09",
+    "term": "Juntadoras transversales de chapa en continuo"
+  },
+  {
+    "code": "02.01.10",
+    "term": "Máquinas de encolado a testa"
+  },
+  {
+    "code": "02.01.11",
+    "term": "Máquinas y equipos para unir longitudinalmente la chapa (p.e. finger joint)"
+  },
+  {
+    "code": "02.01.12",
+    "term": "Máquinas para parchear chapa"
+  },
+  {
+    "code": "02.01.13",
+    "term": "Equipos para medir y optimizar chapa"
+  },
+  {
+    "code": "02.01.14",
+    "term": "Mesas luminosas para inspeccionar chapa"
+  },
+  {
+    "code": "02.01.15",
+    "term": "Máquinas de ablandamiento de la chapa"
+  },
+  {
+    "code": "02.02",
+    "term": "Prensas, laminadoras y recubridoras de perfiles para materiales de recubrimientos (chapeado, laminado, recubrimiento por película, etc.)"
+  },
+  {
+    "code": "02.02.01",
+    "term": "Máquinas de cepillado y limpieza de piezas de trabajo"
+  },
+  {
+    "code": "02.02.02",
+    "term": "Rociadores de cola para paneles y chapas"
+  },
+  {
+    "code": "02.02.03",
+    "term": "Sistemas de alimentación, almacenaje y reposado de materiales de recubrimiento"
+  },
+  {
+    "code": "02.02.04",
+    "term": "Prensas de ciclo"
+  },
+  {
+    "code": "02.02.04.01",
+    "term": "Prensas de ciclo de alimentación manual"
+  },
+  {
+    "code": "02.02.04.02",
+    "term": "Prensas de ciclo de alimentación mecánica / Prensas de ciclo corto"
+  },
+  {
+    "code": "02.02.04.03",
+    "term": "Prensas de bloqueo de ciclo para laminado"
+  },
+  {
+    "code": "02.02.04.04",
+    "term": "Prensas de ciclo para laminado de molduras"
+  },
+  {
+    "code": "02.02.04.05",
+    "term": "Prensas de membrana"
+  },
+  {
+    "code": "02.02.05",
+    "term": "Prensas continuas / sistemas de laminación"
+  },
+  {
+    "code": "02.02.05.01",
+    "term": "Prensas de doble banda"
+  },
+  {
+    "code": "02.02.05.02",
+    "term": "Líneas para revestimiento de superficies en continuo"
+  },
+  {
+    "code": "02.02.05.03",
+    "term": "Líneas para revestimiento de superficies en continuo con unidades incorporadas de revestimiento de cantos"
+  },
+  {
+    "code": "02.02.05.04",
+    "term": "Máquinas recubridoras de perfiles"
+  },
+  {
+    "code": "02.02.06",
+    "term": "Máquinas para la aplicación de películas protectoras"
+  },
+  {
+    "code": "02.02.07",
+    "term": "Máquinas para aplicar láminas de oro en caliente"
+  },
+  {
+    "code": "02.02.08",
+    "term": "Agregados para división y retestado de partes recubiertas"
+  },
+  {
+    "code": "02.02.09",
+    "term": "Equipos para carga, descarga y transporte de partes laminadas"
+  },
+  {
+    "code": "02.02.10",
+    "term": "Equipos para preparar, dosificar y transportar cola"
+  },
+  {
+    "code": "02.02.11",
+    "term": "Aplicadores de soporte para chapa y materiales sintéticos de recubrimiento"
+  },
+  {
+    "code": "02.03",
+    "term": "Sierras para el posterior proceso de madera maciza, paneles de madera, plásticos, composites y otros materiales"
+  },
+  {
+    "code": "02.03.01",
+    "term": "Sierras transversales de corte inferior"
+  },
+  {
+    "code": "02.03.02",
+    "term": "Sierras transversales de corte superior"
+  },
+  {
+    "code": "02.03.02.01",
+    "term": "Sierras pendulares"
+  },
+  {
+    "code": "02.03.02.02",
+    "term": "Sierras de brazo radial"
+  },
+  {
+    "code": "02.03.03",
+    "term": "Sierras optimizadoras de corte transversales"
+  },
+  {
+    "code": "02.03.04",
+    "term": "Sierras ingleteadotas simples o dobles"
+  },
+  {
+    "code": "02.03.05",
+    "term": "Sierras circulares retestadoras de discos múltiples"
+  },
+  {
+    "code": "02.03.06",
+    "term": "Sierras circulares de un disco con unidad de sierra móvil"
+  },
+  {
+    "code": "02.03.07",
+    "term": "Sierras circulares de un sólo disco y discos múltiples para perfilado y corte longitudinal múltiple"
+  },
+  {
+    "code": "02.03.08",
+    "term": "Sierras especiales para corte fino"
+  },
+  {
+    "code": "02.03.08.01",
+    "term": "Sierras de marco para corte fino"
+  },
+  {
+    "code": "02.03.08.02",
+    "term": "Sierras circulares para corte fino"
+  },
+  {
+    "code": "02.03.09",
+    "term": "Sierras de mesa"
+  },
+  {
+    "code": "02.03.10",
+    "term": "Sierras de mesa con carro móvil"
+  },
+  {
+    "code": "02.03.11",
+    "term": "Sierras verticales de paneles"
+  },
+  {
+    "code": "02.03.12",
+    "term": "Seccionadoras horizontales con barra de presión"
+  },
+  {
+    "code": "02.03.12.01",
+    "term": "Seccionadoras con barra de presión para cortes longitudinales"
+  },
+  {
+    "code": "02.03.12.02",
+    "term": "Seccionadoras con barra de presión para cortes transversales"
+  },
+  {
+    "code": "02.03.12.03",
+    "term": "Seccionadoras con barra de presión para cortes longitudinales y transversales (sistema angular)"
+  },
+  {
+    "code": "02.03.13",
+    "term": "Seccionadoras (sierras de portal) para cortes longitudinal y transversal"
+  },
+  {
+    "code": "02.03.14",
+    "term": "Sierras de cinta estrecha"
+  },
+  {
+    "code": "02.03.15",
+    "term": "Sierras de cinta copiadoras"
+  },
+  {
+    "code": "02.03.16",
+    "term": "Sierras alternativas"
+  },
+  {
+    "code": "02.03.17",
+    "term": "Sierras para muescas"
+  },
+  {
+    "code": "02.03.18",
+    "term": "Sierras para obras"
+  },
+  {
+    "code": "02.03.19",
+    "term": "Sierras de cinta CNC"
+  },
+  {
+    "code": "02.03.20",
+    "term": "Sierras circulares dobles para corte paralelo y / o a escuadra de tableros, avance manual"
+  },
+  {
+    "code": "02.03.21",
+    "term": "Sierras múltiples optimizadoras."
+  },
+  {
+    "code": "02.04",
+    "term": "Moldureras y cepilladoras"
+  },
+  {
+    "code": "02.04.01",
+    "term": "Máquinas cepilladoras"
+  },
+  {
+    "code": "02.04.02",
+    "term": "Regruesadoras"
+  },
+  {
+    "code": "02.04.03",
+    "term": "Rascadoras"
+  },
+  {
+    "code": "02.04.04",
+    "term": "Sierras cepilladoras combinadas"
+  },
+  {
+    "code": "02.04.05",
+    "term": "Cepilladoras lijadoras combinadas"
+  },
+  {
+    "code": "02.04.06",
+    "term": "Cepilladoras de borde angular para cepillado simultáneo de cara y cantos"
+  },
+  {
+    "code": "02.04.07",
+    "term": "Regruesadoras de doble cara para cepillado y regruesado simultáneo"
+  },
+  {
+    "code": "02.04.08",
+    "term": "Cepilladoras para trabajar tres y cuatro caras"
+  },
+  {
+    "code": "02.04.09",
+    "term": "Moldureras para trabajar tres y cuatro caras"
+  },
+  {
+    "code": "02.04.10",
+    "term": "Fresadoras frontales para mecanizar una o varias caras"
+  },
+  {
+    "code": "02.04.11",
+    "term": "Tupís"
+  },
+  {
+    "code": "02.04.12",
+    "term": "Máquinas para empalme"
+  },
+  {
+    "code": "02.04.13",
+    "term": "Fresadoras"
+  },
+  {
+    "code": "02.04.14",
+    "term": "Fresadoras con CNC"
+  },
+  {
+    "code": "02.04.15",
+    "term": "Fresadoras copiadoras"
+  },
+  {
+    "code": "02.04.15.01",
+    "term": "Fresadoras copiadoras para el procesado longitudinal de piezas moldeadas (también con unidades adicionales de lijado)"
+  },
+  {
+    "code": "02.04.15.02",
+    "term": "Fresadoras copiadoras de mesa giratoria (también con unidades adicionales de lijado)"
+  },
+  {
+    "code": "02.04.15.03",
+    "term": "Fresadoras copiadoras por plantillas y rotación automática de pieza (con uno o más ejes, y también con unidades adicionales de lijado)"
+  },
+  {
+    "code": "02.04.16",
+    "term": "Fresadoras (y lijadoras) CNC de doble cara para piezas contorneadas"
+  },
+  {
+    "code": "02.04.17",
+    "term": "Talladoras copiadoras"
+  },
+  {
+    "code": "02.04.18",
+    "term": "Fresadoras para barras"
+  },
+  {
+    "code": "02.04.19",
+    "term": "Desbastadora de rebarbas"
+  },
+  {
+    "code": "02.04.20",
+    "term": "Fresadoras de barras redondas"
+  },
+  {
+    "code": "02.04.21",
+    "term": "Máquinas para fresar espirales"
+  },
+  {
+    "code": "02.04.22",
+    "term": "Máquinas para fresar ingletes"
+  },
+  {
+    "code": "02.04.23",
+    "term": "Máquinas para fresar parteluces"
+  },
+  {
+    "code": "02.04.24",
+    "term": "Máquinas para fresar ranuras para zancas de escalera, escaleras y celosías"
+  },
+  {
+    "code": "02.04.25",
+    "term": "Máquinas para fresar perejiles"
+  },
+  {
+    "code": "02.04.26",
+    "term": "Máquinas para fresar biseles"
+  },
+  {
+    "code": "02.04.99",
+    "term": "Fresadoras para trabajos especiales"
+  },
+  {
+    "code": "02.05",
+    "term": "Maquinas para empalme (finger joint)"
+  },
+  {
+    "code": "02.05.01",
+    "term": "Máquinas para fresar para empalme (finger joint)"
+  },
+  {
+    "code": "02.05.02",
+    "term": "Sistemas de encolado para empalme (finger joint)"
+  },
+  {
+    "code": "02.05.03",
+    "term": "Prensas para empalme (finger joint)"
+  },
+  {
+    "code": "02.05.04",
+    "term": "Líneas de empalme (finger joint) (corte, fresado, encolado, prensado, etc.)"
+  },
+  {
+    "code": "02.06",
+    "term": "Espigadoras"
+  },
+  {
+    "code": "02.06.01",
+    "term": "Espigadoras para espigas rectas"
+  },
+  {
+    "code": "02.06.01.01",
+    "term": "Espigadoras unilaterales para espigas rectas"
+  },
+  {
+    "code": "02.06.01.02",
+    "term": "Espigadoras dobles para espigas rectas"
+  },
+  {
+    "code": "02.06.02",
+    "term": "Espigadoras para espigas redondas"
+  },
+  {
+    "code": "02.06.02.01",
+    "term": "Espigadoras unilaterales para espigas redondas"
+  },
+  {
+    "code": "02.06.02.02",
+    "term": "Espigadoras dobles para espigas redondas"
+  },
+  {
+    "code": "02.07",
+    "term": "Escuadradoras y perfiladoras múltiples (corte longitudinal, perfilado, lijado, etc.)"
+  },
+  {
+    "code": "02.07.01",
+    "term": "Perfiladoras unilaterales / escuadradoras para partes no planas, p.e., trozos"
+  },
+  {
+    "code": "02.07.02",
+    "term": "Perfiladoras unilaterales / escuadradoras para partes planas, p.e. paneles"
+  },
+  {
+    "code": "02.07.03",
+    "term": "Perfiladoras dobles / escuadradoras para partes no planas, p.e. Trozos"
+  },
+  {
+    "code": "02.07.04",
+    "term": "Perfiladoras dobles / escuadradoras para partes planas, p.e. paneles"
+  },
+  {
+    "code": "02.08",
+    "term": "Chapeadoras de cantos (chapeado, retestado, lijado, etc.)"
+  },
+  {
+    "code": "02.08.01",
+    "term": "Chapeadoras de cantos unilaterales"
+  },
+  {
+    "code": "02.08.01.01",
+    "term": "Chapeadoras de cantos unilaterales para cantos rectos"
+  },
+  {
+    "code": "02.08.01.02",
+    "term": "Chapeadoras de cantos unilaterales para softforming"
+  },
+  {
+    "code": "02.08.01.03",
+    "term": "Chapeadoras de cantos unilaterales para piezas curvas o moldeadas"
+  },
+  {
+    "code": "02.08.02",
+    "term": "Chapeadoras de cantos bilaterales"
+  },
+  {
+    "code": "02.08.02.01",
+    "term": "Chapeadoras de cantos bilaterales para cantos rectos"
+  },
+  {
+    "code": "02.08.02.02",
+    "term": "Chapeadoras de cantos bilaterales para softforming"
+  },
+  {
+    "code": "02.08.02.03",
+    "term": "Chapeadoras de cantos bilaterales para piezas curvas o moldeadas"
+  },
+  {
+    "code": "02.08.03",
+    "term": "Chapeadoras de mesa"
+  },
+  {
+    "code": "02.09",
+    "term": "Combinadas perfiladoras chapeadoras (corte, perfilado, chapeado, retestado, lijado, etc.)"
+  },
+  {
+    "code": "02.09.01",
+    "term": "Combinadas unilaterales"
+  },
+  {
+    "code": "02.09.01.01",
+    "term": "Combinadas unilaterales para cantos rectos"
+  },
+  {
+    "code": "02.09.01.02",
+    "term": "Combinadas unilaterales para moldeado blando"
+  },
+  {
+    "code": "02.09.01.03",
+    "term": "Combinadas unilaterales para partes conformadas y curvas"
+  },
+  {
+    "code": "02.09.02",
+    "term": "Combinadas dobles"
+  },
+  {
+    "code": "02.09.02.01",
+    "term": "Combinadas dobles para cantos rectos"
+  },
+  {
+    "code": "02.09.02.02",
+    "term": "Combinadas dobles para moldeado blando"
+  },
+  {
+    "code": "02.09.02.03",
+    "term": "Combinadas dobles para partes conformadas y curvas"
+  },
+  {
+    "code": "02.10",
+    "term": "Máquinas de postforming"
+  },
+  {
+    "code": "02.10.01",
+    "term": "Máquinas de postforming fijas (proceso estático)"
+  },
+  {
+    "code": "02.10.02",
+    "term": "Máquinas de postforming de alimentación continua"
+  },
+  {
+    "code": "02.10.02.01",
+    "term": "Máquinas de postforming para laminados"
+  },
+  {
+    "code": "02.10.02.02",
+    "term": "Máquinas de postforming directo para laminados y paneles de chapa"
+  },
+  {
+    "code": "02.11",
+    "term": "Sistemas de plegado (folding)"
+  },
+  {
+    "code": "02.11.01",
+    "term": "Sistemas de plegado longitudinal"
+  },
+  {
+    "code": "02.11.02",
+    "term": "Máquinas de fresar ingletes para plegado transversal"
+  },
+  {
+    "code": "02.11.03",
+    "term": "Prensas de armar / estaciones de encolado para plegado transversal"
+  },
+  {
+    "code": "02.11.04",
+    "term": "Sistemas de plegado transversal (corte longitudinal, a inglete, encolado, plegado, prensado)"
+  },
+  {
+    "code": "02.12",
+    "term": "Taladros, insertadoras de clavijas, insertadoras de herrajes"
+  },
+  {
+    "code": "02.12.01",
+    "term": "Taladros de uno o varios cabezales"
+  },
+  {
+    "code": "02.12.01.01",
+    "term": "Taladros universales multihusillo fijos"
+  },
+  {
+    "code": "02.12.01.02",
+    "term": "Taladros multihusillo con cabezales horizontales y / o verticales, fijos"
+  },
+  {
+    "code": "02.12.01.03",
+    "term": "Taladros multihusillo con cabezales horizontales y / o verticales, de avance continuo"
+  },
+  {
+    "code": "02.12.02",
+    "term": "Taladros para agujeros de clavijas para marcos, estantes y otros elementos prismáticos, fijos o de avance continuo"
+  },
+  {
+    "code": "02.12.03",
+    "term": "Taladros para aserrado, fresado, taladrado e insertado de clavijas."
+  },
+  {
+    "code": "02.12.04",
+    "term": "Máquinas para taladrado, fresado, inserción de clavijas, etc."
+  },
+  {
+    "code": "02.12.05",
+    "term": "Taladros CNC"
+  },
+  {
+    "code": "02.12.05.01",
+    "term": "Taladros CNC estáticos"
+  },
+  {
+    "code": "02.12.05.02",
+    "term": "Taladros CNC con avance continuo"
+  },
+  {
+    "code": "02.12.06",
+    "term": "Máquinas de inserción de clavijas (encolado, insertado)"
+  },
+  {
+    "code": "02.12.07",
+    "term": "Máquinas para inserción de herrajes"
+  },
+  {
+    "code": "02.12.08",
+    "term": "Taladros para eliminar nudos"
+  },
+  {
+    "code": "02.12.09",
+    "term": "Taladros de banco y de columna"
+  },
+  {
+    "code": "02.12.10",
+    "term": "Taladros para ranurar"
+  },
+  {
+    "code": "02.13",
+    "term": "Máquinas para retirar herrajes"
+  },
+  {
+    "code": "02.14",
+    "term": "Mortajadoras"
+  },
+  {
+    "code": "02.14.01",
+    "term": "Mortajadoras con útil oscilante"
+  },
+  {
+    "code": "02.14.02",
+    "term": "Mortajadoras de cadena"
+  },
+  {
+    "code": "02.14.03",
+    "term": "Mortajadoras de escoplo hueco"
+  },
+  {
+    "code": "02.14.04",
+    "term": "Mortajadoras, a discreción con cadena o escoplo hueco"
+  },
+  {
+    "code": "02.15",
+    "term": "Tornos"
+  },
+  {
+    "code": "02.15.01",
+    "term": "Tornos de cilindrar"
+  },
+  {
+    "code": "02.15.02",
+    "term": "Tornos de frontales"
+  },
+  {
+    "code": "02.15.03",
+    "term": "Tornos de perfilar"
+  },
+  {
+    "code": "02.15.04",
+    "term": "Tornos de copiar por plantilla"
+  },
+  {
+    "code": "02.15.05",
+    "term": "Tornos CNC"
+  },
+  {
+    "code": "02.16",
+    "term": "Lijadoras"
+  },
+  {
+    "code": "02.16.01",
+    "term": "Lijadoras de banda larga con mesa"
+  },
+  {
+    "code": "02.16.02",
+    "term": "Lijadoras de banda larga con avance mecánico"
+  },
+  {
+    "code": "02.16.03",
+    "term": "Lijadoras de banda ancha"
+  },
+  {
+    "code": "02.16.04",
+    "term": "Lijadoras de banda transversal - banda ancha"
+  },
+  {
+    "code": "02.16.05",
+    "term": "Lijadoras para láminas de chapa"
+  },
+  {
+    "code": "02.16.06",
+    "term": "Calibradoras abrasivas"
+  },
+  {
+    "code": "02.16.07",
+    "term": "Lijadoras de banda ancha para el calibrado y lijado"
+  },
+  {
+    "code": "02.16.08",
+    "term": "Lijadoras de rodillo para lijado superficial"
+  },
+  {
+    "code": "02.16.09",
+    "term": "Lijadoras para piezas curvas y moldeadas"
+  },
+  {
+    "code": "02.16.10",
+    "term": "Lijadoras para el lijado intermedio de piezas barnizadas"
+  },
+  {
+    "code": "02.16.11",
+    "term": "Lijadoras de perfiles"
+  },
+  {
+    "code": "02.16.11.01",
+    "term": "Lijadoras de perfiles unilaterales"
+  },
+  {
+    "code": "02.16.11.02",
+    "term": "Lijadoras de perfiles dobles"
+  },
+  {
+    "code": "02.16.12",
+    "term": "Lijadoras de bobina"
+  },
+  {
+    "code": "02.16.13",
+    "term": "Lijadoras de banda"
+  },
+  {
+    "code": "02.16.14",
+    "term": "Lijadoras de disco"
+  },
+  {
+    "code": "02.16.15",
+    "term": "Lijadoras para barras redondas"
+  },
+  {
+    "code": "02.16.16",
+    "term": "Lijadoras para piezas torneadas"
+  },
+  {
+    "code": "02.16.17",
+    "term": "Centros de lijado CNC para el lijado completo de todo tipo de superficies"
+  },
+  {
+    "code": "02.17",
+    "term": "Máquinas para pulir y lustrar"
+  },
+  {
+    "code": "02.17.01",
+    "term": "Pulidoras para superficies planas"
+  },
+  {
+    "code": "02.17.02",
+    "term": "Pulidoras para molduras"
+  },
+  {
+    "code": "02.17.03",
+    "term": "Pulidoras para tiras"
+  },
+  {
+    "code": "02.17.04",
+    "term": "Pulidoras / lustradoras con alimentación automática"
+  },
+  {
+    "code": "02.17.05",
+    "term": "Estaciones de lustrado"
+  },
+  {
+    "code": "02.18",
+    "term": "Máquinas para la conformación"
+  },
+  {
+    "code": "02.18.01",
+    "term": "Máquinas de doblado"
+  },
+  {
+    "code": "02.18.02",
+    "term": "Estampadoras"
+  },
+  {
+    "code": "02.18.02.01",
+    "term": "Estampadoras simples"
+  },
+  {
+    "code": "02.18.02.02",
+    "term": "Estampadoras de avance continuo"
+  },
+  {
+    "code": "02.18.99",
+    "term": "Otras máquinas de conformado"
+  },
+  {
+    "code": "02.19",
+    "term": "Máquinas combinadas (para reducir el espacio utilizado)"
+  },
+  {
+    "code": "02.19.01",
+    "term": "Regruesadoras - planeadoras"
+  },
+  {
+    "code": "02.19.02",
+    "term": "Combinación de sierras circulares y fresadoras"
+  },
+  {
+    "code": "02.19.03",
+    "term": "Combinación de sierras circulares, tupís, fresadoras y mortajadoras"
+  },
+  {
+    "code": "02.19.04",
+    "term": "Combinación de sierras circulares, regruesadoras, fresadoras, mortajadoras"
+  },
+  {
+    "code": "02.19.05",
+    "term": "Máquinas universales de ebanistería y carpintería para empresas artesanales"
+  },
+  {
+    "code": "02.19.06",
+    "term": "Máquinas universales para bricolaje"
+  },
+  {
+    "code": "02.19.99",
+    "term": "Otras máquinas combinadas para ebanistería y carpintería"
+  },
+  {
+    "code": "02.20",
+    "term": "Centros de mecanizado (fijos)"
+  },
+  {
+    "code": "02.20.01",
+    "term": "Centros de mecanizado para aserrado, fresado, perfilado, taladrado, lijado"
+  },
+  {
+    "code": "02.20.02",
+    "term": "Centros de mecanizado para cantos"
+  },
+  {
+    "code": "02.20.03",
+    "term": "Centros de mecanizado para fresado, aserrado, taladrado, chapeado"
+  },
+  {
+    "code": "02.20.04",
+    "term": "Centros de mecanizado para fresado, aserrado, taladrado, inserción de herrajes y clavijas"
+  },
+  {
+    "code": "02.21",
+    "term": "Células de producción"
+  },
+  {
+    "code": "02.22",
+    "term": "Prensas y equipos para encolado de componentes madera maciza y otros materiales"
+  },
+  {
+    "code": "02.22.01",
+    "term": "Encoladoras para unión de bordes / cantos verticales"
+  },
+  {
+    "code": "02.22.02",
+    "term": "Prensas de encolar para tableros y barras, de alimentación continua"
+  },
+  {
+    "code": "02.22.03",
+    "term": "Prensas de encolar tableros y alma de las mesas"
+  },
+  {
+    "code": "02.22.04",
+    "term": "Prensas para madera laminada / abrazaderas para madera de construcción, glulam, etc."
+  },
+  {
+    "code": "02.23",
+    "term": "Prensas / encoladoras para ángulos"
+  },
+  {
+    "code": "02.23.01",
+    "term": "Prensas de mesa universal"
+  },
+  {
+    "code": "02.23.02",
+    "term": "Prensas para marcos"
+  },
+  {
+    "code": "02.23.03",
+    "term": "Prensas para encolar arcos semicirculares"
+  },
+  {
+    "code": "02.24",
+    "term": "Punzonadoras"
+  },
+  {
+    "code": "02.24.01",
+    "term": "Punzonadoras a inglete."
+  },
+  {
+    "code": "02.24.02",
+    "term": "Punzonadoras alternativas."
+  },
+  {
+    "code": "02.24.99",
+    "term": "Otras máquinas para punzonar."
+  },
+  {
+    "code": "03",
+    "term": "Máquinas y equipos técnicos para acabado de superficies"
+  },
+  {
+    "code": "03.01",
+    "term": "Recubrimiento con materiales líquidos (lacado, etc.)"
+  },
+  {
+    "code": "03.01.01",
+    "term": "Preacondicionamiento de superficies"
+  },
+  {
+    "code": "03.01.01.01",
+    "term": "Equipos de soplado de arena a presión"
+  },
+  {
+    "code": "03.01.01.02",
+    "term": "Texturizadoras y cepilladoras"
+  },
+  {
+    "code": "03.01.01.03",
+    "term": "Cepillos de limpieza"
+  },
+  {
+    "code": "03.01.02",
+    "term": "Plantas de blanqueado y tintado"
+  },
+  {
+    "code": "03.01.03",
+    "term": "Máquinas de rellenado por cuchilla o rodillo"
+  },
+  {
+    "code": "03.01.04",
+    "term": "Plantas de impresión (p.e. vetas de la madera)"
+  },
+  {
+    "code": "03.01.05",
+    "term": "Máquinas de rociado automático / robots para rociado final"
+  },
+  {
+    "code": "03.01.06",
+    "term": "Sistemas de rociado de rotación"
+  },
+  {
+    "code": "03.01.07",
+    "term": "Equipamiento de rociado electroestático"
+  },
+  {
+    "code": "03.01.08",
+    "term": "Barnizadores de cortina"
+  },
+  {
+    "code": "03.01.09",
+    "term": "Barnizadores de rodillo"
+  },
+  {
+    "code": "03.01.10",
+    "term": "Recubridores de vacío"
+  },
+  {
+    "code": "03.01.11",
+    "term": "Equipamiento para inmersión"
+  },
+  {
+    "code": "03.01.12",
+    "term": "Equipamiento de inundado"
+  },
+  {
+    "code": "03.01.13",
+    "term": "Sistemas de recubrimiento de cantos"
+  },
+  {
+    "code": "03.01.14",
+    "term": "Sistemas de recubrimiento de tambor"
+  },
+  {
+    "code": "03.01.15",
+    "term": "Paredes y cabinas de pintura"
+  },
+  {
+    "code": "03.01.16",
+    "term": "Líneas de secado y curado del barniz"
+  },
+  {
+    "code": "03.01.17",
+    "term": "Transportadores para líneas de barnizado"
+  },
+  {
+    "code": "03.01.18",
+    "term": "Equipos para preparar, dosificar y transportar materiales líquidos de recubrimiento (p.e. barnices, tintes, etc.)"
+  },
+  {
+    "code": "03.02",
+    "term": "Acabado de superficies con materiales sólidos"
+  },
+  {
+    "code": "03.02.01",
+    "term": "Máquinas y equipos para recubrimientos en polvo (con pintura en polvo)"
+  },
+  {
+    "code": "03.02.02",
+    "term": "Máquinas para recubrimientos de yeso"
+  },
+  {
+    "code": "03.02.03",
+    "term": "Máquinas para grabar y recubrir sobre madera y pulpa de madera"
+  },
+  {
+    "code": "03.02.99",
+    "term": "Otras máquinas y equipos para recubrimientos con materiales sólidos"
+  },
+  {
+    "code": "03.03",
+    "term": "Máquinas y equipos para pirografía y / o marcado"
+  },
+  {
+    "code": "04",
+    "term": "Máquinas y equipos técnicos para montaje, embalaje."
+  },
+  {
+    "code": "04.01",
+    "term": "Tecnología del montaje"
+  },
+  {
+    "code": "04.01.01",
+    "term": "Líneas de pre-montaje para partes de muebles"
+  },
+  {
+    "code": "04.01.02",
+    "term": "Puestos de encolado para cuerpos de muebles"
+  },
+  {
+    "code": "04.01.02.01",
+    "term": "Rociadores de cola para componentes de cuerpos de muebles"
+  },
+  {
+    "code": "04.01.02.02",
+    "term": "Estaciones de pre-anclaje"
+  },
+  {
+    "code": "04.01.02.03",
+    "term": "Mordazas para cuerpos de muebles"
+  },
+  {
+    "code": "04.01.03",
+    "term": "Estaciones de montaje final para partes y cuerpos de muebles"
+  },
+  {
+    "code": "04.01.04",
+    "term": "Líneas de montaje final para muebles"
+  },
+  {
+    "code": "04.01.05",
+    "term": "Estaciones y líneas de montaje para ventanas, puertas y elementos frontales"
+  },
+  {
+    "code": "04.01.99",
+    "term": "Otros sistemas de ensamblaje"
+  },
+  {
+    "code": "04.02",
+    "term": "Máquinas para clavar, grapar y atornillar"
+  },
+  {
+    "code": "04.02.01",
+    "term": "Clavadoras"
+  },
+  {
+    "code": "04.02.02",
+    "term": "Grapadoras y cosedoras"
+  },
+  {
+    "code": "04.02.03",
+    "term": "Atornilladoras"
+  },
+  {
+    "code": "04.03",
+    "term": "Tecnología del embalaje"
+  },
+  {
+    "code": "04.03.01",
+    "term": "Embaladoras para partes y cuerpos de muebles"
+  },
+  {
+    "code": "04.03.02",
+    "term": "Embaladoras para partes planas (paneles, suelos, etc.)"
+  },
+  {
+    "code": "04.03.03",
+    "term": "Embaladoras para tableros y tableros a medida, etc."
+  },
+  {
+    "code": "04.03.99",
+    "term": "Otras embaladoras"
+  },
+  {
+    "code": "05",
+    "term": "Tecnología para el manejo de materiales, almacenaje y servicios auxiliares"
+  },
+  {
+    "code": "05.01",
+    "term": "Tecnología de manejo de materiales"
+  },
+  {
+    "code": "05.01.01",
+    "term": "Carretillas elevadoras todo terreno, de carga frontal y lateral, incluyendo equipamiento auxiliar"
+  },
+  {
+    "code": "05.01.03",
+    "term": "Mesas de elevación"
+  },
+  {
+    "code": "05.01.04",
+    "term": "Estaciones de almacenaje y embalado"
+  },
+  {
+    "code": "05.01.05",
+    "term": "Equipamiento de elevación por vacío"
+  },
+  {
+    "code": "05.01.06",
+    "term": "Unidades de carga"
+  },
+  {
+    "code": "05.01.07",
+    "term": "Unidades de descarga y almacenamiento"
+  },
+  {
+    "code": "05.01.08",
+    "term": "Estaciones de volteo de paneles"
+  },
+  {
+    "code": "05.01.09",
+    "term": "Estaciones de transferencias de ángulo"
+  },
+  {
+    "code": "05.01.10",
+    "term": "Transportadores transversales"
+  },
+  {
+    "code": "05.01.11",
+    "term": "Transportadores de retorno"
+  },
+  {
+    "code": "05.01.12",
+    "term": "Transportadores de rodillos"
+  },
+  {
+    "code": "05.01.12.01",
+    "term": "Transportadores de rodillos accionados"
+  },
+  {
+    "code": "05.01.12.02",
+    "term": "Transportadores de rodillos locos"
+  },
+  {
+    "code": "05.01.13",
+    "term": "Transportadores de cinta"
+  },
+  {
+    "code": "05.01.14",
+    "term": "Transportadores elevados"
+  },
+  {
+    "code": "05.01.15",
+    "term": "Carros de transporte, carros de estantes, etc."
+  },
+  {
+    "code": "05.01.16",
+    "term": "Carros auxiliares, contenedores auxiliares"
+  },
+  {
+    "code": "05.01.17",
+    "term": "Soportes para rodillos"
+  },
+  {
+    "code": "05.01.18",
+    "term": "Unidades de alimentación para máquinas de carpintería (cepilladoras, tupís, etc.)"
+  },
+  {
+    "code": "05.01.90",
+    "term": "Tecnología especial de manejo de materiales."
+  },
+  {
+    "code": "05.01.90.01",
+    "term": "Tecnología especial de manejo de materiales para sierras múltiples optimizadoras."
+  },
+  {
+    "code": "05.01.90.02",
+    "term": "Tecnología especial de manejo de materiales para líneas “finger joint”"
+  },
+  {
+    "code": "05.01.90.03",
+    "term": "Tecnología especial de manejo de materiales para líneas de cepillado"
+  },
+  {
+    "code": "05.01.90.04",
+    "term": "Tecnología especial de manejo de materiales para líneas de aserrado"
+  },
+  {
+    "code": "05.01.90.20",
+    "term": "Sistemas especiales de alimentación para trituradoras, astilladoras, etc."
+  },
+  {
+    "code": "05.01.90.99",
+    "term": "Tecnología especial de manejo de materiales; otros"
+  },
+  {
+    "code": "05.02",
+    "term": "Tecnología del almacenaje y servicio auxiliar"
+  },
+  {
+    "code": "05.02.01",
+    "term": "Sistemas de estanterías"
+  },
+  {
+    "code": "05.02.02",
+    "term": "Equipos para búsqueda y almacenaje en estanterías y anaqueles"
+  },
+  {
+    "code": "05.02.03",
+    "term": "Sistemas de clasificado y reparto"
+  },
+  {
+    "code": "05.02.04",
+    "term": "Sistemas de almacenaje y reparto para grandes tableros (p.e. grúas apiladoras)"
+  },
+  {
+    "code": "05.02.99",
+    "term": "Otros sistemas de almacenaje"
+  },
+  {
+    "code": "06",
+    "term": "Tecnología de Robots"
+  },
+  {
+    "code": "06.01",
+    "term": "Robots para manipulación, alimentación y paletizaje"
+  },
+  {
+    "code": "06.02",
+    "term": "Robots para acoples y ensamblajes"
+  },
+  {
+    "code": "06.03",
+    "term": "Robots para pintar, barnizar, etc."
+  },
+  {
+    "code": "06.04",
+    "term": "Robots para procesos de triturado de restos (lijado, cortado, etc.)"
+  },
+  {
+    "code": "06.99",
+    "term": "Otros robots"
+  },
+  {
+    "code": "10",
+    "term": "Máquinas y plantas para procesos especiales"
+  },
+  {
+    "code": "10.01",
+    "term": "Tecnología de láser"
+  },
+  {
+    "code": "10.02",
+    "term": "Tecnología de alta frecuencia"
+  },
+  {
+    "code": "10.03",
+    "term": "Tecnología de microondas"
+  },
+  {
+    "code": "10.04",
+    "term": "Tecnología de ultrasonidos"
+  },
+  {
+    "code": "10.06",
+    "term": "Alisado en caliente"
+  },
+  {
+    "code": "10.07",
+    "term": "Corte por chorro de agua a presión"
+  },
+  {
+    "code": "10.99",
+    "term": "Otros procesos especiales"
+  },
+  {
+    "code": "11",
+    "term": "Máquinas y plantas para grupos especiales de productos"
+  },
+  {
+    "code": "11.01",
+    "term": "Máquinas y plantas para elementos estructurales"
+  },
+  {
+    "code": "11.01.01",
+    "term": "Máquinas y plantas para ventanas y fachadas"
+  },
+  {
+    "code": "11.01.01.01",
+    "term": "Centros de trabajo para proceso transversal y longitudinal de partes de ventanas"
+  },
+  {
+    "code": "11.01.01.99",
+    "term": "Otras máquinas para ventanas y fachadas"
+  },
+  {
+    "code": "11.01.02",
+    "term": "Máquinas y plantas para puertas y marcos"
+  },
+  {
+    "code": "11.01.03",
+    "term": "Máquinas y plantas para construcción en madera"
+  },
+  {
+    "code": "11.01.03.01",
+    "term": "Líneas de retestado"
+  },
+  {
+    "code": "11.01.03.02",
+    "term": "Máquinas especiales para carpinteros e industria de la construcción"
+  },
+  {
+    "code": "11.01.04",
+    "term": "Máquinas y plantas para casas prefabricadas, p.e. estructuras de madera"
+  },
+  {
+    "code": "11.01.04.01",
+    "term": "Mesas de ensamblaje"
+  },
+  {
+    "code": "11.01.04.02",
+    "term": "Clavadoras automáticas para unidades de pared, etc"
+  },
+  {
+    "code": "11.01.04.03",
+    "term": "Centros de mecanizado para elementos estructurales"
+  },
+  {
+    "code": "11.01.05",
+    "term": "Máquinas y equipamiento para tablero alistonado"
+  },
+  {
+    "code": "11.01.06",
+    "term": "Máquinas y equipamiento para suelo de madera / parquet"
+  },
+  {
+    "code": "11.01.07",
+    "term": "Máquinas y equipamiento para suelos de laminado"
+  },
+  {
+    "code": "11.01.08",
+    "term": "Máquinas y equipamiento para la construcción de escaleras"
+  },
+  {
+    "code": "11.02",
+    "term": "Máquinas y equipamiento para la fabricación de paneles de madera maciza"
+  },
+  {
+    "code": "11.03",
+    "term": "Máquinas y equipamiento para la producción de muebles (sillas, mesas, etc.)"
+  },
+  {
+    "code": "11.04",
+    "term": "Máquinas para fabricar embalaje de madera (palets, cajas, etc.)"
+  },
+  {
+    "code": "11.04.01",
+    "term": "Máquinas y equipamiento para la fabricación de palets, unitarias"
+  },
+  {
+    "code": "11.04.02",
+    "term": "Líneas de producción de palets"
+  },
+  {
+    "code": "11.04.03",
+    "term": "Máquinas y equipamiento para fabricación de envases para verduras y frutas, unitarias"
+  },
+  {
+    "code": "11.04.04",
+    "term": "Líneas de producción para fabricación de envases para frutas y verduras"
+  },
+  {
+    "code": "11.04.05",
+    "term": "Máquinas para fabricación de embalaje industrial (cajas, etc.)"
+  },
+  {
+    "code": "11.04.06",
+    "term": "Máquinas para fabricación de bobinas para cables"
+  },
+  {
+    "code": "11.04.07",
+    "term": "Plantas para el tratamiento térmico de palets y otros productos de madera para embalaje."
+  },
+  {
+    "code": "11.04.08",
+    "term": "Plantas para fumigar palets y otros productos de madera para embalaje."
+  },
+  {
+    "code": "11.05",
+    "term": "Máquinas y equipamiento para la fabricación de puertas para muebles"
+  },
+  {
+    "code": "11.06",
+    "term": "Máquinas y equipamiento para fabricación de cajones"
+  },
+  {
+    "code": "11.07",
+    "term": "Máquinas y equipos para la fabricación de cuadros y bastidores"
+  },
+  {
+    "code": "11.07.01",
+    "term": "Sierras circulares dobles de corte en inglete"
+  },
+  {
+    "code": "11.07.02",
+    "term": "Grapadoras, grapadoras-encoladoras para ensamblar bastidores"
+  },
+  {
+    "code": "11.07.03",
+    "term": "Máquinas para elementos de montaje metálicos y sus herrajes (grapas en V, lengüetas flexibles, etc.)"
+  },
+  {
+    "code": "11.07.04",
+    "term": "Sierras ingletadoras de un cabezal"
+  },
+  {
+    "code": "11.07.05",
+    "term": "Guillotina del corte del inglete"
+  },
+  {
+    "code": "11.07.06",
+    "term": "Sistemas automatizados para la fabricación de marcos"
+  },
+  {
+    "code": "11.08",
+    "term": "Máquinas y equipos para barriles"
+  },
+  {
+    "code": "11.09",
+    "term": "Máquinas para la fabricación y procesado de materiales aislantes"
+  },
+  {
+    "code": "11.09.01",
+    "term": "Máquinas para la fabricación de materiales aislantes"
+  },
+  {
+    "code": "11.09.02",
+    "term": "Máquinas para el procesado de materiales aislantes"
+  },
+  {
+    "code": "11.99",
+    "term": "Máquinas y plantas para productos diversos"
+  },
+  {
+    "code": "11.99.01",
+    "term": "Escobas y cepillos"
+  },
+  {
+    "code": "11.99.02",
+    "term": "Lápices"
+  },
+  {
+    "code": "11.99.03",
+    "term": "Zuecos, suelas de madera, tacones de madera, hormas de zapato"
+  },
+  {
+    "code": "11.99.04",
+    "term": "Clavijas"
+  },
+  {
+    "code": "11.99.05",
+    "term": "Postes, mástiles, empalizadas, vallas de madera"
+  },
+  {
+    "code": "11.99.06",
+    "term": "Muebles de caña"
+  },
+  {
+    "code": "11.99.07",
+    "term": "Mangos para muebles"
+  },
+  {
+    "code": "11.99.08",
+    "term": "Celosías y persianas"
+  },
+  {
+    "code": "11.99.09",
+    "term": "Ataúdes"
+  },
+  {
+    "code": "11.99.10",
+    "term": "Paneles de persianas"
+  },
+  {
+    "code": "11.99.11",
+    "term": "Mangos de herramientas para agricultura (para excavar, pala, azada, rastrillo, martillo, pico, etc.)"
+  },
+  {
+    "code": "11.99.12",
+    "term": "Equipamiento para deportes (tacos de billar, palas, remos, etc.)"
+  },
+  {
+    "code": "11.99.13",
+    "term": "Mondadientes / palillos chinos"
+  },
+  {
+    "code": "11.99.14",
+    "term": "Cerillas"
+  },
+  {
+    "code": "11.99.15",
+    "term": "Máquinas para hacer lana de madera"
+  },
+  {
+    "code": "11.99.16",
+    "term": "Máquinas para hacer trozos para camas de paja"
+  },
+  {
+    "code": "11.99.17",
+    "term": "Máquinas para hacer las ripias"
+  },
+  {
+    "code": "11.99.18",
+    "term": "Máquinas y plantas para la fabricación de barrotes de camas / lamas"
+  },
+  {
+    "code": "18",
+    "term": "Otras máquinas, equipos, y aparatos especiales"
+  },
+  {
+    "code": "18.02",
+    "term": "Unidades de mezclado"
+  },
+  {
+    "code": "18.03",
+    "term": "Sistemas de pesado (para madera triturada)"
+  },
+  {
+    "code": "18.04",
+    "term": "Bancos de cepillado, bancos de trabajo"
+  },
+  {
+    "code": "18.05",
+    "term": "Cárcel"
+  },
+  {
+    "code": "18.99",
+    "term": "Otras máquinas auxiliares"
+  },
+  {
+    "code": "19",
+    "term": "Máquinas portátiles para el trabajo de la madera, el plástico, composites y otros materiales"
+  },
+  {
+    "code": "19.01",
+    "term": "Cizallas portátiles para plástico"
+  },
+  {
+    "code": "19.02",
+    "term": "Sierras portátiles para cerraduras"
+  },
+  {
+    "code": "19.03",
+    "term": "Sierras de cinta portátiles"
+  },
+  {
+    "code": "19.04",
+    "term": "Sierras circulares portátiles"
+  },
+  {
+    "code": "19.05",
+    "term": "Descortezadoras portátiles"
+  },
+  {
+    "code": "19.06",
+    "term": "Cepilladoras portátiles"
+  },
+  {
+    "code": "19.07",
+    "term": "Fresadoras portátiles"
+  },
+  {
+    "code": "19.08",
+    "term": "Máquinas portátiles para trabajar cantos"
+  },
+  {
+    "code": "19.09",
+    "term": "Taladradoras portátiles"
+  },
+  {
+    "code": "19.10",
+    "term": "Mortajadoras de cadena portátiles"
+  },
+  {
+    "code": "19.11",
+    "term": "Mortajadoras de escoplo hueco portátiles"
+  },
+  {
+    "code": "19.12",
+    "term": "Lijadoras oscilantes portátiles"
+  },
+  {
+    "code": "19.13",
+    "term": "Lijadoras de banda portátiles"
+  },
+  {
+    "code": "19.14",
+    "term": "Lijadoras de disco portátiles"
+  },
+  {
+    "code": "19.15",
+    "term": "Clavadoras portátiles"
+  },
+  {
+    "code": "19.16",
+    "term": "Grapadoras portátiles"
+  },
+  {
+    "code": "19.17",
+    "term": "Destornilladores eléctricos portátiles"
+  },
+  {
+    "code": "19.18",
+    "term": "Encoladoras portátiles"
+  },
+  {
+    "code": "19.19",
+    "term": "Pulverizadores portátiles (p.e. pistolas para barnices, adhesivos.)"
+  },
+  {
+    "code": "19.20",
+    "term": "Aparatos portátiles para el encolado de chapa"
+  },
+  {
+    "code": "19.21",
+    "term": "Lijadoras para suelos de obra"
+  },
+  {
+    "code": "19.90",
+    "term": "Cajas para máquinas portátiles, herramientas, etc."
+  },
+  {
+    "code": "19.99",
+    "term": "Máquinas portátiles para fines especiales"
+  },
+  {
+    "code": "20",
+    "term": "Herramientas y equipos auxiliares"
+  },
+  {
+    "code": "20.01",
+    "term": "Herramientas para maquinaria"
+  },
+  {
+    "code": "20.01.01",
+    "term": "Hojas para sierra de cinta"
+  },
+  {
+    "code": "20.01.01.01",
+    "term": "Hojas para sierras y resierras de cinta para troncos"
+  },
+  {
+    "code": "20.01.01.02",
+    "term": "Hojas para sierras de carpintería"
+  },
+  {
+    "code": "20.01.02",
+    "term": "Hojas para sierras alternativas"
+  },
+  {
+    "code": "20.01.02.01",
+    "term": "Hojas para sierras alternativas, de acero macizo"
+  },
+  {
+    "code": "20.01.02.02",
+    "term": "Hojas para sierras alternativas, cromadas"
+  },
+  {
+    "code": "20.01.02.03",
+    "term": "Hojas para sierras alternativas, con dientes tratados con cobalto"
+  },
+  {
+    "code": "20.01.02.04",
+    "term": "Hojas para sierras alternativas, con dientes en widia"
+  },
+  {
+    "code": "20.01.03",
+    "term": "Discos para sierras circulares"
+  },
+  {
+    "code": "20.01.03.01",
+    "term": "Discos para sierras circulares, de acero macizo"
+  },
+  {
+    "code": "20.01.03.02",
+    "term": "Discos para sierras circulares, con dientes tratados con cobalto"
+  },
+  {
+    "code": "20.01.03.03",
+    "term": "Discos para sierras circulares, con dientes en widia"
+  },
+  {
+    "code": "20.01.03.04",
+    "term": "Discos para sierras circulares, con dientes en diamante"
+  },
+  {
+    "code": "20.01.04",
+    "term": "Trituradores"
+  },
+  {
+    "code": "20.01.04.01",
+    "term": "Trituradores para el modelado de partes planas (p.e. Paneles), con dientes en widia"
+  },
+  {
+    "code": "20.01.04.02",
+    "term": "Trituradores para el modelado de partes planas (p.e., paneles), con dientes en diamante"
+  },
+  {
+    "code": "20.01.04.03",
+    "term": "Trituradores plegable, con dientes en widia"
+  },
+  {
+    "code": "20.01.04.04",
+    "term": "Triturador plegable, con dientes en diamante"
+  },
+  {
+    "code": "20.01.04.05",
+    "term": "Trituradores para el modelado de partes no planas, p.e.trozos"
+  },
+  {
+    "code": "20.01.05",
+    "term": "Cabezales para cepilladora larga"
+  },
+  {
+    "code": "20.01.06",
+    "term": "Fresas con orificio (fresas y cabezales)"
+  },
+  {
+    "code": "20.01.06.01",
+    "term": "Fresas con orificio, de acero macizo"
+  },
+  {
+    "code": "20.01.06.02",
+    "term": "Fresas con orificio, de acero especial y de widia"
+  },
+  {
+    "code": "20.01.06.03",
+    "term": "Fresas con orificio, con cuchillas reversibles (en widia y acero especial)"
+  },
+  {
+    "code": "20.01.06.04",
+    "term": "Fresas con orificio, de plaquitas de diamante"
+  },
+  {
+    "code": "20.01.07",
+    "term": "Fresas de mango"
+  },
+  {
+    "code": "20.01.07.01",
+    "term": "Fresas de mango para fresadoras"
+  },
+  {
+    "code": "20.01.07.03",
+    "term": "Fresas de mango para máquinas portátiles"
+  },
+  {
+    "code": "20.01.07.10",
+    "term": "Fresas de mango para fresadoras CNC y centros de mecanizado, todo acero."
+  },
+  {
+    "code": "20.01.07.11",
+    "term": "Fresas de mango para fresadoras CNC y centros de mecanizado, con plaquitas en acero especial."
+  },
+  {
+    "code": "20.01.07.12",
+    "term": "Fresas de mango para fresadoras CNC y centros de mecanizado, cuchillas reversibles (widia / acero especial) ."
+  },
+  {
+    "code": "20.01.07.13",
+    "term": "Fresas de mango para fresadoras CNC y centros de mecanizado, plaquitas de diamante."
+  },
+  {
+    "code": "20.01.07.99",
+    "term": "Fresas de mango; las demás."
+  },
+  {
+    "code": "20.01.08",
+    "term": "Brocas de taladro"
+  },
+  {
+    "code": "20.01.08.01",
+    "term": "Brocas helicoidales"
+  },
+  {
+    "code": "20.01.08.02",
+    "term": "Brocas pasantes"
+  },
+  {
+    "code": "20.01.08.03",
+    "term": "Brocas para agujeros ciegos"
+  },
+  {
+    "code": "20.01.08.04",
+    "term": "Brocas cilíndricas"
+  },
+  {
+    "code": "20.01.08.05",
+    "term": "Brocas de doble diámetro"
+  },
+  {
+    "code": "20.01.08.06",
+    "term": "Brocas extractoras"
+  },
+  {
+    "code": "20.01.08.07",
+    "term": "Brocas para sacar espigas"
+  },
+  {
+    "code": "20.01.09",
+    "term": "Cuchillas de herramientas para fabricación de puertas y ventanas, incluyendo cortadores para espigar y ranurar"
+  },
+  {
+    "code": "20.01.10",
+    "term": "Fresas con mango cónico (fresas y cabezales)"
+  },
+  {
+    "code": "20.01.10.01",
+    "term": "Fresas con mango cónico, todo acero."
+  },
+  {
+    "code": "20.01.10.02",
+    "term": "Fresas con mango cónico / plaquitas (de widia / acero especial)"
+  },
+  {
+    "code": "20.01.10.03",
+    "term": "Fresas con mango cónico, cuchillas reversibles (widia / acero especial)"
+  },
+  {
+    "code": "20.01.10.04",
+    "term": "Fresas con mango cónico, plaquitas de diamante"
+  },
+  {
+    "code": "20.01.50",
+    "term": "Otras herramientas de corte para maquinaria"
+  },
+  {
+    "code": "20.01.50.01",
+    "term": "Escoplos para mortajadoras oscilantes y equipos auxiliares"
+  },
+  {
+    "code": "20.01.50.02",
+    "term": "Cadenas para mortajadoras y equipos auxiliares"
+  },
+  {
+    "code": "20.01.50.03",
+    "term": "Cuchillas y equipamiento auxiliar de cepilladoras - rascadoras"
+  },
+  {
+    "code": "20.01.50.04",
+    "term": "Cuchillas de torno"
+  },
+  {
+    "code": "20.01.50.05",
+    "term": "Cadenas de sierra"
+  },
+  {
+    "code": "20.01.50.06",
+    "term": "Placas para discos"
+  },
+  {
+    "code": "20.01.90",
+    "term": "Herramientas para materiales especiales"
+  },
+  {
+    "code": "20.01.90.01",
+    "term": "Herramientas para trabajar aleaciones ligeras"
+  },
+  {
+    "code": "20.01.90.02",
+    "term": "Herramientas para trabajar el cristal"
+  },
+  {
+    "code": "20.01.90.03",
+    "term": "Herramientas para trabajar la piedra"
+  },
+  {
+    "code": "20.01.90.04",
+    "term": "Herramientas para trabajar materiales minerales"
+  },
+  {
+    "code": "20.01.90.99",
+    "term": "Herramientas para materiales especiales; otros"
+  },
+  {
+    "code": "20.02",
+    "term": "Cuchillas, cuchillas para torneado, segmentos para triturar, etc."
+  },
+  {
+    "code": "20.02.01",
+    "term": "Cuchillas para cabezales"
+  },
+  {
+    "code": "20.02.02",
+    "term": "Cuchillas para torneado"
+  },
+  {
+    "code": "20.02.03",
+    "term": "Placas de refuerzo, limitadores"
+  },
+  {
+    "code": "20.02.04",
+    "term": "Cuchillas sin afilado"
+  },
+  {
+    "code": "20.02.05",
+    "term": "Segmentos para triturar"
+  },
+  {
+    "code": "20.02.06",
+    "term": "Aleaciones de cobalto"
+  },
+  {
+    "code": "20.02.07",
+    "term": "Productos semiterminados de metal duro, p.e., varillas, tiras, placas para discos de sierra, etc."
+  },
+  {
+    "code": "20.02.08",
+    "term": "Cuchillas de astilladora"
+  },
+  {
+    "code": "20.02.09",
+    "term": "Cuchillas circulares"
+  },
+  {
+    "code": "20.02.10",
+    "term": "Cuchillas de máquinas planas y tornos de desenrollo"
+  },
+  {
+    "code": "20.02.11",
+    "term": "Productos semi-terminados de DP (diamante policristalino), p.e., discos, segmentos, dientes para discos de sierra, etc."
+  },
+  {
+    "code": "20.03",
+    "term": "Sistemas para la sujeción de herramientas"
+  },
+  {
+    "code": "20.03.01",
+    "term": "Sistemas de sujeción para hojas de sierra circular"
+  },
+  {
+    "code": "20.03.02",
+    "term": "Sistemas de sujeción para fresas con orificio"
+  },
+  {
+    "code": "20.03.03",
+    "term": "Sistemas de sujeción para fresas de mango"
+  },
+  {
+    "code": "20.03.04",
+    "term": "Sistemas de sujeción para brocas"
+  },
+  {
+    "code": "20.04",
+    "term": "Sistemas para medición y ajuste de herramientas"
+  },
+  {
+    "code": "20.04.01",
+    "term": "Sistemas para medición de herramientas"
+  },
+  {
+    "code": "20.04.02",
+    "term": "Calibradoras para medición y ajuste de herramientas"
+  },
+  {
+    "code": "20.05",
+    "term": "Sistemas de gestión de herramientas"
+  },
+  {
+    "code": "20.05.01",
+    "term": "Sistemas para la codificación de herramientas"
+  },
+  {
+    "code": "20.05.02",
+    "term": "Software para sistemas de gestión de herramientas"
+  },
+  {
+    "code": "20.06",
+    "term": "Herramientas para lijar y pulir"
+  },
+  {
+    "code": "20.06.01",
+    "term": "Bandas de lijado largas"
+  },
+  {
+    "code": "20.06.02",
+    "term": "Bandas para lijadoras de banda ancha"
+  },
+  {
+    "code": "20.06.03",
+    "term": "Herramientas para pulir"
+  },
+  {
+    "code": "20.06.04",
+    "term": "Muelas de lijar"
+  },
+  {
+    "code": "20.06.05",
+    "term": "Cepillos abrasivos"
+  },
+  {
+    "code": "20.06.06",
+    "term": "Accesorios para lijar perfiles"
+  },
+  {
+    "code": "20.06.99",
+    "term": "Otras herramientas y materiales para lijar (p.e. cepillos de lijado)"
+  },
+  {
+    "code": "20.07",
+    "term": "Equipamiento auxiliar y piezas de recambio para herramientas (p.e. cuñas de amarre, espaciadores, anillos de guía, afiladores, etc.)"
+  },
+  {
+    "code": "20.08",
+    "term": "Herramientas de mano"
+  },
+  {
+    "code": "20.08.01",
+    "term": "Sierras manuales"
+  },
+  {
+    "code": "20.08.02",
+    "term": "Cepillos manuales"
+  },
+  {
+    "code": "20.08.03",
+    "term": "Cuchillas, cuchillas de tornero"
+  },
+  {
+    "code": "20.08.04",
+    "term": "Martillos"
+  },
+  {
+    "code": "20.08.05",
+    "term": "Herramientas para medir y marcar"
+  },
+  {
+    "code": "20.08.99",
+    "term": "Otras herramientas de mano"
+  },
+  {
+    "code": "20.09",
+    "term": "Mordazas y guías para herramientas"
+  },
+  {
+    "code": "20.09.01",
+    "term": "Tensores de sierra, hebillas y espaciadores"
+  },
+  {
+    "code": "20.09.02",
+    "term": "Guías para sierras de cinta"
+  },
+  {
+    "code": "20.09.03",
+    "term": "Barras protectoras para cadenas de sierra"
+  },
+  {
+    "code": "20.09.04",
+    "term": "Ejes para moldurera / mandrinos portafresa"
+  },
+  {
+    "code": "21",
+    "term": "Máquinas y equipos para mantenimiento y fabricación de herramientas"
+  },
+  {
+    "code": "21.01",
+    "term": "Máquinas, equipamiento y herramientas para el mantenimiento y la fabricación de herramientas de corte para maquinaria"
+  },
+  {
+    "code": "21.01.01",
+    "term": "Afiladores de hojas de sierra"
+  },
+  {
+    "code": "21.01.02",
+    "term": "Limadores de sierras"
+  },
+  {
+    "code": "21.01.03",
+    "term": "Máquinas triscadoras, recalcadoras e igualadoras"
+  },
+  {
+    "code": "21.01.04",
+    "term": "Sopletes y soldadores para hojas de sierra"
+  },
+  {
+    "code": "21.01.05",
+    "term": "Máquinas laminadoras y niveladoras para hojas de sierra"
+  },
+  {
+    "code": "21.01.06",
+    "term": "Máquinas para el temple de dientes de sierra"
+  },
+  {
+    "code": "21.01.07",
+    "term": "Máquinas cortadoras de hojas para sierras de banda y scarf - jointing"
+  },
+  {
+    "code": "21.01.08",
+    "term": "Afiladoras de cuchillas"
+  },
+  {
+    "code": "21.01.08.01",
+    "term": "Afiladoras de cuchillas para alisar, laminar y astillar"
+  },
+  {
+    "code": "21.01.08.02",
+    "term": "Afiladoras de cuchillas para chapa (plana, torno y cizalla)"
+  },
+  {
+    "code": "21.01.08.03",
+    "term": "Afiladoras de cuchillas para anillos de cuchilla"
+  },
+  {
+    "code": "21.01.08.90",
+    "term": "Sistemas de sujeción para afiladoras de cuchillas"
+  },
+  {
+    "code": "21.01.09",
+    "term": "Afiladoras para raspadores"
+  },
+  {
+    "code": "21.01.10",
+    "term": "Afiladoras para cabezales de moldurera"
+  },
+  {
+    "code": "21.01.11",
+    "term": "Afiladoras para brocas de taladro y pantógrafos"
+  },
+  {
+    "code": "21.01.12",
+    "term": "Afiladoras para cadenas"
+  },
+  {
+    "code": "21.01.13",
+    "term": "Afiladoras universales"
+  },
+  {
+    "code": "21.01.14",
+    "term": "Afiladoras para aserrado de carburo, fresadoras y herramientas aplanadoras"
+  },
+  {
+    "code": "21.01.15",
+    "term": "Afiladoras para herramientas diamantadas"
+  },
+  {
+    "code": "21.01.50",
+    "term": "Equipos y máquinas de limpieza para máquina herramienta"
+  },
+  {
+    "code": "21.01.60",
+    "term": "Muelas de afilar excluidas diamantadas"
+  },
+  {
+    "code": "21.01.61",
+    "term": "Muelas diamantadas de afilar"
+  },
+  {
+    "code": "21.01.90",
+    "term": "Afiladoras para aplicaciones especiales"
+  },
+  {
+    "code": "21.01.99",
+    "term": "Otras máquinas, equipamiento y herramientas para el mantenimiento y la fabricación de herramientas de corte para maquinaia"
+  },
+  {
+    "code": "21.02",
+    "term": "Máquinas, equipamiento y herramientas para el mantenimiento y la fabricación de herramientas de mano"
+  },
+  {
+    "code": "22",
+    "term": "Productos para el equipamiento de máquinas"
+  },
+  {
+    "code": "22.01",
+    "term": "Sistemas de accionamiento"
+  },
+  {
+    "code": "22.01.01",
+    "term": "Sistemas de accionamiento eléctrico"
+  },
+  {
+    "code": "22.01.01.01",
+    "term": "Motores eléctricos"
+  },
+  {
+    "code": "22.01.01.03",
+    "term": "Motores de engrane"
+  },
+  {
+    "code": "22.01.01.04",
+    "term": "Convertidores de frecuencia"
+  },
+  {
+    "code": "22.01.01.05",
+    "term": "Unidades de accionamiento electrónicas"
+  },
+  {
+    "code": "22.01.01.06",
+    "term": "Motores lineales / electro cilindros"
+  },
+  {
+    "code": "22.01.01.07",
+    "term": "Interruptores y unidades de control eléctricos, electrónicos y magnéticos"
+  },
+  {
+    "code": "22.01.01.99",
+    "term": "Sistemas de accionamiento electrónico; otros"
+  },
+  {
+    "code": "22.01.02",
+    "term": "Unidades de accionamiento neumáticas"
+  },
+  {
+    "code": "22.01.02.02",
+    "term": "Componentes y equipamiento neumáticos"
+  },
+  {
+    "code": "22.01.02.03",
+    "term": "Controles y reguladores neumáticos"
+  },
+  {
+    "code": "22.01.03",
+    "term": "Unidades de accionamiento hidráulicas"
+  },
+  {
+    "code": "22.01.03.01",
+    "term": "Equipamiento y componentes hidráulicos"
+  },
+  {
+    "code": "22.01.03.02",
+    "term": "Controles y reguladores hidráulicos"
+  },
+  {
+    "code": "22.01.10",
+    "term": "Elementos y accesorios para accionamientos"
+  },
+  {
+    "code": "22.01.10.01",
+    "term": "Controladores y reductores de velocidad"
+  },
+  {
+    "code": "22.01.10.02",
+    "term": "Embragues y frenos"
+  },
+  {
+    "code": "22.01.10.03",
+    "term": "Rodamientos a rodillos y de precisión"
+  },
+  {
+    "code": "22.01.10.04",
+    "term": "Guías de deslizamiento"
+  },
+  {
+    "code": "22.01.10.99",
+    "term": "Elementos y accesorios para sistemas de accionamiento; otros"
+  },
+  {
+    "code": "22.01.20",
+    "term": "Compresores"
+  },
+  {
+    "code": "22.02",
+    "term": "Unidades de mecanizado"
+  },
+  {
+    "code": "22.02.01",
+    "term": "Unidades aserradoras"
+  },
+  {
+    "code": "22.02.02",
+    "term": "Unidades cepilladoras"
+  },
+  {
+    "code": "22.02.03",
+    "term": "Unidades fresadoras"
+  },
+  {
+    "code": "22.02.04",
+    "term": "Unidades taladradoras"
+  },
+  {
+    "code": "22.02.05",
+    "term": "Unidades mortajadoras"
+  },
+  {
+    "code": "22.02.06",
+    "term": "Unidades lijadoras y pulidoras"
+  },
+  {
+    "code": "22.02.07",
+    "term": "Unidades rociadoras"
+  },
+  {
+    "code": "22.02.08",
+    "term": "Unidades encoladoras"
+  },
+  {
+    "code": "22.02.09",
+    "term": "Unidades ensambladoras"
+  },
+  {
+    "code": "22.02.10",
+    "term": "Equipos de alta frecuencia y microondas (p.e. generadores)"
+  },
+  {
+    "code": "22.02.11",
+    "term": "Cambiadores de herramientas CNC"
+  },
+  {
+    "code": "22.02.12",
+    "term": "Mecanismo de levas y levas"
+  },
+  {
+    "code": "22.02.13",
+    "term": "Sistemas contra electricidad estática"
+  },
+  {
+    "code": "22.03",
+    "term": "Amarres y guías para piezas de trabajo"
+  },
+  {
+    "code": "22.03.01",
+    "term": "Proyectores de láser, dispositivos de guiado luminosos"
+  },
+  {
+    "code": "22.03.02",
+    "term": "Barreras y retenciones para piezas de trabajo"
+  },
+  {
+    "code": "22.03.02.01",
+    "term": "Barreras y retenciones para piezas de trabajo, posicionamiento mecánico"
+  },
+  {
+    "code": "22.03.02.02",
+    "term": "Barreras y retenciones para piezas de trabajo, posicionamiento por ordenador"
+  },
+  {
+    "code": "22.03.03",
+    "term": "Dispositivos de sujeción"
+  },
+  {
+    "code": "22.03.04",
+    "term": "Sistemas de vacío"
+  },
+  {
+    "code": "22.03.04.01",
+    "term": "Bombas y componentes para sistemas de vacío"
+  },
+  {
+    "code": "22.03.04.02",
+    "term": "Dispositivos de agarre por ventosas"
+  },
+  {
+    "code": "22.03.04.03",
+    "term": "Sistemas de vacío centralizado"
+  },
+  {
+    "code": "22.03.05",
+    "term": "Dispositivos para hacer cola de milano"
+  },
+  {
+    "code": "22.03.06",
+    "term": "Guías para el taladrado de alojamientos para clavijas"
+  },
+  {
+    "code": "22.04",
+    "term": "Elementos de anclaje y operación mecánica para máquinas, dispositivos y transportadores (mangos, volantes, tiradores, etc.)"
+  },
+  {
+    "code": "22.05",
+    "term": "Productos auxiliares."
+  },
+  {
+    "code": "22.05.01",
+    "term": "Productos de engrase."
+  },
+  {
+    "code": "22.05.02",
+    "term": "Soldadora y fundente"
+  },
+  {
+    "code": "22.99",
+    "term": "Otros tipos de equipamiento"
+  },
+  {
+    "code": "22.99.01",
+    "term": "Bombas, válvulas, tuberías"
+  },
+  {
+    "code": "22.99.02",
+    "term": "Filtros de drenaje"
+  },
+  {
+    "code": "22.99.03",
+    "term": "Platos, pantallas e insertos plásticos para prensas"
+  },
+  {
+    "code": "22.99.04",
+    "term": "Bandas de prensado para prensas continuas"
+  },
+  {
+    "code": "22.99.05",
+    "term": "Platos calientes y varillas de calentado"
+  },
+  {
+    "code": "22.99.06",
+    "term": "Moldes de prensado para la fabricación de piezas moldeadas a partir de virutas, fibras, plástico, o para revestimiento con materiales sólidos"
+  },
+  {
+    "code": "22.99.07",
+    "term": "Elementos para transportadoras"
+  },
+  {
+    "code": "22.99.07.01",
+    "term": "Rodillos y ruedas"
+  },
+  {
+    "code": "22.99.07.02",
+    "term": "Cintas"
+  },
+  {
+    "code": "22.99.07.99",
+    "term": "Otros elementos para transportadoras"
+  },
+  {
+    "code": "22.99.08",
+    "term": "Unidades y dispositivos de control no electrónicos"
+  },
+  {
+    "code": "22.99.09",
+    "term": "Sistemas de lubricación centralizada"
+  },
+  {
+    "code": "22.99.10",
+    "term": "Almohadillas para patín de lijado"
+  },
+  {
+    "code": "22.99.11",
+    "term": "Filtros"
+  },
+  {
+    "code": "22.99.12",
+    "term": "Guías para cables"
+  },
+  {
+    "code": "22.99.13",
+    "term": "Lámparas y portalámparas / bombillas para curado por rayos UV"
+  },
+  {
+    "code": "22.99.14",
+    "term": "Rodillos y ruedas con agujas de alimentación para máquinas"
+  },
+  {
+    "code": "22.99.15",
+    "term": "Cadenas de accionamiento y de translación"
+  },
+  {
+    "code": "30",
+    "term": "Utilización de madera residual (serrín, virutas, leña, corteza), generación de energía y calor utilizando combustibles de madera"
+  },
+  {
+    "code": "30.01",
+    "term": "Preparación, transporte y almacenamiento de serrín, viruta, corteza, etc."
+  },
+  {
+    "code": "30.01.01",
+    "term": "Máquinas hendedoras para troncos, leña, etc."
+  },
+  {
+    "code": "30.01.02",
+    "term": "Máquinas trituradores"
+  },
+  {
+    "code": "30.01.02.01",
+    "term": "Trituradores fijos"
+  },
+  {
+    "code": "30.01.02.02",
+    "term": "Trituradores móviles"
+  },
+  {
+    "code": "30.01.03",
+    "term": "Astilladoras (baja velocidad)"
+  },
+  {
+    "code": "30.01.04",
+    "term": "Sierras para cortar leña"
+  },
+  {
+    "code": "30.01.05",
+    "term": "Máquinas para atar leña"
+  },
+  {
+    "code": "30.01.06",
+    "term": "Prensas para hacer briquetas"
+  },
+  {
+    "code": "30.01.07",
+    "term": "Prensas para hacer pellets de madera"
+  },
+  {
+    "code": "30.01.12",
+    "term": "Maquinas de barrido"
+  },
+  {
+    "code": "30.01.13",
+    "term": "Almacenamiento y transporte de pellets de madera"
+  },
+  {
+    "code": "30.01.14",
+    "term": "Plantas de pellets de madera llave en mano"
+  },
+  {
+    "code": "30.01.15",
+    "term": "Secaderos para pellets de madera"
+  },
+  {
+    "code": "30.01.16",
+    "term": "Secaderos para combustibles de madera"
+  },
+  {
+    "code": "30.01.20",
+    "term": "Equipos de aspiración de virutas y polvo"
+  },
+  {
+    "code": "30.01.20.01",
+    "term": "Sistemas de aspiración de virutas y polvo (incluidos filtros)"
+  },
+  {
+    "code": "30.01.20.02",
+    "term": "Sistemas de aspiración"
+  },
+  {
+    "code": "30.01.20.03",
+    "term": "Aspiradores individuales"
+  },
+  {
+    "code": "30.01.20.04",
+    "term": "Separadores de filtrado"
+  },
+  {
+    "code": "30.01.20.05",
+    "term": "Silos"
+  },
+  {
+    "code": "30.01.20.06",
+    "term": "Limpiadores industriales de vacío"
+  },
+  {
+    "code": "30.01.20.07",
+    "term": "Ventiladores"
+  },
+  {
+    "code": "30.01.20.08",
+    "term": "Calderas de aire caliente"
+  },
+  {
+    "code": "30.01.20.09",
+    "term": "Sistemas de control de la concentración de polvo residual"
+  },
+  {
+    "code": "30.01.20.10",
+    "term": "Sistemas especializados para el control de sistemas de aspiración de virutas y polvo"
+  },
+  {
+    "code": "30.01.20.99",
+    "term": "Equipos para la aspiración de virutas y polvo; otros"
+  },
+  {
+    "code": "30.02",
+    "term": "Generación de energía utilizando combustibles de madera"
+  },
+  {
+    "code": "30.02.01",
+    "term": "Sistemas de caldera con hornos para combustible de madera (madera maciza, virutas, serrín, etc.)"
+  },
+  {
+    "code": "30.02.02",
+    "term": "Hornos de combustión para generar gas caliente"
+  },
+  {
+    "code": "30.02.03",
+    "term": "Generadores de gas de madera"
+  },
+  {
+    "code": "30.02.04",
+    "term": "Hornos de combustión para generar energía eléctrica"
+  },
+  {
+    "code": "30.02.05",
+    "term": "Chimeneas, hornos y quemadores."
+  },
+  {
+    "code": "30.02.99",
+    "term": "Otras plantas, unidades y equipamiento auxiliar para generar energía"
+  },
+  {
+    "code": "31",
+    "term": "Ahorro de energía, protección ambiental, seguridad laboral, prevención de incendios y aire acondicionado"
+  },
+  {
+    "code": "31.01",
+    "term": "Ahorro de energía"
+  },
+  {
+    "code": "31.01.01",
+    "term": "Plantas y equipamiento para ahorro de energía"
+  },
+  {
+    "code": "31.01.02",
+    "term": "Sistemas de transporte neumático y equipos auxiliares para ahorro de energía"
+  },
+  {
+    "code": "31.01.99",
+    "term": "Otras instalaciones, aparatos y equipos auxiliares para ahorro de energía"
+  },
+  {
+    "code": "31.02",
+    "term": "Tecnología de seguridad"
+  },
+  {
+    "code": "31.03",
+    "term": "Protección ambiental"
+  },
+  {
+    "code": "31.03.01",
+    "term": "Instalaciones para la purificación de agua y líquidos químicos"
+  },
+  {
+    "code": "31.03.02",
+    "term": "Combustibles y lubricantes no contaminantes"
+  },
+  {
+    "code": "31.03.03",
+    "term": "Instalaciones y equipos para la purificación del aire de salida"
+  },
+  {
+    "code": "31.03.04",
+    "term": "Instalaciones para la incineración de productos químicos (barnices, colas, películas, etc.)"
+  },
+  {
+    "code": "31.04",
+    "term": "Seguridad laboral"
+  },
+  {
+    "code": "31.04.01",
+    "term": "Dispositivos de insonorización (por ejemplo, cabinas de insonorización)"
+  },
+  {
+    "code": "31.04.02",
+    "term": "Dispositivos protectores para máquinas"
+  },
+  {
+    "code": "31.04.03",
+    "term": "Ropas de protección y equipamiento (incluyendo ropas de trabajo)"
+  },
+  {
+    "code": "31.05",
+    "term": "Protección y lucha contra incendios, protección contra explosión"
+  },
+  {
+    "code": "31.05.01",
+    "term": "Sistemas de alarma contra incendios"
+  },
+  {
+    "code": "31.05.02",
+    "term": "Sistemas de extinción de fuego y chispas"
+  },
+  {
+    "code": "31.05.03",
+    "term": "Sistemas de rociado"
+  },
+  {
+    "code": "31.05.04",
+    "term": "Sistemas de protección contra explosiones"
+  },
+  {
+    "code": "31.06",
+    "term": "Tecnología de aire acondicionado"
+  },
+  {
+    "code": "31.06.01",
+    "term": "Equipamiento de aire acondicionado"
+  },
+  {
+    "code": "31.06.02",
+    "term": "Cámaras de aire acondicionado"
+  },
+  {
+    "code": "31.06.03",
+    "term": "Sistemas de humidificación del aire"
+  },
+  {
+    "code": "31.06.04",
+    "term": "Medidores y aparatos de control para aire acondicionado"
+  },
+  {
+    "code": "40",
+    "term": "Equipos electrónicos para la adquisición y proceso de datos; sistemas de medición, ensayo y control"
+  },
+  {
+    "code": "40.01",
+    "term": "Equipos electrónicos para la adquisición y proceso de datos"
+  },
+  {
+    "code": "40.01.01",
+    "term": "Sistemas de control numérico"
+  },
+  {
+    "code": "40.01.02",
+    "term": "Sistemas CAM"
+  },
+  {
+    "code": "40.01.03",
+    "term": "Sistemas de programación NC"
+  },
+  {
+    "code": "40.01.04",
+    "term": "Sistemas para identificación y etiquetaje de componentes (códigos de barras, etc.)"
+  },
+  {
+    "code": "40.01.05",
+    "term": "Procesadores de imagen para la identificación de colores, estructuras, inspección de superficies, mediciones ópticas, etc."
+  },
+  {
+    "code": "40.01.06",
+    "term": "Equipos electrónicos para la adquisición y proceso de datos para sectores y áreas especiales de fabricación"
+  },
+  {
+    "code": "40.01.06.01",
+    "term": "Equipos electrónicos para la adquisición y proceso de datos para parques de troncos y aserraderos"
+  },
+  {
+    "code": "40.01.06.02",
+    "term": "Equipos electrónicos para la adquisición y proceso de datos para plantas de chapa"
+  },
+  {
+    "code": "40.01.06.03",
+    "term": "Equipos electrónicos para la adquisición y proceso de datos para corte y empalme de chapa"
+  },
+  {
+    "code": "40.01.06.04",
+    "term": "Equipos electrónicos para la adquisición y proceso de datos para fabricación de muebles"
+  },
+  {
+    "code": "40.01.06.05",
+    "term": "Equipos electrónicos para la adquisición y proceso de datos para la fabricación de paneles de madera"
+  },
+  {
+    "code": "40.02",
+    "term": "Sistemas de medición, ensayo y control"
+  },
+  {
+    "code": "40.02.01",
+    "term": "Instrumentos para la medición de piezas"
+  },
+  {
+    "code": "40.02.02",
+    "term": "Instrumentos para ensayo de materiales y detección de defectos"
+  },
+  {
+    "code": "40.02.03",
+    "term": "Sistemas de supervisión de la producción"
+  },
+  {
+    "code": "40.02.04",
+    "term": "Detectores y eliminadores de metales"
+  },
+  {
+    "code": "40.02.99",
+    "term": "Otros equipos de medición y ensayo"
+  },
+  {
+    "code": "80",
+    "term": "Entrega de plantas completas; compañías de financiación y leasing"
+  },
+  {
+    "code": "80.01",
+    "term": "Contratistas generales para el suministro de plantas completas"
+  },
+  {
+    "code": "80.01.01",
+    "term": "Contratistas generales para aserraderos"
+  },
+  {
+    "code": "80.01.02",
+    "term": "Contratistas generales para plantas de chapa y contrachapado"
+  },
+  {
+    "code": "80.01.03",
+    "term": "Contratistas generales para plantas de fabricación de materiales sólidos de revestimiento (laminados, películas, hojas, etc.)"
+  },
+  {
+    "code": "80.01.04",
+    "term": "Contratistas generales para plantas de fabricación de tableros de partículas, de fibra y OSB"
+  },
+  {
+    "code": "80.01.05",
+    "term": "Contratistas generales para plantas de fabricación de muebles"
+  },
+  {
+    "code": "80.01.06",
+    "term": "Contratistas generales para plantas de procesado de madera maciza"
+  },
+  {
+    "code": "80.01.07",
+    "term": "Contratistas generales para plantas de fabricación de elementos de construcción de madera (ventanas, fachadas, etc.)"
+  },
+  {
+    "code": "80.01.08",
+    "term": "Contratistas generales para construcciones de madera y casas de madera"
+  },
+  {
+    "code": "80.01.09",
+    "term": "Contratistas generales para plantas de laminados para pisos"
+  },
+  {
+    "code": "80.01.10",
+    "term": "Contratistas generales para plantas de parquet"
+  },
+  {
+    "code": "80.01.11",
+    "term": "Contratistas generales para plantas de fabricación de paneles de madera maciza"
+  },
+  {
+    "code": "80.01.12",
+    "term": "Contratistas generales para plantas de fabricación de paneles de madera - hormigón"
+  },
+  {
+    "code": "80.01.99",
+    "term": "Otros contratistas generales"
+  },
+  {
+    "code": "80.02",
+    "term": "Compañías de financiación (Financieras)"
+  },
+  {
+    "code": "80.03",
+    "term": "Compañías de leasing"
+  },
+  {
+    "code": "90",
+    "term": "Software independiente (CAD, ERP, planificación y control de la producción)"
+  },
+  {
+    "code": "90.01",
+    "term": "Software independiente para aserraderos y parques de troncos"
+  },
+  {
+    "code": "90.02",
+    "term": "Software independiente para fabricación de chapa y contrachapado"
+  },
+  {
+    "code": "90.03",
+    "term": "Software independiente para fabricación de tablero de partículas, de fibra y OSB"
+  },
+  {
+    "code": "90.04",
+    "term": "Software independiente para procesado de chapa"
+  },
+  {
+    "code": "90.05",
+    "term": "Software independiente para procesado de madera maciza"
+  },
+  {
+    "code": "90.06",
+    "term": "Software independiente para la industria del mueble"
+  },
+  {
+    "code": "90.07",
+    "term": "Software independiente para la construcción de ventanas"
+  },
+  {
+    "code": "90.08",
+    "term": "Software independiente para la construcción de estructuras de madera"
+  },
+  {
+    "code": "90.09",
+    "term": "Software independiente para artesanía"
+  },
+  {
+    "code": "90.10",
+    "term": "Software independiente para construcción de escaleras"
+  },
+  {
+    "code": "90.11",
+    "term": "Software independiente para comercio de madera"
+  },
+  {
+    "code": "90.50",
+    "term": "Software convencional para las industrias de la madera (ERP, gestión de materiales, de personal, contabilidad y gestión de costes, etc.)"
+  },
+  {
+    "code": "90.99",
+    "term": "Otro software independiente"
+  },
+  {
+    "code": "95",
+    "term": "Servicios independientes para la industria de la madera"
+  },
+  {
+    "code": "95.01",
+    "term": "Servicios independientes de consultoría e ingeniería para las industrias de la madera"
+  },
+  {
+    "code": "95.01.01",
+    "term": "Servicios independientes de consultoría e ingeniería para aserraderos"
+  },
+  {
+    "code": "95.01.02",
+    "term": "Servicios independientes de consultoría e ingeniería para plantas de chapa y contrachapado"
+  },
+  {
+    "code": "95.01.03",
+    "term": "Servicios independientes de consultoría e ingeniería para la fabricación de materiales de recubrimiento sólido y tecnología de laminado (laminados, películas, hojas, etc.)"
+  },
+  {
+    "code": "95.01.04",
+    "term": "Servicios independientes de consultoría e ingeniería para la producción de tableros de partículas, tableros de fibras y OSB"
+  },
+  {
+    "code": "95.01.05",
+    "term": "Servicios independientes de consultoría e ingeniería para la industria del mueble"
+  },
+  {
+    "code": "95.01.06",
+    "term": "Servicios independientes de consultoría e ingeniería para el vaporizado y secado de madera maciza"
+  },
+  {
+    "code": "95.01.07",
+    "term": "Servicios independientes de consultoría e ingeniería para el procesamiento de madera maciza."
+  },
+  {
+    "code": "95.01.08",
+    "term": "Servicios independientes de consultoría e ingeniería para ventanas y fachadas"
+  },
+  {
+    "code": "95.01.09",
+    "term": "Servicios independientes de consultoría e ingeniería para la construcción con madera"
+  },
+  {
+    "code": "95.01.10",
+    "term": "Servicios independientes de consultoría e ingeniería para negocios artesanales"
+  },
+  {
+    "code": "95.01.11",
+    "term": "Servicios independientes de consultoría e ingeniería para el acabado de superficies"
+  },
+  {
+    "code": "95.01.12",
+    "term": "Servicios independientes de consultoría e ingeniería para la generación de energía utilizando combustible de madera, y ahorro de energía"
+  },
+  {
+    "code": "95.01.13",
+    "term": "Servicios independientes de consultoría e ingeniería para la protección del medio ambiente"
+  },
+  {
+    "code": "95.01.14",
+    "term": "Servicios independientes de consultoría e ingeniería para la seguridad tecnológica, del trabajo y prevención contra incendios"
+  },
+  {
+    "code": "95.02",
+    "term": "Servicios de entrenamiento"
+  },
+  {
+    "code": "95.03",
+    "term": "Mantenimiento, reparación, instalación, desmantelación, remodelación y mejoramiento de máquinas y plantas"
+  },
+  {
+    "code": "95.04",
+    "term": "Asociaciones"
+  },
+  {
+    "code": "95.05",
+    "term": "Organizaciones feriales"
+  },
+  {
+    "code": "95.99",
+    "term": "Otros servicios"
+  },
+  {
+    "code": "96",
+    "term": "Institutos de ensayo e investigación, instituciones educativas para la industria forestal y de la madera (universidades, escuelas técnicas, etc.)"
+  },
+  {
+    "code": "96.01",
+    "term": "Instituciones educativas para las industrias del trabajo de la madera"
+  },
+  {
+    "code": "96.02",
+    "term": "Instituciones de investigación para la industria del trabajo de la madera"
+  },
+  {
+    "code": "96.03",
+    "term": "Instituciones de ensayo para la industria del trabajo de la madera"
+  },
+  {
+    "code": "97",
+    "term": "Editores de publicaciones para las industrias de madera"
+  },
+  {
+    "code": "97.01",
+    "term": "Publicaciones periódicas y diarios técnicos para las industrias de la madera"
+  },
+  {
+    "code": "97.03",
+    "term": "Libros técnicos para la industria de la madera"
+  },
+  {
+    "code": "97.04",
+    "term": "Publicaciones on-line para la industria de la madera"
+  }
+]

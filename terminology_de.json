@@ -1,0 +1,3938 @@
+[
+  {
+    "code": "00",
+    "term": "Maschinen, technische Ausrüstungen und Dienstleistungen für die Forstwirtschaft"
+  },
+  {
+    "code": "00.01.01",
+    "term": "Bodenbearbeitung"
+  },
+  {
+    "code": "00.01.02",
+    "term": "Düngung"
+  },
+  {
+    "code": "00.01.03",
+    "term": "Forstsamengewinnung und Pflanzenanzucht"
+  },
+  {
+    "code": "00.01.04",
+    "term": "Forstschutz"
+  },
+  {
+    "code": "00.01.05",
+    "term": "Forstwege- und Forstwasserbau"
+  },
+  {
+    "code": "00.01.06",
+    "term": "Jungwuchs- und Bestandspflege"
+  },
+  {
+    "code": "00.01.07",
+    "term": "Läuterung, Ästung, Durchforstung"
+  },
+  {
+    "code": "00.01.08",
+    "term": "Pflanzgarten- und Baumschulbetrieb"
+  },
+  {
+    "code": "00.01.09",
+    "term": "Saat, Pflanzplatzvorbereitung und Pflanzung"
+  },
+  {
+    "code": "00.01.10",
+    "term": "Vermessung im Wald"
+  },
+  {
+    "code": "00.01.11",
+    "term": "Waldbau, Waldbodensanierung, Waldschutz"
+  },
+  {
+    "code": "00.01.12",
+    "term": "Holzschutz und Schädlingsbekämpfung"
+  },
+  {
+    "code": "00.02",
+    "term": "Holzernte und Holzbringung"
+  },
+  {
+    "code": "00.02.01",
+    "term": "Entastungsmaschinen und -geräte"
+  },
+  {
+    "code": "00.02.02",
+    "term": "Entrindungsmaschinen und -geräte"
+  },
+  {
+    "code": "00.02.03",
+    "term": "Erntemaschinen"
+  },
+  {
+    "code": "00.02.04",
+    "term": "Forstschlepper, Forstspezialschlepper, Tragschlepper sowie Ausrüstungen"
+  },
+  {
+    "code": "00.02.05",
+    "term": "Holzrücken und Seilbringung"
+  },
+  {
+    "code": "00.02.06",
+    "term": "Kräne und sonstige Forstausrüstungen"
+  },
+  {
+    "code": "00.02.07",
+    "term": "Motorsägen und Zubehör"
+  },
+  {
+    "code": "00.02.08",
+    "term": "Rückeanhänger"
+  },
+  {
+    "code": "00.02.09",
+    "term": "Rückeseile, Rückeketten, Gurte und Zubehör"
+  },
+  {
+    "code": "00.02.10",
+    "term": "Rückeseilwinden, Rückezangen"
+  },
+  {
+    "code": "00.02.11",
+    "term": "Schmier- und Treibstoffe für Forstmaschinen"
+  },
+  {
+    "code": "00.03",
+    "term": "Forstwerkzeuge und Zubehör"
+  },
+  {
+    "code": "00.03.01",
+    "term": "Äxte, Beile"
+  },
+  {
+    "code": "00.03.02",
+    "term": "Ketten"
+  },
+  {
+    "code": "00.03.03",
+    "term": "Messer"
+  },
+  {
+    "code": "00.03.04",
+    "term": "Scheren, Handscheren und sonstige"
+  },
+  {
+    "code": "00.03.05",
+    "term": "Seile"
+  },
+  {
+    "code": "00.03.06",
+    "term": "Zangen"
+  },
+  {
+    "code": "00.03.07",
+    "term": "Geräte und Hilfsmittel zur Holzmarkierung, -kennzeichnung und -nummerierung im Forst"
+  },
+  {
+    "code": "00.04",
+    "term": "Fahrzeuge für den Holztransport"
+  },
+  {
+    "code": "00.04.01",
+    "term": "Holzladekräne und Greifer"
+  },
+  {
+    "code": "00.04.02",
+    "term": "Kurzholzanhänger"
+  },
+  {
+    "code": "00.04.03",
+    "term": "Kurzholz-LKW"
+  },
+  {
+    "code": "00.04.04",
+    "term": "Langholz-LKW"
+  },
+  {
+    "code": "00.04.05",
+    "term": "Sattelauflieger"
+  },
+  {
+    "code": "00.04.06",
+    "term": "Zubehör für Holztransport, Forstmaschinen und -fahrzeuge"
+  },
+  {
+    "code": "00.05",
+    "term": "Telekommunikationseinrichtungen und mobile Datenverarbeitung für die Forstwirtschaft"
+  },
+  {
+    "code": "00.05.01",
+    "term": "Geräte und Systeme zur Bestandsaufnahme"
+  },
+  {
+    "code": "00.05.02",
+    "term": "Geräte und Systeme zur Vermessung von Holz"
+  },
+  {
+    "code": "00.05.03",
+    "term": "Lagerverwaltung und Logistik"
+  },
+  {
+    "code": "00.05.04",
+    "term": "Software für die Forstwirtschaft"
+  },
+  {
+    "code": "00.05.05",
+    "term": "Waldbrandüberwachung und -bekämpfung"
+  },
+  {
+    "code": "00.06",
+    "term": "Arbeitsschutz in der Forstwirtschaft"
+  },
+  {
+    "code": "00.06.01",
+    "term": "Arbeits- und Sicherheitskleidung"
+  },
+  {
+    "code": "00.06.02",
+    "term": "Schutzausrüstungen"
+  },
+  {
+    "code": "00.07",
+    "term": "Dienstleistungen für die Forstwirtschaft"
+  },
+  {
+    "code": "00.07.01",
+    "term": "Arbeitsvorbereitung und -verfahren"
+  },
+  {
+    "code": "00.07.02",
+    "term": "Dienstleistungen für die Holzernte"
+  },
+  {
+    "code": "00.07.03",
+    "term": "Forstinventur, Monitoring"
+  },
+  {
+    "code": "00.07.04",
+    "term": "Forstzertifizierung"
+  },
+  {
+    "code": "00.07.50",
+    "term": "Unabhängige Ingenieur- und Planungsbüros für die Forstwirtschaft"
+  },
+  {
+    "code": "00.07.99",
+    "term": "Dienstleistungen für die Forstwirtschaft; sonstige"
+  },
+  {
+    "code": "00.08",
+    "term": "Fachliteratur für die Forstwirtschaft"
+  },
+  {
+    "code": "00.08.01",
+    "term": "Fachzeitungen und Fachzeitschriften für die Forstwirtschaft"
+  },
+  {
+    "code": "00.08.03",
+    "term": "Fachbücher für die Forstwirtschaft"
+  },
+  {
+    "code": "00.08.04",
+    "term": "Web-basierte Publikationen für die Forstwirtschaft"
+  },
+  {
+    "code": "00.09",
+    "term": "Forschungs- und Prüfinstitutionen, Ausbildungseinrichtungen für die Forstwirtschaft (Universitäten, Fachhochschulen, Fachschulen etc.)"
+  },
+  {
+    "code": "00.09.01",
+    "term": "Einrichtungen für die Aus- und Fortbildung in der Forstwirtschaft"
+  },
+  {
+    "code": "00.09.02",
+    "term": "Forschungsinstitute für die Forstwirtschaft"
+  },
+  {
+    "code": "00.09.03",
+    "term": "Prüfinstitute für die Forstwirtschaft"
+  },
+  {
+    "code": "00.10",
+    "term": "Umweltschutz in der Forstwirtschaft"
+  },
+  {
+    "code": "00.10.01",
+    "term": "Mobile Kraftstofftanks und -tankanlagen"
+  },
+  {
+    "code": "00.10.02",
+    "term": "Lagerung von wassergefährdeten Stoffen (Öl etc.)"
+  },
+  {
+    "code": "00.10.03",
+    "term": "Lagerung von Gefahrstoffen"
+  },
+  {
+    "code": "01",
+    "term": "Maschinen und technische Ausrüstungen zur Holzbearbeitung (Herstellung von Halbfabrikaten)"
+  },
+  {
+    "code": "01.01",
+    "term": "Rundholzplatztechnik"
+  },
+  {
+    "code": "01.01.01",
+    "term": "Fahrbare Rundholzförderer"
+  },
+  {
+    "code": "01.01.02",
+    "term": "Kräne für Rundholzplätze"
+  },
+  {
+    "code": "01.01.03",
+    "term": "Stationäre Fördereinrichtungen für Rundholzplätze"
+  },
+  {
+    "code": "01.01.04",
+    "term": "Lagereinrichtungen für Rundholzplätze"
+  },
+  {
+    "code": "01.01.05",
+    "term": "Rundholzsortieranlagen"
+  },
+  {
+    "code": "01.01.06",
+    "term": "Beregnungsanlagen und Einrichtungen zur Nasskonservierung von Holz"
+  },
+  {
+    "code": "01.01.07",
+    "term": "Maschinen und Geräte zur Rundholzentrindung"
+  },
+  {
+    "code": "01.01.08",
+    "term": "Maschinen zum Rundreduzieren der Stämme"
+  },
+  {
+    "code": "01.01.09",
+    "term": "Stammendenreduzierer"
+  },
+  {
+    "code": "01.01.09.01",
+    "term": "00.02.07 # Motorsägen und Zubehör"
+  },
+  {
+    "code": "01.01.09.02",
+    "term": "Mobile Schwertkettensägen"
+  },
+  {
+    "code": "01.01.09.03",
+    "term": "Stationäre Schwertkettensägen"
+  },
+  {
+    "code": "01.01.09.04",
+    "term": "Ablängkreissägen"
+  },
+  {
+    "code": "01.01.10",
+    "term": "Mess- und Optimierungsanlagen für Rundholz (Rundholzeinteilung etc.)"
+  },
+  {
+    "code": "01.01.11",
+    "term": "Metallsuch- und -entfernungsgeräte für Rundholz"
+  },
+  {
+    "code": "01.01.12",
+    "term": "Geräte zur Rundholz- / Blockmarkierung, -kennzeichnung"
+  },
+  {
+    "code": "01.02",
+    "term": "Sägewerkstechnik (Schnittholzerzeugung)"
+  },
+  {
+    "code": "01.02.01",
+    "term": "Einschnitt- und Nachschnittmaschinen"
+  },
+  {
+    "code": "01.02.01.01",
+    "term": "Horizontalgatter"
+  },
+  {
+    "code": "01.02.01.02",
+    "term": "Vertikalgatter"
+  },
+  {
+    "code": "01.02.01.03",
+    "term": "Blockbandsägemaschinen, horizontal"
+  },
+  {
+    "code": "01.02.01.04",
+    "term": "Blockbandsägemaschinen, vertikal"
+  },
+  {
+    "code": "01.02.01.05",
+    "term": "Trennbandsägemaschinen"
+  },
+  {
+    "code": "01.02.01.06",
+    "term": "Mehrfach-Bandsägemaschinen"
+  },
+  {
+    "code": "01.02.01.07",
+    "term": "Einwellen-Kreissägemaschinen zum Rundholzeinschnitt"
+  },
+  {
+    "code": "01.02.01.08",
+    "term": "Doppelwellen-Kreissägemaschinen zum Rundholzeinschnitt"
+  },
+  {
+    "code": "01.02.01.09",
+    "term": "Laufwagenkreissägemaschinen zum Rundholzeinschnitt"
+  },
+  {
+    "code": "01.02.01.10",
+    "term": "Bauholzkreissägemaschinen"
+  },
+  {
+    "code": "01.02.01.11",
+    "term": "Profilspaner / Profilierlinien"
+  },
+  {
+    "code": "01.02.01.12",
+    "term": "Spaner-Reduziersägemaschinen"
+  },
+  {
+    "code": "01.02.01.13",
+    "term": "Schneidemaschinen (spanlos) für Bretter / Lamellen"
+  },
+  {
+    "code": "01.02.01.14",
+    "term": "Laufwagenkreissägemaschinen zum Nachschnitt"
+  },
+  {
+    "code": "01.02.01.15",
+    "term": "Trennkreissägemaschinen"
+  },
+  {
+    "code": "01.02.01.16",
+    "term": "Einwellen-Nachschnittkreissägemaschinen"
+  },
+  {
+    "code": "01.02.01.17",
+    "term": "Doppelwellen-Nachschnittkreissägemaschinen"
+  },
+  {
+    "code": "01.02.01.18",
+    "term": "Kreuzschnittmaschinen"
+  },
+  {
+    "code": "01.02.01.19",
+    "term": "Optimierungs-Besäumsägen"
+  },
+  {
+    "code": "01.02.01.20",
+    "term": "Kappsägemaschinen"
+  },
+  {
+    "code": "01.02.01.21",
+    "term": "Durchlaufkappanlagen"
+  },
+  {
+    "code": "01.02.01.22",
+    "term": "Paket-Kappsägemaschinen (Schwenksägemaschinen)"
+  },
+  {
+    "code": "01.02.02",
+    "term": "Schnittholztransport-, -sortier- und -stapelanlagen"
+  },
+  {
+    "code": "01.02.02.01",
+    "term": "Schnittholzsortieranlagen"
+  },
+  {
+    "code": "01.02.02.02",
+    "term": "Förderelemente für Schnittholz (Rollenbahnen, Querförderer etc.)"
+  },
+  {
+    "code": "01.02.02.03",
+    "term": "Schnittholzstapel- und -paketieranlagen"
+  },
+  {
+    "code": "01.02.03",
+    "term": "Schnittholzvermessung und -registrierung"
+  },
+  {
+    "code": "01.02.04",
+    "term": "Mobile Sägewerke"
+  },
+  {
+    "code": "01.02.04.01",
+    "term": "Mobile Blockbandsägen"
+  },
+  {
+    "code": "01.02.04.02",
+    "term": "Mobile Kreissägen für Rundholzeinschnitt"
+  },
+  {
+    "code": "01.03",
+    "term": "Trocknen, Dämpfen und Imprägnieren von Massivholz und anderen Materialien"
+  },
+  {
+    "code": "01.03.01",
+    "term": "Dämpfanlagen"
+  },
+  {
+    "code": "01.03.02",
+    "term": "Schnittholztrockner"
+  },
+  {
+    "code": "01.03.02.01",
+    "term": "Konventionelle Trockner"
+  },
+  {
+    "code": "01.03.02.02",
+    "term": "Vakuumtrockner"
+  },
+  {
+    "code": "01.03.02.03",
+    "term": "Kondensationstrockner, z.B. Wärmepumpentrockner"
+  },
+  {
+    "code": "01.03.02.04",
+    "term": "Spezial-Trockner (z.B. Hochfrequenz-, Mikrowellentrockner)"
+  },
+  {
+    "code": "01.03.03",
+    "term": "Feuchtigkeitsmessgeräte und -anlagen"
+  },
+  {
+    "code": "01.03.03.01",
+    "term": "Feuchtemessgeräte, handbetätigt"
+  },
+  {
+    "code": "01.03.03.02",
+    "term": "Feuchtemessgeräte, automatisch"
+  },
+  {
+    "code": "01.03.04",
+    "term": "Regelanlagen für die Schnittholztrocknung"
+  },
+  {
+    "code": "01.03.05",
+    "term": "Imprägnieranlagen für Massivholz"
+  },
+  {
+    "code": "01.03.06",
+    "term": "Anlagen zur Änderung der physikalischen Eigenschaften von Holz durch Hitzebehandlung"
+  },
+  {
+    "code": "01.03.07",
+    "term": "Anlagen zur Änderung des Erscheinungsbilds von Holz durch chemische Behandlung (z.B. durch Ammoniak, Öle etc.)"
+  },
+  {
+    "code": "01.04",
+    "term": "Furniererzeugung"
+  },
+  {
+    "code": "01.04.01",
+    "term": "Dämpfanlagen für Furnierblöcke"
+  },
+  {
+    "code": "01.04.02",
+    "term": "Spezialisierte Sägemaschinen zum Zuschnitt von Furnierblöcken"
+  },
+  {
+    "code": "01.04.03",
+    "term": "Blockhobelmaschinen"
+  },
+  {
+    "code": "01.04.04",
+    "term": "Furniermessermaschinen"
+  },
+  {
+    "code": "01.04.05",
+    "term": "Rotations-Messermaschinen"
+  },
+  {
+    "code": "01.04.06",
+    "term": "Furnierschälmaschinen"
+  },
+  {
+    "code": "01.04.07",
+    "term": "Zentrier- und Beschickungseinrichtungen für Rundholz- und Furnierblöcke"
+  },
+  {
+    "code": "01.04.08",
+    "term": "Exzenterschälvorrichtungen"
+  },
+  {
+    "code": "01.04.09",
+    "term": "Schälholzwickel-, -sortier- und -ablegeeinrichtungen"
+  },
+  {
+    "code": "01.04.10",
+    "term": "Transport- und Speichereinrichtungen (Magazine) für Messer- und Schälfurniere"
+  },
+  {
+    "code": "01.04.11",
+    "term": "Furniertrockner"
+  },
+  {
+    "code": "01.04.11.01",
+    "term": "Bandtrockner"
+  },
+  {
+    "code": "01.04.11.02",
+    "term": "Rollentrockner"
+  },
+  {
+    "code": "01.04.11.03",
+    "term": "Bügeltrockner"
+  },
+  {
+    "code": "01.04.12",
+    "term": "Integrierte Feuchtemess- und -regelgeräte für Furniertrockner"
+  },
+  {
+    "code": "01.04.13",
+    "term": "Furnierscheren / -clipper"
+  },
+  {
+    "code": "01.04.13.01",
+    "term": "Messerfurnierscheren"
+  },
+  {
+    "code": "01.04.13.02",
+    "term": "Schälfurnierclipper"
+  },
+  {
+    "code": "01.04.14",
+    "term": "Furniermess- und Etikettieranlagen"
+  },
+  {
+    "code": "01.04.15",
+    "term": "Furnierbündelmaschinen"
+  },
+  {
+    "code": "01.05",
+    "term": "Herstellung von festen Beschichtungsmaterialien auf Papierbasis (Schichtpressstoffplatten, Filme)"
+  },
+  {
+    "code": "01.05.01",
+    "term": "Imprägnier- und Streichanlagen für Papiere"
+  },
+  {
+    "code": "01.05.02",
+    "term": "Schwebetrockner für imprägnierte / lackierte Papiere"
+  },
+  {
+    "code": "01.05.03",
+    "term": "Harzmisch- und Dosieranlagen"
+  },
+  {
+    "code": "01.05.04",
+    "term": "Taktpressen für Schichtpressstoffplatten"
+  },
+  {
+    "code": "01.05.05",
+    "term": "Kontinuierlich arbeitende Pressen für Schichtpressstoffplatten"
+  },
+  {
+    "code": "01.05.06",
+    "term": "Laminat- und Filmzuschneidemaschinen"
+  },
+  {
+    "code": "01.05.06.01",
+    "term": "Laminat- und Filmscheren"
+  },
+  {
+    "code": "01.05.06.02",
+    "term": "Laminat- und Filmzuschneidemaschinen mit Rollschermessern"
+  },
+  {
+    "code": "01.05.07",
+    "term": "Systeme zur Produktionsdatenerfassung und Güteüberwachung bei der Herstellung von festen Beschichtungsmaterialien"
+  },
+  {
+    "code": "01.06",
+    "term": "Furniersperrholz- und -schichtholzherstellung"
+  },
+  {
+    "code": "01.06.01",
+    "term": "Fügemaschinen für Schälfurniere"
+  },
+  {
+    "code": "01.06.02",
+    "term": "Zusammensetzmaschinen für Schälfurniere"
+  },
+  {
+    "code": "01.06.03",
+    "term": "Schäftanlagen für Schälfurniere"
+  },
+  {
+    "code": "01.06.04",
+    "term": "Mehrstufige Mittellagenverleimmaschinen (Ablängen, Beleimen, Pressen etc.)"
+  },
+  {
+    "code": "01.06.05",
+    "term": "Leimauftragsmaschinen für Furniere und Platten"
+  },
+  {
+    "code": "01.06.06",
+    "term": "Stapelpressen für Furniersperr- und -schichtholz"
+  },
+  {
+    "code": "01.06.07",
+    "term": "Sperrholzpressen für ebene Flächen"
+  },
+  {
+    "code": "01.06.09",
+    "term": "Geräte zur Klebstoffaufbereitung, -dosierung und -zuführung"
+  },
+  {
+    "code": "01.06.10",
+    "term": "Spezialisierte Förder- und Lagereinrichtungen für Sperrholzwerke"
+  },
+  {
+    "code": "01.06.11",
+    "term": "Systeme zur Produktionsdatenerfassung und Güteüberwachung für Sperrholzwerke"
+  },
+  {
+    "code": "01.07",
+    "term": "Spanplatten-, Faserplatten-, OSB-Herstellung"
+  },
+  {
+    "code": "01.07.01",
+    "term": "Brecher für Abfallmaterial, z.B. Gebraucht-, Altholz, Holzprodukte etc."
+  },
+  {
+    "code": "01.07.02",
+    "term": "Hacker und Schneidmühlen"
+  },
+  {
+    "code": "01.07.03",
+    "term": "Zerspaner"
+  },
+  {
+    "code": "01.07.03.01",
+    "term": "Zerspaner für Rund- / Langholz"
+  },
+  {
+    "code": "01.07.03.02",
+    "term": "Zerspaner für stückiges Industrierestholz (Schwarten, Abschnitte etc.) und andere Materialien"
+  },
+  {
+    "code": "01.07.03.03",
+    "term": "Zerspaner für Hackschnitzel und andere Materialien"
+  },
+  {
+    "code": "01.07.04",
+    "term": "Hammermühlen, Schlagzerspaner"
+  },
+  {
+    "code": "01.07.05",
+    "term": "Nachzerkleinerer (Prallstrommühlen, Siebkorbmühlen etc.)"
+  },
+  {
+    "code": "01.07.06",
+    "term": "Reinigungsanlagen für Hackschnitzel"
+  },
+  {
+    "code": "01.07.07",
+    "term": "Förderanlagen und Lagereinrichtungen für Hackschnitzel, Späne etc."
+  },
+  {
+    "code": "01.07.08",
+    "term": "Refiner"
+  },
+  {
+    "code": "01.07.09",
+    "term": "Trockner für Späne, Fasern, Strands"
+  },
+  {
+    "code": "01.07.10",
+    "term": "Siebmaschinen und Sichter"
+  },
+  {
+    "code": "01.07.11",
+    "term": "Klebstoffaufbereitungs- und -dosierungseinrichtungen"
+  },
+  {
+    "code": "01.07.12",
+    "term": "Beleimungsmaschinen und Mischer"
+  },
+  {
+    "code": "01.07.13",
+    "term": "Streuanlagen, Formstraßen"
+  },
+  {
+    "code": "01.07.14",
+    "term": "Flächengewichtswaagen"
+  },
+  {
+    "code": "01.07.15",
+    "term": "Befeuchtungseinrichtungen für Späne- / Fasermatten"
+  },
+  {
+    "code": "01.07.16",
+    "term": "Pressen"
+  },
+  {
+    "code": "01.07.16.01",
+    "term": "Takt-Vorpressen"
+  },
+  {
+    "code": "01.07.16.02",
+    "term": "Kontinuierlich arbeitende Vorpressen"
+  },
+  {
+    "code": "01.07.16.03",
+    "term": "Mehr-Etagenpressen"
+  },
+  {
+    "code": "01.07.16.04",
+    "term": "Ein-Etagenpressen"
+  },
+  {
+    "code": "01.07.16.05",
+    "term": "Kontinuierlich arbeitende Pressen / Doppelbandpressen"
+  },
+  {
+    "code": "01.07.16.06",
+    "term": "Kalanderpressen"
+  },
+  {
+    "code": "01.07.17",
+    "term": "Platten-Besäumstationen"
+  },
+  {
+    "code": "01.07.18",
+    "term": "Quertrennsägen (Diagonalsägen)"
+  },
+  {
+    "code": "01.07.19",
+    "term": "Kühlstationen"
+  },
+  {
+    "code": "01.07.20",
+    "term": "Schleifmaschinen / -anlagen für Holzwerkstoffe"
+  },
+  {
+    "code": "01.07.21",
+    "term": "Plattenaufteilsägen / -anlagen"
+  },
+  {
+    "code": "01.07.22",
+    "term": "Lager-, Förder- und Kommissioniersysteme für Holzwerkstoffe"
+  },
+  {
+    "code": "01.07.23",
+    "term": "Verpackungstechnik für Holzwerkstoffe"
+  },
+  {
+    "code": "01.07.24",
+    "term": "Systeme zur Produktionsdatenerfassung und Güteüberwachung bei der Span-, Faserplatten- und OSB-Herstellung"
+  },
+  {
+    "code": "01.07.25",
+    "term": "Spezialisierte Ausrüstungsteile für Maschinen und Anlagen zur Span-, Faserplatten- und OSB-Herstellung"
+  },
+  {
+    "code": "01.07.26",
+    "term": "Separierungstechnik"
+  },
+  {
+    "code": "01.08",
+    "term": "Leichtbauplatten- / Sandwichelement-Herstellung"
+  },
+  {
+    "code": "01.08.01",
+    "term": "Waben-Expandier- und Trockenautomaten"
+  },
+  {
+    "code": "01.08.02",
+    "term": "Maschinen zur Bildung von Rahmenelementen"
+  },
+  {
+    "code": "01.08.03",
+    "term": "Maschinen zur Mittellagenfertigung"
+  },
+  {
+    "code": "01.08.04",
+    "term": "Pressen zur Herstellung von Leichtbauplatten- / Sandwichelementen"
+  },
+  {
+    "code": "01.09",
+    "term": "Herstellung von Formteilen"
+  },
+  {
+    "code": "01.09.01",
+    "term": "Pressen für Formteile aus Spänen, Fasern und anderen Materialien"
+  },
+  {
+    "code": "01.09.02",
+    "term": "Pressen für gebogene Flächen und Formteile aus Sperrholz und anderen Laminaten"
+  },
+  {
+    "code": "01.09.03",
+    "term": "Extruder"
+  },
+  {
+    "code": "01.99",
+    "term": "Maschinen und technische Ausrüstungen zur Holzbearbeitung, sonstige"
+  },
+  {
+    "code": "02",
+    "term": "Maschinen und technische Ausrüstungen zur maschinellen Verarbeitung"
+  },
+  {
+    "code": "02.01",
+    "term": "Furnierverarbeitung"
+  },
+  {
+    "code": "02.01.01",
+    "term": "Furnierbügelpressen"
+  },
+  {
+    "code": "02.01.02",
+    "term": "Querfurnierscheren zum Längenzuschnitt"
+  },
+  {
+    "code": "02.01.03",
+    "term": "Furnierpaketschneidemaschinen"
+  },
+  {
+    "code": "02.01.03.01",
+    "term": "Einmesser-Furnierpaketschneidemaschinen"
+  },
+  {
+    "code": "02.01.03.02",
+    "term": "Zweimesser-Furnierpaketschneidemaschinen"
+  },
+  {
+    "code": "02.01.04",
+    "term": "Furnierstreifenzuschneidemaschinen"
+  },
+  {
+    "code": "02.01.05",
+    "term": "Fügesägemaschinen für Furnierpakete"
+  },
+  {
+    "code": "02.01.06",
+    "term": "Fügehobelmaschinen für Furnierpakete"
+  },
+  {
+    "code": "02.01.07",
+    "term": "Klebstoffauftragsmaschinen für Furnierschmalseiten"
+  },
+  {
+    "code": "02.01.08",
+    "term": "Zusammensetzmaschinen für Messerfurniere im Längsdurchlauf"
+  },
+  {
+    "code": "02.01.09",
+    "term": "Zusammensetzmaschinen für Messerfurniere im Querdurchlauf"
+  },
+  {
+    "code": "02.01.10",
+    "term": "Maschinen zum Querabkleben von Furnieren"
+  },
+  {
+    "code": "02.01.11",
+    "term": "Maschinen und Geräte zur Verbindung von Furnieren in der Länge (z.B. durch Keilzinken)"
+  },
+  {
+    "code": "02.01.12",
+    "term": "Furnier-Ausflickautomaten"
+  },
+  {
+    "code": "02.01.13",
+    "term": "Furniermess- und -optimierungsanlagen"
+  },
+  {
+    "code": "02.01.14",
+    "term": "Beleuchtete Tische für Furnierinspektion"
+  },
+  {
+    "code": "02.01.15",
+    "term": "Maschinen zur Erzeugung von flexiblem Furnier (Flexer)"
+  },
+  {
+    "code": "02.02",
+    "term": "Pressen, Kaschier- und Ummantelungsanlagen zum Beschichten mit festen Materialien (Furnieren, Kaschieren, Filmbeschichten etc.)"
+  },
+  {
+    "code": "02.02.01",
+    "term": "Bürst- und Reinigungsmaschinen für Werkstücke"
+  },
+  {
+    "code": "02.02.02",
+    "term": "Maschinen zum Beleimen von Platten oder Beschichtungsmaterialien"
+  },
+  {
+    "code": "02.02.03",
+    "term": "Mechanisierte Speicher-, Zuführ- und Belegeeinrichtungen für Beschichtungsmaterialien"
+  },
+  {
+    "code": "02.02.04",
+    "term": "Taktpressen"
+  },
+  {
+    "code": "02.02.04.01",
+    "term": "Handbeschickte Pressen"
+  },
+  {
+    "code": "02.02.04.02",
+    "term": "Mechanisiert beschickte Pressen / Kurztaktpressen"
+  },
+  {
+    "code": "02.02.04.03",
+    "term": "Stapelpressen zum Flächenbeschichten"
+  },
+  {
+    "code": "02.02.04.04",
+    "term": "Beschichtungspressen für Formteile"
+  },
+  {
+    "code": "02.02.04.05",
+    "term": "Membranpressen"
+  },
+  {
+    "code": "02.02.05",
+    "term": "Durchlauf-Pressen / -Beschichtungsanlagen"
+  },
+  {
+    "code": "02.02.05.01",
+    "term": "Kontinuierlich arbeitende Beschichtungspressen / Doppelbandpressen"
+  },
+  {
+    "code": "02.02.05.02",
+    "term": "Kaschieranlagen für Breitflächen"
+  },
+  {
+    "code": "02.02.05.03",
+    "term": "Kaschieranlagen für Breit- und Schmalflächen"
+  },
+  {
+    "code": "02.02.05.04",
+    "term": "Profilummantelungsanlagen"
+  },
+  {
+    "code": "02.02.06",
+    "term": "Auftragsmaschinen für selbstklebende Schutzfilme"
+  },
+  {
+    "code": "02.02.07",
+    "term": "Vergoldungsmaschinen (Goldfolien, Blattgold)"
+  },
+  {
+    "code": "02.02.08",
+    "term": "Trenn- und Nachschnittaggregate für beschichtete Werkstücke"
+  },
+  {
+    "code": "02.02.09",
+    "term": "Beschick-, Abstapel- und Fördereinrichtungen für Flächenbeschichtungssysteme"
+  },
+  {
+    "code": "02.02.10",
+    "term": "Klebstoffaufbereitungs-, -dosierungs- und -zuführgeräte für Flächenbeschichtungssysteme"
+  },
+  {
+    "code": "02.02.11",
+    "term": "Vlieskaschieranlagen für Furniere und synthetische Beschichtungsmaterialien"
+  },
+  {
+    "code": "02.03",
+    "term": "Sägemaschinen zur Verarbeitung von Massivholz, Holzwerkstoffen, Kunststoffen, Verbundwerkstoffen und anderen Materialien"
+  },
+  {
+    "code": "02.03.01",
+    "term": "Untertischquerkreissägemaschinen / -kappsägen"
+  },
+  {
+    "code": "02.03.02",
+    "term": "Obertischquerkreissägen"
+  },
+  {
+    "code": "02.03.02.01",
+    "term": "Pendelsägen"
+  },
+  {
+    "code": "02.03.02.02",
+    "term": "Radial- / Auslegerkreissägen"
+  },
+  {
+    "code": "02.03.03",
+    "term": "Optimierungskappsägen"
+  },
+  {
+    "code": "02.03.04",
+    "term": "Gehrungskreissägen für Einfach- / Doppelschnitte"
+  },
+  {
+    "code": "02.03.05",
+    "term": "Mehrblatt-Abkürzkreissägemaschinen"
+  },
+  {
+    "code": "02.03.06",
+    "term": "Längsschnitt-Kreissägemaschinen mit fahrendem Sägeaggregat"
+  },
+  {
+    "code": "02.03.07",
+    "term": "Ein- und Mehrblattkreissägemaschinen"
+  },
+  {
+    "code": "02.03.08",
+    "term": "Dünnschnittsägemaschinen"
+  },
+  {
+    "code": "02.03.08.01",
+    "term": "Dünnschnitt-Gattersägen"
+  },
+  {
+    "code": "02.03.08.02",
+    "term": "Dünnschnitt-Kreissägen"
+  },
+  {
+    "code": "02.03.09",
+    "term": "Tischkreissägemaschinen"
+  },
+  {
+    "code": "02.03.10",
+    "term": "Formatkreissägemaschinen"
+  },
+  {
+    "code": "02.03.11",
+    "term": "Vertikalsägemaschinen zum Plattenzuschnitt / -formatschnitt"
+  },
+  {
+    "code": "02.03.12",
+    "term": "Druckbalkensägemaschinen zum Plattenzuschnitt / -formatschnitt"
+  },
+  {
+    "code": "02.03.12.01",
+    "term": "Druckbalkensägemaschinen für Längsschnitte"
+  },
+  {
+    "code": "02.03.12.02",
+    "term": "Druckbalkensägemaschinen für Querschnitte"
+  },
+  {
+    "code": "02.03.12.03",
+    "term": "Druckbalkensägemaschinen für Längs- und Querschnitte (Winkelanlagen)"
+  },
+  {
+    "code": "02.03.13",
+    "term": "Portalsägemaschinen zum Längs- und Querschneiden von Platten"
+  },
+  {
+    "code": "02.03.14",
+    "term": "Tischlerbandsägen"
+  },
+  {
+    "code": "02.03.15",
+    "term": "Kopierbandsägen"
+  },
+  {
+    "code": "02.03.16",
+    "term": "Dekupiersägemaschinen"
+  },
+  {
+    "code": "02.03.17",
+    "term": "Klinkschnittsägemaschinen"
+  },
+  {
+    "code": "02.03.18",
+    "term": "Baustellenkreissägemaschinen"
+  },
+  {
+    "code": "02.03.19",
+    "term": "CNC-Bandsägemaschinen"
+  },
+  {
+    "code": "02.03.20",
+    "term": "Plattenformatkreissägemaschinen für Parallel- und / oder Winkelschnitt für Handvorschub"
+  },
+  {
+    "code": "02.03.21",
+    "term": "Optimierungskreissägen für den Längsschnitt"
+  },
+  {
+    "code": "02.04",
+    "term": "Fräs- und Hobelmaschinen"
+  },
+  {
+    "code": "02.04.01",
+    "term": "Abrichthobelmaschinen"
+  },
+  {
+    "code": "02.04.02",
+    "term": "Dickenhobelmaschinen"
+  },
+  {
+    "code": "02.04.03",
+    "term": "Ziehklingenmaschinen"
+  },
+  {
+    "code": "02.04.04",
+    "term": "Kombinierte Hobel- / Sägemaschinen"
+  },
+  {
+    "code": "02.04.05",
+    "term": "Kombinierte Hobel- / Schleifmaschinen"
+  },
+  {
+    "code": "02.04.06",
+    "term": "Winkelkanten-Abrichthobelmaschinen zum Abrichten und Fügen in einem Arbeitsgang"
+  },
+  {
+    "code": "02.04.07",
+    "term": "Zweiseiten-Dickenhobelmaschinen zum Abrichten und Dickenhobeln in einem Arbeitsgang"
+  },
+  {
+    "code": "02.04.08",
+    "term": "Drei- und Vierseiten-Hobelmaschinen"
+  },
+  {
+    "code": "02.04.09",
+    "term": "Kehlmaschinen (Fräsmaschinen für drei- und vierseitige Bearbeitung)"
+  },
+  {
+    "code": "02.04.10",
+    "term": "Stirnplan-Fräsmaschinen für ein- und mehrseitige Bearbeitung"
+  },
+  {
+    "code": "02.04.11",
+    "term": "Tischfräsmaschinen"
+  },
+  {
+    "code": "02.04.12",
+    "term": "Zinkenfräsmaschinen"
+  },
+  {
+    "code": "02.04.13",
+    "term": "Oberfräsmaschinen"
+  },
+  {
+    "code": "02.04.14",
+    "term": "CNC-Oberfräsmaschinen"
+  },
+  {
+    "code": "02.04.15",
+    "term": "Kopierfräsmaschinen"
+  },
+  {
+    "code": "02.04.15.01",
+    "term": "Längskopierfräsmaschinen (auch mit Zusatzaggregaten zum Schleifen etc.)"
+  },
+  {
+    "code": "02.04.15.02",
+    "term": "Rundtischkopierfräsmaschinen / Karussellfräsmaschinen (auch mit Zusatzaggregaten zum Schleifen etc.)"
+  },
+  {
+    "code": "02.04.15.03",
+    "term": "Querkopierfräsmaschinen / Formteilkopierfräsmaschinen (mit einer / mehreren Spindeln; auch mit Zusatzaggregaten zum Schleifen etc.)"
+  },
+  {
+    "code": "02.04.16",
+    "term": "CNC-Fräs- (und Schleif-) maschinen für Formteile, doppelseitig"
+  },
+  {
+    "code": "02.04.17",
+    "term": "Bildhauerkopierfräsmaschinen / Schnitzmaschinen"
+  },
+  {
+    "code": "02.04.18",
+    "term": "Profilstabfräsmaschinen"
+  },
+  {
+    "code": "02.04.19",
+    "term": "Umleimerfräsmaschinen"
+  },
+  {
+    "code": "02.04.20",
+    "term": "Rundstabfräsmaschinen"
+  },
+  {
+    "code": "02.04.21",
+    "term": "Spiralfräsmaschinen"
+  },
+  {
+    "code": "02.04.22",
+    "term": "Gehrungsfräsmaschinen"
+  },
+  {
+    "code": "02.04.23",
+    "term": "Kreuzsprossenfräsmaschinen"
+  },
+  {
+    "code": "02.04.24",
+    "term": "Nutenfräsmaschinen für Treppen, Leitern und Jalousien"
+  },
+  {
+    "code": "02.04.25",
+    "term": "Zierleistenfräsmaschinen"
+  },
+  {
+    "code": "02.04.26",
+    "term": "Schäftfräsmaschinen"
+  },
+  {
+    "code": "02.04.99",
+    "term": "Fräsmaschinen für Sonderzwecke"
+  },
+  {
+    "code": "02.05",
+    "term": "Keilzinkentechnik"
+  },
+  {
+    "code": "02.05.01",
+    "term": "Keilzinkenfräsen"
+  },
+  {
+    "code": "02.05.02",
+    "term": "Leimauftragssysteme für Keilzinken"
+  },
+  {
+    "code": "02.05.03",
+    "term": "Keilzinken-Pressen"
+  },
+  {
+    "code": "02.05.04",
+    "term": "Keilzinkenanlagen zum Ablängen, Zinkenfräsen, Beleimen, Pressen etc."
+  },
+  {
+    "code": "02.06",
+    "term": "Zapfenschneid- / Zapfenfräsmaschinen"
+  },
+  {
+    "code": "02.06.01",
+    "term": "Zapfenschneidmaschinen für gerade Zapfen"
+  },
+  {
+    "code": "02.06.01.01",
+    "term": "Zapfenschneidmaschinen für gerade Zapfen, einseitig"
+  },
+  {
+    "code": "02.06.01.02",
+    "term": "Zapfenschneidmaschinen für gerade Zapfen, doppelseitig"
+  },
+  {
+    "code": "02.06.02",
+    "term": "Rundzapfenfräsmaschinen"
+  },
+  {
+    "code": "02.06.02.01",
+    "term": "Rundzapfenfräsmaschinen, einseitig"
+  },
+  {
+    "code": "02.06.02.02",
+    "term": "Rundzapfenfräsmaschinen, doppelseitig"
+  },
+  {
+    "code": "02.07",
+    "term": "Profilier- und Formatbearbeitungsmaschinen (Besäumen, Längenformatschnitt, Profilieren, Schleifen etc.)"
+  },
+  {
+    "code": "02.07.01",
+    "term": "Profilier- und Formatbearbeitungsmaschinen für nichtflächige Werkstücke (z.B. Kanteln), einseitig"
+  },
+  {
+    "code": "02.07.02",
+    "term": "Profilier- und Formatbearbeitungsmaschinen für flächige Werkstücke (z.B. Platten), einseitig"
+  },
+  {
+    "code": "02.07.03",
+    "term": "Doppelendprofiler / Formatbearbeitungsmaschinen für nichtflächige Werkstücke, z.B. Kanteln"
+  },
+  {
+    "code": "02.07.04",
+    "term": "Doppelendprofiler / Formatbearbeitungsmaschinen für flächige Werkstücke, z.B. Platten"
+  },
+  {
+    "code": "02.08",
+    "term": "Kantenanleimmaschinen (Kantenanleimen und -nachbearbeiten)"
+  },
+  {
+    "code": "02.08.01",
+    "term": "Kantenanleimmaschinen, einseitig"
+  },
+  {
+    "code": "02.08.01.01",
+    "term": "Kantenanleimmaschinen für gerade Kanten, einseitig"
+  },
+  {
+    "code": "02.08.01.02",
+    "term": "Softforming-Kantenanleimmaschinen, einseitig"
+  },
+  {
+    "code": "02.08.01.03",
+    "term": "Formteil-Kantenanleimmaschinen, einseitig"
+  },
+  {
+    "code": "02.08.02",
+    "term": "Kantenanleimmaschinen, doppelseitig"
+  },
+  {
+    "code": "02.08.02.01",
+    "term": "Kantenanleimmaschinen für gerade Kanten, doppelseitig"
+  },
+  {
+    "code": "02.08.02.02",
+    "term": "Softforming-Kantenanleimmaschinen, doppelseitig"
+  },
+  {
+    "code": "02.08.02.03",
+    "term": "Formteil-Kantenanleimmaschinen, doppelseitig"
+  },
+  {
+    "code": "02.08.03",
+    "term": "Tisch-Kantenanleimmaschinen"
+  },
+  {
+    "code": "02.09",
+    "term": "Formatbearbeitungs- und Kantenanleimmaschinen (Formatbearbeitung, Profilfräsen, Kantenanleimen, -nachbearbeiten)"
+  },
+  {
+    "code": "02.09.01",
+    "term": "Formatbearbeitungs- und Kantenanleimmaschinen, einseitig"
+  },
+  {
+    "code": "02.09.01.01",
+    "term": "Formatbearbeitungs- und Kantenanleimmaschinen für gerade Kanten, einseitig"
+  },
+  {
+    "code": "02.09.01.02",
+    "term": "Formatbearbeitungs- und Softforming-Kantenanleimmaschinen, einseitig"
+  },
+  {
+    "code": "02.09.01.03",
+    "term": "Formatbearbeitungs- und Formteil-Kantenanleimmaschinen, einseitig"
+  },
+  {
+    "code": "02.09.02",
+    "term": "Formatbearbeitungs- und Kantenanleimmaschinen, doppelseitig"
+  },
+  {
+    "code": "02.09.02.01",
+    "term": "Formatbearbeitungs- und Kantenanleimmaschinen für gerade Kanten, doppelseitig"
+  },
+  {
+    "code": "02.09.02.02",
+    "term": "Formatbearbeitungs- und Softforming-Kantenanleimmaschinen, doppelseitig"
+  },
+  {
+    "code": "02.09.02.03",
+    "term": "Formatbearbeitungs- und Formteil-Kantenanleimmaschinen, doppelseitig"
+  },
+  {
+    "code": "02.10",
+    "term": "Postforming-Maschinen"
+  },
+  {
+    "code": "02.10.01",
+    "term": "Postforming-Maschinen zur Stationärbearbeitung"
+  },
+  {
+    "code": "02.10.02",
+    "term": "Postforming-Maschinen zur Durchlaufbearbeitung"
+  },
+  {
+    "code": "02.10.02.01",
+    "term": "Postforming-Maschinen für Laminate"
+  },
+  {
+    "code": "02.10.02.02",
+    "term": "Direkt-Postforming-Maschinen für beschichtete / furnierte Platten"
+  },
+  {
+    "code": "02.11",
+    "term": "Maschinen und Anlagen für die Falttechnik (Foldingsystem)"
+  },
+  {
+    "code": "02.11.01",
+    "term": "Maschinen für die Längsfalttechnik"
+  },
+  {
+    "code": "02.11.02",
+    "term": "Gehrungssäge- / -fräsmaschinen für die Querfalttechnik"
+  },
+  {
+    "code": "02.11.03",
+    "term": "Korpuspressen / -verleimstationen für die Querfalttechnik"
+  },
+  {
+    "code": "02.11.04",
+    "term": "Anlagen für die Querfalttechnik (Ablängen, Gehrungssägen, -fräsen, Leimangabe, Falten, Verpressen etc.)"
+  },
+  {
+    "code": "02.12",
+    "term": "Bohrmaschinen, Dübeleintreib-, Beschlagsetzmaschinen"
+  },
+  {
+    "code": "02.12.01",
+    "term": "Bohrmaschinen mit einem oder mehreren Bohrköpfen"
+  },
+  {
+    "code": "02.12.01.01",
+    "term": "Universal-Mehrspindel-Bohrmaschinen zur Stationärbearbeitung"
+  },
+  {
+    "code": "02.12.01.02",
+    "term": "Mehrspindel-Bohrmaschinen mit horizontalen und / oder vertikalen Köpfen zur Stationärbearbeitung"
+  },
+  {
+    "code": "02.12.01.03",
+    "term": "Durchlauf-Mehrspindel-Bohrmaschinen mit horizontalen und / oder vertikalen Köpfen"
+  },
+  {
+    "code": "02.12.02",
+    "term": "Bohrmaschinen für Gestell-, Rahmenteile und sonstige prismatische Werkstücke (Stationär- und Durchlaufbearbeitung)"
+  },
+  {
+    "code": "02.12.03",
+    "term": "Bohrautomaten zum Sägen, Fräsen, Bohren, Dübeleintreiben"
+  },
+  {
+    "code": "02.12.04",
+    "term": "Bohr- und Montageautomaten zum Bohren, Fräsen, Beschlagsetzen etc."
+  },
+  {
+    "code": "02.12.05",
+    "term": "CNC-Bohrmaschinen"
+  },
+  {
+    "code": "02.12.05.01",
+    "term": "CNC-Bohrmaschinen zur Stationärbearbeitung"
+  },
+  {
+    "code": "02.12.05.02",
+    "term": "Durchlauf-CNC-Bohrmaschinen"
+  },
+  {
+    "code": "02.12.06",
+    "term": "Dübeleintreibmaschinen (Beleimen, Eintreiben)"
+  },
+  {
+    "code": "02.12.07",
+    "term": "Beschlagsetzmaschinen"
+  },
+  {
+    "code": "02.12.08",
+    "term": "Astlochbohrmaschinen"
+  },
+  {
+    "code": "02.12.09",
+    "term": "Tisch- und Säulenbohrmaschinen"
+  },
+  {
+    "code": "02.12.10",
+    "term": "Langlochbohrmaschinen"
+  },
+  {
+    "code": "02.13",
+    "term": "Beschlageinlassmaschinen"
+  },
+  {
+    "code": "02.14",
+    "term": "Stemmmaschinen"
+  },
+  {
+    "code": "02.14.01",
+    "term": "Schwingmeißelstemmmaschinen"
+  },
+  {
+    "code": "02.14.02",
+    "term": "Kettenstemmmaschinen"
+  },
+  {
+    "code": "02.14.03",
+    "term": "Hohlmeißelstemmmaschinen"
+  },
+  {
+    "code": "02.14.04",
+    "term": "Stemmmaschinen, wahlweise für Kette und Hohlmeißel"
+  },
+  {
+    "code": "02.15",
+    "term": "Drehmaschinen"
+  },
+  {
+    "code": "02.15.01",
+    "term": "Langdrehmaschinen"
+  },
+  {
+    "code": "02.15.02",
+    "term": "Plandrehmaschinen"
+  },
+  {
+    "code": "02.15.03",
+    "term": "Fassondrehmaschinen"
+  },
+  {
+    "code": "02.15.04",
+    "term": "Schablonendrehmaschinen"
+  },
+  {
+    "code": "02.15.05",
+    "term": "CNC-Drehmaschinen"
+  },
+  {
+    "code": "02.16",
+    "term": "Schleifmaschinen"
+  },
+  {
+    "code": "02.16.01",
+    "term": "Langbandschleifmaschinen mit Tisch"
+  },
+  {
+    "code": "02.16.02",
+    "term": "Langbandschleifmaschinen mit mechanisiertem Werkstückdurchlauf"
+  },
+  {
+    "code": "02.16.03",
+    "term": "Breitbandschleifmaschinen"
+  },
+  {
+    "code": "02.16.04",
+    "term": "Kreuzschliffmaschinen mit Lang- und Breitbandschleifaggregaten"
+  },
+  {
+    "code": "02.16.05",
+    "term": "Furnierblattschleifmaschinen"
+  },
+  {
+    "code": "02.16.06",
+    "term": "Schruppschleifmaschinen zum Egalisieren / Kalibrieren"
+  },
+  {
+    "code": "02.16.07",
+    "term": "Breitbandschleifmaschinen zum Kalibrieren und Feinschleifen"
+  },
+  {
+    "code": "02.16.08",
+    "term": "Zylinderschleifmaschinen für Flächenschliff"
+  },
+  {
+    "code": "02.16.09",
+    "term": "Schleifmaschinen für nichtebene Werkstückflächen"
+  },
+  {
+    "code": "02.16.10",
+    "term": "Schleifmaschinen für Lackzwischenschliff"
+  },
+  {
+    "code": "02.16.11",
+    "term": "Kanten-, Falz- und Profilschleifmaschinen"
+  },
+  {
+    "code": "02.16.11.01",
+    "term": "Kanten-, Falz- und Profilschleifmaschinen, einseitig"
+  },
+  {
+    "code": "02.16.11.02",
+    "term": "Kanten-, Falz- und Profilschleifmaschinen, doppelseitig"
+  },
+  {
+    "code": "02.16.12",
+    "term": "Schleifböcke mit zylindrischem Werkzeug"
+  },
+  {
+    "code": "02.16.13",
+    "term": "Band-Schleifmaschinen mit fester Werkstückauflage"
+  },
+  {
+    "code": "02.16.14",
+    "term": "Scheiben-Schleifmaschinen"
+  },
+  {
+    "code": "02.16.15",
+    "term": "Schleifmaschinen für Rundstäbe"
+  },
+  {
+    "code": "02.16.16",
+    "term": "Schleifmaschinen für Drehteile"
+  },
+  {
+    "code": "02.16.17",
+    "term": "CNC-Schleifbearbeitungszentren zur Mehrseitenbearbeitung"
+  },
+  {
+    "code": "02.17",
+    "term": "Polier- und Schwabbelmaschinen"
+  },
+  {
+    "code": "02.17.01",
+    "term": "Poliermaschinen für ebene Flächen"
+  },
+  {
+    "code": "02.17.02",
+    "term": "Poliermaschinen für Formteile"
+  },
+  {
+    "code": "02.17.03",
+    "term": "Poliermaschinen für Leisten"
+  },
+  {
+    "code": "02.17.04",
+    "term": "Polier- / Schwabbelmaschinen mit mechanischem Vorschub"
+  },
+  {
+    "code": "02.17.05",
+    "term": "Schwabbelböcke"
+  },
+  {
+    "code": "02.18",
+    "term": "Maschinen zum Umformen"
+  },
+  {
+    "code": "02.18.01",
+    "term": "Biegemaschinen"
+  },
+  {
+    "code": "02.18.02",
+    "term": "Prägemaschinen"
+  },
+  {
+    "code": "02.18.02.01",
+    "term": "Prägemaschinen zur Stationärbearbeitung"
+  },
+  {
+    "code": "02.18.02.02",
+    "term": "Durchlauf-Prägemaschinen"
+  },
+  {
+    "code": "02.18.99",
+    "term": "Maschinen zum Umformen; sonstige"
+  },
+  {
+    "code": "02.19",
+    "term": "Kombinierte Tischlereimaschinen (raumbedingte Kombinationen)"
+  },
+  {
+    "code": "02.19.01",
+    "term": "Abrichtdickenhobelmaschinen"
+  },
+  {
+    "code": "02.19.02",
+    "term": "Kombinierte Kreissäge- u. Fräsmaschinen"
+  },
+  {
+    "code": "02.19.03",
+    "term": "Kombinierte Kreissäge-, Fräs- u. Langlochbohrmaschinen"
+  },
+  {
+    "code": "02.19.04",
+    "term": "Kombinierte Abrichtdickenhobel-, Kreissäge-, Fräs- u. Langlochbohrmaschinen"
+  },
+  {
+    "code": "02.19.05",
+    "term": "Universal-Tischlereimaschinen für Gewerbebetriebe"
+  },
+  {
+    "code": "02.19.06",
+    "term": "Universal-Tischlereimaschinen für Heimwerker"
+  },
+  {
+    "code": "02.19.99",
+    "term": "Kombinierte Tischlereimaschinen; sonstige"
+  },
+  {
+    "code": "02.20",
+    "term": "Bearbeitungszentren (Stationärbearbeitung)"
+  },
+  {
+    "code": "02.20.01",
+    "term": "Bearbeitungszentren zum Sägen, Fräsen, Bohren, Schleifen"
+  },
+  {
+    "code": "02.20.02",
+    "term": "Bearbeitungszentren zum Kantenanleimen und -nachbearbeiten"
+  },
+  {
+    "code": "02.20.03",
+    "term": "Bearbeitungszentren zum Fräsen, Sägen, Bohren, Kantenanleimen, -nachbearbeiten"
+  },
+  {
+    "code": "02.20.04",
+    "term": "Bearbeitungszentren zum Fräsen, Sägen, Bohren, Beschlag-, Dübelsetzen"
+  },
+  {
+    "code": "02.21",
+    "term": "Fertigungszellen"
+  },
+  {
+    "code": "02.22",
+    "term": "Pressen und Anlagen zur Verleimung von Massivholzteilen und anderen Materialien"
+  },
+  {
+    "code": "02.22.01",
+    "term": "Verleimständer und -sterne"
+  },
+  {
+    "code": "02.22.02",
+    "term": "Durchlauf-Fugenverleimanlagen für Bretter und Kanteln"
+  },
+  {
+    "code": "02.22.03",
+    "term": "Mittellagenverleimmaschinen"
+  },
+  {
+    "code": "02.22.04",
+    "term": "Schichtholzpressen"
+  },
+  {
+    "code": "02.23",
+    "term": "Pressen für Eckverbindungen"
+  },
+  {
+    "code": "02.23.01",
+    "term": "Universal-Tischpressen"
+  },
+  {
+    "code": "02.23.02",
+    "term": "Rahmenpressen"
+  },
+  {
+    "code": "02.23.03",
+    "term": "Rundbogenverleimpressen"
+  },
+  {
+    "code": "02.24",
+    "term": "Stanzmaschinen"
+  },
+  {
+    "code": "02.24.01",
+    "term": "Gehrungsstanzmaschinen"
+  },
+  {
+    "code": "02.24.02",
+    "term": "Sprossenstanzmaschinen"
+  },
+  {
+    "code": "02.24.99",
+    "term": "Stanzmaschinen; sonstige"
+  },
+  {
+    "code": "03",
+    "term": "Maschinen und technische Ausrüstungen zur Oberflächenbehandlung"
+  },
+  {
+    "code": "03.01",
+    "term": "Flüssigbeschichtung (Lackieren etc.)"
+  },
+  {
+    "code": "03.01.01",
+    "term": "Vorbehandlung von Oberflächen"
+  },
+  {
+    "code": "03.01.01.01",
+    "term": "Sandstrahlgeräte"
+  },
+  {
+    "code": "03.01.01.02",
+    "term": "Strukturbürsten"
+  },
+  {
+    "code": "03.01.01.03",
+    "term": "Reinigungsbürsten"
+  },
+  {
+    "code": "03.01.02",
+    "term": "Bleich- und Beizanlagen"
+  },
+  {
+    "code": "03.01.03",
+    "term": "Spachtelauftragsmaschinen"
+  },
+  {
+    "code": "03.01.04",
+    "term": "Dekordruckanlagen"
+  },
+  {
+    "code": "03.01.05",
+    "term": "Spritzmaschinen / -roboter"
+  },
+  {
+    "code": "03.01.06",
+    "term": "Hochrotations-Sprühsysteme"
+  },
+  {
+    "code": "03.01.07",
+    "term": "Elektrostatische Spritzanlagen"
+  },
+  {
+    "code": "03.01.08",
+    "term": "Gießmaschinen für Lacke etc."
+  },
+  {
+    "code": "03.01.09",
+    "term": "Walzenauftragsmaschinen"
+  },
+  {
+    "code": "03.01.10",
+    "term": "Vakuum-Auftragstechnik"
+  },
+  {
+    "code": "03.01.11",
+    "term": "Tauchanlagen"
+  },
+  {
+    "code": "03.01.12",
+    "term": "Flutanlagen"
+  },
+  {
+    "code": "03.01.13",
+    "term": "Kantenbeschichtungssysteme"
+  },
+  {
+    "code": "03.01.14",
+    "term": "Trommelbeschichtungsanlagen"
+  },
+  {
+    "code": "03.01.15",
+    "term": "Spritzstände / -kabinen"
+  },
+  {
+    "code": "03.01.16",
+    "term": "Lacktrocken- / Lackhärteanlagen"
+  },
+  {
+    "code": "03.01.17",
+    "term": "Förderer für Lackieranlagen"
+  },
+  {
+    "code": "03.01.18",
+    "term": "Geräte zur Aufbereitung, Dosierung und Zuführung von flüssigen Oberflächenbehandlungsmaterialien (z.B. Lacke, Beizen etc.)"
+  },
+  {
+    "code": "03.02",
+    "term": "Oberflächenbehandlung mit festen Materialien"
+  },
+  {
+    "code": "03.02.01",
+    "term": "Maschinen und Ausrüstungen zur Pulverbeschichtung"
+  },
+  {
+    "code": "03.02.02",
+    "term": "Auftragsmaschinen für Gips (z.B. Bilderrahmenleisten)"
+  },
+  {
+    "code": "03.02.03",
+    "term": "Holzschnittmaschinen in Kombination mit Auftragseinheiten für Holzpaste"
+  },
+  {
+    "code": "03.02.99",
+    "term": "Maschinen und Ausrüstungen zum Auftragen von festen Oberflächenbehandlungsmaterialien; sonstige"
+  },
+  {
+    "code": "03.03",
+    "term": "Maschinen und Ausrüstungen für Brandmalerei und / oder Kennzeichnung"
+  },
+  {
+    "code": "04",
+    "term": "Maschinen und technische Ausrüstungen für Zusammenbau, Montage, Verpackung"
+  },
+  {
+    "code": "04.01",
+    "term": "Montagetechnik"
+  },
+  {
+    "code": "04.01.01",
+    "term": "Vormontagelinien für Möbelteile"
+  },
+  {
+    "code": "04.01.02",
+    "term": "Korpusverleimstationen"
+  },
+  {
+    "code": "04.01.02.01",
+    "term": "Leimangabestationen für Korpusteile"
+  },
+  {
+    "code": "04.01.02.02",
+    "term": "Vorsteckeinrichtungen"
+  },
+  {
+    "code": "04.01.02.03",
+    "term": "Korpuspressen"
+  },
+  {
+    "code": "04.01.03",
+    "term": "Endmontagearbeitsplätze für Möbelteile, Korpusmöbel"
+  },
+  {
+    "code": "04.01.04",
+    "term": "Endmontagelinien für Möbel"
+  },
+  {
+    "code": "04.01.05",
+    "term": "Montagearbeitsplätze und -linien für Fenster, Türen und Fassadenelemente"
+  },
+  {
+    "code": "04.01.99",
+    "term": "Montagesysteme; sonstige"
+  },
+  {
+    "code": "04.02",
+    "term": "Nagel-, Heft- und Schraubmaschinen"
+  },
+  {
+    "code": "04.02.01",
+    "term": "Nagelmaschinen"
+  },
+  {
+    "code": "04.02.02",
+    "term": "Heftmaschinen"
+  },
+  {
+    "code": "04.02.03",
+    "term": "Schraubmaschinen"
+  },
+  {
+    "code": "04.03",
+    "term": "Verpackungstechnik"
+  },
+  {
+    "code": "04.03.01",
+    "term": "Verpackungsmaschinen für Möbelteile und Korpusmöbel"
+  },
+  {
+    "code": "04.03.02",
+    "term": "Verpackungsmaschinen für Flachteile (Fußbodenelemente, Paneele etc.)"
+  },
+  {
+    "code": "04.03.03",
+    "term": "Verpackungsmaschinen für Platten, Fixmaße etc."
+  },
+  {
+    "code": "04.03.99",
+    "term": "Verpackungsmaschinen; sonstige"
+  },
+  {
+    "code": "05",
+    "term": "Förder-, Lager- und Kommissioniertechnik"
+  },
+  {
+    "code": "05.01",
+    "term": "Fördertechnik"
+  },
+  {
+    "code": "05.01.01",
+    "term": "Gelände-, Front- und Seitenstapler einschließlich Zusatzausrüstung"
+  },
+  {
+    "code": "05.01.03",
+    "term": "Hubtische"
+  },
+  {
+    "code": "05.01.04",
+    "term": "Stapel- und Paketieranlagen"
+  },
+  {
+    "code": "05.01.05",
+    "term": "Vakuumhebegeräte"
+  },
+  {
+    "code": "05.01.06",
+    "term": "Beschickeinrichtungen"
+  },
+  {
+    "code": "05.01.07",
+    "term": "Abstapeleinrichtungen"
+  },
+  {
+    "code": "05.01.08",
+    "term": "Plattendreh-, -wendestationen"
+  },
+  {
+    "code": "05.01.09",
+    "term": "Winkelübergaben"
+  },
+  {
+    "code": "05.01.10",
+    "term": "Querförderer"
+  },
+  {
+    "code": "05.01.11",
+    "term": "Rücklaufeinrichtungen"
+  },
+  {
+    "code": "05.01.12",
+    "term": "Rollenbahnen"
+  },
+  {
+    "code": "05.01.12.01",
+    "term": "Angetriebene Rollenbahnen"
+  },
+  {
+    "code": "05.01.12.02",
+    "term": "Nichtangetriebene Rollenbahnen"
+  },
+  {
+    "code": "05.01.13",
+    "term": "Bandförderer"
+  },
+  {
+    "code": "05.01.14",
+    "term": "Hängeförderer"
+  },
+  {
+    "code": "05.01.15",
+    "term": "Transportwagen, Hordenwagen etc."
+  },
+  {
+    "code": "05.01.16",
+    "term": "Kommissionswagen, -container"
+  },
+  {
+    "code": "05.01.17",
+    "term": "Rollböcke"
+  },
+  {
+    "code": "05.01.18",
+    "term": "Vorschubapparate für Tischlereimaschinen (Abrichthobelmaschinen, Tischfräsmaschinen etc.)"
+  },
+  {
+    "code": "05.01.90",
+    "term": "Spezialisierte Mechanisierungen"
+  },
+  {
+    "code": "05.01.90.01",
+    "term": "Spezialisierte Mechanisierungen für Optimierungskreissägen"
+  },
+  {
+    "code": "05.01.90.02",
+    "term": "Spezialisierte Mechanisierungen für Keilzinkenanlagen"
+  },
+  {
+    "code": "05.01.90.03",
+    "term": "Spezialisierte Mechanisierungen für Hobelanlagen"
+  },
+  {
+    "code": "05.01.90.04",
+    "term": "Spezialisierte Mechanisierungen für Sägeanlagen"
+  },
+  {
+    "code": "05.01.90.20",
+    "term": "Spezialisierte Zuführeinrichtungen für Brecher, Hacker etc."
+  },
+  {
+    "code": "05.01.90.99",
+    "term": "Spezialisierte Mechanisierungen; sonstige"
+  },
+  {
+    "code": "05.02",
+    "term": "Lager- und Kommissioniertechnik"
+  },
+  {
+    "code": "05.02.01",
+    "term": "Regalsysteme"
+  },
+  {
+    "code": "05.02.02",
+    "term": "Regalbediengeräte, Regalförderzeuge"
+  },
+  {
+    "code": "05.02.03",
+    "term": "Sortier- und Kommissioniersysteme"
+  },
+  {
+    "code": "05.02.04",
+    "term": "Lager- und Kommissioniersysteme für großformatige Plattenmaterialien"
+  },
+  {
+    "code": "05.02.99",
+    "term": "Lagersysteme; sonstige"
+  },
+  {
+    "code": "06",
+    "term": "Robotertechnik"
+  },
+  {
+    "code": "06.01",
+    "term": "Roboter zum Handhaben, Beschicken, Palettieren etc."
+  },
+  {
+    "code": "06.02",
+    "term": "Roboter zum Fügen und Montieren"
+  },
+  {
+    "code": "06.03",
+    "term": "Roboter zum Spritzen, Lackieren etc."
+  },
+  {
+    "code": "06.04",
+    "term": "Roboter zur spanenden Bearbeitung (Schleifen, Schneiden etc.)"
+  },
+  {
+    "code": "06.99",
+    "term": "Roboter; sonstige"
+  },
+  {
+    "code": "10",
+    "term": "Maschinen und Anlagen für Sonderverfahren"
+  },
+  {
+    "code": "10.01",
+    "term": "Lasertechnik"
+  },
+  {
+    "code": "10.02",
+    "term": "Hochfrequenztechnik"
+  },
+  {
+    "code": "10.03",
+    "term": "Mikrowellentechnik"
+  },
+  {
+    "code": "10.04",
+    "term": "Ultraschalltechnik"
+  },
+  {
+    "code": "10.06",
+    "term": "Thermoglätten"
+  },
+  {
+    "code": "10.07",
+    "term": "Wasserstrahlschneiden"
+  },
+  {
+    "code": "10.99",
+    "term": "Sonderverfahren; sonstige"
+  },
+  {
+    "code": "11",
+    "term": "Maschinen und Anlagen für spezialisierte Produktgruppen"
+  },
+  {
+    "code": "11.01",
+    "term": "Maschinen und Anlagen für Bauelemente"
+  },
+  {
+    "code": "11.01.01",
+    "term": "Maschinen und Anlagen für Fenster und Fassaden"
+  },
+  {
+    "code": "11.01.01.01",
+    "term": "Fertigungszentren zur Längs- und Querbearbeitung von Fensterrahmenteilen"
+  },
+  {
+    "code": "11.01.01.99",
+    "term": "Maschinen für Fenster und Fassaden; sonstige"
+  },
+  {
+    "code": "11.01.02",
+    "term": "Maschinen und Anlagen für Türen und Zargen"
+  },
+  {
+    "code": "11.01.03",
+    "term": "Maschinen und Anlagen für Holzbau"
+  },
+  {
+    "code": "11.01.03.01",
+    "term": "Abbundanlagen"
+  },
+  {
+    "code": "11.01.03.02",
+    "term": "Zimmereimaschinen"
+  },
+  {
+    "code": "11.01.04",
+    "term": "Maschinen und Anlagen für den Fertighausbau, z.B. Holzrahmenbau"
+  },
+  {
+    "code": "11.01.04.01",
+    "term": "Montagetische"
+  },
+  {
+    "code": "11.01.04.02",
+    "term": "Nagelbrücken"
+  },
+  {
+    "code": "11.01.04.03",
+    "term": "Bearbeitungszentren für Bauelemente"
+  },
+  {
+    "code": "11.01.05",
+    "term": "Maschinen und Ausrüstungen für Brettschichtholz / Holzleimbauelemente"
+  },
+  {
+    "code": "11.01.06",
+    "term": "Maschinen und Ausrüstungen für Holzfußböden / Parkett"
+  },
+  {
+    "code": "11.01.07",
+    "term": "Maschinen und Ausrüstungen für Laminatfußböden"
+  },
+  {
+    "code": "11.01.08",
+    "term": "Maschinen und Ausrüstungen für Treppenbau"
+  },
+  {
+    "code": "11.02",
+    "term": "Maschinen und Ausrüstungen für die Massivholzplattenherstellung"
+  },
+  {
+    "code": "11.03",
+    "term": "Maschinen und Ausrüstungen für die Gestellmöbelfertigung (Stühle, Tische etc.)"
+  },
+  {
+    "code": "11.04",
+    "term": "Maschinen zur Herstellung und Behandlung von Holzverpackungen (Paletten, Kisten etc.)"
+  },
+  {
+    "code": "11.04.01",
+    "term": "Maschinen und Ausrüstungen zur Palettenherstellung (stationäre Fertigung)"
+  },
+  {
+    "code": "11.04.02",
+    "term": "Palettenfertigungsstraßen"
+  },
+  {
+    "code": "11.04.03",
+    "term": "Maschinen und Ausrüstungen zur Herstellung von Verpackungen für Gemüse, Früchte (stationäre Fertigung)"
+  },
+  {
+    "code": "11.04.04",
+    "term": "Fertigungsstraßen zur Herstellung von Verpackungen für Gemüse und Früchte"
+  },
+  {
+    "code": "11.04.05",
+    "term": "Maschinen zur Herstellung von Industrieverpackungen (Kisten etc.)"
+  },
+  {
+    "code": "11.04.06",
+    "term": "Maschinen zur Herstellung von Kabeltrommeln"
+  },
+  {
+    "code": "11.04.07",
+    "term": "Anlagen zur Hitzebehandlung von Paletten und anderen Hockverpackungen"
+  },
+  {
+    "code": "11.04.08",
+    "term": "Anlagen zur Begasung von Paletten und anderen Hockverpackungen"
+  },
+  {
+    "code": "11.05",
+    "term": "Maschinen und Ausrüstungen zur Herstellung von Möbeltüren"
+  },
+  {
+    "code": "11.06",
+    "term": "Maschinen und Ausrüstungen zur Herstellung von Schubkästen"
+  },
+  {
+    "code": "11.07",
+    "term": "Maschinen und Ausrüstungen zur Herstellung von Bilderrahmen und sonstigen Rahmen"
+  },
+  {
+    "code": "11.07.01",
+    "term": "V-Schnitt-Doppelkreissägen"
+  },
+  {
+    "code": "11.07.02",
+    "term": "Klammer- / Verleimmaschinen für Rahmen"
+  },
+  {
+    "code": "11.07.03",
+    "term": "Maschinen für Metall-Verbinder und Verbindungshilfsmittel (V-Klammern etc.)"
+  },
+  {
+    "code": "11.07.04",
+    "term": "Einzelne Kapp-und Gehrungssägen"
+  },
+  {
+    "code": "11.07.05",
+    "term": "Gehrungsguillotinen"
+  },
+  {
+    "code": "11.07.06",
+    "term": "Automatisierte Systeme zur Herstellung von Rahmen"
+  },
+  {
+    "code": "11.08",
+    "term": "Maschinen und Ausrüstungen zur Herstellung von Holzfässern"
+  },
+  {
+    "code": "11.09",
+    "term": "Maschinen zur Herstellung und Verarbeitung von Isoliermaterial"
+  },
+  {
+    "code": "11.09.01",
+    "term": "Maschinen zur Herstellung von Isoliermaterial"
+  },
+  {
+    "code": "11.09.02",
+    "term": "Maschinen zur Verarbeitung von Isoliermaterial"
+  },
+  {
+    "code": "11.99",
+    "term": "Maschinen und Anlagen für verschiedene Produkte"
+  },
+  {
+    "code": "11.99.01",
+    "term": "Maschinen und Anlagen für Besen und Bürsten"
+  },
+  {
+    "code": "11.99.02",
+    "term": "Maschinen und Anlagen für Bleistifte"
+  },
+  {
+    "code": "11.99.03",
+    "term": "Maschinen und Anlagen für Holzschuhe, -sohlen, -absätze, Schuhleisten"
+  },
+  {
+    "code": "11.99.04",
+    "term": "Maschinen und Anlagen für Dübel"
+  },
+  {
+    "code": "11.99.05",
+    "term": "Maschinen und Anlagen für Masten, Palisaden, Holzzäune"
+  },
+  {
+    "code": "11.99.06",
+    "term": "Maschinen und Anlagen für Rattanmöbel"
+  },
+  {
+    "code": "11.99.07",
+    "term": "Maschinen und Anlagen für Möbelgriffe"
+  },
+  {
+    "code": "11.99.08",
+    "term": "Maschinen und Anlagen für Roll- und Klappläden"
+  },
+  {
+    "code": "11.99.09",
+    "term": "Maschinen und Anlagen für Särge"
+  },
+  {
+    "code": "11.99.10",
+    "term": "Maschinen und Anlagen für Schalungsplatten"
+  },
+  {
+    "code": "11.99.11",
+    "term": "Maschinen und Anlagen für Griffe für landwirtschaftliche Werkzeuge (für Schaufel, Spaten, Hacken, Rechen, Hammer, Pickel etc.)"
+  },
+  {
+    "code": "11.99.12",
+    "term": "Maschinen und Anlagen für Sportausrüstungen (Billardqueues, Paddel, Ruder etc.)"
+  },
+  {
+    "code": "11.99.13",
+    "term": "Maschinen und Anlagen für Zahnstocher / Essstäbchen"
+  },
+  {
+    "code": "11.99.14",
+    "term": "Maschinen und Anlagen für Zündhölzer"
+  },
+  {
+    "code": "11.99.15",
+    "term": "Maschinen und Anlagen für Holzwolle"
+  },
+  {
+    "code": "11.99.16",
+    "term": "Maschinen und Anlagen für Tierstreu"
+  },
+  {
+    "code": "11.99.17",
+    "term": "Maschinen und Anlagen für Holzschindeln"
+  },
+  {
+    "code": "11.99.18",
+    "term": "Maschinen und Anlagen für Lattenroste"
+  },
+  {
+    "code": "18",
+    "term": "Hilfsmaschinen, Geräte und Einrichtungen; sonstige"
+  },
+  {
+    "code": "18.02",
+    "term": "Umrührer"
+  },
+  {
+    "code": "18.03",
+    "term": "Wiegeanlagen"
+  },
+  {
+    "code": "18.04",
+    "term": "Hobelbänke, Arbeitstische"
+  },
+  {
+    "code": "18.05",
+    "term": "Zwingen"
+  },
+  {
+    "code": "18.99",
+    "term": "Hilfsmaschinen; sonstige"
+  },
+  {
+    "code": "19",
+    "term": "Handmaschinen zur Bearbeitung von Holz, und Kunststoff, Verbundwerkstoffen und anderen Materialien"
+  },
+  {
+    "code": "19.01",
+    "term": "Hand-Kunststoffscheren"
+  },
+  {
+    "code": "19.02",
+    "term": "Hand-Stichsägemaschinen"
+  },
+  {
+    "code": "19.03",
+    "term": "Hand-Bandsägemaschinen"
+  },
+  {
+    "code": "19.04",
+    "term": "Hand-Kreissägemaschinen"
+  },
+  {
+    "code": "19.05",
+    "term": "Hand-Entrindungsmaschinen"
+  },
+  {
+    "code": "19.06",
+    "term": "Hand-Hobelmaschinen"
+  },
+  {
+    "code": "19.07",
+    "term": "Hand-Fräsmaschinen"
+  },
+  {
+    "code": "19.08",
+    "term": "Handmaschinen für Kantenbearbeitung"
+  },
+  {
+    "code": "19.09",
+    "term": "Hand-Bohrmaschinen"
+  },
+  {
+    "code": "19.10",
+    "term": "Hand-Kettenstemmmaschinen"
+  },
+  {
+    "code": "19.11",
+    "term": "Hand-Meißelstemmmaschinen"
+  },
+  {
+    "code": "19.12",
+    "term": "Hand-Vibrationsschleifmaschinen"
+  },
+  {
+    "code": "19.13",
+    "term": "Hand-Bandschleifmaschinen"
+  },
+  {
+    "code": "19.14",
+    "term": "Hand-Scheibenschleifmaschinen"
+  },
+  {
+    "code": "19.15",
+    "term": "Hand-Nagelmaschinen"
+  },
+  {
+    "code": "19.16",
+    "term": "Hand-Heftmaschinen"
+  },
+  {
+    "code": "19.17",
+    "term": "Hand-Schraubmaschinen"
+  },
+  {
+    "code": "19.18",
+    "term": "Hand-Leimauftraggeräte"
+  },
+  {
+    "code": "19.19",
+    "term": "Hand-Spritzgeräte (z.B. Pistolen für Lacke / Klebstoffe)"
+  },
+  {
+    "code": "19.20",
+    "term": "Hand-Furnierverleimgeräte"
+  },
+  {
+    "code": "19.21",
+    "term": "Handgeführte Fußbodenschleifmaschinen"
+  },
+  {
+    "code": "19.90",
+    "term": "Koffer für Handmaschinen, Werkzeuge etc."
+  },
+  {
+    "code": "19.99",
+    "term": "Handmaschinen für Sonderzwecke"
+  },
+  {
+    "code": "20",
+    "term": "Werkzeuge und Werkzeugzubehör"
+  },
+  {
+    "code": "20.01",
+    "term": "Maschinenwerkzeuge"
+  },
+  {
+    "code": "20.01.01",
+    "term": "Bandsägeblätter"
+  },
+  {
+    "code": "20.01.01.01",
+    "term": "Bandsägeblätter für Blockbandsägen, Trenn- und Nachschnittbandsägen"
+  },
+  {
+    "code": "20.01.01.02",
+    "term": "Bandsägeblätter für Tischlerbandsägen"
+  },
+  {
+    "code": "20.01.02",
+    "term": "Gattersägeblätter"
+  },
+  {
+    "code": "20.01.02.01",
+    "term": "Gattersägeblätter aus Vollstahl"
+  },
+  {
+    "code": "20.01.02.02",
+    "term": "Gattersägeblätter, hartverchromt"
+  },
+  {
+    "code": "20.01.02.03",
+    "term": "Gattersägeblätter, bestückt mit Kobaltlegierung"
+  },
+  {
+    "code": "20.01.02.04",
+    "term": "Gattersägeblätter, Hartmetall-bestückt"
+  },
+  {
+    "code": "20.01.03",
+    "term": "Kreissägeblätter"
+  },
+  {
+    "code": "20.01.03.01",
+    "term": "Vollstahl-Kreissägeblätter"
+  },
+  {
+    "code": "20.01.03.02",
+    "term": "Kreissägeblätter, bestückt mit Kobaltlegierung"
+  },
+  {
+    "code": "20.01.03.03",
+    "term": "Hartmetall-bestückte Kreissägeblätter"
+  },
+  {
+    "code": "20.01.03.04",
+    "term": "Diamant-bestückte Kreissägeblätter"
+  },
+  {
+    "code": "20.01.04",
+    "term": "Zerspanersysteme"
+  },
+  {
+    "code": "20.01.04.01",
+    "term": "Zerspanersysteme zur Kantenbearbeitung von flächigen Werkstücken (z.B. Platten), Hartmetall-bestückt"
+  },
+  {
+    "code": "20.01.04.02",
+    "term": "Zerspanersysteme zur Kantenbearbeitung von flächigen Werkstücken (z.B. Platten), Diamant-bestückt"
+  },
+  {
+    "code": "20.01.04.03",
+    "term": "Folding-Zerspaner, Hartmetall-bestückt"
+  },
+  {
+    "code": "20.01.04.04",
+    "term": "Folding-Zerspaner, Diamant-bestückt"
+  },
+  {
+    "code": "20.01.04.05",
+    "term": "Zerspaner zur Bearbeitung von nichtflächigen Werkstücken, z.B. Kanteln"
+  },
+  {
+    "code": "20.01.05",
+    "term": "Messerwellen"
+  },
+  {
+    "code": "20.01.06",
+    "term": "Fräswerkzeuge mit Bohrung (Fräser und Messerköpfe)"
+  },
+  {
+    "code": "20.01.06.01",
+    "term": "Fräswerkzeuge mit Bohrung aus Vollstahl"
+  },
+  {
+    "code": "20.01.06.02",
+    "term": "Fräswerkzeuge mit Bohrung, Hartmetall- / Spezialstahl-bestückt"
+  },
+  {
+    "code": "20.01.06.03",
+    "term": "Fräswerkzeuge mit Bohrung, mit Hartmetall- / Spezialstahl-Wechselschneiden"
+  },
+  {
+    "code": "20.01.06.04",
+    "term": "Fräswerkzeuge mit Bohrung, Diamant-bestückt"
+  },
+  {
+    "code": "20.01.07",
+    "term": "Schaft-Fräswerkzeuge"
+  },
+  {
+    "code": "20.01.07.01",
+    "term": "Schaft-Fräswerkzeuge für Oberfräsen"
+  },
+  {
+    "code": "20.01.07.03",
+    "term": "Schaft-Fräswerkzeuge für Handmaschinen"
+  },
+  {
+    "code": "20.01.07.10",
+    "term": "Schaft-Fräswerkzeuge für CNC-Oberfräsen und Bearbeitungszentren aus Vollstahl"
+  },
+  {
+    "code": "20.01.07.11",
+    "term": "Schaft-Fräswerkzeuge für CNC-Oberfräsen und Bearbeitungszentren, Hartmetall- / Spezialstahl-bestückt"
+  },
+  {
+    "code": "20.01.07.12",
+    "term": "Schaft-Fräswerkzeuge für CNC-Oberfräsen und Bearbeitungszentren, mit Hartmetall- / Spezialstahl-Wechselschneiden"
+  },
+  {
+    "code": "20.01.07.13",
+    "term": "Schaft-Fräswerkzeuge für CNC-Oberfräsen und Bearbeitungszentren, Diamant-bestückt"
+  },
+  {
+    "code": "20.01.07.99",
+    "term": "Schaft-Fräswerkzeuge; sonstige"
+  },
+  {
+    "code": "20.01.08",
+    "term": "Bohrwerkzeuge"
+  },
+  {
+    "code": "20.01.08.01",
+    "term": "Spiralbohrer"
+  },
+  {
+    "code": "20.01.08.02",
+    "term": "Durchgangsbohrer"
+  },
+  {
+    "code": "20.01.08.03",
+    "term": "Dübelbohrer"
+  },
+  {
+    "code": "20.01.08.04",
+    "term": "Zylinderkopfbohrer"
+  },
+  {
+    "code": "20.01.08.05",
+    "term": "Stufenbohrer"
+  },
+  {
+    "code": "20.01.08.06",
+    "term": "Senker"
+  },
+  {
+    "code": "20.01.08.07",
+    "term": "Zapfenbohrer für Querholzdübel"
+  },
+  {
+    "code": "20.01.09",
+    "term": "Werkzeugsysteme zur Fenster- und Türenherstellung inkl. Zapfen- und Schlitzfräswerkzeuge"
+  },
+  {
+    "code": "20.01.10",
+    "term": "Fräswerkzeuge mit integriertem Schaftkegel (Fräser und Messerköpfe)"
+  },
+  {
+    "code": "20.01.10.01",
+    "term": "Fräswerkzeuge mit integriertem Schaftkegel aus Vollstahl"
+  },
+  {
+    "code": "20.01.10.02",
+    "term": "Fräswerkzeuge mit integriertem Schaftkegel, Hartmetall- / Spezialstahl-bestückt"
+  },
+  {
+    "code": "20.01.10.03",
+    "term": "Fräswerkzeuge mit integriertem Schaftkegel, mit Hartmetall- / Spezialstahl-Wechselschneiden"
+  },
+  {
+    "code": "20.01.10.04",
+    "term": "Fräswerkzeuge mit integriertem Schaftkegel, Diamant-bestückt"
+  },
+  {
+    "code": "20.01.50",
+    "term": "Maschinenwerkzeuge; sonstige"
+  },
+  {
+    "code": "20.01.50.01",
+    "term": "Schwingmeißel und Zubehör"
+  },
+  {
+    "code": "20.01.50.02",
+    "term": "Fräskettenwerkzeuge und Zubehör"
+  },
+  {
+    "code": "20.01.50.03",
+    "term": "Ziehklingen und Zubehör"
+  },
+  {
+    "code": "20.01.50.04",
+    "term": "Dreh- und Formstahlwerkzeuge"
+  },
+  {
+    "code": "20.01.50.05",
+    "term": "Sägeketten"
+  },
+  {
+    "code": "20.01.50.06",
+    "term": "Stammblätter für Kreissägen"
+  },
+  {
+    "code": "20.01.90",
+    "term": "Werkzeuge für spezielle Werkstoffe"
+  },
+  {
+    "code": "20.01.90.01",
+    "term": "Werkzeuge zur Bearbeitung von Leichtmetall"
+  },
+  {
+    "code": "20.01.90.02",
+    "term": "Werkzeuge zur Bearbeitung von Glas"
+  },
+  {
+    "code": "20.01.90.03",
+    "term": "Werkzeuge zur Bearbeitung von Stein"
+  },
+  {
+    "code": "20.01.90.04",
+    "term": "Werkzeuge zur Bearbeitung von Mineralstoffen"
+  },
+  {
+    "code": "20.01.90.99",
+    "term": "Werkzeuge für spezielle Werkstoffe; sonstige"
+  },
+  {
+    "code": "20.02",
+    "term": "Messer, Schneidplatten, Zerspaner-Segmente etc."
+  },
+  {
+    "code": "20.02.01",
+    "term": "Streifenhobelmesser für Fräswerkzeuge, Messerköpfe, Messerwellen"
+  },
+  {
+    "code": "20.02.02",
+    "term": "Wendeplatten, Wendemesser"
+  },
+  {
+    "code": "20.02.03",
+    "term": "Stützplatten, Spandickenbegrenzer"
+  },
+  {
+    "code": "20.02.04",
+    "term": "Blanketts"
+  },
+  {
+    "code": "20.02.05",
+    "term": "Zerspanersegmente"
+  },
+  {
+    "code": "20.02.06",
+    "term": "Kobalt-Gußlegierungen"
+  },
+  {
+    "code": "20.02.07",
+    "term": "Halbfertigprodukte aus Hartmetall, z.B. Stangen, Streifen, Zähne für Sägeblätter etc."
+  },
+  {
+    "code": "20.02.08",
+    "term": "Hackmesser"
+  },
+  {
+    "code": "20.02.09",
+    "term": "Kreismesser"
+  },
+  {
+    "code": "20.02.10",
+    "term": "Schäl- und Furniermesser"
+  },
+  {
+    "code": "20.02.11",
+    "term": "Halbfertigprodukte aus PKD, z.B. Scheiben, Segmente, Zähne für Sägeblätter etc."
+  },
+  {
+    "code": "20.03",
+    "term": "Werkzeug-Spannsysteme"
+  },
+  {
+    "code": "20.03.01",
+    "term": "Spannsysteme für Kreissägeblätter"
+  },
+  {
+    "code": "20.03.02",
+    "term": "Spannsysteme für Bohrungs-Fräswerkzeuge"
+  },
+  {
+    "code": "20.03.03",
+    "term": "Spannsysteme für Schaft-Fräswerkzeuge"
+  },
+  {
+    "code": "20.03.04",
+    "term": "Spannsysteme für Bohrer"
+  },
+  {
+    "code": "20.04",
+    "term": "Werkzeugmess- und -einstellsysteme"
+  },
+  {
+    "code": "20.04.01",
+    "term": "Werkzeugmess- und -einstellgeräte"
+  },
+  {
+    "code": "20.04.02",
+    "term": "Werkzeugmess- und -einstelllehren"
+  },
+  {
+    "code": "20.05",
+    "term": "Werkzeug-Management-Systeme"
+  },
+  {
+    "code": "20.05.01",
+    "term": "Werkzeugcodierung und -kennzeichnung"
+  },
+  {
+    "code": "20.05.02",
+    "term": "Software für Werkzeug-Management-Systeme"
+  },
+  {
+    "code": "20.06",
+    "term": "Schleif- und Polierwerkzeuge"
+  },
+  {
+    "code": "20.06.01",
+    "term": "Schmalbänder zum Schleifen"
+  },
+  {
+    "code": "20.06.02",
+    "term": "Breitbänder zum Schleifen"
+  },
+  {
+    "code": "20.06.03",
+    "term": "Polierwerkzeuge"
+  },
+  {
+    "code": "20.06.04",
+    "term": "Schleifscheiben (für Holzschliff)"
+  },
+  {
+    "code": "20.06.05",
+    "term": "Schleifbürsten"
+  },
+  {
+    "code": "20.06.06",
+    "term": "Profil-Schleifwerkzeuge"
+  },
+  {
+    "code": "20.06.99",
+    "term": "Schleifwerkzeuge und -mittel wie Schleifvlies-Walzen etc.; sonstige"
+  },
+  {
+    "code": "20.07",
+    "term": "Zubehör und Ersatzteile für Maschinenwerkzeuge (z.B. Spannkeile, Zwischen- und Anlaufringe, Schleifvorrichtungen etc.)"
+  },
+  {
+    "code": "20.08",
+    "term": "Handwerkzeuge"
+  },
+  {
+    "code": "20.08.01",
+    "term": "Hand-Sägen"
+  },
+  {
+    "code": "20.08.02",
+    "term": "Hand-Hobel"
+  },
+  {
+    "code": "20.08.03",
+    "term": "Stemmeisen, Drechseleisen, Bildhauer-Werkzeuge etc."
+  },
+  {
+    "code": "20.08.04",
+    "term": "Hämmer"
+  },
+  {
+    "code": "20.08.05",
+    "term": "Werkzeuge zum Messen und Anreissen"
+  },
+  {
+    "code": "20.08.99",
+    "term": "Handwerkzeuge; sonstige"
+  },
+  {
+    "code": "20.09",
+    "term": "Spann- und Führungseinrichtungen für Werkzeuge"
+  },
+  {
+    "code": "20.09.01",
+    "term": "Sägespanner, Gatterlehren und Angeln"
+  },
+  {
+    "code": "20.09.02",
+    "term": "Bandsägeblattführungen"
+  },
+  {
+    "code": "20.09.03",
+    "term": "Führungsschienen für Sägeketten"
+  },
+  {
+    "code": "20.09.04",
+    "term": "Frässpindeln"
+  },
+  {
+    "code": "21",
+    "term": "Maschinen, Geräte und Werkzeuge zur Pflege, Instandhaltung und Herstellung von Werkzeugen"
+  },
+  {
+    "code": "21.01",
+    "term": "Maschinen, Geräte und Werkzeuge zur Pflege, Instandhaltung und Herstellung von Maschinenwerkzeugen"
+  },
+  {
+    "code": "21.01.01",
+    "term": "Sägenschärfmaschinen"
+  },
+  {
+    "code": "21.01.02",
+    "term": "Sägenfeilmaschinen"
+  },
+  {
+    "code": "21.01.03",
+    "term": "Schränk-, Stauch- und Egalisiermaschinen"
+  },
+  {
+    "code": "21.01.04",
+    "term": "Sägenlöt- und -schweißapparate"
+  },
+  {
+    "code": "21.01.05",
+    "term": "Walz- und Planiermaschinen für Sägeblätter"
+  },
+  {
+    "code": "21.01.06",
+    "term": "Härtmaschinen für Sägezahnspitzen"
+  },
+  {
+    "code": "21.01.07",
+    "term": "Bandsägeblatt-Trenn- und -Schäftmaschinen"
+  },
+  {
+    "code": "21.01.08",
+    "term": "Messer-Schärfmaschinen"
+  },
+  {
+    "code": "21.01.08.01",
+    "term": "Messer-Schärfmaschinen für Hobel-, Hack- und Zerspanermesser"
+  },
+  {
+    "code": "21.01.08.02",
+    "term": "Messer-Schärfmaschinen für Furniermesser (Schäl- / Scherenmesser)"
+  },
+  {
+    "code": "21.01.08.03",
+    "term": "Messer-Schärfmaschinen für Messerringe, Kreismesser"
+  },
+  {
+    "code": "21.01.08.90",
+    "term": "Spannsysteme für Messer-Schärfmaschinen"
+  },
+  {
+    "code": "21.01.09",
+    "term": "Schärfmaschinen für Ziehklingen"
+  },
+  {
+    "code": "21.01.10",
+    "term": "Schärfmaschinen für Fräser"
+  },
+  {
+    "code": "21.01.11",
+    "term": "Schärfmaschinen für Bohrer und Oberfräser"
+  },
+  {
+    "code": "21.01.12",
+    "term": "Schärfmaschinen für Kettenwerkzeuge"
+  },
+  {
+    "code": "21.01.13",
+    "term": "Universal-Werkzeugschärfmaschinen"
+  },
+  {
+    "code": "21.01.14",
+    "term": "Schärfmaschinen für hartmetallbestückte Säge-, Fräs- und Hobelwerkzeuge"
+  },
+  {
+    "code": "21.01.15",
+    "term": "Schärfmaschinen für Diamantwerkzeuge"
+  },
+  {
+    "code": "21.01.50",
+    "term": "Reinigungsmaschinen / -geräte für Werkzeuge"
+  },
+  {
+    "code": "21.01.60",
+    "term": "Schleifscheiben zum Werkzeugschärfen (ausser Diamantschleifscheiben)"
+  },
+  {
+    "code": "21.01.61",
+    "term": "Diamant-Schleifscheiben zum Werkzeugschärfen"
+  },
+  {
+    "code": "21.01.90",
+    "term": "Schärfmaschinen für spezielle Anwendungen"
+  },
+  {
+    "code": "21.01.99",
+    "term": "Spezial-Schärfmaschinen"
+  },
+  {
+    "code": "21.02",
+    "term": "Maschinen, Geräte und Werkzeuge zur Pflege, Instandhaltung und Herstellung von Maschinenwerkzeugen; sonstige"
+  },
+  {
+    "code": "22",
+    "term": "Maschinen, Geräte und Werkzeuge zur Pflege, Instandhaltung und Herstellung von Handwerkzeugen"
+  },
+  {
+    "code": "22.01",
+    "term": "Erzeugnisse für die Ausrüstung von Maschinen"
+  },
+  {
+    "code": "22.01.01",
+    "term": "Antriebssysteme"
+  },
+  {
+    "code": "22.01.01.01",
+    "term": "Elektrische Motoren"
+  },
+  {
+    "code": "22.01.01.03",
+    "term": "Getriebemotoren"
+  },
+  {
+    "code": "22.01.01.04",
+    "term": "Frequenzumrichter"
+  },
+  {
+    "code": "22.01.01.05",
+    "term": "Elektronische Antriebe"
+  },
+  {
+    "code": "22.01.01.06",
+    "term": "Linearantriebe / Elektrozylinder"
+  },
+  {
+    "code": "22.01.01.07",
+    "term": "Elektrische, elektronische und magnetische Schalt- und Steuerungsgeräte und -einrichtungen"
+  },
+  {
+    "code": "22.01.01.99",
+    "term": "Elektrische Antriebselemente; sonstige"
+  },
+  {
+    "code": "22.01.02",
+    "term": "Pneumatische Antriebselemente"
+  },
+  {
+    "code": "22.01.02.02",
+    "term": "Pneumatische Ausrüstungen und Komponenten"
+  },
+  {
+    "code": "22.01.02.03",
+    "term": "Pneumatische Steuerungen und Regelungen"
+  },
+  {
+    "code": "22.01.03",
+    "term": "Hydraulische Antriebselemente"
+  },
+  {
+    "code": "22.01.03.01",
+    "term": "Hydraulische Ausrüstungen und Komponenten"
+  },
+  {
+    "code": "22.01.03.02",
+    "term": "Hydraulische Steuerungen und Regelungen"
+  },
+  {
+    "code": "22.01.10",
+    "term": "Komponenten und Zubehör für Antriebssysteme"
+  },
+  {
+    "code": "22.01.10.01",
+    "term": "Geschwindigkeitsreduzierer, -regler"
+  },
+  {
+    "code": "22.01.10.02",
+    "term": "Kupplungen und Bremsen"
+  },
+  {
+    "code": "22.01.10.03",
+    "term": "Kugel- und Präzisionslager"
+  },
+  {
+    "code": "22.01.10.04",
+    "term": "Linearführungen, -module"
+  },
+  {
+    "code": "22.01.10.99",
+    "term": "Komponenten und Zubehör für Antriebssysteme; sonstige"
+  },
+  {
+    "code": "22.01.20",
+    "term": "Kompressoren"
+  },
+  {
+    "code": "22.02",
+    "term": "Bearbeitungseinheiten"
+  },
+  {
+    "code": "22.02.01",
+    "term": "Sägeeinheiten"
+  },
+  {
+    "code": "22.02.02",
+    "term": "Hobeleinheiten"
+  },
+  {
+    "code": "22.02.03",
+    "term": "Fräseinheiten"
+  },
+  {
+    "code": "22.02.04",
+    "term": "Bohreinheiten"
+  },
+  {
+    "code": "22.02.05",
+    "term": "Stemmeinheiten"
+  },
+  {
+    "code": "22.02.06",
+    "term": "Schleif- und Poliereinheiten"
+  },
+  {
+    "code": "22.02.07",
+    "term": "Spritzeinheiten"
+  },
+  {
+    "code": "22.02.08",
+    "term": "Beleimeinheiten"
+  },
+  {
+    "code": "22.02.09",
+    "term": "Montageeinheiten (für Schrauben, Beschläge etc.)"
+  },
+  {
+    "code": "22.02.10",
+    "term": "Hochfrequenz- und Mikrowellen-Geräte"
+  },
+  {
+    "code": "22.02.11",
+    "term": "Werkzeugwechsler für CNC-Maschinen"
+  },
+  {
+    "code": "22.02.12",
+    "term": "Nocken und Einrichtungen mit Nocken"
+  },
+  {
+    "code": "22.02.13",
+    "term": "Antistatik-Systeme"
+  },
+  {
+    "code": "22.03",
+    "term": "Spann- und Führungseinrichtungen für Werkstücke"
+  },
+  {
+    "code": "22.03.01",
+    "term": "Laserprojektoren, Richtlichtgeräte"
+  },
+  {
+    "code": "22.03.02",
+    "term": "Werkstückanschläge"
+  },
+  {
+    "code": "22.03.02.01",
+    "term": "Mechanisch positionierbare Werkstückanschläge"
+  },
+  {
+    "code": "22.03.02.02",
+    "term": "Elektronisch positionierbare Werkstückanschläge"
+  },
+  {
+    "code": "22.03.03",
+    "term": "Werkstück-Spannelemente"
+  },
+  {
+    "code": "22.03.04",
+    "term": "Vakuumsysteme"
+  },
+  {
+    "code": "22.03.04.01",
+    "term": "Pumpen und Komponenten für Vakuumsysteme"
+  },
+  {
+    "code": "22.03.04.02",
+    "term": "Werkstückansauggeräte"
+  },
+  {
+    "code": "22.03.04.03",
+    "term": "Zentrale Vakuumsysteme"
+  },
+  {
+    "code": "22.03.05",
+    "term": "Zinkenfräsapparate"
+  },
+  {
+    "code": "22.03.06",
+    "term": "Dübellochbohrlehren"
+  },
+  {
+    "code": "22.04",
+    "term": "Mechanische Bedien- und Spannelemente für Maschinen, Vorrichtungen und Fördereinrichtungen (Handräder, Spannhebel, Knöpfe etc.)"
+  },
+  {
+    "code": "22.05",
+    "term": "Betriebsstoffe"
+  },
+  {
+    "code": "22.05.01",
+    "term": "Schmierstoffe"
+  },
+  {
+    "code": "22.05.02",
+    "term": "Lote und Flussmittel"
+  },
+  {
+    "code": "22.99",
+    "term": "Ausrüstungsteile; sonstige"
+  },
+  {
+    "code": "22.99.01",
+    "term": "Pumpen, Ventile, Rohranlagen"
+  },
+  {
+    "code": "22.99.02",
+    "term": "Entwässerungssiebe"
+  },
+  {
+    "code": "22.99.03",
+    "term": "Bleche, Siebe und Kunststoffunterlagen für Pressen"
+  },
+  {
+    "code": "22.99.04",
+    "term": "Pressbänder für kontinuierlich arbeitende Pressen"
+  },
+  {
+    "code": "22.99.05",
+    "term": "Heizplatten und -stäbe"
+  },
+  {
+    "code": "22.99.06",
+    "term": "Pressformen und Walzen für Formteile aus Spänen, Fasern, Kunststoffen oder zum Beschichten"
+  },
+  {
+    "code": "22.99.07",
+    "term": "Förderelemente"
+  },
+  {
+    "code": "22.99.07.01",
+    "term": "Walzen und Räder"
+  },
+  {
+    "code": "22.99.07.02",
+    "term": "Transportbänder"
+  },
+  {
+    "code": "22.99.07.99",
+    "term": "Förderelemente; sonstige"
+  },
+  {
+    "code": "22.99.08",
+    "term": "Nichtelektronische Steuer- und Regelgeräte"
+  },
+  {
+    "code": "22.99.09",
+    "term": "Zentralschmierungen"
+  },
+  {
+    "code": "22.99.10",
+    "term": "Bandschleifschuhe"
+  },
+  {
+    "code": "22.99.11",
+    "term": "Filter, Filterpatronen und -elemente"
+  },
+  {
+    "code": "22.99.12",
+    "term": "Energieführungen"
+  },
+  {
+    "code": "22.99.13",
+    "term": "UV-Strahler / -Lampen zur UV-Lackhärtung"
+  },
+  {
+    "code": "22.99.14",
+    "term": "Stachelwalzen und -räder für den Holzeinzug"
+  },
+  {
+    "code": "22.99.15",
+    "term": "Antriebs- und Förderketten"
+  },
+  {
+    "code": "30",
+    "term": "Restholzverwertung (Staub, Späne, Stückholz, Rinde), Energieerzeugung und Heizen mit Holzbrennstoffen"
+  },
+  {
+    "code": "30.01",
+    "term": "Staub-, Späne-, Brenn- und Restholzaufbereitung, -förderung und -lagerung"
+  },
+  {
+    "code": "30.01.01",
+    "term": "Spaltmaschinen für Rundholz, Brennholz etc."
+  },
+  {
+    "code": "30.01.02",
+    "term": "Hackmaschinen"
+  },
+  {
+    "code": "30.01.02.01",
+    "term": "Stationäre Hackmaschinen"
+  },
+  {
+    "code": "30.01.02.02",
+    "term": "Mobile Hackmaschinen"
+  },
+  {
+    "code": "30.01.03",
+    "term": "Zerkleinerer (Langsamläufer)"
+  },
+  {
+    "code": "30.01.04",
+    "term": "Brennholzsägen"
+  },
+  {
+    "code": "30.01.05",
+    "term": "Brennholzbündelmaschinen"
+  },
+  {
+    "code": "30.01.06",
+    "term": "Brikettieranlagen"
+  },
+  {
+    "code": "30.01.07",
+    "term": "Holzpelletierpressen"
+  },
+  {
+    "code": "30.01.12",
+    "term": "Kehrmaschinen"
+  },
+  {
+    "code": "30.01.13",
+    "term": "Holzpelletlagerung und -transport"
+  },
+  {
+    "code": "30.01.14",
+    "term": "Komplette Holzpelletieranlagen"
+  },
+  {
+    "code": "30.01.15",
+    "term": "Trockner für Material zur Herstellung von Holzpellets"
+  },
+  {
+    "code": "30.01.16",
+    "term": "Trockner für Holzbrennstoffe"
+  },
+  {
+    "code": "30.01.20",
+    "term": "Späne- und Staubabsaugungstechnik"
+  },
+  {
+    "code": "30.01.20.01",
+    "term": "Späne- und Staubabsaugungsanlagen (einschl. Filter)"
+  },
+  {
+    "code": "30.01.20.02",
+    "term": "Absauganlagen"
+  },
+  {
+    "code": "30.01.20.03",
+    "term": "Entstauber"
+  },
+  {
+    "code": "30.01.20.04",
+    "term": "Filternde Abscheider"
+  },
+  {
+    "code": "30.01.20.05",
+    "term": "Silos"
+  },
+  {
+    "code": "30.01.20.06",
+    "term": "Industriestaubsauger"
+  },
+  {
+    "code": "30.01.20.07",
+    "term": "Ventilatoren"
+  },
+  {
+    "code": "30.01.20.08",
+    "term": "Warmlufterzeuger"
+  },
+  {
+    "code": "30.01.20.09",
+    "term": "Systeme zur Überwachung des Reststaubgehaltes"
+  },
+  {
+    "code": "30.01.20.10",
+    "term": "Spezialisierte Steuerungen für Späne- und Staubabsaugungsanlagen"
+  },
+  {
+    "code": "30.01.20.99",
+    "term": "Späne- und Staubabsaugungstechnik; sonstige"
+  },
+  {
+    "code": "30.02",
+    "term": "Energieerzeugung und Heizen mit Holzbrennstoffen"
+  },
+  {
+    "code": "30.02.01",
+    "term": "Kesselanlagen mit Feuerungen für Holzbrennstoffe (Stückholz, Holzspäne und -staub etc.)"
+  },
+  {
+    "code": "30.02.02",
+    "term": "Holzfeuerungsanlagen zur Heißgaserzeugung"
+  },
+  {
+    "code": "30.02.03",
+    "term": "Anlagen zur Holzgaserzeugung"
+  },
+  {
+    "code": "30.02.04",
+    "term": "Holzfeuerungsanlagen zur Stromerzeugung"
+  },
+  {
+    "code": "30.02.05",
+    "term": "Kamine, Öfen, Einzelfeuerungen"
+  },
+  {
+    "code": "30.02.99",
+    "term": "Anlagen, Geräte und Hilfseinrichtungen zur Energieerzeugung; sonstige"
+  },
+  {
+    "code": "31",
+    "term": "Energieeinsparung, Klimatechnik, Umwelt-, Arbeits-, Brandschutz"
+  },
+  {
+    "code": "31.01",
+    "term": "Energieeinsparung"
+  },
+  {
+    "code": "31.01.01",
+    "term": "Anlagen und Geräte zur Energierückgewinnung"
+  },
+  {
+    "code": "31.01.02",
+    "term": "Energiesparende Lufttransportsysteme und Hilfseinrichtungen"
+  },
+  {
+    "code": "31.01.99",
+    "term": "Anlagen, Geräte und Hilfseinrichtungen zur Energieeinsparung; sonstige"
+  },
+  {
+    "code": "31.02",
+    "term": "Sicherheitstechnik"
+  },
+  {
+    "code": "31.03",
+    "term": "Umweltschutz"
+  },
+  {
+    "code": "31.03.01",
+    "term": "Reinigungsanlagen für Wasser und flüssige Chemikalien"
+  },
+  {
+    "code": "31.03.02",
+    "term": "Umweltfreundliche Betriebs- und Schmierstoffe"
+  },
+  {
+    "code": "31.03.03",
+    "term": "Anlagen und Einrichtungen zur Abluft- und Abgasreinigung"
+  },
+  {
+    "code": "31.03.04",
+    "term": "Verbrennungsanlagen für Chemikalien (z.B. Lacke, Leime, Folien)"
+  },
+  {
+    "code": "31.04",
+    "term": "Arbeitsschutz"
+  },
+  {
+    "code": "31.04.01",
+    "term": "Schallschutzeinrichtungen (z.B. Schallschutzkabinen)"
+  },
+  {
+    "code": "31.04.02",
+    "term": "Schutzvorrichtungen für Maschinen"
+  },
+  {
+    "code": "31.04.03",
+    "term": "Schutzkleidung und -ausrüstungen (auch Arbeitskleidung)"
+  },
+  {
+    "code": "31.05",
+    "term": "Brand- und Explosionsschutztechnik"
+  },
+  {
+    "code": "31.05.01",
+    "term": "Feuermeldesysteme"
+  },
+  {
+    "code": "31.05.02",
+    "term": "Feuer- und Funkenlöschanlagen"
+  },
+  {
+    "code": "31.05.03",
+    "term": "Sprinklersysteme"
+  },
+  {
+    "code": "31.05.04",
+    "term": "Explosionsschutzsysteme"
+  },
+  {
+    "code": "31.06",
+    "term": "Anlagen zur Klimatisierung"
+  },
+  {
+    "code": "31.06.01",
+    "term": "Klimageräte"
+  },
+  {
+    "code": "31.06.02",
+    "term": "Klimakammern"
+  },
+  {
+    "code": "31.06.03",
+    "term": "Befeuchtungsanlagen, Luftbefeuchter"
+  },
+  {
+    "code": "31.06.04",
+    "term": "Mess- und Regeleinrichtungen zur Klimatisierung"
+  },
+  {
+    "code": "40",
+    "term": "Elektronische Geräte zur Datenerfassung und Datenverarbeitung; Mess-, Prüf- und Regeltechnik"
+  },
+  {
+    "code": "40.01",
+    "term": "Elektronische Geräte zur Datenerfassung und Datenverarbeitung"
+  },
+  {
+    "code": "40.01.01",
+    "term": "Numerische Steuerungen"
+  },
+  {
+    "code": "40.01.02",
+    "term": "CAM-Systeme"
+  },
+  {
+    "code": "40.01.03",
+    "term": "NC-Programmiersysteme"
+  },
+  {
+    "code": "40.01.04",
+    "term": "Identifikationssysteme zur Teileerkennung und -bezeichnung (Barcode etc.)"
+  },
+  {
+    "code": "40.01.05",
+    "term": "Bilddatenerfassungs- und -verarbeitungssysteme zur Farb- und Strukturerkennung, Oberflächenüberwachung und -vermessung etc."
+  },
+  {
+    "code": "40.01.06",
+    "term": "Elektronische Geräte zur Datenerfassung und Datenverarbeitung für spezielle Fertigungssektoren oder Einsatzgebiete"
+  },
+  {
+    "code": "40.01.06.01",
+    "term": "Elektronische Geräte zur Datenerfassung und Datenverarbeitung für Rundholzplätze und Sägewerke"
+  },
+  {
+    "code": "40.01.06.02",
+    "term": "Elektronische Geräte zur Datenerfassung und Datenverarbeitung für Furnierwerke"
+  },
+  {
+    "code": "40.01.06.03",
+    "term": "Elektronische Geräte zur Datenerfassung und Datenverarbeitung im Furnierzuschnitt und Furnierzusammensetzerei"
+  },
+  {
+    "code": "40.01.06.04",
+    "term": "Elektronische Geräte zur Datenerfassung und Datenverarbeitung zur Möbelherstellung"
+  },
+  {
+    "code": "40.01.06.05",
+    "term": "Elektronische Geräte zur Datenerfassung und Datenverarbeitung zur Holzwerkstoffherstellung"
+  },
+  {
+    "code": "40.02",
+    "term": "Mess-, Prüf- und Regeltechnik"
+  },
+  {
+    "code": "40.02.01",
+    "term": "Werkstückmessung"
+  },
+  {
+    "code": "40.02.02",
+    "term": "Werkstoffprüfung und -fehlererkennung"
+  },
+  {
+    "code": "40.02.03",
+    "term": "Fertigungsüberwachung"
+  },
+  {
+    "code": "40.02.04",
+    "term": "Metallsuch- und -entfernungsgeräte"
+  },
+  {
+    "code": "40.02.99",
+    "term": "Mess- und Prüfgeräte; sonstige"
+  },
+  {
+    "code": "80",
+    "term": "Lieferung von Gesamtanlagen, Finanzierungs- und Leasing-Unternehmen"
+  },
+  {
+    "code": "80.01",
+    "term": "Generalunternehmer für die Lieferung von Gesamtanlagen"
+  },
+  {
+    "code": "80.01.01",
+    "term": "Generalunternehmer für Sägewerksausrüstungen"
+  },
+  {
+    "code": "80.01.02",
+    "term": "Generalunternehmer für Furnier- und Sperrholzanlagen"
+  },
+  {
+    "code": "80.01.03",
+    "term": "Generalunternehmer für Anlagen zur Herstellung von festen Beschichtungsmaterialien (Schichtpressstoffplatten, Filme etc.)"
+  },
+  {
+    "code": "80.01.04",
+    "term": "Generalunternehmer für Anlagen zur Span-, Faserplatten-, OSB-Herstellung"
+  },
+  {
+    "code": "80.01.05",
+    "term": "Generalunternehmer für Anlagen der Möbelindustrie"
+  },
+  {
+    "code": "80.01.06",
+    "term": "Generalunternehmer für Anlagen zur Massivholzverarbeitung"
+  },
+  {
+    "code": "80.01.07",
+    "term": "Generalunternehmer für Anlagen zur Herstellung von Holzbauelementen (Fenster, Fassaden etc.)"
+  },
+  {
+    "code": "80.01.08",
+    "term": "Generalunternehmer für Anlagen des Holzbaus, Holzhausbaus"
+  },
+  {
+    "code": "80.01.09",
+    "term": "Generalunternehmer für Anlagen zur Laminatbodenherstellung"
+  },
+  {
+    "code": "80.01.10",
+    "term": "Generalunternehmer für Anlagen zur Parkettherstellung"
+  },
+  {
+    "code": "80.01.11",
+    "term": "Generalunternehmer für Anlagen zur Massivholzplattenherstellung"
+  },
+  {
+    "code": "80.01.12",
+    "term": "Generalunternehmer für Anlagen zur Herstellung von mineralisch (zement-) gebundenen Holzwerkstoffplatten"
+  },
+  {
+    "code": "80.01.99",
+    "term": "Generalunternehmer, sonstige"
+  },
+  {
+    "code": "80.02",
+    "term": "Finanzierungsunternehmen"
+  },
+  {
+    "code": "80.03",
+    "term": "Leasing-Unternehmen"
+  },
+  {
+    "code": "90",
+    "term": "Maschinenhersteller-neutrale Software-Komplettlösungen (CAD, ERP, PPS etc.)"
+  },
+  {
+    "code": "90.01",
+    "term": "Software für Sägewerke und Rundholzplätze"
+  },
+  {
+    "code": "90.02",
+    "term": "Software für Furnier- und Sperrholzerzeugung"
+  },
+  {
+    "code": "90.03",
+    "term": "Software für Span-, Faserplatten-, OSB-Herstellung"
+  },
+  {
+    "code": "90.04",
+    "term": "Software für die Furnierverarbeitung"
+  },
+  {
+    "code": "90.05",
+    "term": "Software für die Massivholzverarbeitung"
+  },
+  {
+    "code": "90.06",
+    "term": "Software für die Möbelindustrie"
+  },
+  {
+    "code": "90.07",
+    "term": "Software für den Fensterbau"
+  },
+  {
+    "code": "90.08",
+    "term": "Software für den Holzbau"
+  },
+  {
+    "code": "90.09",
+    "term": "Software für das Holzhandwerk"
+  },
+  {
+    "code": "90.10",
+    "term": "Software für den Treppenbau"
+  },
+  {
+    "code": "90.11",
+    "term": "Software für den Holzhandel"
+  },
+  {
+    "code": "90.50",
+    "term": "Standard-Software für die Holzwirtschaft (ERP, Materialwirtschaft, Personal-Management, Kostenrechnung etc.)"
+  },
+  {
+    "code": "90.99",
+    "term": "Maschinenhersteller-neutrale Software; sonstige"
+  },
+  {
+    "code": "95",
+    "term": "Unabhängige Ingenieur- und Dienstleistungen für die Holzwirtschaft"
+  },
+  {
+    "code": "95.01",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für die Holzwirtschaft"
+  },
+  {
+    "code": "95.01.01",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für Sägewerke"
+  },
+  {
+    "code": "95.01.02",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für Furnier- und Sperrholzwerke"
+  },
+  {
+    "code": "95.01.03",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für die Herstellung von festen Beschichtungsmaterialien (Schichtpressstoffe, Filme, Folien etc.)"
+  },
+  {
+    "code": "95.01.04",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für die Span-, Faserplatten-, OSB-Herstellung"
+  },
+  {
+    "code": "95.01.05",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für die Möbelindustrie"
+  },
+  {
+    "code": "95.01.06",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für Massivholztrocknung-, dämpfen"
+  },
+  {
+    "code": "95.01.07",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für die Massivholzverarbeitung"
+  },
+  {
+    "code": "95.01.08",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für den Fensterbau"
+  },
+  {
+    "code": "95.01.09",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für den Holzbau"
+  },
+  {
+    "code": "95.01.10",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für das Holzhandwerk"
+  },
+  {
+    "code": "95.01.11",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für die Oberflächentechnik"
+  },
+  {
+    "code": "95.01.12",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für die Energieerzeugung aus Holzbrennstoffen und Energieeinsparung"
+  },
+  {
+    "code": "95.01.13",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für den Umweltschutz"
+  },
+  {
+    "code": "95.01.14",
+    "term": "Unabhängige Ingenieur- und Beratungsleistungen für Sicherheitstechnik, Arbeits- und Brandschutz"
+  },
+  {
+    "code": "95.02",
+    "term": "Schulungs- und Trainingsdienstleistungen"
+  },
+  {
+    "code": "95.03",
+    "term": "Instandhaltungen, Reparaturen, Montagen, Demontagen, Überholen und Nachrüsten von Maschinen und Anlagen"
+  },
+  {
+    "code": "95.04",
+    "term": "Verbände"
+  },
+  {
+    "code": "95.05",
+    "term": "Messeorganisationen"
+  },
+  {
+    "code": "95.99",
+    "term": "Dienstleistungen; sonstige"
+  },
+  {
+    "code": "96",
+    "term": "Forschungs- und Prüfinstitutionen, Ausbildungseinrichtungen für die Holzwirtschaft (Universitäten, Fachhochschulen, Fachschulen etc.)"
+  },
+  {
+    "code": "96.01",
+    "term": "Ausbildungseinrichtungen für die Holzwirtschaft"
+  },
+  {
+    "code": "96.02",
+    "term": "Forschungseinrichtungen und -institutionen für die Holzwirtschaft"
+  },
+  {
+    "code": "96.03",
+    "term": "Prüfinstitutionen für die Holzwirtschaft"
+  },
+  {
+    "code": "97",
+    "term": "Verlage für die Holzwirtschaft"
+  },
+  {
+    "code": "97.01",
+    "term": "Fachzeitungen und Fachzeitschriften für die Holzwirtschaft"
+  },
+  {
+    "code": "97.03",
+    "term": "Fachbücher für die Holzwirtschaft"
+  },
+  {
+    "code": "97.04",
+    "term": "Web-basierte Publikationen für die Holzwirtschaft"
+  }
+]

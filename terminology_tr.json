@@ -1,0 +1,3938 @@
+[
+  {
+    "code": "00",
+    "term": "Orman endüstrisi için makineler, teknik donanımlar ve hizmetler"
+  },
+  {
+    "code": "00.01.01",
+    "term": "Toprağın işlenmesi"
+  },
+  {
+    "code": "00.01.02",
+    "term": "Gübreleme"
+  },
+  {
+    "code": "00.01.03",
+    "term": "Ormanda tohumların toplanması ve bitkilerin yetiştirilmesi"
+  },
+  {
+    "code": "00.01.04",
+    "term": "Ormanların korunması"
+  },
+  {
+    "code": "00.01.05",
+    "term": "Orman yolları ile orman su yolları inşaatı"
+  },
+  {
+    "code": "00.01.06",
+    "term": "Yeni yetişen ve mevcut ağaçların bakımı"
+  },
+  {
+    "code": "00.01.07",
+    "term": "Temizleme, budama, plânlı ağaç kesimi"
+  },
+  {
+    "code": "00.01.08",
+    "term": "Bitki ve ağaç fidanlıkları"
+  },
+  {
+    "code": "00.01.09",
+    "term": "Tohum ekimi, bitki dikim yerlerinin hazırlanması ve dikim"
+  },
+  {
+    "code": "00.01.10",
+    "term": "Ormanda ölçüm"
+  },
+  {
+    "code": "00.01.11",
+    "term": "Orman düzenlemesi, orman toprağı ıslahı, ormanın koruması"
+  },
+  {
+    "code": "00.01.12",
+    "term": "Ağacın korunması ve zararlılarla mücadele"
+  },
+  {
+    "code": "00.02",
+    "term": "Ağaç kesilmesi ve ağaç nakliyesi"
+  },
+  {
+    "code": "00.02.01",
+    "term": "Ağaç budama makine ve cihazları"
+  },
+  {
+    "code": "00.02.02",
+    "term": "Kabuk sıyırma makineleri ve ekipman"
+  },
+  {
+    "code": "00.02.03",
+    "term": "Hasat makineleri"
+  },
+  {
+    "code": "00.02.04",
+    "term": "Kütük çekicileri, Kütük özel çekicileri ve techizat"
+  },
+  {
+    "code": "00.02.05",
+    "term": "Ağacın çekilmesi ve halat takılması"
+  },
+  {
+    "code": "00.02.06",
+    "term": "Vinçler ve diğer orman donanımları"
+  },
+  {
+    "code": "00.02.07",
+    "term": "Motorlu testereler ve aksesuarları"
+  },
+  {
+    "code": "00.02.08",
+    "term": "Ağaç römorku"
+  },
+  {
+    "code": "00.02.09",
+    "term": "Çekme zincirleri, çekme halatları, kayışlar ve ekipmanları"
+  },
+  {
+    "code": "00.02.10",
+    "term": "Çekme halatı bocurgatları, çekme makasları"
+  },
+  {
+    "code": "00.02.11",
+    "term": "Ormancılık makineleri için yağlama ve yakıt maddeleri"
+  },
+  {
+    "code": "00.03",
+    "term": "Ormancılık aletleri ve aksesuarları"
+  },
+  {
+    "code": "00.03.01",
+    "term": "Baltalar, Keserler"
+  },
+  {
+    "code": "00.03.02",
+    "term": "Zincirler"
+  },
+  {
+    "code": "00.03.03",
+    "term": "Bıçaklar"
+  },
+  {
+    "code": "00.03.04",
+    "term": "Makaslar, el makasları ve diğerleri"
+  },
+  {
+    "code": "00.03.05",
+    "term": "Halatlar"
+  },
+  {
+    "code": "00.03.06",
+    "term": "Kıskaçlar"
+  },
+  {
+    "code": "00.03.07",
+    "term": "Ormanda ağaçların markalanması, işaretlenmesi ve numaralanması için cihazlar ve yardımcı malzemeler"
+  },
+  {
+    "code": "00.04",
+    "term": "Ağaç transferi için araçlar"
+  },
+  {
+    "code": "00.04.01",
+    "term": "Ağaç yükleme vinci ve kavrayıcılar"
+  },
+  {
+    "code": "00.04.02",
+    "term": "Kısa römorklar"
+  },
+  {
+    "code": "00.04.03",
+    "term": "Kısa ağaç için kamyon"
+  },
+  {
+    "code": "00.04.04",
+    "term": "Uzun ağaç için kamyon"
+  },
+  {
+    "code": "00.04.05",
+    "term": "Treylerler"
+  },
+  {
+    "code": "00.04.06",
+    "term": "Ağaç taşınması için gereçler, ormancılık makineleri ve araçları"
+  },
+  {
+    "code": "00.05",
+    "term": "Ormancılık endüstrisi için haberleşme ve mobil bilgi işlem donanımları"
+  },
+  {
+    "code": "00.05.01",
+    "term": "Stok sayımı için cihazlar ve sistemler"
+  },
+  {
+    "code": "00.05.02",
+    "term": "Ağaç ölçümü için cihazlar ve sistemler"
+  },
+  {
+    "code": "00.05.03",
+    "term": "Depo yönetimi ve lojistik"
+  },
+  {
+    "code": "00.05.04",
+    "term": "Ormancılık endüstrisi için yazılım"
+  },
+  {
+    "code": "00.05.05",
+    "term": "Orman yangını denetimi ve yangınla mücadele"
+  },
+  {
+    "code": "00.06",
+    "term": "Ormancılık endüstrisinde iş güvenliği"
+  },
+  {
+    "code": "00.06.01",
+    "term": "İş ve güvenlik giysileri"
+  },
+  {
+    "code": "00.06.02",
+    "term": "Koruma ekipmanları"
+  },
+  {
+    "code": "00.07",
+    "term": "Ormancılık endüstrisi ile ilgili hizmetler"
+  },
+  {
+    "code": "00.07.01",
+    "term": "İş hazırlama ve teknikleri"
+  },
+  {
+    "code": "00.07.02",
+    "term": "Ağaç hasatı için hizmetler"
+  },
+  {
+    "code": "00.07.03",
+    "term": "Ağaç envanteri ve monitoraj"
+  },
+  {
+    "code": "00.07.04",
+    "term": "Orman sertifikalandırma"
+  },
+  {
+    "code": "00.07.50",
+    "term": "Ormancılık endüstrisi için bağımsız mühendislik ve planlama büroları"
+  },
+  {
+    "code": "00.07.99",
+    "term": "Ormancılık endüstrisi için hizmetler ve diğerleri"
+  },
+  {
+    "code": "00.08",
+    "term": "Ormancılık endüstrisi için ihtisas literatürü"
+  },
+  {
+    "code": "00.08.01",
+    "term": "Ormancılık endüstrisi için ihtisas dergileri ve süreli yayınlar"
+  },
+  {
+    "code": "00.08.03",
+    "term": "Ormancılık endüstrisi için mesleki kitaplar"
+  },
+  {
+    "code": "00.08.04",
+    "term": "Ormancılık endüstrisi için web tabanlı yayınlar"
+  },
+  {
+    "code": "00.09",
+    "term": "Ormancılık endüstrisi için araştırma, deney ve eğitim kuruluşları (Üniversiteler, teknik okullar, v.b.)"
+  },
+  {
+    "code": "00.09.01",
+    "term": "Ormancılık endüstrisi için eğitim kuruluşları"
+  },
+  {
+    "code": "00.09.02",
+    "term": "Ormancılık endüstrisi için araştırma kuruluşları"
+  },
+  {
+    "code": "00.09.03",
+    "term": "Ormancılık endüstrisi için araştırma ve deney enstitüleri"
+  },
+  {
+    "code": "00.10",
+    "term": "Orman endüstrisinde çevre koruma"
+  },
+  {
+    "code": "00.10.01",
+    "term": "Mobil akaryakıt tankları ve akaryakıt tesisleri"
+  },
+  {
+    "code": "00.10.02",
+    "term": "Suya zarar veren tehlikeli maddelerin depolanması (Yağ vs..)"
+  },
+  {
+    "code": "00.10.03",
+    "term": "Tehlikeli maddelerin depolanması"
+  },
+  {
+    "code": "01",
+    "term": "Ağaç işleme için makineler ve teknik ekipmanlar (yarı mamullerin üretimi)"
+  },
+  {
+    "code": "01.01",
+    "term": "Tomruk istifleme tekniği"
+  },
+  {
+    "code": "01.01.01",
+    "term": "Mobil tomruk konveyörleri"
+  },
+  {
+    "code": "01.01.02",
+    "term": "Tomruk alanları için vinçler"
+  },
+  {
+    "code": "01.01.03",
+    "term": "Tomruk istifleme alanları için sabit yükleyici donanımları"
+  },
+  {
+    "code": "01.01.04",
+    "term": "Tomruk istifleme alanları depolama donanımları"
+  },
+  {
+    "code": "01.01.05",
+    "term": "Tomruk ayırma tesisleri"
+  },
+  {
+    "code": "01.01.06",
+    "term": "Odunun ıslak muhafazası için yağmurlama tesisleri ve donanımları"
+  },
+  {
+    "code": "01.01.07",
+    "term": "Kütük icin kabuk sıyırma makineleri ve ekipman"
+  },
+  {
+    "code": "01.01.08",
+    "term": "Döner kütük boyutlama makineleri"
+  },
+  {
+    "code": "01.01.09",
+    "term": "Tomruklar için baş kesim testereleri"
+  },
+  {
+    "code": "01.01.09.01",
+    "term": "Taşınabilir zincirli kesiciler"
+  },
+  {
+    "code": "01.01.09.02",
+    "term": "Sabit zincirli kesiciler"
+  },
+  {
+    "code": "01.01.09.03",
+    "term": "Baş kesim dairesel testereleri"
+  },
+  {
+    "code": "01.01.09.04",
+    "term": "Sürekli beslemeli boy kesim makineleri"
+  },
+  {
+    "code": "01.01.10",
+    "term": "Tomruk için ölçüm ve optimizasyon tesisleri"
+  },
+  {
+    "code": "01.01.11",
+    "term": "Tomruk için metal arama ve ayırma için techizatlar"
+  },
+  {
+    "code": "01.01.12",
+    "term": "Tomruk / kütük markalama, işaretleme için cihazlar"
+  },
+  {
+    "code": "01.02",
+    "term": "Bıçkıhane teknolojisi (Kereste imalatı için)"
+  },
+  {
+    "code": "01.02.01",
+    "term": "Tomruk kesim makineleri"
+  },
+  {
+    "code": "01.02.01.01",
+    "term": "Yatay hızar"
+  },
+  {
+    "code": "01.02.01.02",
+    "term": "Dikey hızar"
+  },
+  {
+    "code": "01.02.01.03",
+    "term": "Blok bant testere makineleri, yatay"
+  },
+  {
+    "code": "01.02.01.04",
+    "term": "Blok bant testere mekineleri, dikey"
+  },
+  {
+    "code": "01.02.01.05",
+    "term": "Şerit testere makineleri"
+  },
+  {
+    "code": "01.02.01.06",
+    "term": "Çoklu şerit testere makineleri"
+  },
+  {
+    "code": "01.02.01.07",
+    "term": "Tomruk için tek milli daire testere makineleri"
+  },
+  {
+    "code": "01.02.01.08",
+    "term": "Tomruk için çift milli daire testere makineleri"
+  },
+  {
+    "code": "01.02.01.09",
+    "term": "Tomruk kesimi için arabalı daire testere makineleri"
+  },
+  {
+    "code": "01.02.01.10",
+    "term": "İnşaat kerestesi için daire testere makineleri"
+  },
+  {
+    "code": "01.02.01.11",
+    "term": "Profil verme makinesi / profil verme hatları"
+  },
+  {
+    "code": "01.02.01.12",
+    "term": "Profil verme - şerit testere kombinasyonları"
+  },
+  {
+    "code": "01.02.01.13",
+    "term": "Levhalar ve lamelli malzemeler için kesme makineleri (talaşsız)"
+  },
+  {
+    "code": "01.02.01.14",
+    "term": "Son kesim için arabalı dairesel testere makineleri"
+  },
+  {
+    "code": "01.02.01.15",
+    "term": "Daire testereli kesme makineleri"
+  },
+  {
+    "code": "01.02.01.16",
+    "term": "Tek milli daire testereli kesme makineleri"
+  },
+  {
+    "code": "01.02.01.17",
+    "term": "Çift milli daire testereli kesme makineleri"
+  },
+  {
+    "code": "01.02.01.18",
+    "term": "Daire testereli kombine yatay-dikey kesim makineleri"
+  },
+  {
+    "code": "01.02.01.19",
+    "term": "Ağaç dilme optimizasyonu"
+  },
+  {
+    "code": "01.02.01.20",
+    "term": "Baş kesme makineleri"
+  },
+  {
+    "code": "01.02.01.21",
+    "term": "Kontinü boy kesim makineleri"
+  },
+  {
+    "code": "01.02.01.22",
+    "term": "Kereste paketleri için boy kesme testere makineleri (yatar testereli)"
+  },
+  {
+    "code": "01.02.02",
+    "term": "Boyutlanmış kerestenin sevk, ayırma ve istiflenme işlemleri için tesisler"
+  },
+  {
+    "code": "01.02.02.01",
+    "term": "Boyutlanmış kerestenin ayırma işlemleri için tesisler"
+  },
+  {
+    "code": "01.02.02.02",
+    "term": "Boyutlanmış kereste için taşıma elemanları (rulo bantlar, çapraz sevk üniteleri v.s.)"
+  },
+  {
+    "code": "01.02.02.03",
+    "term": "Boyutlanmış kerestenin istiflenme ve paketleme işlemleri için tesisler"
+  },
+  {
+    "code": "01.02.03",
+    "term": "Boyutlanmış kereste için ölçüm ve kayıt"
+  },
+  {
+    "code": "01.02.04",
+    "term": "Hareketli tomruk kesim üniteleri"
+  },
+  {
+    "code": "01.02.04.01",
+    "term": "Tomruk için hareketli band testereli kesim üniteleri"
+  },
+  {
+    "code": "01.02.04.02",
+    "term": "Tomruk için hareketli daire testereli kesim üniteleri"
+  },
+  {
+    "code": "01.03",
+    "term": "Masif ahşap ve diğer malzemelerin kurutma, buhar ve enprenye uygulamaları"
+  },
+  {
+    "code": "01.03.01",
+    "term": "Buharlama tesisleri"
+  },
+  {
+    "code": "01.03.02",
+    "term": "Kereste kurutma fırınları"
+  },
+  {
+    "code": "01.03.02.01",
+    "term": "Konvensiyonel kurutucular"
+  },
+  {
+    "code": "01.03.02.02",
+    "term": "Vakum ile çalışan kurutucular"
+  },
+  {
+    "code": "01.03.02.03",
+    "term": "Yoğuşmalı kurutucular, örneğin: ısı pompalı kurutucular"
+  },
+  {
+    "code": "01.03.02.04",
+    "term": "Özel kurutucular (Örneğin; Yüksek frekanslı, mikro dalga kurutucular)"
+  },
+  {
+    "code": "01.03.03",
+    "term": "Nem ölçme cihazları ve tesisleri"
+  },
+  {
+    "code": "01.03.03.01",
+    "term": "El ile nem ölçme cihazları"
+  },
+  {
+    "code": "01.03.03.02",
+    "term": "Konveyörlü nem ölçme tesisleri"
+  },
+  {
+    "code": "01.03.04",
+    "term": "Kerestenin kurutulması için otomatik kontrol sistemleri"
+  },
+  {
+    "code": "01.03.05",
+    "term": "Masif ahşap için enprenye tesisleri"
+  },
+  {
+    "code": "01.03.06",
+    "term": "Ağaçların fiziksel karakteristiklerini değiştirmek için Isıl İşlem Tesisleri"
+  },
+  {
+    "code": "01.03.07",
+    "term": "Ağaçların görünüşlerini değiştirmek için Kimyasal İşlem Tesisleri (Örneğin: Amonyak, Yağ ile vb.)"
+  },
+  {
+    "code": "01.04",
+    "term": "Kaplama üretimi"
+  },
+  {
+    "code": "01.04.01",
+    "term": "Kaplama blokları için buhar verme tesisleri"
+  },
+  {
+    "code": "01.04.02",
+    "term": "Kaplama bloklarının doğranması için geliştirilmiş özel testere makineler"
+  },
+  {
+    "code": "01.04.03",
+    "term": "Kaplama blok planya makineleri"
+  },
+  {
+    "code": "01.04.04",
+    "term": "Kaplama kesme makineleri"
+  },
+  {
+    "code": "01.04.05",
+    "term": "Döner kesme makineleri"
+  },
+  {
+    "code": "01.04.06",
+    "term": "Kaplama soyma makineleri"
+  },
+  {
+    "code": "01.04.07",
+    "term": "Tomruk ve kaplama blokları için besleme ve merkezleme donanımları"
+  },
+  {
+    "code": "01.04.08",
+    "term": "Merkezdışı soyma mekanizması"
+  },
+  {
+    "code": "01.04.09",
+    "term": "Soyulmuş tabakaların sarılması, ayrılması ve depolanması için düzenekler"
+  },
+  {
+    "code": "01.04.10",
+    "term": "Kesilmiş ve soyulmuş kaplamalar için transport ve depolama donanımları (magazinler)"
+  },
+  {
+    "code": "01.04.11",
+    "term": "Kaplama kurutucular"
+  },
+  {
+    "code": "01.04.11.01",
+    "term": "Bantlı kurutucu"
+  },
+  {
+    "code": "01.04.11.02",
+    "term": "Rulolu kurutucu"
+  },
+  {
+    "code": "01.04.11.03",
+    "term": "Sıcak pres / ütü kurutucu"
+  },
+  {
+    "code": "01.04.12",
+    "term": "Kaplama kurutucuları için entegre nem ölçme ve ayar cihazları"
+  },
+  {
+    "code": "01.04.13",
+    "term": "Kaplama makasları / kesiciler"
+  },
+  {
+    "code": "01.04.13.01",
+    "term": "Kaplama bıçakları"
+  },
+  {
+    "code": "01.04.13.02",
+    "term": "Soyulmuş kaplama kesiciler"
+  },
+  {
+    "code": "01.04.14",
+    "term": "Kaplama ölçüm ve etiketleme tesisleri"
+  },
+  {
+    "code": "01.04.15",
+    "term": "Kaplama paketleme üniteleri"
+  },
+  {
+    "code": "01.05",
+    "term": "Kağıt üzerine katı kaplama malzemeleri üretimi (tabakalı pres plakalar, filmler)"
+  },
+  {
+    "code": "01.05.01",
+    "term": "Kağıtlar için enprenye ve kaplama üniteleri"
+  },
+  {
+    "code": "01.05.02",
+    "term": "Enprenyeli ve boyalı kağıt için hava akımlı kurutucular"
+  },
+  {
+    "code": "01.05.03",
+    "term": "Reçine karışım ve dosaj tesisleri"
+  },
+  {
+    "code": "01.05.04",
+    "term": "Lamelli plakalar (ör. HPL) için kademeli presler"
+  },
+  {
+    "code": "01.05.05",
+    "term": "Lamelli plakalar (ör. CPL) için sürekli tip presler"
+  },
+  {
+    "code": "01.05.06",
+    "term": "Laminat ve film kesme makineleri"
+  },
+  {
+    "code": "01.05.06.01",
+    "term": "Laminat ve film makasları"
+  },
+  {
+    "code": "01.05.06.02",
+    "term": "Rulo makas bıçaklı laminat ve film kesme makineleri"
+  },
+  {
+    "code": "01.05.07",
+    "term": "Kaplama malzemelerinin üretiminde ürün veri toplama ve kalite denetimi için sistemler"
+  },
+  {
+    "code": "01.06",
+    "term": "Kaplamalı kontrplak ve lamel malzeme üretimi"
+  },
+  {
+    "code": "01.06.01",
+    "term": "Kaplama plakaları birleştirme makineleri"
+  },
+  {
+    "code": "01.06.02",
+    "term": "Kaplama dikiş makineleri"
+  },
+  {
+    "code": "01.06.03",
+    "term": "Kaplama için kazıma makineleri"
+  },
+  {
+    "code": "01.06.04",
+    "term": "Çok katlı ara tabaka tutkallama makineleri (kesme, yapıştırma, presleme v.s)"
+  },
+  {
+    "code": "01.06.05",
+    "term": "Tabaka ve plakalar için tutkallama makineleri"
+  },
+  {
+    "code": "01.06.06",
+    "term": "Kontrplak ve lamelli malzeme için blok presler"
+  },
+  {
+    "code": "01.06.07",
+    "term": "Düz yüzeyler için kontrplak presleri"
+  },
+  {
+    "code": "01.06.09",
+    "term": "Yapıştırıcı madde hazırlama, dozlama ve iletme için cihazlar"
+  },
+  {
+    "code": "01.06.10",
+    "term": "Kontrplak tesisleri için özel taşıma ve depolama donanımları"
+  },
+  {
+    "code": "01.06.11",
+    "term": "Kontrplak tesisleri için üretim veri toplama ve kalite denetimi sistemleri"
+  },
+  {
+    "code": "01.07",
+    "term": "Sunta, masif plaka ve OSB üretimi"
+  },
+  {
+    "code": "01.07.01",
+    "term": "Kullanılmış, eski ağaç ürünleri için parçalayıcılar, örneğin: atık ağaç, tahrip edilmiş ağaç, kullanılmış ağaç ürünleri vb."
+  },
+  {
+    "code": "01.07.02",
+    "term": "Yonga ve kesici öğütücüler"
+  },
+  {
+    "code": "01.07.03",
+    "term": "Parçalayıcılar"
+  },
+  {
+    "code": "01.07.03.01",
+    "term": "Tomruk ve kalas için parçalayıcılar"
+  },
+  {
+    "code": "01.07.03.02",
+    "term": "Endüstriyel atık ağaç (kütük, kesilmiş parçalar vb.) ve diğer ağaç ürünleri için parçalayıcılar"
+  },
+  {
+    "code": "01.07.03.03",
+    "term": "Yonga ve diğer atık ağaç ürünleri için halka bıçaklı parçalayıcılar"
+  },
+  {
+    "code": "01.07.04",
+    "term": "Çekiçli öğütücü ve darbeli parçalayıcılar"
+  },
+  {
+    "code": "01.07.05",
+    "term": "İnce öğütücüler (elek değirmenleri v.s)"
+  },
+  {
+    "code": "01.07.06",
+    "term": "Parçalanmış ağaç malzemeleri yıkama üniteleri"
+  },
+  {
+    "code": "01.07.07",
+    "term": "Parça, yonga v.s. malzemeler için taşıma ve depolama üniteleri"
+  },
+  {
+    "code": "01.07.08",
+    "term": "Refiner"
+  },
+  {
+    "code": "01.07.09",
+    "term": "Elyaf, yonga için kurutucular"
+  },
+  {
+    "code": "01.07.10",
+    "term": "Elek makineleri ve ayıklayıcılar"
+  },
+  {
+    "code": "01.07.11",
+    "term": "Tutkal hazırlama ve dosajlama düzenekleri"
+  },
+  {
+    "code": "01.07.12",
+    "term": "Tutkallama makineleri ve karıştırıcılar"
+  },
+  {
+    "code": "01.07.13",
+    "term": "Serpme tesisleri, şilte form bantları"
+  },
+  {
+    "code": "01.07.14",
+    "term": "Bant terazileri"
+  },
+  {
+    "code": "01.07.15",
+    "term": "Talaş ve elyaf şilteleri için nemlendirme tesisleri"
+  },
+  {
+    "code": "01.07.16",
+    "term": "Presler"
+  },
+  {
+    "code": "01.07.16.01",
+    "term": "Takt ön presler"
+  },
+  {
+    "code": "01.07.16.02",
+    "term": "Kontinü çalışan ön presler"
+  },
+  {
+    "code": "01.07.16.03",
+    "term": "Çok katlı presler"
+  },
+  {
+    "code": "01.07.16.04",
+    "term": "Tek katlı presler"
+  },
+  {
+    "code": "01.07.16.05",
+    "term": "Kontinü çalışan presler / çift bantlı presler"
+  },
+  {
+    "code": "01.07.16.06",
+    "term": "Silindir presler"
+  },
+  {
+    "code": "01.07.17",
+    "term": "Plaka kenar işleme istasyonları"
+  },
+  {
+    "code": "01.07.18",
+    "term": "Çapraz kesme testereleri (diyagonal testereler)"
+  },
+  {
+    "code": "01.07.19",
+    "term": "Soğutma istasyonları"
+  },
+  {
+    "code": "01.07.20",
+    "term": "Ahşap malzemeler zımpara makineleri ve tesisleri"
+  },
+  {
+    "code": "01.07.21",
+    "term": "Plaka kesim tesisleri / tesisleri"
+  },
+  {
+    "code": "01.07.22",
+    "term": "Plaka malzemeler için depolama, taşıma ve sipariş dağıtım sistemleri"
+  },
+  {
+    "code": "01.07.23",
+    "term": "Plaka malzemeler için paketleme tesisleri"
+  },
+  {
+    "code": "01.07.24",
+    "term": "OSB, yonga ve elyaf lavhalar gibi malzemeler için üretim data tespit ve kalite kontrol sistemleri"
+  },
+  {
+    "code": "01.07.25",
+    "term": "OSB, yonga ve elyaf levhalar gibi malzemeler için özel donanım parçaları"
+  },
+  {
+    "code": "01.07.26",
+    "term": "Ayırma tekniği"
+  },
+  {
+    "code": "01.08",
+    "term": "Hafif inşaat plakaları / sandviç elemanların üretimi"
+  },
+  {
+    "code": "01.08.01",
+    "term": "Petek açma ve kurutma otomatları"
+  },
+  {
+    "code": "01.08.02",
+    "term": "Panel çerçeve elemanları teşkili için makineler"
+  },
+  {
+    "code": "01.08.03",
+    "term": "Orta tabaka işleme için makineler"
+  },
+  {
+    "code": "01.08.04",
+    "term": "Hafif inşaat plakaları- / ve sandviç elemanlarının üretimi için presler"
+  },
+  {
+    "code": "01.09",
+    "term": "Form parçaların imalatı"
+  },
+  {
+    "code": "01.09.01",
+    "term": "Fiber ve benzeri diğer malzemeler için form kalıplama presleri"
+  },
+  {
+    "code": "01.09.02",
+    "term": "Kontürlü ve frezeli yüzeyler için kontraplak ve laminat presleri"
+  },
+  {
+    "code": "01.09.03",
+    "term": "Extruder"
+  },
+  {
+    "code": "01.99",
+    "term": "Ön işlem için gerekli makine teknik ekipman"
+  },
+  {
+    "code": "02",
+    "term": "İkincil işlem için gerekli makine teknik ekipman"
+  },
+  {
+    "code": "02.01",
+    "term": "Kaplama işlemleri"
+  },
+  {
+    "code": "02.01.01",
+    "term": "Kaplama ütü presleri"
+  },
+  {
+    "code": "02.01.02",
+    "term": "Boy kesimleri için çapraz kesme makasları"
+  },
+  {
+    "code": "02.01.03",
+    "term": "Kaplama paket kesme makineleri"
+  },
+  {
+    "code": "02.01.03.01",
+    "term": "Tek bıçaklı kaplama paket kesme makineleri"
+  },
+  {
+    "code": "02.01.03.02",
+    "term": "İki bıçaklı kaplama paket kesme makineleri"
+  },
+  {
+    "code": "02.01.04",
+    "term": "Kaplama şeriti kesme makineleri"
+  },
+  {
+    "code": "02.01.05",
+    "term": "Kaplama paketleri için testere makineleri"
+  },
+  {
+    "code": "02.01.06",
+    "term": "Kaplama paketler için kenar düzleme / kesme makineleri"
+  },
+  {
+    "code": "02.01.07",
+    "term": "Kaplama ince kenarları için tutkal sürme makineleri"
+  },
+  {
+    "code": "02.01.08",
+    "term": "Uzunlamasına kesilmiş kaplamalar için birleştirme makineleri"
+  },
+  {
+    "code": "02.01.09",
+    "term": "Çapraz kesilmiş kaplamalar için birleştirme makineleri"
+  },
+  {
+    "code": "02.01.10",
+    "term": "Kaplama uç yapıştma makineleri"
+  },
+  {
+    "code": "02.01.11",
+    "term": "Kaplamaların boylamasına birleştirilmesi için makineler ve gereçler (ör.kurt ağzı sistemi ile)"
+  },
+  {
+    "code": "02.01.12",
+    "term": "Kaplama yama otomatları"
+  },
+  {
+    "code": "02.01.13",
+    "term": "Kaplama ölçme ve optimizasyon tesisleri"
+  },
+  {
+    "code": "02.01.14",
+    "term": "Kaplama kontrolu için aydınlatılmış masalar"
+  },
+  {
+    "code": "02.01.15",
+    "term": "Esnek kaplamaların (Flexer) üretimi için makineler"
+  },
+  {
+    "code": "02.02",
+    "term": "Katı malzemelerle kaplama yapmak için presler, laminasyon ve profil giydirme tesisleri (ağaç kaplama, lamineler, film kaplamalar v.s)"
+  },
+  {
+    "code": "02.02.01",
+    "term": "İş parçaları için fırçalama ve temizleme makineleri"
+  },
+  {
+    "code": "02.02.02",
+    "term": "Plaka veya kaplama malzemeleri için tutkallama makineleri"
+  },
+  {
+    "code": "02.02.03",
+    "term": "Kaplama malzemeleri için mekanik depolama, besleme ve yayma düzenekleri"
+  },
+  {
+    "code": "02.02.04",
+    "term": "Takt presler"
+  },
+  {
+    "code": "02.02.04.01",
+    "term": "Elle beslemeli presler"
+  },
+  {
+    "code": "02.02.04.02",
+    "term": "Mekanik beslemeli presler / kısa takt presler"
+  },
+  {
+    "code": "02.02.04.03",
+    "term": "Satıh kaplama işlemi için istifli presler"
+  },
+  {
+    "code": "02.02.04.04",
+    "term": "Form parçalar için kaplama presleri"
+  },
+  {
+    "code": "02.02.04.05",
+    "term": "Membran presleri"
+  },
+  {
+    "code": "02.02.05",
+    "term": "Kontinü presler / kaplama tesisleri"
+  },
+  {
+    "code": "02.02.05.01",
+    "term": "Sürekli çalışan kaplama presleri / çift bantlı presler"
+  },
+  {
+    "code": "02.02.05.02",
+    "term": "Geniş yüzeyler için kaplama / laminasyon tesisleri"
+  },
+  {
+    "code": "02.02.05.03",
+    "term": "Geniş ve dar yüzey için kaplama / laminasyon tesisleri"
+  },
+  {
+    "code": "02.02.05.04",
+    "term": "Profil giydirme tesisleri"
+  },
+  {
+    "code": "02.02.06",
+    "term": "Kendinden yapışmalı koruyucu filmlerin uygulanması için makineler"
+  },
+  {
+    "code": "02.02.07",
+    "term": "Yaldız kaplama makineleri (altın folyeler, yaprak altın)"
+  },
+  {
+    "code": "02.02.08",
+    "term": "Kaplanmış parçalar için boy kesme ve son kesim makineleri"
+  },
+  {
+    "code": "02.02.09",
+    "term": "Satıh kaplama sistemleri için yükleme, boşaltma ve taşıma tesisleri"
+  },
+  {
+    "code": "02.02.10",
+    "term": "Satıh kaplama sistemler için tutkal hazırlama, dozaj ve aktarma cihazları"
+  },
+  {
+    "code": "02.02.11",
+    "term": "Kaplama ve sentetik kaplama materyalleri için astar kaplama tesisleri"
+  },
+  {
+    "code": "02.03",
+    "term": "Masif ahşap, ahşap esaslı panel malzemeler, plastikler, kompozit ve diğer malzemelerin işlenmesi için kesim makineleri"
+  },
+  {
+    "code": "02.03.01",
+    "term": "Tezgah altı çapraz kesim daire testere makineleri / hızar testereler"
+  },
+  {
+    "code": "02.03.02",
+    "term": "Tezgah üstü çapraz daire testereler"
+  },
+  {
+    "code": "02.03.02.01",
+    "term": "Sarkaç testereler"
+  },
+  {
+    "code": "02.03.02.02",
+    "term": "Radyal / manivelalı testereler"
+  },
+  {
+    "code": "02.03.03",
+    "term": "Optimize baş kesim testeresi"
+  },
+  {
+    "code": "02.03.04",
+    "term": "Gönye kesim için tekli ve çiftli testere"
+  },
+  {
+    "code": "02.03.05",
+    "term": "Çoklu kesme makineleri"
+  },
+  {
+    "code": "02.03.06",
+    "term": "Arabalı boy kesim tezgahları"
+  },
+  {
+    "code": "02.03.07",
+    "term": "Tek ve çoklu dilme testere makineleri"
+  },
+  {
+    "code": "02.03.08",
+    "term": "Ince kesim testere makineleri"
+  },
+  {
+    "code": "02.03.08.01",
+    "term": "İnce kesim katrak testereler"
+  },
+  {
+    "code": "02.03.08.02",
+    "term": "İnce kesim dairesel testereler"
+  },
+  {
+    "code": "02.03.09",
+    "term": "Masa testere makineleri"
+  },
+  {
+    "code": "02.03.10",
+    "term": "Ebatlama testere makineleri"
+  },
+  {
+    "code": "02.03.11",
+    "term": "Dikey ebatlama tezgahları"
+  },
+  {
+    "code": "02.03.12",
+    "term": "Baskı kirişli panel ebatlama makineleri"
+  },
+  {
+    "code": "02.03.12.01",
+    "term": "Boyuna kesim için baskı kirişli ebatlama makineleri"
+  },
+  {
+    "code": "02.03.12.02",
+    "term": "Çapraz kesim için baskı kirişli ebatlama makineleri"
+  },
+  {
+    "code": "02.03.12.03",
+    "term": "Çapraz ve boyuna kesim için baskı kirişli ebatlama makineleri (açılı)"
+  },
+  {
+    "code": "02.03.13",
+    "term": "Plakaların boyuna ve çapraz kesilmesi için portal testere makineleri"
+  },
+  {
+    "code": "02.03.14",
+    "term": "Marangoz şerit testere makineleri"
+  },
+  {
+    "code": "02.03.15",
+    "term": "Kopya şerit testere makineleri"
+  },
+  {
+    "code": "02.03.16",
+    "term": "Dekopaj testere makineleri"
+  },
+  {
+    "code": "02.03.17",
+    "term": "Kertik açma testere makineleri"
+  },
+  {
+    "code": "02.03.18",
+    "term": "İnşaat alanları daire testere makineleri"
+  },
+  {
+    "code": "02.03.19",
+    "term": "CNC-şerit testere makineleri"
+  },
+  {
+    "code": "02.03.20",
+    "term": "El beslemeli panel ebatlama makineleri (paralel ya da açılı kesim için)"
+  },
+  {
+    "code": "02.03.21",
+    "term": "Boy kesim için optimizasyon testereleri"
+  },
+  {
+    "code": "02.04",
+    "term": "Freze ve planya makineleri"
+  },
+  {
+    "code": "02.04.01",
+    "term": "Yüzey düzeltme planyaları"
+  },
+  {
+    "code": "02.04.02",
+    "term": "Kalınlık planya makineleri"
+  },
+  {
+    "code": "02.04.03",
+    "term": "Raspalama makineleri"
+  },
+  {
+    "code": "02.04.04",
+    "term": "Kombine planya ve testere makineleri"
+  },
+  {
+    "code": "02.04.05",
+    "term": "Kombine planya ve zımpara makineleri"
+  },
+  {
+    "code": "02.04.06",
+    "term": "Tek işlemde düzleyen ve ebatlayan açılı planyalar"
+  },
+  {
+    "code": "02.04.07",
+    "term": "Tek işlemde düzleme ve kalınlık işleme yapan çift taraflı kalınlık makineleri"
+  },
+  {
+    "code": "02.04.08",
+    "term": "Üç ve dört taraflı işlem planya makineleri"
+  },
+  {
+    "code": "02.04.09",
+    "term": "Çok taraflı işlem yapan profil makineleri"
+  },
+  {
+    "code": "02.04.10",
+    "term": "Çok taraflı işlem yapan alın freze makineleri"
+  },
+  {
+    "code": "02.04.11",
+    "term": "Tek milli masa freze makineleri"
+  },
+  {
+    "code": "02.04.12",
+    "term": "Kurt ağzı frezeleme makineleri"
+  },
+  {
+    "code": "02.04.13",
+    "term": "Parmak freze makineleri"
+  },
+  {
+    "code": "02.04.14",
+    "term": "CNC-parmak freze makineleri"
+  },
+  {
+    "code": "02.04.15",
+    "term": "Kopya freze makineleri"
+  },
+  {
+    "code": "02.04.15.01",
+    "term": "Uzunlamasına kopya freze makineleri (zımparalama v.s. için ek agregatlılar dahil)"
+  },
+  {
+    "code": "02.04.15.02",
+    "term": "Döner tablalı (karusel) kopya freze makineleri (zımparalamak için ek agregatlarla v.s.birlikte)"
+  },
+  {
+    "code": "02.04.15.03",
+    "term": "Şablondan veya numuneden kumandalı tek veya çok milli kopya freze makineleri (zımparalamak için ek agregatlarla v.s.birlikte)"
+  },
+  {
+    "code": "02.04.16",
+    "term": "Form parçalar için çift taraflı CNC-freze- (ve zımpara) makineleri"
+  },
+  {
+    "code": "02.04.17",
+    "term": "Yontma / oyma işlemi için kopya freze makineleri"
+  },
+  {
+    "code": "02.04.18",
+    "term": "Kavela profil makineleri"
+  },
+  {
+    "code": "02.04.19",
+    "term": "Kaplanmış malzeme temizleme frezesi"
+  },
+  {
+    "code": "02.04.20",
+    "term": "Yuvarlak çubuk profil makineleri"
+  },
+  {
+    "code": "02.04.21",
+    "term": "Spiral freze makineleri"
+  },
+  {
+    "code": "02.04.22",
+    "term": "Açılı profil ekleme freze makineleri"
+  },
+  {
+    "code": "02.04.23",
+    "term": "İstavroz freze makineleri"
+  },
+  {
+    "code": "02.04.24",
+    "term": "Merdiven, panjur ve jaluzi için kanal freze makineleri"
+  },
+  {
+    "code": "02.04.25",
+    "term": "Çıta profilleme için freze makineleri"
+  },
+  {
+    "code": "02.04.26",
+    "term": "Şaküllü freze makineleri"
+  },
+  {
+    "code": "02.04.99",
+    "term": "Özel amaçlı freze makineleri"
+  },
+  {
+    "code": "02.05",
+    "term": "Kurt ağzı ekleme tekniği"
+  },
+  {
+    "code": "02.05.01",
+    "term": "Kurt ağzı ekleme frezeleri"
+  },
+  {
+    "code": "02.05.02",
+    "term": "Kurt ağzı ekleme için tutkal sürme sistemleri"
+  },
+  {
+    "code": "02.05.03",
+    "term": "Kurt ağzı ekleme için presler"
+  },
+  {
+    "code": "02.05.04",
+    "term": "Kurt ağzı ekleme hatları boyutlama, kurtağzı açma, tutkallama, presleme v.s için"
+  },
+  {
+    "code": "02.06",
+    "term": "Erkek zıvana açma makineleri"
+  },
+  {
+    "code": "02.06.01",
+    "term": "Düz zıvana açmak için zıvana makineleri"
+  },
+  {
+    "code": "02.06.01.01",
+    "term": "Tek taraflı düz zıvana açmak için zıvana makineleri"
+  },
+  {
+    "code": "02.06.01.02",
+    "term": "Çift taraflı düz zıvana açmak için zıvana makineleri"
+  },
+  {
+    "code": "02.06.02",
+    "term": "Yuvarlak zıvana açmak için zıvana makineleri"
+  },
+  {
+    "code": "02.06.02.01",
+    "term": "Tek taraflı yuvarlak zıvana açmak için zıvana makineleri"
+  },
+  {
+    "code": "02.06.02.02",
+    "term": "Çift taraflı yuvarlak zıvana açmak için zıvana makineleri"
+  },
+  {
+    "code": "02.07",
+    "term": "Profilleme - ebatlama makineleri (düzeltme, boy kesme, profilleme, zımparalama vs)"
+  },
+  {
+    "code": "02.07.01",
+    "term": "Profil / ebatlama makineleri - düz olmayan parçalar için, örneğin: kalaslar"
+  },
+  {
+    "code": "02.07.02",
+    "term": "Profil / ebatlama makineleri - düz parçalar için, örneğin: paneller"
+  },
+  {
+    "code": "02.07.03",
+    "term": "Dopel / ebatlama makineleri - düz olmayan parçalar için, örneğin: kalaslar"
+  },
+  {
+    "code": "02.07.04",
+    "term": "Dopel / ebatlama Makineleri - düz parçalar için, örneğin: paneller"
+  },
+  {
+    "code": "02.08",
+    "term": "Kenar bantlama makineleri (Kenar yapıştırma ve son işlemler için)"
+  },
+  {
+    "code": "02.08.01",
+    "term": "Tek taraflı bantlama makineleri"
+  },
+  {
+    "code": "02.08.01.01",
+    "term": "Tek kenar bantlama makineleri - düz kenar için"
+  },
+  {
+    "code": "02.08.01.02",
+    "term": "Softforming - tek taraflı bantlama makineleri"
+  },
+  {
+    "code": "02.08.01.03",
+    "term": "Form parçalar - tek taraflı bantlama makineleri"
+  },
+  {
+    "code": "02.08.02",
+    "term": "Çift taraflı bantlama makineleri"
+  },
+  {
+    "code": "02.08.02.01",
+    "term": "Çift kenarlı bantlama makineleri - düz kenar için"
+  },
+  {
+    "code": "02.08.02.02",
+    "term": "Softforming - çift taraflı bantlama makineleri"
+  },
+  {
+    "code": "02.08.02.03",
+    "term": "Form parçalar - çift taraflı bantlama makineleri"
+  },
+  {
+    "code": "02.08.03",
+    "term": "Masa kenar bantlama makineleri"
+  },
+  {
+    "code": "02.09",
+    "term": "Formatlama işlemi ve kenar yapıştırma makineleri (formatlama, profil frezeleme, kenarlar yapıştırma ve son işlemler)"
+  },
+  {
+    "code": "02.09.01",
+    "term": "Formatlama işlemi ve kenar yapıştırma makineleri, tek taraflı"
+  },
+  {
+    "code": "02.09.01.01",
+    "term": "Formatlama işlemi ve kenar yapıştırma makineleri, düz kenarlar için ve tek taraflı"
+  },
+  {
+    "code": "02.09.01.02",
+    "term": "Formatlama işlemi ve Softforming-kenar yapıştırma makineleri, tek taraflı"
+  },
+  {
+    "code": "02.09.01.03",
+    "term": "Formatlama işlemi ve şekilli parça-kenar yapıştırma makineleri, tek taraflı"
+  },
+  {
+    "code": "02.09.02",
+    "term": "Formatlama işlemi ve kenar yapıştırma makineleri, çift taraflı"
+  },
+  {
+    "code": "02.09.02.01",
+    "term": "Formatlama işlemi ve kenar yapıştırma makineleri, düz kenarlar için ve çift taraflı"
+  },
+  {
+    "code": "02.09.02.02",
+    "term": "Formatlama işlemi ve Softforming-kenar yapıştırma makineleri, çift taraflı"
+  },
+  {
+    "code": "02.09.02.03",
+    "term": "Formatlama işlemi ve şekilli parça-kenar yapıştırma makineleri, çift taraflı"
+  },
+  {
+    "code": "02.10",
+    "term": "Postforming-makineleri"
+  },
+  {
+    "code": "02.10.01",
+    "term": "Sabit işlemler için postforming-makineleri"
+  },
+  {
+    "code": "02.10.02",
+    "term": "Sürekli işlemler için postforming-makineleri"
+  },
+  {
+    "code": "02.10.02.01",
+    "term": "Laminantlar için postforming-makineler"
+  },
+  {
+    "code": "02.10.02.02",
+    "term": "Kaplanmış ve kaplamalı plakalar için direk postforming makineler"
+  },
+  {
+    "code": "02.11",
+    "term": "Katlama tekniği için makineler ve tesisler (Katlama sistemi)"
+  },
+  {
+    "code": "02.11.01",
+    "term": "Uzunlamasına katlama tekniği için makineler"
+  },
+  {
+    "code": "02.11.02",
+    "term": "Çapraz katlama tekniği için gönye testere ve freze makineleri"
+  },
+  {
+    "code": "02.11.03",
+    "term": "Çapraz katlama için Korpus presler ve tutkallama istasyonları"
+  },
+  {
+    "code": "02.11.04",
+    "term": "Çapraz birleştirme için tesisler (baş kesme, açılı kesme, frezeleme, tutkal sürme, katlama, presleme vs)"
+  },
+  {
+    "code": "02.12",
+    "term": "Delme, dübel çakma ve Menteşe sabitleme makineleri"
+  },
+  {
+    "code": "02.12.01",
+    "term": "Tek veya çok kafalı delme makineleri"
+  },
+  {
+    "code": "02.12.01.01",
+    "term": "Sabit işlemeler için üniversal çok kafalı delme makineleri"
+  },
+  {
+    "code": "02.12.01.02",
+    "term": "Sabit işlemeler için çok milli yatay ve dikey kafalı delme makineleri"
+  },
+  {
+    "code": "02.12.01.03",
+    "term": "Kontinü işlemeler için çok milli yatay ve / veya dikey kafalı delme makineleri"
+  },
+  {
+    "code": "02.12.02",
+    "term": "Raf, çerçeve parçaları ve diğer prizmatik iş parçaları için matkap makineleri (Sabit ve sürekli işlem)"
+  },
+  {
+    "code": "02.12.03",
+    "term": "Kesme, frezleme, delme, dübel çakma için delme otomatları"
+  },
+  {
+    "code": "02.12.04",
+    "term": "Delme, frezleme, menteşe sabitleme v.s için delme ve montaj otomatları"
+  },
+  {
+    "code": "02.12.05",
+    "term": "CNC-delme makineleri"
+  },
+  {
+    "code": "02.12.05.01",
+    "term": "Sabit işlemler için CNC-delme makineleri"
+  },
+  {
+    "code": "02.12.05.02",
+    "term": "Sürekli işlemler için CNC-delme tezgahları"
+  },
+  {
+    "code": "02.12.06",
+    "term": "Dübel çakma makineleri (tutkallama, çakma)"
+  },
+  {
+    "code": "02.12.07",
+    "term": "Menteşe yerleştirme makineleri"
+  },
+  {
+    "code": "02.12.08",
+    "term": "Budak boşaltma matkap tezgahları"
+  },
+  {
+    "code": "02.12.09",
+    "term": "Masa ve sütunlu matkap tezgahları"
+  },
+  {
+    "code": "02.12.10",
+    "term": "Uzun delik açma tezgahları"
+  },
+  {
+    "code": "02.13",
+    "term": "Menteşe yuvası açma makineleri"
+  },
+  {
+    "code": "02.14",
+    "term": "Disi zıvana açma makineleri"
+  },
+  {
+    "code": "02.14.01",
+    "term": "Salınım hareketli zıvana makineleri"
+  },
+  {
+    "code": "02.14.02",
+    "term": "Zincirli zıvana makineleri"
+  },
+  {
+    "code": "02.14.03",
+    "term": "Yuvarlak keskili zıvana makineleri"
+  },
+  {
+    "code": "02.14.04",
+    "term": "Zıvana makineleri, Seçime bağlı olarak zincirli veya keskili"
+  },
+  {
+    "code": "02.15",
+    "term": "Torna makineleri"
+  },
+  {
+    "code": "02.15.01",
+    "term": "Uzunlamasına torna makineleri"
+  },
+  {
+    "code": "02.15.02",
+    "term": "Alın torna makineleri"
+  },
+  {
+    "code": "02.15.03",
+    "term": "Profil işleme torna makineleri"
+  },
+  {
+    "code": "02.15.04",
+    "term": "Şablonlu torna makineleri"
+  },
+  {
+    "code": "02.15.05",
+    "term": "CNC-torna makineleri"
+  },
+  {
+    "code": "02.16",
+    "term": "Zımpara makineleri"
+  },
+  {
+    "code": "02.16.01",
+    "term": "Tezgahlı uzun bantlı zımpara makineleri"
+  },
+  {
+    "code": "02.16.02",
+    "term": "İş parçaları mekanize hareket eden destekli uzun bantlı zımpara makineleri"
+  },
+  {
+    "code": "02.16.03",
+    "term": "Geniş bant zımpara makineleri"
+  },
+  {
+    "code": "02.16.04",
+    "term": "Uzun ve geniş bantlı zımpara agregatlı çapraz zımparalama makineleri"
+  },
+  {
+    "code": "02.16.05",
+    "term": "Kaplama yaprak zımpara makineleri"
+  },
+  {
+    "code": "02.16.06",
+    "term": "Zımpara kalibrasyon makineleri"
+  },
+  {
+    "code": "02.16.07",
+    "term": "Kalibrasyon ve zımparalama için bant zımpara makineleri"
+  },
+  {
+    "code": "02.16.08",
+    "term": "Düz yüzeyler için silindir zımpara makineleri"
+  },
+  {
+    "code": "02.16.09",
+    "term": "Düz olmayan iş parçaları satıhları için zımpara makineler"
+  },
+  {
+    "code": "02.16.10",
+    "term": "Ara lake için zımpara makineleri"
+  },
+  {
+    "code": "02.16.11",
+    "term": "Kenar, fatura ve profil zımpara makineleri"
+  },
+  {
+    "code": "02.16.11.01",
+    "term": "Tek taraflı kenar ve profil zımpara makineleri"
+  },
+  {
+    "code": "02.16.11.02",
+    "term": "Çift taraflı kenar ve profil zımpara makineleri"
+  },
+  {
+    "code": "02.16.12",
+    "term": "Silindirli zımpara makineleri"
+  },
+  {
+    "code": "02.16.13",
+    "term": "Bant zımpara makineleri"
+  },
+  {
+    "code": "02.16.14",
+    "term": "Disk zımpara makineleri"
+  },
+  {
+    "code": "02.16.15",
+    "term": "Yuvarlak çubuklar için zımparalama makineleri"
+  },
+  {
+    "code": "02.16.16",
+    "term": "Tornalanmış parçalar için zımparalama makineleri"
+  },
+  {
+    "code": "02.16.17",
+    "term": "Tüm yüzeylerin işlenebilmesi için CNC-zımpara işlem merkezleri"
+  },
+  {
+    "code": "02.17",
+    "term": "Cila / perdahlama makineleri"
+  },
+  {
+    "code": "02.17.01",
+    "term": "Düz satıhlar için cila makineleri"
+  },
+  {
+    "code": "02.17.02",
+    "term": "Form parçaları için cila makineleri"
+  },
+  {
+    "code": "02.17.03",
+    "term": "Prpfil çubuklar için cila makineleri"
+  },
+  {
+    "code": "02.17.04",
+    "term": "Mekanik ilerlemeli cila makineleri"
+  },
+  {
+    "code": "02.17.05",
+    "term": "Perdahlama masaları"
+  },
+  {
+    "code": "02.18",
+    "term": "Form verme için makineler"
+  },
+  {
+    "code": "02.18.01",
+    "term": "Bükme makineleri"
+  },
+  {
+    "code": "02.18.02",
+    "term": "Baskı makineleri"
+  },
+  {
+    "code": "02.18.02.01",
+    "term": "Sabit iş parçası için baskı makineleri"
+  },
+  {
+    "code": "02.18.02.02",
+    "term": "Sürekli baskı makineleri"
+  },
+  {
+    "code": "02.18.99",
+    "term": "Form verme makineleri ve diğerleri"
+  },
+  {
+    "code": "02.19",
+    "term": "Kombine marangoz makineleri (mekana bağlı kombinasyonlar)"
+  },
+  {
+    "code": "02.19.01",
+    "term": "Kalınlık doğrultma makineleri"
+  },
+  {
+    "code": "02.19.02",
+    "term": "Kombine freze ve testere makineleri"
+  },
+  {
+    "code": "02.19.03",
+    "term": "Kombine testere ve uzun delik makineleri"
+  },
+  {
+    "code": "02.19.04",
+    "term": "Kombine kalınlık, testere, freze ve uzun delik makineleri"
+  },
+  {
+    "code": "02.19.05",
+    "term": "Marangozluk işletmeleri için universal-marangoz makineleri"
+  },
+  {
+    "code": "02.19.06",
+    "term": "El işleriylere uğraşanlara universal-marangoz makineleri"
+  },
+  {
+    "code": "02.19.99",
+    "term": "Kombine marangoz makineleri; diğerleri"
+  },
+  {
+    "code": "02.20",
+    "term": "İşlem merkezleri (Sabit işlem)"
+  },
+  {
+    "code": "02.20.01",
+    "term": "Kesme, frezeleme, delme, zımparalama için işlem merkezleri"
+  },
+  {
+    "code": "02.20.02",
+    "term": "Kenar yapıtırma ve sonraki işler için işlem merkezleri"
+  },
+  {
+    "code": "02.20.03",
+    "term": "Frezeleme, kesme, delme, kener yapıştırma ve son işler için işlem merkezleri"
+  },
+  {
+    "code": "02.20.04",
+    "term": "Frezeleme, kesme, delme, menteşe ve dübel çakma için işlem merkezleri"
+  },
+  {
+    "code": "02.21",
+    "term": "İmalat hücreleri"
+  },
+  {
+    "code": "02.22",
+    "term": "Masif ahşap parçalarının ve diğer malzemelerin tutkallanması için pres ve ekipmanlar"
+  },
+  {
+    "code": "02.22.01",
+    "term": "Dikey kenar tutkallama için makineler"
+  },
+  {
+    "code": "02.22.02",
+    "term": "Kalas ve taslak tutkallama makineleri"
+  },
+  {
+    "code": "02.22.03",
+    "term": "Orta malzeme tutkallama makineleri"
+  },
+  {
+    "code": "02.22.04",
+    "term": "kontrplak için presler"
+  },
+  {
+    "code": "02.23",
+    "term": "Köşe bağlantıları için presler"
+  },
+  {
+    "code": "02.23.01",
+    "term": "Universal masa presleri"
+  },
+  {
+    "code": "02.23.02",
+    "term": "Çerçeve presleri"
+  },
+  {
+    "code": "02.23.03",
+    "term": "Yuvarlak ekleme presleri"
+  },
+  {
+    "code": "02.24",
+    "term": "Zımba makineleri"
+  },
+  {
+    "code": "02.24.01",
+    "term": "Gönye Birleştirme makinesi"
+  },
+  {
+    "code": "02.24.02",
+    "term": "İstavroz Birleştirme makineleri"
+  },
+  {
+    "code": "02.24.99",
+    "term": "Zımba makineleri; diğerleri"
+  },
+  {
+    "code": "03",
+    "term": "Yüzey işlemleri için makineler ve teknik ekipmanlar"
+  },
+  {
+    "code": "03.01",
+    "term": "Sıvı malzeme ile kaplama (Cila vs)"
+  },
+  {
+    "code": "03.01.01",
+    "term": "Yüzey ön işleme"
+  },
+  {
+    "code": "03.01.01.01",
+    "term": "Kumlama cihazları"
+  },
+  {
+    "code": "03.01.01.02",
+    "term": "Struktur fırçalar"
+  },
+  {
+    "code": "03.01.01.03",
+    "term": "Temizleme fırçaları"
+  },
+  {
+    "code": "03.01.02",
+    "term": "Ağartma ve dağlama tesisleri"
+  },
+  {
+    "code": "03.01.03",
+    "term": "Macun uygulama makineleri"
+  },
+  {
+    "code": "03.01.04",
+    "term": "Dekor baskı tesisleri"
+  },
+  {
+    "code": "03.01.05",
+    "term": "Püskürtme ile boyama makineleri / robotları"
+  },
+  {
+    "code": "03.01.06",
+    "term": "Döner püskürtme boyama makineleri"
+  },
+  {
+    "code": "03.01.07",
+    "term": "Elektrostatistik püskürtme tesisleri"
+  },
+  {
+    "code": "03.01.08",
+    "term": "Cila için v.s dökme makineleri"
+  },
+  {
+    "code": "03.01.09",
+    "term": "Silindirli boya uygulama makineleri"
+  },
+  {
+    "code": "03.01.10",
+    "term": "Vakumla boya uygulama tekniği"
+  },
+  {
+    "code": "03.01.11",
+    "term": "Daldırma tesisleri"
+  },
+  {
+    "code": "03.01.12",
+    "term": "Taşırma tesisleri"
+  },
+  {
+    "code": "03.01.13",
+    "term": "Kenar kaplama sistemleri"
+  },
+  {
+    "code": "03.01.14",
+    "term": "Tamburlu kaplama tesisleri"
+  },
+  {
+    "code": "03.01.15",
+    "term": "Püskürtme perdeleri / kabinleri"
+  },
+  {
+    "code": "03.01.16",
+    "term": "Boya kurutma ve sertleştirme üniteleri"
+  },
+  {
+    "code": "03.01.17",
+    "term": "Boya tesisleri için sevk ekipmanları"
+  },
+  {
+    "code": "03.01.18",
+    "term": "Sıvı üst yüzey işlem malzemelerinin hazırlanması, dozajı ve uygulaması için cihazlar (Ör. Cila, boya v.s.)"
+  },
+  {
+    "code": "03.02",
+    "term": "Katı malzemelerle üst yüzey işlemleri"
+  },
+  {
+    "code": "03.02.01",
+    "term": "Toz boya kaplama için makineler ve ekipmanlar"
+  },
+  {
+    "code": "03.02.02",
+    "term": "Alçı için uygulama makineleri (ör. resim çerçeveleri)"
+  },
+  {
+    "code": "03.02.03",
+    "term": "Ağaç oyma ve ağaç pastası uygulamayı birleştiren makineler"
+  },
+  {
+    "code": "03.02.99",
+    "term": "Katı üst yüzey işlem malzemelerinin uygulanması için makineler ve ekipmanlar"
+  },
+  {
+    "code": "03.03",
+    "term": "Pirogravür ve / veya etiketleme için makineler ve ekipmanlar"
+  },
+  {
+    "code": "04",
+    "term": "Birleştirme, montaj ve ambalajlamada kullanılan makine ve teknik ekipman"
+  },
+  {
+    "code": "04.01",
+    "term": "Montaj tekniği"
+  },
+  {
+    "code": "04.01.01",
+    "term": "Mobilya parçaları için ön montaj hatları"
+  },
+  {
+    "code": "04.01.02",
+    "term": "Gövde tutkallama istasyonları"
+  },
+  {
+    "code": "04.01.02.01",
+    "term": "Gövde parçalarının yapıştırılması için tutkallama istasyonları"
+  },
+  {
+    "code": "04.01.02.02",
+    "term": "Ön birleştirme gereçleri"
+  },
+  {
+    "code": "04.01.02.03",
+    "term": "Gövde presleri"
+  },
+  {
+    "code": "04.01.03",
+    "term": "Mobilya parçaları, gövde mobilyaları için son montaj istasyonları"
+  },
+  {
+    "code": "04.01.04",
+    "term": "Mobilyalar için son montaj hatları"
+  },
+  {
+    "code": "04.01.05",
+    "term": "Pencere, kapı ve cephe elemanları için montaj istasyonları ve hatları"
+  },
+  {
+    "code": "04.01.99",
+    "term": "Montaj sistemleri, diğer"
+  },
+  {
+    "code": "04.02",
+    "term": "Çivileme, zımbalama ve vidalama makineleri"
+  },
+  {
+    "code": "04.02.01",
+    "term": "Çivileme makineleri"
+  },
+  {
+    "code": "04.02.02",
+    "term": "Zımbalama makineleri"
+  },
+  {
+    "code": "04.02.03",
+    "term": "Vidalama makineleri"
+  },
+  {
+    "code": "04.03",
+    "term": "Ambalaj tekniği"
+  },
+  {
+    "code": "04.03.01",
+    "term": "Mobilya parçaları ve gövde mobilyaları için ambalaj makineleri"
+  },
+  {
+    "code": "04.03.02",
+    "term": "Yassı parçalar (zemin kaplama elemanları, panel v.s.) için ambalajlama makineleri"
+  },
+  {
+    "code": "04.03.03",
+    "term": "Plakalar, sabit ölçüler için ambalajlama makineleri"
+  },
+  {
+    "code": "04.03.99",
+    "term": "Ambalajlama makineleri, diğer"
+  },
+  {
+    "code": "05",
+    "term": "Taşıma, depolama ve sipariş işlem tekniği"
+  },
+  {
+    "code": "05.01",
+    "term": "Materyal taşıma tekniği"
+  },
+  {
+    "code": "05.01.01",
+    "term": "Ek teçhizatlı arazi forkliftleri, önden ve yandan kaldırmalı forkliftler"
+  },
+  {
+    "code": "05.01.03",
+    "term": "Kaldırma masaları"
+  },
+  {
+    "code": "05.01.04",
+    "term": "İstifleme ve paketleme tesisleri"
+  },
+  {
+    "code": "05.01.05",
+    "term": "Vakumlu kaldırma aletleri"
+  },
+  {
+    "code": "05.01.06",
+    "term": "Besleme tesisleri"
+  },
+  {
+    "code": "05.01.07",
+    "term": "İstifleme tesisleri"
+  },
+  {
+    "code": "05.01.08",
+    "term": "Levha kaldırma ve döndürme istasyonları"
+  },
+  {
+    "code": "05.01.09",
+    "term": "Açılı aktarmalar"
+  },
+  {
+    "code": "05.01.10",
+    "term": "Çapraz konveyörler"
+  },
+  {
+    "code": "05.01.11",
+    "term": "Geri yürütme konveyörleri"
+  },
+  {
+    "code": "05.01.12",
+    "term": "Rulolu konveyörler"
+  },
+  {
+    "code": "05.01.12.01",
+    "term": "Tahrikli rulolu konveyörler"
+  },
+  {
+    "code": "05.01.12.02",
+    "term": "Tahriksiz rulolu konveyörler"
+  },
+  {
+    "code": "05.01.13",
+    "term": "Bantlı konveyörler"
+  },
+  {
+    "code": "05.01.14",
+    "term": "Askılı konveyörler"
+  },
+  {
+    "code": "05.01.15",
+    "term": "Nakliye araçları, raflı araçlar vs."
+  },
+  {
+    "code": "05.01.16",
+    "term": "Sipariş arabaları ve konteynırları"
+  },
+  {
+    "code": "05.01.17",
+    "term": "Tekerlekli sehpalar"
+  },
+  {
+    "code": "05.01.18",
+    "term": "Marangoz makineleri için besleme aparatları (Yüzey düzeltme planya makineleri, Masa frezeleme makineleri)"
+  },
+  {
+    "code": "05.01.90",
+    "term": "Özel mekanizasyonlar"
+  },
+  {
+    "code": "05.01.90.01",
+    "term": "Optimizasyonlu daire testereler için özel mekanizasyonlar"
+  },
+  {
+    "code": "05.01.90.02",
+    "term": "Kurt ağzı birleştirme tezgahları için özel mekanizasyonlar"
+  },
+  {
+    "code": "05.01.90.03",
+    "term": "Planya tesisleri için özelleştirilmiş mekanizasyonlar"
+  },
+  {
+    "code": "05.01.90.04",
+    "term": "Testere tezgahları için özelleştirilmiş mekanizasyonlar"
+  },
+  {
+    "code": "05.01.90.20",
+    "term": "Yonga, parçalayıcı vs. için özelleştirilmiş besleme donanımları"
+  },
+  {
+    "code": "05.01.90.99",
+    "term": "Özelleştirilmiş mekanizasyonlar, diğer"
+  },
+  {
+    "code": "05.02",
+    "term": "Depolama ve sipariş işlem tekniği"
+  },
+  {
+    "code": "05.02.01",
+    "term": "Raf sistemleri"
+  },
+  {
+    "code": "05.02.02",
+    "term": "Raf besleme aletleri, raflı konveyörler"
+  },
+  {
+    "code": "05.02.03",
+    "term": "Ayırma ve sipariş işlem sistemleri"
+  },
+  {
+    "code": "05.02.04",
+    "term": "Büyük boyutlu levhalar için depolama ve sipariş sistemleri"
+  },
+  {
+    "code": "05.02.99",
+    "term": "Depolama sistemleri, diğer"
+  },
+  {
+    "code": "06",
+    "term": "Robot tekniği"
+  },
+  {
+    "code": "06.01",
+    "term": "Taşıma, besleme, paletleme robotları"
+  },
+  {
+    "code": "06.02",
+    "term": "Birleştirme ve montaj robotları"
+  },
+  {
+    "code": "06.03",
+    "term": "Boyama, cilalama vs. robotları"
+  },
+  {
+    "code": "06.04",
+    "term": "Talaşlı işlem (kesme, zımparalama vs.) robotları"
+  },
+  {
+    "code": "06.99",
+    "term": "Robotlar; diğer"
+  },
+  {
+    "code": "10",
+    "term": "Özel işlemler için makine ve tesisler"
+  },
+  {
+    "code": "10.01",
+    "term": "Lazer tekniği"
+  },
+  {
+    "code": "10.02",
+    "term": "Yüksek frekans tekniği"
+  },
+  {
+    "code": "10.03",
+    "term": "Mikro dalga tekniği"
+  },
+  {
+    "code": "10.04",
+    "term": "Ultrason tekniği"
+  },
+  {
+    "code": "10.06",
+    "term": "Termo düzleme"
+  },
+  {
+    "code": "10.07",
+    "term": "Su jeti ile kesim"
+  },
+  {
+    "code": "10.99",
+    "term": "Özel yöntemler ve diğerleri"
+  },
+  {
+    "code": "11",
+    "term": "Özel ürün grupları için makine ve tesisler"
+  },
+  {
+    "code": "11.01",
+    "term": "Yapı elemanları için makine ve tesisler"
+  },
+  {
+    "code": "11.01.01",
+    "term": "Pencere ve cepheler için makine ve tesisler"
+  },
+  {
+    "code": "11.01.01.01",
+    "term": "Doğrama parçalarının uzunlamasına ve çapraz işlenmesi için üretim merkezleri"
+  },
+  {
+    "code": "11.01.01.99",
+    "term": "Pencere ve cepheler için makineler; diğer"
+  },
+  {
+    "code": "11.01.02",
+    "term": "Kapı ve pervaz için makine ve tesisler"
+  },
+  {
+    "code": "11.01.03",
+    "term": "Ahşap yapı için makine ve tesisler"
+  },
+  {
+    "code": "11.01.03.01",
+    "term": "Trimming hatları"
+  },
+  {
+    "code": "11.01.03.02",
+    "term": "Marangoz makineleri"
+  },
+  {
+    "code": "11.01.04",
+    "term": "Prefabrik ev yapımı için makine ve tesisler, örneğin: ahşap karkaslı"
+  },
+  {
+    "code": "11.01.04.01",
+    "term": "Montaj masaları"
+  },
+  {
+    "code": "11.01.04.02",
+    "term": "Çivileme aparatları"
+  },
+  {
+    "code": "11.01.04.03",
+    "term": "Yapı elemanları için işleme merkezleri"
+  },
+  {
+    "code": "11.01.05",
+    "term": "Lamine ahşap yapı elemanları için makine ve techizatları"
+  },
+  {
+    "code": "11.01.06",
+    "term": "Ahşap zemin ve parke için makine ve techizatları"
+  },
+  {
+    "code": "11.01.07",
+    "term": "Laminat yer döşeme için makine ve techizatları"
+  },
+  {
+    "code": "11.01.08",
+    "term": "Ahşap merdiven yapımı için makine ve techizatları"
+  },
+  {
+    "code": "11.02",
+    "term": "Masif panel imalatı için makine ve techizatları"
+  },
+  {
+    "code": "11.03",
+    "term": "İskelet mobilya (sandalye ve masa) yapımı makine ve techizatları"
+  },
+  {
+    "code": "11.04",
+    "term": "Ahşap ambalaj malzemeleri (palet, kasa vs.) yapımı için makine ve techizatlar"
+  },
+  {
+    "code": "11.04.01",
+    "term": "Palet yapımı için makine ve ekipmanlar, sabit üretim"
+  },
+  {
+    "code": "11.04.02",
+    "term": "Palet üretim hatları"
+  },
+  {
+    "code": "11.04.03",
+    "term": "Sebze ve meyve ambalajı üretimi için makine ve ekipmanlar, (sabit üretim)"
+  },
+  {
+    "code": "11.04.04",
+    "term": "Sebze ve meyve ambalajı üretim hatları"
+  },
+  {
+    "code": "11.04.05",
+    "term": "Sanayi ambalajları (sandık vs.) üretimi için makineler"
+  },
+  {
+    "code": "11.04.06",
+    "term": "Kablo makaraları üretimi için makineler"
+  },
+  {
+    "code": "11.04.07",
+    "term": "Palet ve benzeri ambalajların ısıl işlemleri için tesisler"
+  },
+  {
+    "code": "11.04.08",
+    "term": "Palet ve benzeri ambalajların gazlama işlemi için tesisler"
+  },
+  {
+    "code": "11.05",
+    "term": "Mobilya kapak üretiminde kullanılan makine ve ekipmanlar"
+  },
+  {
+    "code": "11.06",
+    "term": "Çekmece üretiminde kullanılan makine ve ekipmanlar"
+  },
+  {
+    "code": "11.07",
+    "term": "Resim çerçevesi ve diğer çerçevelerin üretiminde kullanılan makine ve ekipmanlar"
+  },
+  {
+    "code": "11.07.01",
+    "term": "V kesim çift daire testereler"
+  },
+  {
+    "code": "11.07.02",
+    "term": "Çerçeveler için sıkıştırma / tutkallama makineleri"
+  },
+  {
+    "code": "11.07.03",
+    "term": "Metal bağlayıcı ve bağlama yardımcı malzemeleri (V-ataş vs.) için makineler"
+  },
+  {
+    "code": "11.07.04",
+    "term": "Münferit baş ve gönye kesim testere makineleri"
+  },
+  {
+    "code": "11.07.05",
+    "term": "Gönye giyotinleri"
+  },
+  {
+    "code": "11.07.06",
+    "term": "Çerçeve imalatı için otomatikleştirilmiş sistemler"
+  },
+  {
+    "code": "11.08",
+    "term": "Ahşap fıçıların üretiminde kullanılan makine ve ekipmanlar"
+  },
+  {
+    "code": "11.09",
+    "term": "Yalıtım malzemeleri üretimi ve işleme için makineler"
+  },
+  {
+    "code": "11.09.01",
+    "term": "Yalıtım malzemeleri üretimi için makineler"
+  },
+  {
+    "code": "11.09.02",
+    "term": "Yalıtım malzemeleri işleme için makineler"
+  },
+  {
+    "code": "11.99",
+    "term": "Çeşitli ürünler için makine ve tesisler"
+  },
+  {
+    "code": "11.99.01",
+    "term": "Süpürge ve fırçalar için makine ve tesisler"
+  },
+  {
+    "code": "11.99.02",
+    "term": "Kurşun kalemler için makine ve tesisler"
+  },
+  {
+    "code": "11.99.03",
+    "term": "Ahşap ayakkabılar, tabanlar, topuklar, kalıplar için makine ve tesisler"
+  },
+  {
+    "code": "11.99.04",
+    "term": "Dübel için makine ve tesisler"
+  },
+  {
+    "code": "11.99.05",
+    "term": "Direkler, kazıklar ve ahşap çitler için makine ve tesisler"
+  },
+  {
+    "code": "11.99.06",
+    "term": "Rattan mobilya için makine ve tesisler"
+  },
+  {
+    "code": "11.99.07",
+    "term": "Mobilya kulpları için makine ve tesisler"
+  },
+  {
+    "code": "11.99.08",
+    "term": "Panjur ve kepenkler için makine ve tesisler"
+  },
+  {
+    "code": "11.99.09",
+    "term": "Tabutlar için makine ve tesisler"
+  },
+  {
+    "code": "11.99.10",
+    "term": "Kalıp plakalar için makine ve tesisler"
+  },
+  {
+    "code": "11.99.11",
+    "term": "Tarım gereçleri sapları için makine ve tesisler (kürek, çapa, tırmık, çekiç, kazma vs.)"
+  },
+  {
+    "code": "11.99.12",
+    "term": "Spor malzemeleri (bilardo ıstakaları, pala, kürek vs.) için makine ve tesisler"
+  },
+  {
+    "code": "11.99.13",
+    "term": "Kürdanlar, yemek çubukları için makine ve tesisler"
+  },
+  {
+    "code": "11.99.14",
+    "term": "Kibritler için makine ve tesisler"
+  },
+  {
+    "code": "11.99.15",
+    "term": "Tahta yünü için makine ve tesisler"
+  },
+  {
+    "code": "11.99.16",
+    "term": "Evcil hayvan yataklığı için makine ve tesisler"
+  },
+  {
+    "code": "11.99.17",
+    "term": "Ahşap kiremit için makine ve tesisler"
+  },
+  {
+    "code": "11.99.18",
+    "term": "Çıta yatak / ızgaralar için makine ve tesisler"
+  },
+  {
+    "code": "18",
+    "term": "Yardımcı makineler, cihazlar ve tesisler; diğer"
+  },
+  {
+    "code": "18.02",
+    "term": "Karıştırıcılar"
+  },
+  {
+    "code": "18.03",
+    "term": "Tartılar"
+  },
+  {
+    "code": "18.04",
+    "term": "Rende tezgahları, çalışma tezgahları"
+  },
+  {
+    "code": "18.05",
+    "term": "Mengeneler"
+  },
+  {
+    "code": "18.99",
+    "term": "Yardımcı makineler; diğer"
+  },
+  {
+    "code": "19",
+    "term": "Ahşap, plastik, kompozit ve diğer malzemeleri işleme için taşınabilir makineler"
+  },
+  {
+    "code": "19.01",
+    "term": "Portatif plastik makaslar"
+  },
+  {
+    "code": "19.02",
+    "term": "Portatif dekupaj testereleri"
+  },
+  {
+    "code": "19.03",
+    "term": "Portatif şerit testereler"
+  },
+  {
+    "code": "19.04",
+    "term": "Portatif daire testereler"
+  },
+  {
+    "code": "19.05",
+    "term": "Portatif kabuk soyma makineleri"
+  },
+  {
+    "code": "19.06",
+    "term": "Portatif rende makineleri"
+  },
+  {
+    "code": "19.07",
+    "term": "Portatif freze makineleri"
+  },
+  {
+    "code": "19.08",
+    "term": "Portatif kenar işleme makineleri"
+  },
+  {
+    "code": "19.09",
+    "term": "El matkapları"
+  },
+  {
+    "code": "19.10",
+    "term": "Portatif zincir keski makineleri"
+  },
+  {
+    "code": "19.11",
+    "term": "Portatif rende makinesi"
+  },
+  {
+    "code": "19.12",
+    "term": "Portatif vibrasyonlu zımpara makineleri"
+  },
+  {
+    "code": "19.13",
+    "term": "Portatif band zımparalama makineleri"
+  },
+  {
+    "code": "19.14",
+    "term": "Portatif diskli zımparalama makineleri"
+  },
+  {
+    "code": "19.15",
+    "term": "Portatif çivileme makineleri"
+  },
+  {
+    "code": "19.16",
+    "term": "Portatif zımbalama makineleri"
+  },
+  {
+    "code": "19.17",
+    "term": "Portatif vidalama makineleri"
+  },
+  {
+    "code": "19.18",
+    "term": "Portatif tutkallama makineleri"
+  },
+  {
+    "code": "19.19",
+    "term": "Portatif boya püskürtme makineleri (Örneğin; Cila / yapıştırıcı tabancaları)"
+  },
+  {
+    "code": "19.20",
+    "term": "Portatif kaplama tutkallama makineleri"
+  },
+  {
+    "code": "19.21",
+    "term": "Elle idare edilen yer zımparalama makineleri"
+  },
+  {
+    "code": "19.90",
+    "term": "El aletleri, takımlar vs. için taşıma çantaları"
+  },
+  {
+    "code": "19.99",
+    "term": "Özel amaçlara yönelik el aletleri"
+  },
+  {
+    "code": "20",
+    "term": "Aletler ve çeşitli malzemeler"
+  },
+  {
+    "code": "20.01",
+    "term": "Aletler"
+  },
+  {
+    "code": "20.01.01",
+    "term": "Şerit testere şeritleri"
+  },
+  {
+    "code": "20.01.01.01",
+    "term": "Blok şeritli testereler, ayırma ve ikinci kesim testere makineleri için şerit testereler"
+  },
+  {
+    "code": "20.01.01.02",
+    "term": "Marangozhane şerit testere tezgahları için şerit testereler"
+  },
+  {
+    "code": "20.01.02",
+    "term": "Katrak şerit testereleri"
+  },
+  {
+    "code": "20.01.02.01",
+    "term": "Çelikten mamul katrak şerit testereleri"
+  },
+  {
+    "code": "20.01.02.02",
+    "term": "Sert krom kaplı katrak şerit testereleri"
+  },
+  {
+    "code": "20.01.02.03",
+    "term": "Kobalt alaşım uçlu katrak şerit testereler"
+  },
+  {
+    "code": "20.01.02.04",
+    "term": "Sert metal uçlu katrak şerit testereleri"
+  },
+  {
+    "code": "20.01.03",
+    "term": "Daire testereler"
+  },
+  {
+    "code": "20.01.03.01",
+    "term": "Çelikten mamul daire testereler"
+  },
+  {
+    "code": "20.01.03.02",
+    "term": "Kobalt alaşım uçlu daire testereler"
+  },
+  {
+    "code": "20.01.03.03",
+    "term": "Sert metal uçlu daire testereler"
+  },
+  {
+    "code": "20.01.03.04",
+    "term": "Elmas uçlu daire testereler"
+  },
+  {
+    "code": "20.01.04",
+    "term": "Parçalayıcı sistemleri"
+  },
+  {
+    "code": "20.01.04.01",
+    "term": "Düz parça (panel) kenar işleme operasyonu için parçalayıcı sistemleri, sert metal uçlu"
+  },
+  {
+    "code": "20.01.04.02",
+    "term": "Düz parça (panel) kenar işleme operasyonu için parçalayıcı sistemleri, elmas uçlu"
+  },
+  {
+    "code": "20.01.04.03",
+    "term": "Katlama operasyonu için parçalayıcılar, sert metal uçlu"
+  },
+  {
+    "code": "20.01.04.04",
+    "term": "Katlama operasyonu için parçalayıcılar, elmas uçlu"
+  },
+  {
+    "code": "20.01.04.05",
+    "term": "Düz olmayan (kalas) parça kenar işleme operasyonu için parçalayıcı sistemleri, örneğin: kalaslar"
+  },
+  {
+    "code": "20.01.05",
+    "term": "Planya milleri"
+  },
+  {
+    "code": "20.01.06",
+    "term": "Delikli frezeler (frezeler ve profil topları)"
+  },
+  {
+    "code": "20.01.06.01",
+    "term": "Delikli frezeler, komple çelik"
+  },
+  {
+    "code": "20.01.06.02",
+    "term": "Delikli frezeler, sert metal veya özel çelik uçlu"
+  },
+  {
+    "code": "20.01.06.03",
+    "term": "Delikli frezeler, sert metal veya özel çelik değişebilir uçlu"
+  },
+  {
+    "code": "20.01.06.04",
+    "term": "Delikli frezeler, elmas uçlu"
+  },
+  {
+    "code": "20.01.07",
+    "term": "Şaftlı frezeler"
+  },
+  {
+    "code": "20.01.07.01",
+    "term": "Üst freze makineleri için şaftlı frezeler"
+  },
+  {
+    "code": "20.01.07.03",
+    "term": "El freze makineleri için şaftlı frezeler"
+  },
+  {
+    "code": "20.01.07.10",
+    "term": "CNC üst freze makineleri ve işleme merkezleri için şaftlı frezeler, komple çelik"
+  },
+  {
+    "code": "20.01.07.11",
+    "term": "CNC üst freze makineleri ve işleme merkezleri için şaftlı frezeler, sert metal veya özel çelik uçlu"
+  },
+  {
+    "code": "20.01.07.12",
+    "term": "CNC üst freze makineleri ve işleme merkezleri için şaftlı frezeler, sert metal veya özel çelik değiştirilebilir uçlu"
+  },
+  {
+    "code": "20.01.07.13",
+    "term": "CNC üst freze makineleri ve işleme merkezleri için şaftlı frezeler, elmas uçlu"
+  },
+  {
+    "code": "20.01.07.99",
+    "term": "Şaftlı frezeler, diğerleri"
+  },
+  {
+    "code": "20.01.08",
+    "term": "Delme takımları"
+  },
+  {
+    "code": "20.01.08.01",
+    "term": "Spiral matkaplar"
+  },
+  {
+    "code": "20.01.08.02",
+    "term": "Tam delik matkapları"
+  },
+  {
+    "code": "20.01.08.03",
+    "term": "Dübel matkapları"
+  },
+  {
+    "code": "20.01.08.04",
+    "term": "Menteşe matkapları"
+  },
+  {
+    "code": "20.01.08.05",
+    "term": "Kademeli matkaplar"
+  },
+  {
+    "code": "20.01.08.06",
+    "term": "Havşa"
+  },
+  {
+    "code": "20.01.08.07",
+    "term": "Tapa matkapları"
+  },
+  {
+    "code": "20.01.09",
+    "term": "Pencere ve kapı üretimi için kesici takım sistemleri - lamba ve zıvana frezeleri"
+  },
+  {
+    "code": "20.01.10",
+    "term": "Konik şaftlı freze takımları"
+  },
+  {
+    "code": "20.01.10.01",
+    "term": "Konik şaftlı frezeler, komple çelik"
+  },
+  {
+    "code": "20.01.10.02",
+    "term": "Konik şaftlı frezeler, sert metal veya özel çelik uçlu"
+  },
+  {
+    "code": "20.01.10.03",
+    "term": "Konik şaftlı frezeler, sert metal veya özel çelik değişebilir uçlu"
+  },
+  {
+    "code": "20.01.10.04",
+    "term": "Konik şaftlı frezeler, elmas uçlu"
+  },
+  {
+    "code": "20.01.50",
+    "term": "Kesici takımlar; diğer"
+  },
+  {
+    "code": "20.01.50.01",
+    "term": "Osilasyonlu keskiler ve aksesuarları"
+  },
+  {
+    "code": "20.01.50.02",
+    "term": "Zincir frezeler ve aksesuarları"
+  },
+  {
+    "code": "20.01.50.03",
+    "term": "Kazıma bıçakları ve aksesuarları"
+  },
+  {
+    "code": "20.01.50.04",
+    "term": "Tornalama takımları"
+  },
+  {
+    "code": "20.01.50.05",
+    "term": "Testere zincirleri"
+  },
+  {
+    "code": "20.01.50.06",
+    "term": "Dairesel testereler için gövdeler"
+  },
+  {
+    "code": "20.01.90",
+    "term": "Özel malzemeler için takımlar"
+  },
+  {
+    "code": "20.01.90.01",
+    "term": "Hafifmetal işlemesi için takımlar"
+  },
+  {
+    "code": "20.01.90.02",
+    "term": "Cam işleme için takımlar"
+  },
+  {
+    "code": "20.01.90.03",
+    "term": "Taş işleme için takımlar"
+  },
+  {
+    "code": "20.01.90.04",
+    "term": "Minerallerin işlenmesinde kullanılan takımlar"
+  },
+  {
+    "code": "20.01.90.99",
+    "term": "Özel malzemeler için takımlar; diğer"
+  },
+  {
+    "code": "20.02",
+    "term": "Bıçaklar, kesici uçlar, parçalayıcı segmentleri vs."
+  },
+  {
+    "code": "20.02.01",
+    "term": "Frezeler, planya topları için şerit bıçaklar"
+  },
+  {
+    "code": "20.02.02",
+    "term": "Çit taraflı jiletler, plaketler"
+  },
+  {
+    "code": "20.02.03",
+    "term": "Dayamalar, limitörler"
+  },
+  {
+    "code": "20.02.04",
+    "term": "Blanketler"
+  },
+  {
+    "code": "20.02.05",
+    "term": "Parçalayıcı segmentleri"
+  },
+  {
+    "code": "20.02.06",
+    "term": "Dökme kobalt alaşımları"
+  },
+  {
+    "code": "20.02.07",
+    "term": "Tungsten karbür'den yapılmış yarı mamüller, örneğin: çubuk, çıta, testereler için uç, vb."
+  },
+  {
+    "code": "20.02.08",
+    "term": "Parçalama bıçakları"
+  },
+  {
+    "code": "20.02.09",
+    "term": "Dairesel bıçaklar"
+  },
+  {
+    "code": "20.02.10",
+    "term": "Soyma ve kaplama bıçakları"
+  },
+  {
+    "code": "20.02.11",
+    "term": "PCD (Çok Taneli Elmas) 'tan yapılmış yarı mamüller, örneğin: diskler, parçalar, testereler için uç, vb."
+  },
+  {
+    "code": "20.03",
+    "term": "Kesici takımlar sıkma sistemleri"
+  },
+  {
+    "code": "20.03.01",
+    "term": "Daire testereler için sıkma sistemleri"
+  },
+  {
+    "code": "20.03.02",
+    "term": "Delme takımları için sıkma sistemleri"
+  },
+  {
+    "code": "20.03.03",
+    "term": "Şaftlı freze takımları için sıkma sistemleri"
+  },
+  {
+    "code": "20.03.04",
+    "term": "Matkaplar için sıkma sistemleri"
+  },
+  {
+    "code": "20.04",
+    "term": "Kesici takımlar için ölçme ve ayar sistemleri"
+  },
+  {
+    "code": "20.04.01",
+    "term": "Kesici takımlar için ölçme ve ayar cihazları"
+  },
+  {
+    "code": "20.04.02",
+    "term": "Kesici takımlar için ölçme ve ayar mastarları"
+  },
+  {
+    "code": "20.05",
+    "term": "Kesici takımlar yönetim sistemleri"
+  },
+  {
+    "code": "20.05.01",
+    "term": "Kesici takımlar kodlama ve markalama sistemleri"
+  },
+  {
+    "code": "20.05.02",
+    "term": "Kesici takım yönetim sistemleri için yazılımlar"
+  },
+  {
+    "code": "20.06",
+    "term": "Zımparalama ve polisaj aletleri"
+  },
+  {
+    "code": "20.06.01",
+    "term": "Dar zımparalama şeritleri"
+  },
+  {
+    "code": "20.06.02",
+    "term": "Geniş zımparalama şeritleri"
+  },
+  {
+    "code": "20.06.03",
+    "term": "Polisaj aletleri"
+  },
+  {
+    "code": "20.06.04",
+    "term": "Zımpara diskleri (ahşap zımpara için)"
+  },
+  {
+    "code": "20.06.05",
+    "term": "Zımpara fırçaları"
+  },
+  {
+    "code": "20.06.06",
+    "term": "Profil zımparalama aletleri"
+  },
+  {
+    "code": "20.06.99",
+    "term": "Zımparalama takımları ve elyaf silindirleri vs. gibi zımparalama araçları; diğer"
+  },
+  {
+    "code": "20.07",
+    "term": "Makina takımları için aksesuar ve yedek parçalar (Ör. gergi kamaları, bilezikler, zımparalama düzenekleri, vs.)"
+  },
+  {
+    "code": "20.08",
+    "term": "El aletleri"
+  },
+  {
+    "code": "20.08.01",
+    "term": "El testereleri"
+  },
+  {
+    "code": "20.08.02",
+    "term": "El rendeleri"
+  },
+  {
+    "code": "20.08.03",
+    "term": "Keskiler, oyma takımları vs."
+  },
+  {
+    "code": "20.08.04",
+    "term": "Çekiçler"
+  },
+  {
+    "code": "20.08.05",
+    "term": "Ölçme ve marklama aletleri"
+  },
+  {
+    "code": "20.08.99",
+    "term": "Manuel elde taşınabilir aletler; diğer"
+  },
+  {
+    "code": "20.09",
+    "term": "Aletler için sıkıştırma ve kılavuzlama techizatları"
+  },
+  {
+    "code": "20.09.01",
+    "term": "Testere gergileri, Pala testere kopçaları ve pulları"
+  },
+  {
+    "code": "20.09.02",
+    "term": "Şeritli testereler için klavuzlar"
+  },
+  {
+    "code": "20.09.03",
+    "term": "Testere zincirleri için kılavuz rayları"
+  },
+  {
+    "code": "20.09.04",
+    "term": "Freze tahrik milleri"
+  },
+  {
+    "code": "21",
+    "term": "Aletlerin bakımı, onarımı ve üretimi için makineler, cihazlar ve aletler"
+  },
+  {
+    "code": "21.01",
+    "term": "Makine takımlarının bakımı (bilemesi) ve imalatı için makine, ekipman ve aletler"
+  },
+  {
+    "code": "21.01.01",
+    "term": "Testere bileme makineleri"
+  },
+  {
+    "code": "21.01.02",
+    "term": "Testere eğeleme makineleri"
+  },
+  {
+    "code": "21.01.03",
+    "term": "Çaprazlama, kesme ve eşitleme makineleri"
+  },
+  {
+    "code": "21.01.04",
+    "term": "Testere lehim ve kaynak makineleri"
+  },
+  {
+    "code": "21.01.05",
+    "term": "Testere gövdeleri için ezme ve egalize makineleri"
+  },
+  {
+    "code": "21.01.06",
+    "term": "Testere diş uçları için sertleştirme makineleri"
+  },
+  {
+    "code": "21.01.07",
+    "term": "Şerit testere bıçakları için kesme ve birleştirme makineleri"
+  },
+  {
+    "code": "21.01.08",
+    "term": "Bıçak bileme makineleri"
+  },
+  {
+    "code": "21.01.08.01",
+    "term": "Planya, parçalayıcı ve yongalama bıçakları için bıçak bileme makineleri"
+  },
+  {
+    "code": "21.01.08.02",
+    "term": "Kaplama bıçakları (soyma / makaslama bıçakları) için bıçak bileme makineleri"
+  },
+  {
+    "code": "21.01.08.03",
+    "term": "Halka bıçaklar ve daire bıçaklar için bıçak bileme makineleri"
+  },
+  {
+    "code": "21.01.08.90",
+    "term": "Bıçak bileme makineleri için sıkma sistemleri"
+  },
+  {
+    "code": "21.01.09",
+    "term": "Kazıma bıçakları için bileme makineleri"
+  },
+  {
+    "code": "21.01.10",
+    "term": "Frezeler için bileme makineleri"
+  },
+  {
+    "code": "21.01.11",
+    "term": "Matkaplar ve üst frezeler için bileme makineleri"
+  },
+  {
+    "code": "21.01.12",
+    "term": "Zincirli aletler için bileme makineleri"
+  },
+  {
+    "code": "21.01.13",
+    "term": "Üniversal takım bileme makineleri"
+  },
+  {
+    "code": "21.01.14",
+    "term": "Sert metal kesici ağızlı testere, freze ve planya takımları için bileme makineleri"
+  },
+  {
+    "code": "21.01.15",
+    "term": "Elmas kesici ağızlı takımlar için bileme makineleri"
+  },
+  {
+    "code": "21.01.50",
+    "term": "Kesici talımlar için temizleme makineleri ve techizatı"
+  },
+  {
+    "code": "21.01.60",
+    "term": "Takım bilemeye yarayan taşlama diskleri (elmas taşlama diskleri hariç)"
+  },
+  {
+    "code": "21.01.61",
+    "term": "Takım bilemeye yarayan elmas taşlama diskleri"
+  },
+  {
+    "code": "21.01.90",
+    "term": "Özel kullanım için bileme makineleri"
+  },
+  {
+    "code": "21.01.99",
+    "term": "Makine takımlarının bakımı (bilemesi) ve imalatı için makine, ekipman ve aletler; diğer"
+  },
+  {
+    "code": "21.02",
+    "term": "Elde taşınabilir aletlerin bakımı ve imalatı için makine, ekipman ve aletler"
+  },
+  {
+    "code": "22",
+    "term": "Makinelerin donanımına yönelik ürünler"
+  },
+  {
+    "code": "22.01",
+    "term": "Tahrik sistemleri"
+  },
+  {
+    "code": "22.01.01",
+    "term": "Elektrikli tahrik elemanları"
+  },
+  {
+    "code": "22.01.01.01",
+    "term": "Elektrikli motorlar"
+  },
+  {
+    "code": "22.01.01.03",
+    "term": "Tahrik motorları"
+  },
+  {
+    "code": "22.01.01.04",
+    "term": "Frekans değiştirici"
+  },
+  {
+    "code": "22.01.01.05",
+    "term": "Elektronik tahrik elemanları"
+  },
+  {
+    "code": "22.01.01.06",
+    "term": "Linear motorlar / Elektro-silindirler"
+  },
+  {
+    "code": "22.01.01.07",
+    "term": "Elektrikli, elektronik ve manyetik şalter ve kumanda cihazları"
+  },
+  {
+    "code": "22.01.01.99",
+    "term": "Elektrikli tahrik elemanları; diğer"
+  },
+  {
+    "code": "22.01.02",
+    "term": "Pnömatik tahrik elemanları"
+  },
+  {
+    "code": "22.01.02.02",
+    "term": "Pnömatik ekipman ve komponentler"
+  },
+  {
+    "code": "22.01.02.03",
+    "term": "Pnömatik kontrol ve ayarlayıcılar"
+  },
+  {
+    "code": "22.01.03",
+    "term": "Hidrolik tahrik elemanları"
+  },
+  {
+    "code": "22.01.03.01",
+    "term": "Hidrolik teçhizat ve komponentler"
+  },
+  {
+    "code": "22.01.03.02",
+    "term": "Hidrolik kontrol ve ayarlayıcılar"
+  },
+  {
+    "code": "22.01.10",
+    "term": "Tahrik sistemleri için komponentler ve aksesuarlar"
+  },
+  {
+    "code": "22.01.10.01",
+    "term": "Hız düşürücüler, -ayarlayıcılar"
+  },
+  {
+    "code": "22.01.10.02",
+    "term": "Kavramalar ve frenler"
+  },
+  {
+    "code": "22.01.10.03",
+    "term": "Bilyalı ve hassas yataklar"
+  },
+  {
+    "code": "22.01.10.04",
+    "term": "Linear hareketler, -modüller"
+  },
+  {
+    "code": "22.01.10.99",
+    "term": "Tahrik sistemleri için komponentler ve aksesuar, diğer"
+  },
+  {
+    "code": "22.01.20",
+    "term": "Kompresörler"
+  },
+  {
+    "code": "22.02",
+    "term": "İşleme üniteleri"
+  },
+  {
+    "code": "22.02.01",
+    "term": "Testere üniteleri"
+  },
+  {
+    "code": "22.02.02",
+    "term": "Planya üniteleri"
+  },
+  {
+    "code": "22.02.03",
+    "term": "Freze üniteleri"
+  },
+  {
+    "code": "22.02.04",
+    "term": "Delme üniteleri"
+  },
+  {
+    "code": "22.02.05",
+    "term": "Keski üniteleri"
+  },
+  {
+    "code": "22.02.06",
+    "term": "Taşlama ve polisaj üniteleri"
+  },
+  {
+    "code": "22.02.07",
+    "term": "Püskürtme üniteleri"
+  },
+  {
+    "code": "22.02.08",
+    "term": "Tutkallama üniteleri"
+  },
+  {
+    "code": "22.02.09",
+    "term": "Montaj üniteleri (vidalama, menteşe vs. için)"
+  },
+  {
+    "code": "22.02.10",
+    "term": "Yüksek frekans ve mikrodalga cihazları"
+  },
+  {
+    "code": "22.02.11",
+    "term": "CNC makineleri için takım değiştiriciler"
+  },
+  {
+    "code": "22.02.12",
+    "term": "Kam mekanizmaları ve kamlar"
+  },
+  {
+    "code": "22.02.13",
+    "term": "Antistatik sistemler"
+  },
+  {
+    "code": "22.03",
+    "term": "İş parçaları için tespit ve klavuzlama üniteleri"
+  },
+  {
+    "code": "22.03.01",
+    "term": "Lazer projektörler, kılavuz ışık cihazları"
+  },
+  {
+    "code": "22.03.02",
+    "term": "İş parçaları dayamaları"
+  },
+  {
+    "code": "22.03.02.01",
+    "term": "Mekanik ayarlanabilir iş parçası dayamaları"
+  },
+  {
+    "code": "22.03.02.02",
+    "term": "Elektronik ayarlanabilir iş parçası dayamaları"
+  },
+  {
+    "code": "22.03.03",
+    "term": "İş parçaları tespit elemanları"
+  },
+  {
+    "code": "22.03.04",
+    "term": "Vakum sistemleri"
+  },
+  {
+    "code": "22.03.04.01",
+    "term": "Vakum sistemleri için pompalar ve komponentler"
+  },
+  {
+    "code": "22.03.04.02",
+    "term": "İş parçalarını emme cihazları"
+  },
+  {
+    "code": "22.03.04.03",
+    "term": "Merkezi vakum sistemleri"
+  },
+  {
+    "code": "22.03.05",
+    "term": "Kırlangıç kuyruğu freze aparatları"
+  },
+  {
+    "code": "22.03.06",
+    "term": "Dübel deliği delme düzenekleri"
+  },
+  {
+    "code": "22.04",
+    "term": "Makineler, mekanizmalar ve konveyörler için mekanik çalıştırma ve tespit elemanları (el çarkları, tespit kolları, düğmeler vs.)"
+  },
+  {
+    "code": "22.05",
+    "term": "İşletme malzemeleri"
+  },
+  {
+    "code": "22.05.01",
+    "term": "Yağlama malzemeleri"
+  },
+  {
+    "code": "22.05.02",
+    "term": "Lehim ve dekapan malzemeleri"
+  },
+  {
+    "code": "22.99",
+    "term": "Ekipman parçaları; diğer"
+  },
+  {
+    "code": "22.99.01",
+    "term": "Pompalar, valf, boru düzenekleri"
+  },
+  {
+    "code": "22.99.02",
+    "term": "Drenaj elekleri"
+  },
+  {
+    "code": "22.99.03",
+    "term": "Presler için saclar, elekler ve plastik altlıklar"
+  },
+  {
+    "code": "22.99.04",
+    "term": "Sürekli çalışan presler için pres bantları"
+  },
+  {
+    "code": "22.99.05",
+    "term": "Isıtıcı levhalar ve çubuklar"
+  },
+  {
+    "code": "22.99.06",
+    "term": "Talaştan, elyaftan, plastikten parça kalıplama veya kaplama için pres kalıpları ve silindirleri"
+  },
+  {
+    "code": "22.99.07",
+    "term": "Taşıma elemanları"
+  },
+  {
+    "code": "22.99.07.01",
+    "term": "Rulolarve tekerlekler"
+  },
+  {
+    "code": "22.99.07.02",
+    "term": "Taşıma bantları"
+  },
+  {
+    "code": "22.99.07.99",
+    "term": "Taşıma elemanları; diğer"
+  },
+  {
+    "code": "22.99.08",
+    "term": "Elektronik olmayan kumanda ve ayar cihazları"
+  },
+  {
+    "code": "22.99.09",
+    "term": "Merkezi yağlama sistemleri"
+  },
+  {
+    "code": "22.99.10",
+    "term": "Band zımpara pabuçları"
+  },
+  {
+    "code": "22.99.11",
+    "term": "Filtreler, Filtre kartuşları ve elemanları"
+  },
+  {
+    "code": "22.99.12",
+    "term": "Enerji dağıtıcıları"
+  },
+  {
+    "code": "22.99.13",
+    "term": "UV lambaları, UV ile cila kurutmaya yarayan lambalar"
+  },
+  {
+    "code": "22.99.14",
+    "term": "Ahşap hareket ettirilmesi için dikenli silindirler ve tekerlekler"
+  },
+  {
+    "code": "22.99.15",
+    "term": "Tahrik ve taşıma zincirleri"
+  },
+  {
+    "code": "30",
+    "term": "Ahşap artıklarını (toz, talaş, parça, kabuk) değerlendirme, ahşap yakıy kullanarak enerji üretimi ve ısıtma"
+  },
+  {
+    "code": "30.01",
+    "term": "Toz, talaş, yakıt odunu ve artık odun işleme, iletim ve depolama"
+  },
+  {
+    "code": "30.01.01",
+    "term": "Odun ve yakıt odunu vs. için yarma makineleri"
+  },
+  {
+    "code": "30.01.02",
+    "term": "Parçalama makineleri"
+  },
+  {
+    "code": "30.01.02.01",
+    "term": "Sabit parçalama makineleri"
+  },
+  {
+    "code": "30.01.02.02",
+    "term": "Seyyar parçalama makineleri"
+  },
+  {
+    "code": "30.01.03",
+    "term": "Parçalayıcılar (yavaş çalışan)"
+  },
+  {
+    "code": "30.01.04",
+    "term": "Yakacak odun testereleri"
+  },
+  {
+    "code": "30.01.05",
+    "term": "Yakacak odun desteleme makineleri"
+  },
+  {
+    "code": "30.01.06",
+    "term": "Briketleme tesisleri"
+  },
+  {
+    "code": "30.01.07",
+    "term": "Odun peletleme presleri"
+  },
+  {
+    "code": "30.01.12",
+    "term": "Süpürge makineleri"
+  },
+  {
+    "code": "30.01.13",
+    "term": "Odun Pelet depolama ve nakliye"
+  },
+  {
+    "code": "30.01.14",
+    "term": "Komple odun peletleme tesisleri"
+  },
+  {
+    "code": "30.01.15",
+    "term": "Odun paletlerinin üretiminde kullanılan malzemeler için kurutucular"
+  },
+  {
+    "code": "30.01.16",
+    "term": "Odun yakıtları için kurutucular"
+  },
+  {
+    "code": "30.01.20",
+    "term": "Talaş ve toz emme tekniği"
+  },
+  {
+    "code": "30.01.20.01",
+    "term": "Talaş ve toz emme tesisleri (filitre dahil)"
+  },
+  {
+    "code": "30.01.20.02",
+    "term": "Emme tesisleri"
+  },
+  {
+    "code": "30.01.20.03",
+    "term": "Toz alıcı"
+  },
+  {
+    "code": "30.01.20.04",
+    "term": "Filtreli ayrıştırma"
+  },
+  {
+    "code": "30.01.20.05",
+    "term": "Silolar"
+  },
+  {
+    "code": "30.01.20.06",
+    "term": "Endüstriyel toz emiciler"
+  },
+  {
+    "code": "30.01.20.07",
+    "term": "Vantilatörler"
+  },
+  {
+    "code": "30.01.20.08",
+    "term": "Sıcak hava üfleyici"
+  },
+  {
+    "code": "30.01.20.09",
+    "term": "Arta kalan toz miktarının kontrolü için sistemler"
+  },
+  {
+    "code": "30.01.20.10",
+    "term": "Talaş ve toz emme tesisleri için özelleştirilmiş kumandalar"
+  },
+  {
+    "code": "30.01.20.99",
+    "term": "Talaş ve toz emme tekniği, diğer"
+  },
+  {
+    "code": "30.02",
+    "term": "Odun yakıt ile enerji üretimi ve ısıtma"
+  },
+  {
+    "code": "30.02.01",
+    "term": "Odun yakıtları (parça odun, talaş ve odun tozu) ile beslenen kazan sistemleri"
+  },
+  {
+    "code": "30.02.02",
+    "term": "Sıcak gaz üretimi için odun yakma tesisleri"
+  },
+  {
+    "code": "30.02.03",
+    "term": "Odun gazı üretimi için tesisler"
+  },
+  {
+    "code": "30.02.04",
+    "term": "Elektrik üretimi için odun yakma tesisleri"
+  },
+  {
+    "code": "30.02.05",
+    "term": "Şömineler, sobalar, brülörler"
+  },
+  {
+    "code": "30.02.99",
+    "term": "Enerji üretimine yönelik tesisler, cihazlar ve yardımcı düzenekler; diğer"
+  },
+  {
+    "code": "31",
+    "term": "Enerji taarrufu, iklimleme teknolojisi, çevre koruma, çalışma emniyeti, yangından koruma"
+  },
+  {
+    "code": "31.01",
+    "term": "Enerji tasarrufu"
+  },
+  {
+    "code": "31.01.01",
+    "term": "Enerji geri kazanımı için tesisler ve cihazlar"
+  },
+  {
+    "code": "31.01.02",
+    "term": "Enerji tasarruflu hava nakliye sistemleri ve yardımcı tesisler"
+  },
+  {
+    "code": "31.01.99",
+    "term": "Enerji tasarrufuna yönelik tesisler, cihazlar ve yardımcı düzenekler ve diğerleri"
+  },
+  {
+    "code": "31.02",
+    "term": "Emniyet tekniği"
+  },
+  {
+    "code": "31.03",
+    "term": "Çevre koruma"
+  },
+  {
+    "code": "31.03.01",
+    "term": "Su ve sıvı kimyasallar için arıtma tesisleri"
+  },
+  {
+    "code": "31.03.02",
+    "term": "Çevreci yakıtlar ve yağlama malzemeleri"
+  },
+  {
+    "code": "31.03.03",
+    "term": "Kirli hava ve egzost gazı temizleme tesisleri ve düzenekleri"
+  },
+  {
+    "code": "31.03.04",
+    "term": "Kimyasallar için yakma tesisleri (Ör. cilalar, tutkallar, folyolar)"
+  },
+  {
+    "code": "31.04",
+    "term": "Çalışma emniyeti"
+  },
+  {
+    "code": "31.04.01",
+    "term": "Ses önleme sistemleri (Ör.ses önleme kabinleri)"
+  },
+  {
+    "code": "31.04.02",
+    "term": "makineler için emniyet techizatı"
+  },
+  {
+    "code": "31.04.03",
+    "term": "Koruma giysileri ve ekipmanlar (iş giysileri dahil)"
+  },
+  {
+    "code": "31.05",
+    "term": "Yangından ve patlamadan koruma tekniği"
+  },
+  {
+    "code": "31.05.01",
+    "term": "Yangın uyarı sistemleri"
+  },
+  {
+    "code": "31.05.02",
+    "term": "Yangın ve kıvılcım söndürme tesisleri"
+  },
+  {
+    "code": "31.05.03",
+    "term": "Sprinkler sistemleri"
+  },
+  {
+    "code": "31.05.04",
+    "term": "Patlamadan koruma sistemleri"
+  },
+  {
+    "code": "31.06",
+    "term": "Klimatizasyon tesisleri"
+  },
+  {
+    "code": "31.06.01",
+    "term": "Klima cihazları"
+  },
+  {
+    "code": "31.06.02",
+    "term": "Klima odaları"
+  },
+  {
+    "code": "31.06.03",
+    "term": "Nemlendirme tesisleri, hava nemlendiricileri"
+  },
+  {
+    "code": "31.06.04",
+    "term": "Klimatizasyonla ilgili ölçüm ve ayar sistemleri"
+  },
+  {
+    "code": "40",
+    "term": "Veri toplamaya ve işlemeye yönelik elektronik cihazlar ölçme, kontrol ve ayar tekniği"
+  },
+  {
+    "code": "40.01",
+    "term": "Veri toplamaya ve işlemeye yönelik elektronik cihazlar"
+  },
+  {
+    "code": "40.01.01",
+    "term": "Nümerik kumanda sistemleri"
+  },
+  {
+    "code": "40.01.02",
+    "term": "CAM sistemleri"
+  },
+  {
+    "code": "40.01.03",
+    "term": "NC programlama sistemleri"
+  },
+  {
+    "code": "40.01.04",
+    "term": "Parça tanımaya ve tanımlamaya yönelik işaretleme sistemleri (barkod vs.)"
+  },
+  {
+    "code": "40.01.05",
+    "term": "Renk ve doku teşhisi, yüzey kontrol ve ölçmeye yönelik görsel veri tanıma ve işleme sistemleri"
+  },
+  {
+    "code": "40.01.06",
+    "term": "Özel üretim sektörleri veya görev alanları için veri toplama ve işlemeye yarayan elektronik cihazlar"
+  },
+  {
+    "code": "40.01.06.01",
+    "term": "Odun depoları ve kereste fabrikalarında veri toplama ve işlemeye yarayan elektronik cihazlar"
+  },
+  {
+    "code": "40.01.06.02",
+    "term": "Kaplama tesislerinde veri toplama ve işlemeye yarayan elektronik cihazlar"
+  },
+  {
+    "code": "40.01.06.03",
+    "term": "Kaplama kesim ve birleştirmede veri toplama ve işlemeye yarayan elektronik cihazlar"
+  },
+  {
+    "code": "40.01.06.04",
+    "term": "Mobilya üretiminde veri toplama ve işlemeye yarayan elektronik cihazlar"
+  },
+  {
+    "code": "40.01.06.05",
+    "term": "Ahşap malzeme üretiminde veri toplama ve veri işleme için elektronik aletler"
+  },
+  {
+    "code": "40.02",
+    "term": "Ölçüm, kontrol ve ayar tekniği"
+  },
+  {
+    "code": "40.02.01",
+    "term": "İş parçası ölçü cihazları"
+  },
+  {
+    "code": "40.02.02",
+    "term": "İş malzemesi kontrolü ve hata teşhisi"
+  },
+  {
+    "code": "40.02.03",
+    "term": "Üretim takibi"
+  },
+  {
+    "code": "40.02.04",
+    "term": "Metal arama ve uzaklaştırma cihazları"
+  },
+  {
+    "code": "40.02.99",
+    "term": "Ölçüm ve kontrol cihazları; diğer"
+  },
+  {
+    "code": "80",
+    "term": "Komple tesis teslimatları, finans ve leasing şirketleri"
+  },
+  {
+    "code": "80.01",
+    "term": "Komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.01",
+    "term": "Kereste üretimi tesisleri için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.02",
+    "term": "Kontrplak ve kaplama ağaç tesisleri için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.03",
+    "term": "Kaplama malzemelerinin üretimi için komple tesis teslimi yapan aracı şirketler (preslenmiş plakalar, filmler, kağıtlar v.s.)"
+  },
+  {
+    "code": "80.01.04",
+    "term": "Sunta, elyaf levha ve OSB üretimi için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.05",
+    "term": "Mobilya endüstrisi tesisleri için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.06",
+    "term": "Masif ağaç işleme için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.07",
+    "term": "Ahşap yapı elemanları üretimi için komple tesis teslimi yapan aracı şirketler pencere, fasade vs.)"
+  },
+  {
+    "code": "80.01.08",
+    "term": "Ahşap yapı ve ahşap ev tesisleri için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.09",
+    "term": "Laminat zemin kaplamaları üretimi için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.10",
+    "term": "Parke üretimi için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.11",
+    "term": "Masif ağaç plakaları üretimi için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.12",
+    "term": "Mineral bağlayıcılı (çimento) ağaç ürünü plakalar için komple tesis teslimi yapan aracı şirketler"
+  },
+  {
+    "code": "80.01.99",
+    "term": "Ana yükleniciler, diğer"
+  },
+  {
+    "code": "80.02",
+    "term": "Finansman şirketleri"
+  },
+  {
+    "code": "80.03",
+    "term": "Leasing-şirketleri"
+  },
+  {
+    "code": "90",
+    "term": "Makina imalatçılarına bağlı olmayan yazılım komple çözümleri (CAD, ERP, PPS v.s.)"
+  },
+  {
+    "code": "90.01",
+    "term": "Bıçkıhaneler ve tomruk alanları için yazılımlar"
+  },
+  {
+    "code": "90.02",
+    "term": "Kontrplak ve kaplama tahta üretimi için yazılımlar"
+  },
+  {
+    "code": "90.03",
+    "term": "Sunta, elyaf plakalar ve OSB üretimi için yazılımlar"
+  },
+  {
+    "code": "90.04",
+    "term": "Kaplama işleme için yazılımlar"
+  },
+  {
+    "code": "90.05",
+    "term": "Masif ağaç işleme için yazılımlar"
+  },
+  {
+    "code": "90.06",
+    "term": "Mobilya endüstrisi için yazılımlar"
+  },
+  {
+    "code": "90.07",
+    "term": "Pencere yapımı için yazılımlar"
+  },
+  {
+    "code": "90.08",
+    "term": "Ağaç yapı için yazılımlar"
+  },
+  {
+    "code": "90.09",
+    "term": "Ağaç el işleri için yazılımlar"
+  },
+  {
+    "code": "90.10",
+    "term": "Merdiven yapımı için yazılımlar"
+  },
+  {
+    "code": "90.11",
+    "term": "Odun ticareti için yazılımlar"
+  },
+  {
+    "code": "90.50",
+    "term": "Ağaç endüstrisi için standart yazılımlar (ERP, malzeme ekonomisi, personel-Yönetimi, maliyet hesabı v.s.)"
+  },
+  {
+    "code": "90.99",
+    "term": "Makina imalatçılarına bağlı olmayan yazılım komple çözümleri, diğer"
+  },
+  {
+    "code": "95",
+    "term": "Ağaç endüstrisi için bağımsız mühendislik ve servis hizmetleri"
+  },
+  {
+    "code": "95.01",
+    "term": "Ağaç endüstrisi için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.01",
+    "term": "Bıçkıhaneler için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.02",
+    "term": "Kontrplak ve kaplama tahta ürünler içinbağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.03",
+    "term": "Kaplama malzemelerinin üretimi için bağımsız mühendislik ve danışma hizmetleri (preslenmiş plakalar, filmler, kağıtlar v.s.)"
+  },
+  {
+    "code": "95.01.04",
+    "term": "Sunta, elyaf plakaları ve OSB üretimi için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.05",
+    "term": "Mobilya endüstrisi için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.06",
+    "term": "Bağımsız mühendislik ve danışma hizmetleri masif ağaç kurutma, buharlama için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.07",
+    "term": "Masif ağaç işleme için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.08",
+    "term": "Pencere yapımı için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.09",
+    "term": "Ahşap yapı için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.10",
+    "term": "Ağaç el işleri için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.11",
+    "term": "Üst yüzey işlem tekniği için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.12",
+    "term": "Odun yakıttan enerji üretimi ve enerji tasarrufu için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.13",
+    "term": "Çevreyi korumak için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.01.14",
+    "term": "Güvenlik tekniği, iş emniyeti ve yangından korunma için bağımsız mühendislik ve danışma hizmetleri"
+  },
+  {
+    "code": "95.02",
+    "term": "Eğitim ve uygulama hizmetleri"
+  },
+  {
+    "code": "95.03",
+    "term": "Makinelerin ve tesislerin bakım, tamir, montaj, demontaj, revizyon işleri"
+  },
+  {
+    "code": "95.04",
+    "term": "Birlikler"
+  },
+  {
+    "code": "95.05",
+    "term": "Fuar organizasyonları"
+  },
+  {
+    "code": "95.99",
+    "term": "Hizmetler ve diğerleri"
+  },
+  {
+    "code": "96",
+    "term": "Ağaç endüstrisi için araştırma ve deneme enstitüleri, eğitim tesisleri (üniversiteler, meslek yüksek okulları, meslek okulları vs.)"
+  },
+  {
+    "code": "96.01",
+    "term": "Ağaç endüstrisi için eğitim enstitüleri"
+  },
+  {
+    "code": "96.02",
+    "term": "Ağaç endüstrisi için araştırma enstitüleri"
+  },
+  {
+    "code": "96.03",
+    "term": "Ağaç endüstrisi için deneme-muayene enstitüleri"
+  },
+  {
+    "code": "97",
+    "term": "Ağaç endüstrisi için yayın evleri"
+  },
+  {
+    "code": "97.01",
+    "term": "Ağaç ve ağaç işleme endüstrisi için teknik dergiler ve süreli yayınlar"
+  },
+  {
+    "code": "97.03",
+    "term": "Ağaç endüstrisi için meslek kitapları"
+  },
+  {
+    "code": "97.04",
+    "term": "Ağaç ve ağaç işleme endüstrisi için web tabanlı yayınlar"
+  }
+]
