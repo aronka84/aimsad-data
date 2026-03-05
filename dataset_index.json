@@ -36,6 +36,7 @@
   ],
 
   "editorial_sources": {
+
     "aimsad_faaliyetleri": [
       "https://aimsaddergisi.com/category/aimsad-faaliyetleri/feed/",
       "https://twmmagazine.com/category/aimsad-news/feed/",
@@ -67,10 +68,26 @@
     ]
   },
 
+  "analysis_groups": {
+
+    "target_market_analysis": [
+      "worldimport.json",
+      "worldexport.json",
+      "worldproductimport.json",
+      "aimurunulke.json",
+      "furnitureexport.json",
+      "furnitureimport.json"
+    ]
+
+  },
+
   "metadata": {
     "dataset_version": "1.0",
     "maintainer": "AIMSAD Intelligence",
     "primary_endpoint": "https://raw.githubusercontent.com/aronka84/aimsad-data/main",
+    "system_files": [
+      "dataset_index.json"
+    ],
     "last_updated": "2026"
   }
 }
