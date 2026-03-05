@@ -10,8 +10,7 @@
   ],
 
   "furniture_dataset": [
-    "furnitureexport.json",
-    "furnitureimport.json"
+    "furniture_country_profile.json"
   ],
 
   "terminology_dataset": {
@@ -75,14 +74,45 @@
       "worldexport.json",
       "worldproductimport.json",
       "aimurunulke.json",
-      "furnitureexport.json",
-      "furnitureimport.json"
-    ]
+      "furniture_country_profile.json"
+    ],
 
+    "sector_size_analysis": [
+      "worldexport.json",
+      "worldimport.json"
+    ],
+
+    "product_segment_analysis": [
+      "worldproductexport.json",
+      "worldproductimport.json",
+      "technology.json"
+    ],
+
+    "competitiveness_analysis": [
+      "aimurun.json",
+      "worldexport.json"
+    ],
+
+    "furniture_market_analysis": [
+      "furniture_country_profile.json"
+    ]
   },
 
+  "analysis_capabilities": [
+    "global_sector_size",
+    "product_segment_analysis",
+    "technology_segment_analysis",
+    "target_market_analysis",
+    "market_penetration_analysis",
+    "trade_balance_analysis",
+    "regional_market_analysis",
+    "competitiveness_analysis",
+    "furniture_market_analysis",
+    "machinery_demand_proxy"
+  ],
+
   "metadata": {
-    "dataset_version": "1.0",
+    "dataset_version": "1.1",
     "maintainer": "AIMSAD Intelligence",
     "primary_endpoint": "https://raw.githubusercontent.com/aronka84/aimsad-data/main",
     "system_files": [
