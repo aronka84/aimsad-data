@@ -93,6 +93,12 @@
       "worldexport.json"
     ],
 
+    "country_trade_profile_analysis": [
+      "aimurunulke.json",
+      "worldexport.json",
+      "worldimport.json"
+    ],
+
     "furniture_market_analysis": [
       "furniture_country_profile.json"
     ]
@@ -107,12 +113,13 @@
     "trade_balance_analysis",
     "regional_market_analysis",
     "competitiveness_analysis",
+    "country_trade_profile",
     "furniture_market_analysis",
     "machinery_demand_proxy"
   ],
 
   "metadata": {
-    "dataset_version": "1.1",
+    "dataset_version": "1.2",
     "maintainer": "AIMSAD Intelligence",
     "primary_endpoint": "https://raw.githubusercontent.com/aronka84/aimsad-data/main",
     "system_files": [
