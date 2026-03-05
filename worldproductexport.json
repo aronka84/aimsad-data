@@ -1,47 +1,54 @@
-[
-  {
-    "Product code": "846591",
-    "Product label": "Sawing machines for working wood, cork, bone, hard rubber, hard plastics or similar hard materials ...",
-    "exported value in 2024, US Dollar thousand": "2113309"
+{
+  "metadata": {
+    "year": 2024,
+    "dataset": "worldproductexport",
+    "unit": "USD"
   },
-  {
-    "Product code": "846599",
-    "Product label": "Machine tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials ...",
-    "exported value in 2024, US Dollar thousand": "1767587"
-  },
-  {
-    "Product code": "846510",
-    "Product label": "Machines for working wood, cork, bone, hard rubber, hard plastics or similar hard materials, ...",
-    "exported value in 2024, US Dollar thousand": "1246322"
-  },
-  {
-    "Product code": "846592",
-    "Product label": "Planing, milling or moulding -by cutting- machines, for working wood, cork, bone, hard rubber, ...",
-    "exported value in 2024, US Dollar thousand": "801813"
-  },
-  {
-    "Product code": "846520",
-    "Product label": "Machining centres for working wood, cork, bone, hard rubber, hard plastics or similar hard ...",
-    "exported value in 2024, US Dollar thousand": "703151"
-  },
-  {
-    "Product code": "846596",
-    "Product label": "Splitting, slicing or paring machines, for working wood (excl. machining centres)",
-    "exported value in 2024, US Dollar thousand": "643508"
-  },
-  {
-    "Product code": "846595",
-    "Product label": "Drilling or mortising machines for working wood, cork, bone, hard rubber, hard plastics or ...",
-    "exported value in 2024, US Dollar thousand": "560607"
-  },
-  {
-    "Product code": "846594",
-    "Product label": "Bending or assembling machines for working wood, cork, bone, hard rubber, hard plastics or ...",
-    "exported value in 2024, US Dollar thousand": "548377"
-  },
-  {
-    "Product code": "846593",
-    "Product label": "Grinding, sanding or polishing machines for working wood, cork, bone, hard rubber, hard plastics ...",
-    "exported value in 2024, US Dollar thousand": "462638"
-  }
-]
+  "data": [
+    {
+      "hs6": "846591",
+      "hs6_name": "Sawing machines for working wood, cork, bone, hard rubber, hard plastics or similar hard materials",
+      "export_usd": 2113309000
+    },
+    {
+      "hs6": "846599",
+      "hs6_name": "Machine tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials",
+      "export_usd": 1767587000
+    },
+    {
+      "hs6": "846510",
+      "hs6_name": "Machines for working wood, cork, bone, hard rubber, hard plastics or similar hard materials",
+      "export_usd": 1246322000
+    },
+    {
+      "hs6": "846592",
+      "hs6_name": "Planing, milling or moulding machines for working wood",
+      "export_usd": 801813000
+    },
+    {
+      "hs6": "846520",
+      "hs6_name": "Machining centres for working wood",
+      "export_usd": 703151000
+    },
+    {
+      "hs6": "846596",
+      "hs6_name": "Splitting, slicing or paring machines for working wood",
+      "export_usd": 643508000
+    },
+    {
+      "hs6": "846595",
+      "hs6_name": "Drilling or mortising machines for working wood",
+      "export_usd": 560607000
+    },
+    {
+      "hs6": "846594",
+      "hs6_name": "Bending or assembling machines for working wood",
+      "export_usd": 548377000
+    },
+    {
+      "hs6": "846593",
+      "hs6_name": "Grinding, sanding or polishing machines for working wood",
+      "export_usd": 462638000
+    }
+  ]
+}
