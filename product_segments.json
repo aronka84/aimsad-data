@@ -1,21 +1,48 @@
 {
   "metadata": {
-    "dataset_name": "AIM Product Segments",
-    "dataset_type": "product_segment_mapping",
+    "dataset_name": "aim_product_segments",
+    "dataset_type": "classification_mapping",
     "hs2": "94",
     "hs2_name": "Furniture Industry",
     "hs4": "8465",
     "hs4_name": "Woodworking Machinery"
   },
-  "segments": [
-    { "hs6": "846510", "hs6_name": "Machine-tools which can carry out different types of machining operations without tool change..." },
-    { "hs6": "846520", "hs6_name": "Machine-tools; machining centres" },
-    { "hs6": "846591", "hs6_name": "Machine-tools; sawing machines" },
-    { "hs6": "846592", "hs6_name": "Machine-tools; planing, milling or moulding machines" },
-    { "hs6": "846593", "hs6_name": "Machine-tools; grinding, sanding or polishing machines" },
-    { "hs6": "846594", "hs6_name": "Machine-tools; bending or assembling machines" },
-    { "hs6": "846595", "hs6_name": "Machine-tools; drilling or morticing machines" },
-    { "hs6": "846596", "hs6_name": "Machine-tools; splitting, slicing or paring machines" },
-    { "hs6": "846599", "hs6_name": "Machine-tools; other machines n.e.c." }
+  "data": [
+    {
+      "hs6": "846510",
+      "hs6_name": "Machine-tools which can carry out different types of machining operations without tool change, for working wood, cork, bone, hard rubber, hard plastics or similar hard materials"
+    },
+    {
+      "hs6": "846520",
+      "hs6_name": "Machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials; machining centres"
+    },
+    {
+      "hs6": "846591",
+      "hs6_name": "Machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials; sawing machines"
+    },
+    {
+      "hs6": "846592",
+      "hs6_name": "Machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials; planing, milling or moulding (by cutting) machines"
+    },
+    {
+      "hs6": "846593",
+      "hs6_name": "Machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials; grinding, sanding or polishing machines"
+    },
+    {
+      "hs6": "846594",
+      "hs6_name": "Machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials; bending or assembling machines"
+    },
+    {
+      "hs6": "846595",
+      "hs6_name": "Machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials; drilling or morticing machines"
+    },
+    {
+      "hs6": "846596",
+      "hs6_name": "Machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials; splitting, slicing or paring machines"
+    },
+    {
+      "hs6": "846599",
+      "hs6_name": "Machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials; other machines n.e.c."
+    }
   ]
 }
