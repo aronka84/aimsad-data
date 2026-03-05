@@ -1,8 +1,8 @@
 {
   "metadata": {
     "dataset": "furniture_country_profile",
-    "hs4": "94",
-    "hs4_name": "Furniture Industry",
+    "hs2": "94",
+    "hs2_name": "Furniture Industry",
     "unit": "USD",
     "source_type": "country_market_profile"
   },
