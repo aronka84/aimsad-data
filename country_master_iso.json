@@ -1,0 +1,272 @@
+[
+  {
+    "country": "Germany",
+    "iso2": "DE",
+    "iso3": "DEU"
+  },
+  {
+    "country": "Turkey",
+    "iso2": "TR",
+    "iso3": "TUR"
+  },
+  {
+    "country": "United States",
+    "iso2": "US",
+    "iso3": "USA"
+  },
+  {
+    "country": "China",
+    "iso2": "CN",
+    "iso3": "CHN"
+  },
+  {
+    "country": "Italy",
+    "iso2": "IT",
+    "iso3": "ITA"
+  },
+  {
+    "country": "France",
+    "iso2": "FR",
+    "iso3": "FRA"
+  },
+  {
+    "country": "Spain",
+    "iso2": "ES",
+    "iso3": "ESP"
+  },
+  {
+    "country": "United Kingdom",
+    "iso2": "GB",
+    "iso3": "GBR"
+  },
+  {
+    "country": "Poland",
+    "iso2": "PL",
+    "iso3": "POL"
+  },
+  {
+    "country": "Czechia",
+    "iso2": "CZ",
+    "iso3": "CZE"
+  },
+  {
+    "country": "Portugal",
+    "iso2": "PT",
+    "iso3": "PRT"
+  },
+  {
+    "country": "Russian Federation",
+    "iso2": "RU",
+    "iso3": "RUS"
+  },
+  {
+    "country": "Brazil",
+    "iso2": "BR",
+    "iso3": "BRA"
+  },
+  {
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND"
+  },
+  {
+    "country": "Japan",
+    "iso2": "JP",
+    "iso3": "JPN"
+  },
+  {
+    "country": "Korea, Republic of",
+    "iso2": "KR",
+    "iso3": "KOR"
+  },
+  {
+    "country": "Canada",
+    "iso2": "CA",
+    "iso3": "CAN"
+  },
+  {
+    "country": "Mexico",
+    "iso2": "MX",
+    "iso3": "MEX"
+  },
+  {
+    "country": "Australia",
+    "iso2": "AU",
+    "iso3": "AUS"
+  },
+  {
+    "country": "Netherlands",
+    "iso2": "NL",
+    "iso3": "NLD"
+  },
+  {
+    "country": "Belgium",
+    "iso2": "BE",
+    "iso3": "BEL"
+  },
+  {
+    "country": "Austria",
+    "iso2": "AT",
+    "iso3": "AUT"
+  },
+  {
+    "country": "Switzerland",
+    "iso2": "CH",
+    "iso3": "CHE"
+  },
+  {
+    "country": "Sweden",
+    "iso2": "SE",
+    "iso3": "SWE"
+  },
+  {
+    "country": "Norway",
+    "iso2": "NO",
+    "iso3": "NOR"
+  },
+  {
+    "country": "Finland",
+    "iso2": "FI",
+    "iso3": "FIN"
+  },
+  {
+    "country": "Denmark",
+    "iso2": "DK",
+    "iso3": "DNK"
+  },
+  {
+    "country": "Greece",
+    "iso2": "GR",
+    "iso3": "GRC"
+  },
+  {
+    "country": "Romania",
+    "iso2": "RO",
+    "iso3": "ROU"
+  },
+  {
+    "country": "Hungary",
+    "iso2": "HU",
+    "iso3": "HUN"
+  },
+  {
+    "country": "Ukraine",
+    "iso2": "UA",
+    "iso3": "UKR"
+  },
+  {
+    "country": "South Africa",
+    "iso2": "ZA",
+    "iso3": "ZAF"
+  },
+  {
+    "country": "Saudi Arabia",
+    "iso2": "SA",
+    "iso3": "SAU"
+  },
+  {
+    "country": "United Arab Emirates",
+    "iso2": "AE",
+    "iso3": "ARE"
+  },
+  {
+    "country": "Israel",
+    "iso2": "IL",
+    "iso3": "ISR"
+  },
+  {
+    "country": "Egypt",
+    "iso2": "EG",
+    "iso3": "EGY"
+  },
+  {
+    "country": "Argentina",
+    "iso2": "AR",
+    "iso3": "ARG"
+  },
+  {
+    "country": "Chile",
+    "iso2": "CL",
+    "iso3": "CHL"
+  },
+  {
+    "country": "Colombia",
+    "iso2": "CO",
+    "iso3": "COL"
+  },
+  {
+    "country": "Peru",
+    "iso2": "PE",
+    "iso3": "PER"
+  },
+  {
+    "country": "Indonesia",
+    "iso2": "ID",
+    "iso3": "IDN"
+  },
+  {
+    "country": "Thailand",
+    "iso2": "TH",
+    "iso3": "THA"
+  },
+  {
+    "country": "Viet Nam",
+    "iso2": "VN",
+    "iso3": "VNM"
+  },
+  {
+    "country": "Malaysia",
+    "iso2": "MY",
+    "iso3": "MYS"
+  },
+  {
+    "country": "Philippines",
+    "iso2": "PH",
+    "iso3": "PHL"
+  },
+  {
+    "country": "Singapore",
+    "iso2": "SG",
+    "iso3": "SGP"
+  },
+  {
+    "country": "New Zealand",
+    "iso2": "NZ",
+    "iso3": "NZL"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "iso3": "BIH"
+  },
+  {
+    "country": "Iran (Islamic Republic of)",
+    "iso2": "IR",
+    "iso3": "IRN"
+  },
+  {
+    "country": "Moldova, Republic of",
+    "iso2": "MD",
+    "iso3": "MDA"
+  },
+  {
+    "country": "Bolivia (Plurinational State of)",
+    "iso2": "BO",
+    "iso3": "BOL"
+  },
+  {
+    "country": "Tanzania, United Republic of",
+    "iso2": "TZ",
+    "iso3": "TZA"
+  },
+  {
+    "country": "Hong Kong",
+    "iso2": "HK",
+    "iso3": "HKG"
+  },
+  {
+    "country": "Taiwan",
+    "iso2": "TW",
+    "iso3": "TWN"
+  }
+]

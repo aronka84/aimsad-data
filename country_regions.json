@@ -1,0 +1,198 @@
+[
+  {
+    "country": "Germany",
+    "iso3": "DEU",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Turkey",
+    "iso3": "TUR",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "trade_bloc": "Customs Union EU"
+  },
+  {
+    "country": "United States",
+    "iso3": "USA",
+    "continent": "North America",
+    "region": "Northern America",
+    "trade_bloc": "USMCA"
+  },
+  {
+    "country": "China",
+    "iso3": "CHN",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "trade_bloc": "RCEP"
+  },
+  {
+    "country": "Italy",
+    "iso3": "ITA",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "France",
+    "iso3": "FRA",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Spain",
+    "iso3": "ESP",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "United Kingdom",
+    "iso3": "GBR",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "trade_bloc": "None"
+  },
+  {
+    "country": "Poland",
+    "iso3": "POL",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Czechia",
+    "iso3": "CZE",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Portugal",
+    "iso3": "PRT",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Russian Federation",
+    "iso3": "RUS",
+    "continent": "Europe",
+    "region": "Eastern Europe",
+    "trade_bloc": "EAEU"
+  },
+  {
+    "country": "Brazil",
+    "iso3": "BRA",
+    "continent": "South America",
+    "region": "South America",
+    "trade_bloc": "MERCOSUR"
+  },
+  {
+    "country": "India",
+    "iso3": "IND",
+    "continent": "Asia",
+    "region": "Southern Asia",
+    "trade_bloc": "BRICS"
+  },
+  {
+    "country": "Japan",
+    "iso3": "JPN",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "trade_bloc": "CPTPP"
+  },
+  {
+    "country": "Korea, Republic of",
+    "iso3": "KOR",
+    "continent": "Asia",
+    "region": "Eastern Asia",
+    "trade_bloc": "RCEP"
+  },
+  {
+    "country": "Canada",
+    "iso3": "CAN",
+    "continent": "North America",
+    "region": "Northern America",
+    "trade_bloc": "USMCA"
+  },
+  {
+    "country": "Mexico",
+    "iso3": "MEX",
+    "continent": "North America",
+    "region": "Central America",
+    "trade_bloc": "USMCA"
+  },
+  {
+    "country": "Australia",
+    "iso3": "AUS",
+    "continent": "Oceania",
+    "region": "Australia & NZ",
+    "trade_bloc": "CPTPP"
+  },
+  {
+    "country": "Netherlands",
+    "iso3": "NLD",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Belgium",
+    "iso3": "BEL",
+    "continent": "Europe",
+    "region": "Western Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Austria",
+    "iso3": "AUT",
+    "continent": "Europe",
+    "region": "Central Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Switzerland",
+    "iso3": "CHE",
+    "continent": "Europe",
+    "region": "Central Europe",
+    "trade_bloc": "EFTA"
+  },
+  {
+    "country": "Sweden",
+    "iso3": "SWE",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Norway",
+    "iso3": "NOR",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "trade_bloc": "EFTA"
+  },
+  {
+    "country": "Finland",
+    "iso3": "FIN",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Denmark",
+    "iso3": "DNK",
+    "continent": "Europe",
+    "region": "Northern Europe",
+    "trade_bloc": "EU"
+  },
+  {
+    "country": "Greece",
+    "iso3": "GRC",
+    "continent": "Europe",
+    "region": "Southern Europe",
+    "trade_bloc": "EU"
+  }
+]
