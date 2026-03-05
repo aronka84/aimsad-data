@@ -11,17 +11,39 @@
       "worldproductimport.json"
     ],
 
-    "aim_country_trade": [
-      "aimurunulke.json"
-    ],
-
-    "aim_product_structure": [
+    "turkiye_aim_product": [
       "aimurun.json"
     ],
 
-    "product_structure_dataset": [
-      "product_segments.json"
+    "turkiye_aim_country": [
+      "aimurunulke.json"
+    ],
+
+    "product_structure": [
+      "product_segments.json",
+      "technology.json"
     ]
+  },
+
+  "dataset_usage": {
+
+    "worldexport.json": "global country level export statistics for HS8465 woodworking machinery",
+
+    "worldimport.json": "global country level import statistics for HS8465 woodworking machinery",
+
+    "worldproductexport.json": "global HS6 product level export statistics for HS8465 woodworking machinery",
+
+    "worldproductimport.json": "global HS6 product level import statistics for HS8465 woodworking machinery",
+
+    "aimurun.json": "Turkey HS6 product level export and import statistics for woodworking machinery sector",
+
+    "aimurunulke.json": "Turkey country level export and import statistics for woodworking machinery sector",
+
+    "technology.json": "HS6 technology classification mapping for woodworking machinery",
+
+    "product_segments.json": "HS6 product segment mapping for woodworking machinery",
+
+    "furniture_country_profile.json": "country level furniture production, consumption and macro indicators"
   },
 
   "aim_dataset": [
@@ -145,7 +167,7 @@
   ],
 
   "metadata": {
-    "dataset_version": "1.3",
+    "dataset_version": "1.5",
     "maintainer": "AIMSAD Intelligence",
     "primary_endpoint": "https://raw.githubusercontent.com/aronka84/aimsad-data/main",
     "system_files": [
