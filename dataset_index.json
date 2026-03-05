@@ -1,4 +1,29 @@
 {
+  "dataset_groups": {
+
+    "world_aim_country": [
+      "worldexport.json",
+      "worldimport.json"
+    ],
+
+    "world_aim_product": [
+      "worldproductexport.json",
+      "worldproductimport.json"
+    ],
+
+    "aim_country_trade": [
+      "aimurunulke.json"
+    ],
+
+    "aim_product_structure": [
+      "aimurun.json"
+    ],
+
+    "product_structure_dataset": [
+      "product_segments.json"
+    ]
+  },
+
   "aim_dataset": [
     "technology.json",
     "aimurun.json",
@@ -85,6 +110,7 @@
     "product_segment_analysis": [
       "worldproductexport.json",
       "worldproductimport.json",
+      "product_segments.json",
       "technology.json"
     ],
 
@@ -119,7 +145,7 @@
   ],
 
   "metadata": {
-    "dataset_version": "1.2",
+    "dataset_version": "1.3",
     "maintainer": "AIMSAD Intelligence",
     "primary_endpoint": "https://raw.githubusercontent.com/aronka84/aimsad-data/main",
     "system_files": [
