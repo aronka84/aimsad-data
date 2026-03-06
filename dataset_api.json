@@ -1,0 +1,27 @@
+{
+  "world_product_import": "worldproductimport.json",
+  "world_product_export": "worldproductexport.json",
+  "world_import": "worldimport.json",
+  "world_export": "worldexport.json",
+
+  "turkiye_product_trade": "aimurun.json",
+  "turkiye_country_trade": "aimurunulke.json",
+
+  "technology_mapping": "technology.json",
+  "product_segments": "product_segments.json",
+
+  "furniture_market": "furniture_country_profile.json",
+
+  "country_reference": {
+    "iso": "country_master_iso.json",
+    "regions": "country_regions.json",
+    "alias": "country_alias_mapping.json"
+  },
+
+  "metadata": {
+    "dataset_version": "3.0",
+    "maintainer": "AIMSAD Intelligence",
+    "hs_scope": "8465",
+    "description": "Woodworking machinery sector intelligence datasets"
+  }
+}
