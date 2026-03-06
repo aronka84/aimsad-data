@@ -1,30 +1,21 @@
 {
-  "primary_analysis_dataset": "worldproductimport.json",
-
-  "world_product_import": "worldproductimport.json",
-  "world_product_export": "worldproductexport.json",
-
-  "world_import": "worldimport.json",
-  "world_export": "worldexport.json",
-
-  "turkiye_product_trade": "aimurun.json",
-  "turkiye_country_trade": "aimurunulke.json",
-
-  "technology_mapping": "technology.json",
-  "product_segments": "product_segments.json",
-
-  "furniture_market": "furniture_country_profile.json",
-
-  "country_reference": {
-    "iso": "country_master_iso.json",
-    "regions": "country_regions.json",
-    "alias": "country_alias_mapping.json"
+  "analysis_datasets": {
+    "world_import": "worldimport.json",
+    "world_export": "worldexport.json",
+    "world_product_import": "worldproductimport.json",
+    "world_product_export": "worldproductexport.json",
+    "aim_product": "aimurun.json",
+    "aim_country": "aimurunulke.json"
   },
 
-  "metadata": {
-    "dataset_version": "3.0",
-    "maintainer": "AIMSAD Intelligence",
-    "sector_scope": "HS8465 woodworking machinery",
-    "description": "Unified dataset routing index for AIMSAD Intelligence"
+  "mapping_datasets": {
+    "technology": "technology.json",
+    "product_segments": "product_segments.json"
+  },
+
+  "reference_datasets": {
+    "country_master": "country_master_iso.json",
+    "country_regions": "country_regions.json",
+    "country_aliases": "country_alias_mapping.json"
   }
 }
