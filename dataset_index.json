@@ -22,6 +22,16 @@
     "product_structure": [
       "product_segments.json",
       "technology.json"
+    ],
+
+    "furniture": [
+      "furniture_country_profile.json"
+    ],
+
+    "country_structure": [
+      "country_master_iso.json",
+      "country_regions.json",
+      "country_alias_mapping.json"
     ]
   },
 
@@ -75,12 +85,6 @@
     "default": "terminology_en.json"
   },
 
-  "country_dataset": [
-    "country_master_iso.json",
-    "country_regions.json",
-    "country_alias_mapping.json"
-  ],
-
   "editorial_sources": {
 
     "aimsad_faaliyetleri": [
@@ -114,12 +118,27 @@
     ]
   },
 
+  "institutional_groups": {
+    "allowed_institutional_queries": [
+      "aimsad activities",
+      "aimsad publications",
+      "aimsad member general information"
+    ],
+    "member_protection_rules": [
+      "no member ranking",
+      "no largest member identification",
+      "no commercial performance comparison",
+      "no export volume comparison between members"
+    ]
+  },
+
   "analysis_groups": {
 
     "target_market_analysis": [
       "worldimport.json",
       "worldexport.json",
       "worldproductimport.json",
+      "worldproductexport.json",
       "aimurunulke.json",
       "furniture_country_profile.json"
     ],
@@ -166,13 +185,28 @@
     "machinery_demand_proxy"
   ],
 
+  "query_intent_groups": [
+    "trade_query",
+    "opportunity_query",
+    "segment_query",
+    "institutional_query",
+    "terminology_query"
+  ],
+
+  "dataset_years": {
+    "world_aim": 2024,
+    "turkiye_aim": 2025,
+    "furniture": 2025
+  },
+
   "metadata": {
-    "dataset_version": "1.5",
+    "dataset_version": "1.6",
     "maintainer": "AIMSAD Intelligence",
     "primary_endpoint": "https://raw.githubusercontent.com/aronka84/aimsad-data/main",
     "system_files": [
       "dataset_index.json"
     ],
+    "cross_year_calculation_allowed": false,
     "last_updated": "2026"
   }
 }
