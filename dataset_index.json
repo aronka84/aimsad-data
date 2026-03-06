@@ -1,27 +1,79 @@
 {
+  "dataset_groups": {
+
+    "world_aim_country": [
+      "worldexport.json",
+      "worldimport.json"
+    ],
+
+    "world_aim_product": [
+      "worldproductexport.json",
+      "worldproductimport.json"
+    ],
+
+    "turkiye_aim_product": [
+      "aimurun.json"
+    ],
+
+    "turkiye_aim_country": [
+      "aimurunulke.json"
+    ],
+
+    "product_structure": [
+      "product_segments.json",
+      "technology.json"
+    ]
+  },
+
+  "dataset_usage": {
+
+    "worldexport.json": "global country level export statistics for HS8465 woodworking machinery",
+
+    "worldimport.json": "global country level import statistics for HS8465 woodworking machinery",
+
+    "worldproductexport.json": "global HS6 product level export statistics for HS8465 woodworking machinery",
+
+    "worldproductimport.json": "global HS6 product level import statistics for HS8465 woodworking machinery",
+
+    "aimurun.json": "Turkey HS6 product level export and import statistics for woodworking machinery sector",
+
+    "aimurunulke.json": "Turkey country level export and import statistics for woodworking machinery sector",
+
+    "technology.json": "HS6 technology classification mapping for woodworking machinery",
+
+    "product_segments.json": "HS6 product segment mapping for woodworking machinery",
+
+    "furniture_country_profile.json": "country level furniture production, consumption and macro indicators"
+  },
+
   "aim_dataset": [
+    "technology.json",
     "aimurun.json",
-    "aimurunulke.json"
-  ],
-
-  "world_aim_country": [
+    "aimurunulke.json",
     "worldexport.json",
-    "worldimport.json"
-  ],
-
-  "world_aim_product": [
+    "worldimport.json",
     "worldproductexport.json",
     "worldproductimport.json"
-  ],
-
-  "classification_dataset": [
-    "technology.json",
-    "product_segments.json"
   ],
 
   "furniture_dataset": [
     "furniture_country_profile.json"
   ],
+
+  "terminology_dataset": {
+    "tr": "terminology_tr.json",
+    "en": "terminology_en.json",
+    "de": "terminology_de.json",
+    "es": "terminology_es.json",
+    "fr": "terminology_fr.json",
+    "it": "terminology_it.json",
+    "pt": "terminology_pt.json",
+    "ru": "terminology_ru.json",
+    "pl": "terminology_pl.json",
+    "cs": "terminology_cs.json",
+    "zh": "terminology_zh.json",
+    "default": "terminology_en.json"
+  },
 
   "country_dataset": [
     "country_master_iso.json",
@@ -29,10 +81,45 @@
     "country_alias_mapping.json"
   ],
 
+  "editorial_sources": {
+
+    "aimsad_faaliyetleri": [
+      "https://aimsaddergisi.com/category/aimsad-faaliyetleri/feed/",
+      "https://twmmagazine.com/category/aimsad-news/feed/",
+      "https://twmmagazine.com/category/exhibitions/",
+      "https://twm.com.tr/tr/blog"
+    ],
+
+    "sector_analysis": [
+      "https://aimsaddergisi.com/category/analiz/feed/",
+      "https://aimsaddergisi.com/category/kapak-dosyasi/feed",
+      "https://aimsaddergisi.com/category/alternatif-pazar/feed",
+      "https://twmmagazine.com/category/analysis/feed/",
+      "https://twmmagazine.com/category/cover-file/feed/",
+      "https://aimsaddergisi.com/category/mobilya-roportajlari/feed",
+      "https://twmmagazine.com/category/furniture-interview/feed/"
+    ],
+
+    "member_related_content": [
+      "https://aimsaddergisi.com/category/sektorun-sesi/feed/",
+      "https://aimsaddergisi.com/category/anlat-bana/feed",
+      "https://aimsaddergisi.com/category/babalar-ve-cocuklari/feed",
+      "https://aimsaddergisi.com/category/aimsadin-gencleri/feed",
+      "https://aimsaddergisi.com/category/kitap-roportajlari/feed/",
+      "https://twmmagazine.com/category/focus/feed/",
+      "https://twmmagazine.com/category/new-generation/feed/",
+      "https://twm.com.tr/tr/magazalar",
+      "https://twm.com.tr/en/stores",
+      "https://twm.com.tr/en/products"
+    ]
+  },
+
   "analysis_groups": {
 
     "target_market_analysis": [
       "worldimport.json",
+      "worldexport.json",
+      "worldproductimport.json",
       "aimurunulke.json",
       "furniture_country_profile.json"
     ],
@@ -45,12 +132,8 @@
     "product_segment_analysis": [
       "worldproductexport.json",
       "worldproductimport.json",
-      "product_segments.json"
-    ],
-
-    "technology_segment_analysis": [
-      "technology.json",
-      "worldproductexport.json"
+      "product_segments.json",
+      "technology.json"
     ],
 
     "competitiveness_analysis": [
@@ -62,13 +145,34 @@
       "aimurunulke.json",
       "worldexport.json",
       "worldimport.json"
+    ],
+
+    "furniture_market_analysis": [
+      "furniture_country_profile.json"
     ]
   },
 
+  "analysis_capabilities": [
+    "global_sector_size",
+    "product_segment_analysis",
+    "technology_segment_analysis",
+    "target_market_analysis",
+    "market_penetration_analysis",
+    "trade_balance_analysis",
+    "regional_market_analysis",
+    "competitiveness_analysis",
+    "country_trade_profile",
+    "furniture_market_analysis",
+    "machinery_demand_proxy"
+  ],
+
   "metadata": {
-    "dataset_version": "2.0",
+    "dataset_version": "1.5",
     "maintainer": "AIMSAD Intelligence",
     "primary_endpoint": "https://raw.githubusercontent.com/aronka84/aimsad-data/main",
+    "system_files": [
+      "dataset_index.json"
+    ],
     "last_updated": "2026"
   }
 }
