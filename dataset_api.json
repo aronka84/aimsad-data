@@ -1,6 +1,9 @@
 {
+  "primary_analysis_dataset": "worldproductimport.json",
+
   "world_product_import": "worldproductimport.json",
   "world_product_export": "worldproductexport.json",
+
   "world_import": "worldimport.json",
   "world_export": "worldexport.json",
 
@@ -21,7 +24,7 @@
   "metadata": {
     "dataset_version": "3.0",
     "maintainer": "AIMSAD Intelligence",
-    "hs_scope": "8465",
-    "description": "Woodworking machinery sector intelligence datasets"
+    "sector_scope": "HS8465 woodworking machinery",
+    "description": "Unified dataset routing index for AIMSAD Intelligence"
   }
 }
